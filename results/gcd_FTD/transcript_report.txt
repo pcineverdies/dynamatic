@@ -1,0 +1,2048 @@
+# do simulation.do
+# Model Technology ModelSim - Intel FPGA Edition vmap 2020.1 Lib Mapping Utility 2020.02 Feb 28 2020
+# vmap work work 
+# Modifying modelsim.ini
+# Loading project simulation
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 12:37:24 on Jan 09,2025
+# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/mux_dataless.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Loading package MATH_REAL
+# -- Compiling entity mux_dataless
+# -- Compiling architecture arch of mux_dataless
+# ** Error: (vcom-11) Could not find work.tehb_dataless.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/mux_dataless.vhd(51): (vcom-1195) Cannot find expanded name "work.tehb_dataless".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/mux_dataless.vhd(51): Unknown expanded name.
+# ** Note: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/mux_dataless.vhd(62): VHDL Compiler exiting
+# End time: 12:37:25 on Jan 09,2025, Elapsed time: 0:00:01
+# Errors: 3, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 12:37:25 on Jan 09,2025
+# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/selector.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity antitokens
+# -- Compiling architecture arch of antitokens
+# -- Compiling entity selector
+# -- Compiling architecture arch of selector
+# -- Loading entity antitokens
+# End time: 12:37:25 on Jan 09,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Compile of selector.vhd was successful.
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 12:37:25 on Jan 09,2025
+# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/cond_br_dataless.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity cond_br_dataless
+# -- Compiling architecture arch of cond_br_dataless
+# ** Error: (vcom-11) Could not find work.join.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/cond_br_dataless.vhd(27): (vcom-1195) Cannot find expanded name "work.join".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/cond_br_dataless.vhd(27): Unknown expanded name.
+# ** Note: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/cond_br_dataless.vhd(45): VHDL Compiler exiting
+# End time: 12:37:25 on Jan 09,2025, Elapsed time: 0:00:00
+# Errors: 3, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 12:37:25 on Jan 09,2025
+# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/hls_verify_gcd_tb.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Loading package std_logic_textio
+# -- Loading package NUMERIC_STD
+# ** Error: (vcom-11) Could not find work.sim_package.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/hls_verify_gcd_tb.vhd(9): (vcom-1195) Cannot find expanded name "work.sim_package".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/hls_verify_gcd_tb.vhd(9): Unknown expanded name.
+# ** Note: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/hls_verify_gcd_tb.vhd(13): VHDL Compiler exiting
+# End time: 12:37:25 on Jan 09,2025, Elapsed time: 0:00:00
+# Errors: 3, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 12:37:25 on Jan 09,2025
+# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/sink_dataless.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity sink_dataless
+# -- Compiling architecture arch of sink_dataless
+# End time: 12:37:25 on Jan 09,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Compile of sink_dataless.vhd was successful.
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 12:37:25 on Jan 09,2025
+# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/two_port_RAM.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Loading package NUMERIC_STD
+# -- Loading package std_logic_textio
+# ** Error: (vcom-11) Could not find work.sim_package.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/two_port_RAM.vhd(8): (vcom-1195) Cannot find expanded name "work.sim_package".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/two_port_RAM.vhd(8): Unknown expanded name.
+# ** Note: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/two_port_RAM.vhd(11): VHDL Compiler exiting
+# End time: 12:37:25 on Jan 09,2025, Elapsed time: 0:00:00
+# Errors: 3, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 12:37:25 on Jan 09,2025
+# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/trunci.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity trunci
+# -- Compiling architecture arch of trunci
+# End time: 12:37:25 on Jan 09,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Compile of trunci.vhd was successful.
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 12:37:25 on Jan 09,2025
+# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/handshake_cmpi_5.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity handshake_cmpi_5
+# -- Compiling architecture arch of handshake_cmpi_5
+# ** Error: (vcom-11) Could not find work.join.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/handshake_cmpi_5.vhd(28): (vcom-1195) Cannot find expanded name "work.join".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/handshake_cmpi_5.vhd(28): Unknown expanded name.
+# ** Note: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/handshake_cmpi_5.vhd(41): VHDL Compiler exiting
+# End time: 12:37:25 on Jan 09,2025, Elapsed time: 0:00:00
+# Errors: 3, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 12:37:25 on Jan 09,2025
+# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/simpackage.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Loading package NUMERIC_STD
+# -- Loading package std_logic_textio
+# -- Compiling package sim_package
+# -- Compiling package body sim_package
+# -- Loading package sim_package
+# End time: 12:37:25 on Jan 09,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Compile of simpackage.vhd was successful.
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 12:37:25 on Jan 09,2025
+# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity gcd
+# -- Compiling architecture behavioral of gcd
+# ** Error: (vcom-11) Could not find work.fork_dataless.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(801): (vcom-1195) Cannot find expanded name "work.fork_dataless".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(801): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.handshake_fork.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(823): (vcom-1195) Cannot find expanded name "work.handshake_fork".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(823): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.handshake_fork.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(841): (vcom-1195) Cannot find expanded name "work.handshake_fork".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(841): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.handshake_cmpi_0.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(859): (vcom-1195) Cannot find expanded name "work.handshake_cmpi_0".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(859): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.handshake_cmpi_1.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(874): (vcom-1195) Cannot find expanded name "work.handshake_cmpi_1".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(874): Unknown expanded name.
+# -- Loading entity selector
+# ** Error: (vcom-11) Could not find work.handshake_cmpi_1.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(907): (vcom-1195) Cannot find expanded name "work.handshake_cmpi_1".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(907): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.andi.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(922): (vcom-1195) Cannot find expanded name "work.andi".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(922): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.handshake_fork.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(937): (vcom-1195) Cannot find expanded name "work.handshake_fork".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(937): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.cond_br.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(958): (vcom-1195) Cannot find expanded name "work.cond_br".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(958): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.sink.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(976): (vcom-1195) Cannot find expanded name "work.sink".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(976): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.extsi.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(985): (vcom-1195) Cannot find expanded name "work.extsi".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(985): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.handshake_constant_0.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(997): (vcom-1195) Cannot find expanded name "work.handshake_constant_0".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(997): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.handshake_fork.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(1008): (vcom-1195) Cannot find expanded name "work.handshake_fork".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(1008): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.extsi.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(1029): (vcom-1195) Cannot find expanded name "work.extsi".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(1029): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.extsi.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(1041): (vcom-1195) Cannot find expanded name "work.extsi".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(1041): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.handshake_fork.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(1053): (vcom-1195) Cannot find expanded name "work.handshake_fork".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(1053): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.merge.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(1071): (vcom-1195) Cannot find expanded name "work.merge".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(1071): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.tehb.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(1086): (vcom-1195) Cannot find expanded name "work.tehb".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(1086): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.handshake_fork.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(1098): (vcom-1195) Cannot find expanded name "work.handshake_fork".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(1098): Unknown expanded name.
+# -- Loading package MATH_REAL
+# -- Loading entity mux_dataless
+# ** Error: (vcom-11) Could not find work.oehb_dataless.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(1134): (vcom-1195) Cannot find expanded name "work.oehb_dataless".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(1134): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.tehb_dataless.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(1144): (vcom-1195) Cannot find expanded name "work.tehb_dataless".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(1144): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.fork_dataless.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(1154): (vcom-1195) Cannot find expanded name "work.fork_dataless".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(1154): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.mux.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(1168): (vcom-1195) Cannot find expanded name "work.mux".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(1168): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.oehb.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(1186): (vcom-1195) Cannot find expanded name "work.oehb".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(1186): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.tehb.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(1198): (vcom-1195) Cannot find expanded name "work.tehb".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(1198): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.handshake_fork.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(1210): (vcom-1195) Cannot find expanded name "work.handshake_fork".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(1210): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.mux.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(1225): (vcom-1195) Cannot find expanded name "work.mux".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(1225): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.oehb.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(1243): (vcom-1195) Cannot find expanded name "work.oehb".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(1243): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.tehb.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(1255): (vcom-1195) Cannot find expanded name "work.tehb".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(1255): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.handshake_fork.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(1267): (vcom-1195) Cannot find expanded name "work.handshake_fork".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(1267): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.mux.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(1282): (vcom-1195) Cannot find expanded name "work.mux".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(1282): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.handshake_constant_1.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(1300): (vcom-1195) Cannot find expanded name "work.handshake_constant_1".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(1300): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.handshake_constant_0.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(1311): (vcom-1195) Cannot find expanded name "work.handshake_constant_0".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(1311): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.extsi.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(1322): (vcom-1195) Cannot find expanded name "work.extsi".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(1322): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.ori.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(1334): (vcom-1195) Cannot find expanded name "work.ori".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(1334): Unknown expanded name.
+# -- Loading entity trunci
+# ** Error: (vcom-11) Could not find work.andi.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(1361): (vcom-1195) Cannot find expanded name "work.andi".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(1361): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.handshake_cmpi_2.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(1376): (vcom-1195) Cannot find expanded name "work.handshake_cmpi_2".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(1376): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.handshake_fork.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(1391): (vcom-1195) Cannot find expanded name "work.handshake_fork".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(1391): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.oehb.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(1415): (vcom-1195) Cannot find expanded name "work.oehb".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(1415): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.tehb.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(1427): (vcom-1195) Cannot find expanded name "work.tehb".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(1427): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.cond_br.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(1439): (vcom-1195) Cannot find expanded name "work.cond_br".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(1439): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.cond_br.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(1457): (vcom-1195) Cannot find expanded name "work.cond_br".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(1457): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.cond_br.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(1475): (vcom-1195) Cannot find expanded name "work.cond_br".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(1475): Unknown expanded name.
+# -- Loading entity cond_br_dataless
+# -- Loading entity sink_dataless
+# ** Error: (vcom-11) Could not find work.fork_dataless.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(1516): (vcom-1195) Cannot find expanded name "work.fork_dataless".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(1516): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.handshake_constant_1.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(1528): (vcom-1195) Cannot find expanded name "work.handshake_constant_1".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(1528): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.extsi.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(1539): (vcom-1195) Cannot find expanded name "work.extsi".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(1539): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.handshake_fork.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(1551): (vcom-1195) Cannot find expanded name "work.handshake_fork".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(1551): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.shrsi.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(1569): (vcom-1195) Cannot find expanded name "work.shrsi".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(1569): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.shrsi.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(1584): (vcom-1195) Cannot find expanded name "work.shrsi".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(1584): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.addi.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(1599): (vcom-1195) Cannot find expanded name "work.addi".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(1599): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.handshake_constant_0.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(1614): (vcom-1195) Cannot find expanded name "work.handshake_constant_0".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(1614): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.merge.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(1625): (vcom-1195) Cannot find expanded name "work.merge".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(1625): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.tehb.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(1640): (vcom-1195) Cannot find expanded name "work.tehb".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(1640): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.handshake_fork.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(1652): (vcom-1195) Cannot find expanded name "work.handshake_fork".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(1652): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.oehb_dataless.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(1682): (vcom-1195) Cannot find expanded name "work.oehb_dataless".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(1682): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.tehb_dataless.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(1692): (vcom-1195) Cannot find expanded name "work.tehb_dataless".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(1692): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.fork_dataless.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(1702): (vcom-1195) Cannot find expanded name "work.fork_dataless".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(1702): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.mux.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(1716): (vcom-1195) Cannot find expanded name "work.mux".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(1716): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.oehb.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(1734): (vcom-1195) Cannot find expanded name "work.oehb".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(1734): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.tehb.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(1746): (vcom-1195) Cannot find expanded name "work.tehb".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(1746): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.handshake_fork.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(1758): (vcom-1195) Cannot find expanded name "work.handshake_fork".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(1758): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.handshake_constant_1.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(1788): (vcom-1195) Cannot find expanded name "work.handshake_constant_1".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(1788): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.handshake_constant_0.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(1799): (vcom-1195) Cannot find expanded name "work.handshake_constant_0".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(1799): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.handshake_fork.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(1810): (vcom-1195) Cannot find expanded name "work.handshake_fork".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(1810): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.extsi.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(1825): (vcom-1195) Cannot find expanded name "work.extsi".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(1825): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.extsi.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(1837): (vcom-1195) Cannot find expanded name "work.extsi".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(1837): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.handshake_cmpi_3.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(1849): (vcom-1195) Cannot find expanded name "work.handshake_cmpi_3".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(1849): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.andi.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(1864): (vcom-1195) Cannot find expanded name "work.andi".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(1864): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.handshake_cmpi_2.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(1879): (vcom-1195) Cannot find expanded name "work.handshake_cmpi_2".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(1879): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.andi.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(1894): (vcom-1195) Cannot find expanded name "work.andi".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(1894): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.handshake_fork.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(1909): (vcom-1195) Cannot find expanded name "work.handshake_fork".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(1909): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.cond_br.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(1927): (vcom-1195) Cannot find expanded name "work.cond_br".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(1927): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.fork_dataless.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(1968): (vcom-1195) Cannot find expanded name "work.fork_dataless".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(1968): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.handshake_constant_1.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(1980): (vcom-1195) Cannot find expanded name "work.handshake_constant_1".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(1980): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.extsi.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(1991): (vcom-1195) Cannot find expanded name "work.extsi".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(1991): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.shrsi.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(2003): (vcom-1195) Cannot find expanded name "work.shrsi".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(2003): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.handshake_constant_0.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(2018): (vcom-1195) Cannot find expanded name "work.handshake_constant_0".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(2018): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.merge.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(2029): (vcom-1195) Cannot find expanded name "work.merge".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(2029): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.tehb.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(2044): (vcom-1195) Cannot find expanded name "work.tehb".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(2044): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.handshake_fork.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(2056): (vcom-1195) Cannot find expanded name "work.handshake_fork".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(2056): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.oehb_dataless.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(2086): (vcom-1195) Cannot find expanded name "work.oehb_dataless".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(2086): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.tehb_dataless.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(2096): (vcom-1195) Cannot find expanded name "work.tehb_dataless".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(2096): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.fork_dataless.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(2106): (vcom-1195) Cannot find expanded name "work.fork_dataless".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(2106): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.mux.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(2120): (vcom-1195) Cannot find expanded name "work.mux".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(2120): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.oehb.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(2138): (vcom-1195) Cannot find expanded name "work.oehb".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(2138): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.tehb.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(2150): (vcom-1195) Cannot find expanded name "work.tehb".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(2150): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.handshake_fork.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(2162): (vcom-1195) Cannot find expanded name "work.handshake_fork".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(2162): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.handshake_constant_1.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(2192): (vcom-1195) Cannot find expanded name "work.handshake_constant_1".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(2192): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.handshake_constant_0.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(2203): (vcom-1195) Cannot find expanded name "work.handshake_constant_0".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(2203): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.handshake_fork.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(2214): (vcom-1195) Cannot find expanded name "work.handshake_fork".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(2214): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.extsi.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(2229): (vcom-1195) Cannot find expanded name "work.extsi".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(2229): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.extsi.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(2241): (vcom-1195) Cannot find expanded name "work.extsi".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(2241): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.handshake_cmpi_3.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(2253): (vcom-1195) Cannot find expanded name "work.handshake_cmpi_3".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(2253): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.andi.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(2268): (vcom-1195) Cannot find expanded name "work.andi".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(2268): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.handshake_cmpi_2.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(2283): (vcom-1195) Cannot find expanded name "work.handshake_cmpi_2".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(2283): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.andi.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(2298): (vcom-1195) Cannot find expanded name "work.andi".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(2298): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.handshake_fork.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(2313): (vcom-1195) Cannot find expanded name "work.handshake_fork".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(2313): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.cond_br.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(2331): (vcom-1195) Cannot find expanded name "work.cond_br".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(2331): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.fork_dataless.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(2372): (vcom-1195) Cannot find expanded name "work.fork_dataless".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(2372): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.handshake_constant_1.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(2384): (vcom-1195) Cannot find expanded name "work.handshake_constant_1".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(2384): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.extsi.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(2395): (vcom-1195) Cannot find expanded name "work.extsi".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(2395): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.shrsi.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(2407): (vcom-1195) Cannot find expanded name "work.shrsi".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(2407): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.fork_dataless.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(2445): (vcom-1195) Cannot find expanded name "work.fork_dataless".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(2445): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.handshake_constant_0.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(2461): (vcom-1195) Cannot find expanded name "work.handshake_constant_0".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(2461): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.merge.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(2472): (vcom-1195) Cannot find expanded name "work.merge".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(2472): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.tehb.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(2487): (vcom-1195) Cannot find expanded name "work.tehb".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(2487): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.handshake_fork.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(2499): (vcom-1195) Cannot find expanded name "work.handshake_fork".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(2499): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.oehb_dataless.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(2532): (vcom-1195) Cannot find expanded name "work.oehb_dataless".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(2532): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.tehb_dataless.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(2542): (vcom-1195) Cannot find expanded name "work.tehb_dataless".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(2542): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.fork_dataless.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(2552): (vcom-1195) Cannot find expanded name "work.fork_dataless".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(2552): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.mux.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(2564): (vcom-1195) Cannot find expanded name "work.mux".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(2564): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.oehb.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(2582): (vcom-1195) Cannot find expanded name "work.oehb".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(2582): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.tehb.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(2594): (vcom-1195) Cannot find expanded name "work.tehb".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(2594): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.handshake_fork.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(2606): (vcom-1195) Cannot find expanded name "work.handshake_fork".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(2606): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.mux.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(2621): (vcom-1195) Cannot find expanded name "work.mux".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(2621): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.handshake_constant_0.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(2639): (vcom-1195) Cannot find expanded name "work.handshake_constant_0".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(2639): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.extsi.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(2650): (vcom-1195) Cannot find expanded name "work.extsi".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(2650): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.handshake_cmpi_1.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(2662): (vcom-1195) Cannot find expanded name "work.handshake_cmpi_1".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(2662): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.handshake_fork.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(2677): (vcom-1195) Cannot find expanded name "work.handshake_fork".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(2677): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.cond_br.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(2698): (vcom-1195) Cannot find expanded name "work.cond_br".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(2698): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.sink.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(2716): (vcom-1195) Cannot find expanded name "work.sink".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(2716): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.handshake_fork.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(2725): (vcom-1195) Cannot find expanded name "work.handshake_fork".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(2725): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.oehb.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(2743): (vcom-1195) Cannot find expanded name "work.oehb".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(2743): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.tehb.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(2755): (vcom-1195) Cannot find expanded name "work.tehb".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(2755): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.cond_br.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(2767): (vcom-1195) Cannot find expanded name "work.cond_br".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(2767): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.handshake_fork.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(2785): (vcom-1195) Cannot find expanded name "work.handshake_fork".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(2785): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.handshake_constant_0.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(2803): (vcom-1195) Cannot find expanded name "work.handshake_constant_0".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(2803): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.extsi.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(2814): (vcom-1195) Cannot find expanded name "work.extsi".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(2814): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.handshake_fork.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(2826): (vcom-1195) Cannot find expanded name "work.handshake_fork".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(2826): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.subi.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(2841): (vcom-1195) Cannot find expanded name "work.subi".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(2841): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.handshake_fork.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(2856): (vcom-1195) Cannot find expanded name "work.handshake_fork".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(2856): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.handshake_cmpi_4.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(2874): (vcom-1195) Cannot find expanded name "work.handshake_cmpi_4".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(2874): Unknown expanded name.
+# -- Loading entity handshake_cmpi_5
+# ** Error: (vcom-11) Could not find work.subi.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(2922): (vcom-1195) Cannot find expanded name "work.subi".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(2922): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.fork_dataless.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(2978): (vcom-1195) Cannot find expanded name "work.fork_dataless".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(2978): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.handshake_constant_0.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(2992): (vcom-1195) Cannot find expanded name "work.handshake_constant_0".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(2992): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.merge.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(3003): (vcom-1195) Cannot find expanded name "work.merge".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(3003): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.tehb.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(3018): (vcom-1195) Cannot find expanded name "work.tehb".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(3018): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.handshake_fork.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(3030): (vcom-1195) Cannot find expanded name "work.handshake_fork".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(3030): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.oehb_dataless.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(3060): (vcom-1195) Cannot find expanded name "work.oehb_dataless".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(3060): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.tehb_dataless.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(3070): (vcom-1195) Cannot find expanded name "work.tehb_dataless".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(3070): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.fork_dataless.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(3080): (vcom-1195) Cannot find expanded name "work.fork_dataless".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(3080): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.mux.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(3094): (vcom-1195) Cannot find expanded name "work.mux".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(3094): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.oehb.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(3112): (vcom-1195) Cannot find expanded name "work.oehb".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(3112): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.tehb.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(3124): (vcom-1195) Cannot find expanded name "work.tehb".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(3124): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.handshake_fork.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(3136): (vcom-1195) Cannot find expanded name "work.handshake_fork".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(3136): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.handshake_constant_1.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(3166): (vcom-1195) Cannot find expanded name "work.handshake_constant_1".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(3166): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.handshake_constant_0.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(3177): (vcom-1195) Cannot find expanded name "work.handshake_constant_0".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(3177): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.handshake_fork.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(3188): (vcom-1195) Cannot find expanded name "work.handshake_fork".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(3188): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.extsi.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(3203): (vcom-1195) Cannot find expanded name "work.extsi".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(3203): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.extsi.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(3215): (vcom-1195) Cannot find expanded name "work.extsi".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(3215): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.handshake_cmpi_3.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(3227): (vcom-1195) Cannot find expanded name "work.handshake_cmpi_3".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(3227): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.andi.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(3242): (vcom-1195) Cannot find expanded name "work.andi".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(3242): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.handshake_cmpi_2.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(3257): (vcom-1195) Cannot find expanded name "work.handshake_cmpi_2".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(3257): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.andi.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(3272): (vcom-1195) Cannot find expanded name "work.andi".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(3272): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.handshake_fork.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(3287): (vcom-1195) Cannot find expanded name "work.handshake_fork".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(3287): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.cond_br.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(3305): (vcom-1195) Cannot find expanded name "work.cond_br".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(3305): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.fork_dataless.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(3346): (vcom-1195) Cannot find expanded name "work.fork_dataless".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(3346): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.handshake_constant_1.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(3358): (vcom-1195) Cannot find expanded name "work.handshake_constant_1".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(3358): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.extsi.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(3369): (vcom-1195) Cannot find expanded name "work.extsi".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(3369): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.shrsi.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(3381): (vcom-1195) Cannot find expanded name "work.shrsi".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(3381): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.shli.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(3396): (vcom-1195) Cannot find expanded name "work.shli".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(3396): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.cond_br.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(3411): (vcom-1195) Cannot find expanded name "work.cond_br".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(3411): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.sink.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(3429): (vcom-1195) Cannot find expanded name "work.sink".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(3429): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.mux.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(3438): (vcom-1195) Cannot find expanded name "work.mux".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(3438): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.oehb.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(3456): (vcom-1195) Cannot find expanded name "work.oehb".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(3456): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.tehb.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(3468): (vcom-1195) Cannot find expanded name "work.tehb".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(3468): Unknown expanded name.
+# ** Note: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd(3480): VHDL Compiler exiting
+# End time: 12:37:25 on Jan 09,2025, Elapsed time: 0:00:00
+# Errors: 498, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 12:37:25 on Jan 09,2025
+# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/tb_join.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity tb_join
+# -- Compiling architecture arch of tb_join
+# End time: 12:37:25 on Jan 09,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Compile of tb_join.vhd was successful.
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 12:37:25 on Jan 09,2025
+# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/handshake_cmpi_2.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity handshake_cmpi_2
+# -- Compiling architecture arch of handshake_cmpi_2
+# ** Error: (vcom-11) Could not find work.join.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/handshake_cmpi_2.vhd(28): (vcom-1195) Cannot find expanded name "work.join".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/handshake_cmpi_2.vhd(28): Unknown expanded name.
+# ** Note: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/handshake_cmpi_2.vhd(41): VHDL Compiler exiting
+# End time: 12:37:25 on Jan 09,2025, Elapsed time: 0:00:00
+# Errors: 3, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 12:37:25 on Jan 09,2025
+# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/eager_fork_register_block.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity eager_fork_register_block
+# -- Compiling architecture arch of eager_fork_register_block
+# End time: 12:37:25 on Jan 09,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Compile of eager_fork_register_block.vhd was successful.
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 12:37:25 on Jan 09,2025
+# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/addi.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity addi
+# -- Compiling architecture arch of addi
+# ** Error: (vcom-11) Could not find work.join.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/addi.vhd(28): (vcom-1195) Cannot find expanded name "work.join".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/addi.vhd(28): Unknown expanded name.
+# ** Note: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/addi.vhd(41): VHDL Compiler exiting
+# End time: 12:37:25 on Jan 09,2025, Elapsed time: 0:00:00
+# Errors: 3, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 12:37:25 on Jan 09,2025
+# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/ori.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity ori
+# -- Compiling architecture arch of ori
+# ** Error: (vcom-11) Could not find work.join.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/ori.vhd(28): (vcom-1195) Cannot find expanded name "work.join".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/ori.vhd(28): Unknown expanded name.
+# ** Note: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/ori.vhd(41): VHDL Compiler exiting
+# End time: 12:37:25 on Jan 09,2025, Elapsed time: 0:00:00
+# Errors: 3, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 12:37:25 on Jan 09,2025
+# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/oehb.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity oehb
+# -- Compiling architecture arch of oehb
+# ** Error: (vcom-11) Could not find work.oehb_dataless.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/oehb.vhd(26): (vcom-1195) Cannot find expanded name "work.oehb_dataless".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/oehb.vhd(26): Unknown expanded name.
+# ** Note: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/oehb.vhd(49): VHDL Compiler exiting
+# End time: 12:37:25 on Jan 09,2025, Elapsed time: 0:00:00
+# Errors: 3, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 12:37:25 on Jan 09,2025
+# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/handshake_constant_1.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity handshake_constant_1
+# -- Compiling architecture arch of handshake_constant_1
+# End time: 12:37:25 on Jan 09,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Compile of handshake_constant_1.vhd was successful.
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 12:37:25 on Jan 09,2025
+# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/oehb_dataless.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity oehb_dataless
+# -- Compiling architecture arch of oehb_dataless
+# End time: 12:37:25 on Jan 09,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Compile of oehb_dataless.vhd was successful.
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 12:37:25 on Jan 09,2025
+# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/handshake_cmpi_1.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity handshake_cmpi_1
+# -- Compiling architecture arch of handshake_cmpi_1
+# ** Error: (vcom-11) Could not find work.join.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/handshake_cmpi_1.vhd(28): (vcom-1195) Cannot find expanded name "work.join".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/handshake_cmpi_1.vhd(28): Unknown expanded name.
+# ** Note: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/handshake_cmpi_1.vhd(41): VHDL Compiler exiting
+# End time: 12:37:25 on Jan 09,2025, Elapsed time: 0:00:00
+# Errors: 3, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 12:37:25 on Jan 09,2025
+# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/shrsi.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity shrsi
+# -- Compiling architecture arch of shrsi
+# ** Error: (vcom-11) Could not find work.join.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/shrsi.vhd(28): (vcom-1195) Cannot find expanded name "work.join".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/shrsi.vhd(28): Unknown expanded name.
+# ** Note: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/shrsi.vhd(41): VHDL Compiler exiting
+# End time: 12:37:25 on Jan 09,2025, Elapsed time: 0:00:00
+# Errors: 3, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 12:37:25 on Jan 09,2025
+# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/cond_br.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity cond_br
+# -- Compiling architecture arch of cond_br
+# -- Loading entity cond_br_dataless
+# End time: 12:37:25 on Jan 09,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Compile of cond_br.vhd was successful.
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 12:37:25 on Jan 09,2025
+# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/andi.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity andi
+# -- Compiling architecture arch of andi
+# ** Error: (vcom-11) Could not find work.join.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/andi.vhd(28): (vcom-1195) Cannot find expanded name "work.join".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/andi.vhd(28): Unknown expanded name.
+# ** Note: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/andi.vhd(41): VHDL Compiler exiting
+# End time: 12:37:25 on Jan 09,2025, Elapsed time: 0:00:00
+# Errors: 3, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 12:37:25 on Jan 09,2025
+# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/extsi.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity extsi
+# -- Compiling architecture arch of extsi
+# End time: 12:37:25 on Jan 09,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Compile of extsi.vhd was successful.
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 12:37:25 on Jan 09,2025
+# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/handshake_cmpi_0.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity handshake_cmpi_0
+# -- Compiling architecture arch of handshake_cmpi_0
+# ** Error: (vcom-11) Could not find work.join.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/handshake_cmpi_0.vhd(28): (vcom-1195) Cannot find expanded name "work.join".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/handshake_cmpi_0.vhd(28): Unknown expanded name.
+# ** Note: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/handshake_cmpi_0.vhd(41): VHDL Compiler exiting
+# End time: 12:37:25 on Jan 09,2025, Elapsed time: 0:00:00
+# Errors: 3, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 12:37:25 on Jan 09,2025
+# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/handshake_cmpi_3.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity handshake_cmpi_3
+# -- Compiling architecture arch of handshake_cmpi_3
+# ** Error: (vcom-11) Could not find work.join.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/handshake_cmpi_3.vhd(28): (vcom-1195) Cannot find expanded name "work.join".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/handshake_cmpi_3.vhd(28): Unknown expanded name.
+# ** Note: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/handshake_cmpi_3.vhd(41): VHDL Compiler exiting
+# End time: 12:37:25 on Jan 09,2025, Elapsed time: 0:00:00
+# Errors: 3, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 12:37:25 on Jan 09,2025
+# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/tehb.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity tehb
+# -- Compiling architecture arch of tehb
+# ** Error: (vcom-11) Could not find work.tehb_dataless.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/tehb.vhd(28): (vcom-1195) Cannot find expanded name "work.tehb_dataless".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/tehb.vhd(28): Unknown expanded name.
+# ** Note: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/tehb.vhd(60): VHDL Compiler exiting
+# End time: 12:37:25 on Jan 09,2025, Elapsed time: 0:00:00
+# Errors: 3, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 12:37:25 on Jan 09,2025
+# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/logic.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity and_n
+# -- Compiling architecture arch of and_n
+# -- Compiling entity nand_n
+# -- Compiling architecture arch of nand_n
+# -- Compiling entity or_n
+# -- Compiling architecture arch of or_n
+# -- Compiling entity nor_n
+# -- Compiling architecture arch of nor_n
+# End time: 12:37:25 on Jan 09,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Compile of logic.vhd was successful.
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 12:37:25 on Jan 09,2025
+# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/shli.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity shli
+# -- Compiling architecture arch of shli
+# ** Error: (vcom-11) Could not find work.join.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/shli.vhd(28): (vcom-1195) Cannot find expanded name "work.join".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/shli.vhd(28): Unknown expanded name.
+# ** Note: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/shli.vhd(41): VHDL Compiler exiting
+# End time: 12:37:25 on Jan 09,2025, Elapsed time: 0:00:00
+# Errors: 3, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 12:37:25 on Jan 09,2025
+# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/fork_dataless.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity fork_dataless
+# -- Compiling architecture arch of fork_dataless
+# -- Loading entity or_n
+# -- Loading entity eager_fork_register_block
+# End time: 12:37:25 on Jan 09,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Compile of fork_dataless.vhd was successful.
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 12:37:25 on Jan 09,2025
+# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/types.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling package types
+# End time: 12:37:25 on Jan 09,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Compile of types.vhd was successful.
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 12:37:25 on Jan 09,2025
+# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/handshake_cmpi_4.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity handshake_cmpi_4
+# -- Compiling architecture arch of handshake_cmpi_4
+# ** Error: (vcom-11) Could not find work.join.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/handshake_cmpi_4.vhd(28): (vcom-1195) Cannot find expanded name "work.join".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/handshake_cmpi_4.vhd(28): Unknown expanded name.
+# ** Note: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/handshake_cmpi_4.vhd(41): VHDL Compiler exiting
+# End time: 12:37:25 on Jan 09,2025, Elapsed time: 0:00:00
+# Errors: 3, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 12:37:25 on Jan 09,2025
+# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/sink.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity sink
+# -- Compiling architecture arch of sink
+# End time: 12:37:25 on Jan 09,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Compile of sink.vhd was successful.
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 12:37:25 on Jan 09,2025
+# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/mux.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Loading package MATH_REAL
+# -- Loading package types
+# -- Compiling entity mux
+# -- Compiling architecture arch of mux
+# -- Loading entity tehb
+# End time: 12:37:25 on Jan 09,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Compile of mux.vhd was successful.
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 12:37:25 on Jan 09,2025
+# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd_wrapper.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity gcd_wrapper
+# -- Compiling architecture behavioral of gcd_wrapper
+# -- Loading entity gcd
+# End time: 12:37:25 on Jan 09,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Compile of gcd_wrapper.vhd was successful.
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 12:37:25 on Jan 09,2025
+# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/subi.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity subi
+# -- Compiling architecture arch of subi
+# ** Error: (vcom-11) Could not find work.join.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/subi.vhd(28): (vcom-1195) Cannot find expanded name "work.join".
+# ** Error: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/subi.vhd(28): Unknown expanded name.
+# ** Note: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/subi.vhd(41): VHDL Compiler exiting
+# End time: 12:37:25 on Jan 09,2025, Elapsed time: 0:00:00
+# Errors: 3, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 12:37:25 on Jan 09,2025
+# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/merge.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Loading package types
+# -- Compiling entity merge
+# -- Compiling architecture arch of merge
+# -- Loading entity tehb
+# End time: 12:37:25 on Jan 09,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Compile of merge.vhd was successful.
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 12:37:25 on Jan 09,2025
+# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/handshake_fork.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package types
+# -- Compiling entity handshake_fork
+# -- Compiling architecture arch of handshake_fork
+# -- Loading package NUMERIC_STD
+# -- Loading entity fork_dataless
+# End time: 12:37:25 on Jan 09,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Compile of handshake_fork.vhd was successful.
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 12:37:25 on Jan 09,2025
+# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/handshake_constant_0.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity handshake_constant_0
+# -- Compiling architecture arch of handshake_constant_0
+# End time: 12:37:25 on Jan 09,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Compile of handshake_constant_0.vhd was successful.
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 12:37:25 on Jan 09,2025
+# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/single_argument.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Loading package NUMERIC_STD
+# -- Loading package std_logic_textio
+# -- Loading package sim_package
+# -- Compiling entity single_argument
+# -- Compiling architecture behav of single_argument
+# ** Warning: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/single_argument.vhd(40): (vcom-1236) Shared variables must be of a protected type.
+# End time: 12:37:25 on Jan 09,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 1
+# Compile of single_argument.vhd was successful.
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 12:37:25 on Jan 09,2025
+# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/join.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity join
+# -- Compiling architecture arch of join
+# -- Loading entity and_n
+# End time: 12:37:25 on Jan 09,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Compile of join.vhd was successful.
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 12:37:25 on Jan 09,2025
+# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/tehb_dataless.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity tehb_dataless
+# -- Compiling architecture arch of tehb_dataless
+# End time: 12:37:25 on Jan 09,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Compile of tehb_dataless.vhd was successful.
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 12:37:25 on Jan 09,2025
+# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/mux_dataless.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Loading package MATH_REAL
+# -- Compiling entity mux_dataless
+# -- Compiling architecture arch of mux_dataless
+# -- Loading entity tehb_dataless
+# End time: 12:37:25 on Jan 09,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Compile of mux_dataless.vhd was successful.
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 12:37:26 on Jan 09,2025
+# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/cond_br_dataless.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity cond_br_dataless
+# -- Compiling architecture arch of cond_br_dataless
+# -- Loading entity join
+# End time: 12:37:26 on Jan 09,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Compile of cond_br_dataless.vhd was successful.
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 12:37:26 on Jan 09,2025
+# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/hls_verify_gcd_tb.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Loading package std_logic_textio
+# -- Loading package NUMERIC_STD
+# -- Loading package sim_package
+# -- Compiling entity gcd_wrapper_tb
+# -- Compiling architecture behav of gcd_wrapper_tb
+# ** Warning: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/hls_verify_gcd_tb.vhd(66): (vcom-1236) Shared variables must be of a protected type.
+# -- Loading entity gcd_wrapper
+# -- Loading entity single_argument
+# -- Loading entity tb_join
+# End time: 12:37:26 on Jan 09,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 1
+# Compile of hls_verify_gcd_tb.vhd was successful.
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 12:37:26 on Jan 09,2025
+# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/two_port_RAM.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Loading package NUMERIC_STD
+# -- Loading package std_logic_textio
+# -- Loading package sim_package
+# -- Compiling entity two_port_RAM
+# -- Compiling architecture behav of two_port_RAM
+# ** Warning: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/two_port_RAM.vhd(47): (vcom-1236) Shared variables must be of a protected type.
+# End time: 12:37:26 on Jan 09,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 1
+# Compile of two_port_RAM.vhd was successful.
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 12:37:26 on Jan 09,2025
+# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/handshake_cmpi_5.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity handshake_cmpi_5
+# -- Compiling architecture arch of handshake_cmpi_5
+# -- Loading entity join
+# End time: 12:37:26 on Jan 09,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Compile of handshake_cmpi_5.vhd was successful.
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 12:37:26 on Jan 09,2025
+# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity gcd
+# -- Compiling architecture behavioral of gcd
+# -- Loading entity fork_dataless
+# -- Loading package types
+# -- Loading entity handshake_fork
+# -- Loading entity handshake_cmpi_0
+# -- Loading entity handshake_cmpi_1
+# -- Loading entity selector
+# -- Loading entity andi
+# -- Loading entity cond_br
+# -- Loading entity sink
+# -- Loading entity extsi
+# -- Loading entity handshake_constant_0
+# -- Loading entity merge
+# -- Loading entity tehb
+# -- Loading package MATH_REAL
+# -- Loading entity mux_dataless
+# -- Loading entity oehb_dataless
+# -- Loading entity tehb_dataless
+# -- Loading entity mux
+# -- Loading entity oehb
+# -- Loading entity handshake_constant_1
+# -- Loading entity ori
+# -- Loading entity trunci
+# -- Loading entity handshake_cmpi_2
+# -- Loading entity cond_br_dataless
+# -- Loading entity sink_dataless
+# -- Loading entity shrsi
+# -- Loading entity addi
+# -- Loading entity handshake_cmpi_3
+# -- Loading entity subi
+# -- Loading entity handshake_cmpi_4
+# -- Loading entity handshake_cmpi_5
+# -- Loading entity shli
+# End time: 12:37:26 on Jan 09,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Compile of gcd.vhd was successful.
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 12:37:26 on Jan 09,2025
+# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/handshake_cmpi_2.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity handshake_cmpi_2
+# -- Compiling architecture arch of handshake_cmpi_2
+# -- Loading entity join
+# End time: 12:37:26 on Jan 09,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Compile of handshake_cmpi_2.vhd was successful.
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 12:37:26 on Jan 09,2025
+# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/addi.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity addi
+# -- Compiling architecture arch of addi
+# -- Loading entity join
+# End time: 12:37:26 on Jan 09,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Compile of addi.vhd was successful.
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 12:37:26 on Jan 09,2025
+# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/ori.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity ori
+# -- Compiling architecture arch of ori
+# -- Loading entity join
+# End time: 12:37:26 on Jan 09,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Compile of ori.vhd was successful.
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 12:37:26 on Jan 09,2025
+# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/oehb.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity oehb
+# -- Compiling architecture arch of oehb
+# -- Loading entity oehb_dataless
+# End time: 12:37:26 on Jan 09,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Compile of oehb.vhd was successful.
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 12:37:26 on Jan 09,2025
+# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/handshake_cmpi_1.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity handshake_cmpi_1
+# -- Compiling architecture arch of handshake_cmpi_1
+# -- Loading entity join
+# End time: 12:37:26 on Jan 09,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Compile of handshake_cmpi_1.vhd was successful.
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 12:37:26 on Jan 09,2025
+# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/shrsi.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity shrsi
+# -- Compiling architecture arch of shrsi
+# -- Loading entity join
+# End time: 12:37:26 on Jan 09,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Compile of shrsi.vhd was successful.
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 12:37:26 on Jan 09,2025
+# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/andi.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity andi
+# -- Compiling architecture arch of andi
+# -- Loading entity join
+# End time: 12:37:26 on Jan 09,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Compile of andi.vhd was successful.
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 12:37:26 on Jan 09,2025
+# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/handshake_cmpi_0.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity handshake_cmpi_0
+# -- Compiling architecture arch of handshake_cmpi_0
+# -- Loading entity join
+# End time: 12:37:26 on Jan 09,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Compile of handshake_cmpi_0.vhd was successful.
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 12:37:26 on Jan 09,2025
+# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/handshake_cmpi_3.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity handshake_cmpi_3
+# -- Compiling architecture arch of handshake_cmpi_3
+# -- Loading entity join
+# End time: 12:37:26 on Jan 09,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Compile of handshake_cmpi_3.vhd was successful.
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 12:37:26 on Jan 09,2025
+# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/tehb.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity tehb
+# -- Compiling architecture arch of tehb
+# -- Loading entity tehb_dataless
+# End time: 12:37:26 on Jan 09,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Compile of tehb.vhd was successful.
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 12:37:26 on Jan 09,2025
+# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/shli.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity shli
+# -- Compiling architecture arch of shli
+# -- Loading entity join
+# End time: 12:37:26 on Jan 09,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Compile of shli.vhd was successful.
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 12:37:26 on Jan 09,2025
+# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/handshake_cmpi_4.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity handshake_cmpi_4
+# -- Compiling architecture arch of handshake_cmpi_4
+# -- Loading entity join
+# End time: 12:37:26 on Jan 09,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Compile of handshake_cmpi_4.vhd was successful.
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 12:37:26 on Jan 09,2025
+# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/subi.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity subi
+# -- Compiling architecture arch of subi
+# -- Loading entity join
+# End time: 12:37:26 on Jan 09,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Compile of subi.vhd was successful.
+# All compile dependencies have been resolved.vcom -work work -2008 -explicit -stats=none /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/selector.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity antitokens
+# -- Compiling architecture arch of antitokens
+# -- Compiling entity selector
+# -- Compiling architecture arch of selector
+# -- Loading entity antitokens
+# vcom -work work -2008 -explicit -stats=none /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/sink_dataless.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity sink_dataless
+# -- Compiling architecture arch of sink_dataless
+# vcom -work work -2008 -explicit -stats=none /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/trunci.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity trunci
+# -- Compiling architecture arch of trunci
+# vcom -work work -2008 -explicit -stats=none /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/simpackage.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Loading package NUMERIC_STD
+# -- Loading package std_logic_textio
+# -- Compiling package sim_package
+# -- Compiling package body sim_package
+# -- Loading package sim_package
+# vcom -work work -2008 -explicit -stats=none /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/tb_join.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity tb_join
+# -- Compiling architecture arch of tb_join
+# vcom -work work -2008 -explicit -stats=none /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/eager_fork_register_block.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity eager_fork_register_block
+# -- Compiling architecture arch of eager_fork_register_block
+# vcom -work work -2008 -explicit -stats=none /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/handshake_constant_1.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity handshake_constant_1
+# -- Compiling architecture arch of handshake_constant_1
+# vcom -work work -2008 -explicit -stats=none /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/oehb_dataless.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity oehb_dataless
+# -- Compiling architecture arch of oehb_dataless
+# vcom -work work -2008 -explicit -stats=none /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/cond_br.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity cond_br
+# -- Compiling architecture arch of cond_br
+# -- Loading entity cond_br_dataless
+# vcom -work work -2008 -explicit -stats=none /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/extsi.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity extsi
+# -- Compiling architecture arch of extsi
+# vcom -work work -2008 -explicit -stats=none /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/logic.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity and_n
+# -- Compiling architecture arch of and_n
+# -- Compiling entity nand_n
+# -- Compiling architecture arch of nand_n
+# -- Compiling entity or_n
+# -- Compiling architecture arch of or_n
+# -- Compiling entity nor_n
+# -- Compiling architecture arch of nor_n
+# vcom -work work -2008 -explicit -stats=none /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/fork_dataless.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity fork_dataless
+# -- Compiling architecture arch of fork_dataless
+# -- Loading entity or_n
+# -- Loading entity eager_fork_register_block
+# vcom -work work -2008 -explicit -stats=none /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/types.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling package types
+# vcom -work work -2008 -explicit -stats=none /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/sink.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity sink
+# -- Compiling architecture arch of sink
+# vcom -work work -2008 -explicit -stats=none /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/mux.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Loading package MATH_REAL
+# -- Loading package types
+# -- Compiling entity mux
+# -- Compiling architecture arch of mux
+# -- Loading entity tehb
+# vcom -work work -2008 -explicit -stats=none /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd_wrapper.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity gcd_wrapper
+# -- Compiling architecture behavioral of gcd_wrapper
+# -- Loading entity gcd
+# vcom -work work -2008 -explicit -stats=none /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/merge.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Loading package types
+# -- Compiling entity merge
+# -- Compiling architecture arch of merge
+# -- Loading entity tehb
+# vcom -work work -2008 -explicit -stats=none /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/handshake_fork.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package types
+# -- Compiling entity handshake_fork
+# -- Compiling architecture arch of handshake_fork
+# -- Loading package NUMERIC_STD
+# -- Loading entity fork_dataless
+# vcom -work work -2008 -explicit -stats=none /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/handshake_constant_0.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity handshake_constant_0
+# -- Compiling architecture arch of handshake_constant_0
+# vcom -work work -2008 -explicit -stats=none /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/single_argument.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Loading package NUMERIC_STD
+# -- Loading package std_logic_textio
+# -- Loading package sim_package
+# -- Compiling entity single_argument
+# -- Compiling architecture behav of single_argument
+# ** Warning: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/single_argument.vhd(40): (vcom-1236) Shared variables must be of a protected type.
+# vcom -work work -2008 -explicit -stats=none /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/join.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity join
+# -- Compiling architecture arch of join
+# -- Loading entity and_n
+# vcom -work work -2008 -explicit -stats=none /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/tehb_dataless.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity tehb_dataless
+# -- Compiling architecture arch of tehb_dataless
+# vcom -work work -2008 -explicit -stats=none /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/mux_dataless.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Loading package MATH_REAL
+# -- Compiling entity mux_dataless
+# -- Compiling architecture arch of mux_dataless
+# -- Loading entity tehb_dataless
+# vcom -work work -2008 -explicit -stats=none /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/cond_br_dataless.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity cond_br_dataless
+# -- Compiling architecture arch of cond_br_dataless
+# -- Loading entity join
+# vcom -work work -2008 -explicit -stats=none /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/hls_verify_gcd_tb.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Loading package std_logic_textio
+# -- Loading package NUMERIC_STD
+# -- Loading package sim_package
+# -- Compiling entity gcd_wrapper_tb
+# -- Compiling architecture behav of gcd_wrapper_tb
+# ** Warning: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/hls_verify_gcd_tb.vhd(66): (vcom-1236) Shared variables must be of a protected type.
+# -- Loading entity gcd_wrapper
+# -- Loading entity single_argument
+# -- Loading entity tb_join
+# vcom -work work -2008 -explicit -stats=none /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/two_port_RAM.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Loading package NUMERIC_STD
+# -- Loading package std_logic_textio
+# -- Loading package sim_package
+# -- Compiling entity two_port_RAM
+# -- Compiling architecture behav of two_port_RAM
+# ** Warning: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/two_port_RAM.vhd(47): (vcom-1236) Shared variables must be of a protected type.
+# vcom -work work -2008 -explicit -stats=none /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/handshake_cmpi_5.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity handshake_cmpi_5
+# -- Compiling architecture arch of handshake_cmpi_5
+# -- Loading entity join
+# vcom -work work -2008 -explicit -stats=none /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/gcd.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity gcd
+# -- Compiling architecture behavioral of gcd
+# -- Loading entity fork_dataless
+# -- Loading package types
+# -- Loading entity handshake_fork
+# -- Loading entity handshake_cmpi_0
+# -- Loading entity handshake_cmpi_1
+# -- Loading entity selector
+# -- Loading entity andi
+# -- Loading entity cond_br
+# -- Loading entity sink
+# -- Loading entity extsi
+# -- Loading entity handshake_constant_0
+# -- Loading entity merge
+# -- Loading entity tehb
+# -- Loading package MATH_REAL
+# -- Loading entity mux_dataless
+# -- Loading entity oehb_dataless
+# -- Loading entity tehb_dataless
+# -- Loading entity mux
+# -- Loading entity oehb
+# -- Loading entity handshake_constant_1
+# -- Loading entity ori
+# -- Loading entity trunci
+# -- Loading entity handshake_cmpi_2
+# -- Loading entity cond_br_dataless
+# -- Loading entity sink_dataless
+# -- Loading entity shrsi
+# -- Loading entity addi
+# -- Loading entity handshake_cmpi_3
+# -- Loading entity subi
+# -- Loading entity handshake_cmpi_4
+# -- Loading entity handshake_cmpi_5
+# -- Loading entity shli
+# vcom -work work -2008 -explicit -stats=none /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/handshake_cmpi_2.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity handshake_cmpi_2
+# -- Compiling architecture arch of handshake_cmpi_2
+# -- Loading entity join
+# vcom -work work -2008 -explicit -stats=none /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/addi.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity addi
+# -- Compiling architecture arch of addi
+# -- Loading entity join
+# vcom -work work -2008 -explicit -stats=none /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/ori.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity ori
+# -- Compiling architecture arch of ori
+# -- Loading entity join
+# vcom -work work -2008 -explicit -stats=none /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/oehb.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity oehb
+# -- Compiling architecture arch of oehb
+# -- Loading entity oehb_dataless
+# vcom -work work -2008 -explicit -stats=none /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/handshake_cmpi_1.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity handshake_cmpi_1
+# -- Compiling architecture arch of handshake_cmpi_1
+# -- Loading entity join
+# vcom -work work -2008 -explicit -stats=none /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/shrsi.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity shrsi
+# -- Compiling architecture arch of shrsi
+# -- Loading entity join
+# vcom -work work -2008 -explicit -stats=none /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/andi.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity andi
+# -- Compiling architecture arch of andi
+# -- Loading entity join
+# vcom -work work -2008 -explicit -stats=none /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/handshake_cmpi_0.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity handshake_cmpi_0
+# -- Compiling architecture arch of handshake_cmpi_0
+# -- Loading entity join
+# vcom -work work -2008 -explicit -stats=none /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/handshake_cmpi_3.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity handshake_cmpi_3
+# -- Compiling architecture arch of handshake_cmpi_3
+# -- Loading entity join
+# vcom -work work -2008 -explicit -stats=none /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/tehb.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity tehb
+# -- Compiling architecture arch of tehb
+# -- Loading entity tehb_dataless
+# vcom -work work -2008 -explicit -stats=none /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/shli.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity shli
+# -- Compiling architecture arch of shli
+# -- Loading entity join
+# vcom -work work -2008 -explicit -stats=none /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/handshake_cmpi_4.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity handshake_cmpi_4
+# -- Compiling architecture arch of handshake_cmpi_4
+# -- Loading entity join
+# vcom -work work -2008 -explicit -stats=none /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/subi.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity subi
+# -- Compiling architecture arch of subi
+# -- Loading entity join
+# 41 compiles, 0 failed with no errors.
+# vsim gcd_wrapper_tb 
+# Start time: 12:37:27 on Jan 09,2025
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_unsigned(body)
+# Loading ieee.std_logic_textio(body)
+# Loading ieee.numeric_std(body)
+# Loading work.sim_package(body)
+# Loading work.gcd_wrapper_tb(behav)
+# Loading work.gcd_wrapper(behavioral)
+# Loading work.types
+# Loading ieee.math_real(body)
+# Loading work.gcd(behavioral)
+# Loading work.fork_dataless(arch)
+# Loading work.or_n(arch)
+# Loading work.eager_fork_register_block(arch)
+# Loading work.handshake_fork(arch)
+# Loading work.handshake_cmpi_0(arch)
+# Loading work.join(arch)
+# Loading work.and_n(arch)
+# Loading work.handshake_cmpi_1(arch)
+# Loading work.selector(arch)
+# Loading work.antitokens(arch)
+# Loading work.andi(arch)
+# Loading work.cond_br(arch)
+# Loading work.cond_br_dataless(arch)
+# Loading work.sink(arch)
+# Loading work.extsi(arch)
+# Loading work.handshake_constant_0(arch)
+# Loading work.merge(arch)
+# Loading work.tehb(arch)
+# Loading work.tehb_dataless(arch)
+# Loading work.mux_dataless(arch)
+# Loading work.oehb_dataless(arch)
+# Loading work.mux(arch)
+# Loading work.oehb(arch)
+# Loading work.handshake_constant_1(arch)
+# Loading work.ori(arch)
+# Loading work.trunci(arch)
+# Loading work.handshake_cmpi_2(arch)
+# Loading work.sink_dataless(arch)
+# Loading work.shrsi(arch)
+# Loading work.addi(arch)
+# Loading work.handshake_cmpi_3(arch)
+# Loading work.subi(arch)
+# Loading work.handshake_cmpi_4(arch)
+# Loading work.handshake_cmpi_5(arch)
+# Loading work.shli(arch)
+# Loading work.single_argument(behav)
+# Loading work.tb_join(arch)
+# ** Warning: Design size of 21413 statements exceeds ModelSim-Intel FPGA Starter Edition recommended capacity.
+# Expect performance to be adversely affected.
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 0  Instance: /gcd_wrapper_tb/duv/gcd_wrapped/mux25
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 0  Instance: /gcd_wrapper_tb/duv/gcd_wrapped/mux25
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /gcd_wrapper_tb/duv/gcd_wrapped/shli0
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /gcd_wrapper_tb/duv/gcd_wrapped/shrsi4
+# ** Warning: NUMERIC_STD.">": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 0  Instance: /gcd_wrapper_tb/duv/gcd_wrapped/cmpi11
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 0  Instance: /gcd_wrapper_tb/duv/gcd_wrapped/mux24
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 0  Instance: /gcd_wrapper_tb/duv/gcd_wrapped/mux24
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 0  Instance: /gcd_wrapper_tb/duv/gcd_wrapped/mux21
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 0  Instance: /gcd_wrapper_tb/duv/gcd_wrapped/mux21
+# ** Warning: NUMERIC_STD.">=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 0  Instance: /gcd_wrapper_tb/duv/gcd_wrapped/cmpi10
+# ** Warning: NUMERIC_STD."<": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 0  Instance: /gcd_wrapper_tb/duv/gcd_wrapped/cmpi9
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 0  Instance: /gcd_wrapper_tb/duv/gcd_wrapped/mux20
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 0  Instance: /gcd_wrapper_tb/duv/gcd_wrapped/mux20
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 0  Instance: /gcd_wrapper_tb/duv/gcd_wrapped/mux19
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 0  Instance: /gcd_wrapper_tb/duv/gcd_wrapped/mux19
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 0  Instance: /gcd_wrapper_tb/duv/gcd_wrapped/mux14
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 0  Instance: /gcd_wrapper_tb/duv/gcd_wrapped/mux14
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /gcd_wrapper_tb/duv/gcd_wrapped/shrsi3
+# ** Warning: NUMERIC_STD.">": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 0  Instance: /gcd_wrapper_tb/duv/gcd_wrapped/cmpi6
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 0  Instance: /gcd_wrapper_tb/duv/gcd_wrapped/mux13
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 0  Instance: /gcd_wrapper_tb/duv/gcd_wrapped/mux13
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 0  Instance: /gcd_wrapper_tb/duv/gcd_wrapped/mux12
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 0  Instance: /gcd_wrapper_tb/duv/gcd_wrapped/mux12
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /gcd_wrapper_tb/duv/gcd_wrapped/shrsi2
+# ** Warning: NUMERIC_STD.">": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 0  Instance: /gcd_wrapper_tb/duv/gcd_wrapped/cmpi4
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 0  Instance: /gcd_wrapper_tb/duv/gcd_wrapped/mux9
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 0  Instance: /gcd_wrapper_tb/duv/gcd_wrapped/mux9
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 0  Instance: /gcd_wrapper_tb/duv/gcd_wrapped/mux7
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 0  Instance: /gcd_wrapper_tb/duv/gcd_wrapped/mux7
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /gcd_wrapper_tb/duv/gcd_wrapped/shrsi1
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /gcd_wrapper_tb/duv/gcd_wrapped/shrsi0
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 0  Instance: /gcd_wrapper_tb/duv/gcd_wrapped/mux5
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 0  Instance: /gcd_wrapper_tb/duv/gcd_wrapped/mux5
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 0  Instance: /gcd_wrapper_tb/duv/gcd_wrapped/mux4
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 0  Instance: /gcd_wrapper_tb/duv/gcd_wrapped/mux4
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 0  Instance: /gcd_wrapper_tb/duv/gcd_wrapped/mux3
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 0  Instance: /gcd_wrapper_tb/duv/gcd_wrapped/mux3
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 0  Instance: /gcd_wrapper_tb/duv/gcd_wrapped/mux0
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 0  Instance: /gcd_wrapper_tb/duv/gcd_wrapped/mux0
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 1  Instance: /gcd_wrapper_tb/duv/gcd_wrapped/mux5
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 1  Instance: /gcd_wrapper_tb/duv/gcd_wrapped/mux5
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 2  Instance: /gcd_wrapper_tb/duv/gcd_wrapped/mux25
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 2  Instance: /gcd_wrapper_tb/duv/gcd_wrapped/mux25
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 2  Instance: /gcd_wrapper_tb/duv/gcd_wrapped/mux24
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 2  Instance: /gcd_wrapper_tb/duv/gcd_wrapped/mux24
+# ** Warning: NUMERIC_STD.">=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 2  Instance: /gcd_wrapper_tb/duv/gcd_wrapped/cmpi10
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 2  Instance: /gcd_wrapper_tb/duv/gcd_wrapped/mux13
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 2  Instance: /gcd_wrapper_tb/duv/gcd_wrapped/mux13
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 2  Instance: /gcd_wrapper_tb/duv/gcd_wrapped/mux9
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 2  Instance: /gcd_wrapper_tb/duv/gcd_wrapped/mux9
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 2  Instance: /gcd_wrapper_tb/duv/gcd_wrapped/mux5
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 2  Instance: /gcd_wrapper_tb/duv/gcd_wrapped/mux5
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 2  Instance: /gcd_wrapper_tb/duv/gcd_wrapped/mux4
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 2  Instance: /gcd_wrapper_tb/duv/gcd_wrapped/mux4
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 2  Instance: /gcd_wrapper_tb/duv/gcd_wrapped/mux3
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 2  Instance: /gcd_wrapper_tb/duv/gcd_wrapped/mux3
+# ** Warning: NUMERIC_STD.">": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 3  Instance: /gcd_wrapper_tb/duv/gcd_wrapped/cmpi11
+# ** Warning: NUMERIC_STD.">=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 3  Instance: /gcd_wrapper_tb/duv/gcd_wrapped/cmpi10
+# ** Warning: NUMERIC_STD.">": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 3  Instance: /gcd_wrapper_tb/duv/gcd_wrapped/cmpi6
+# ** Warning: NUMERIC_STD.">": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 3  Instance: /gcd_wrapper_tb/duv/gcd_wrapped/cmpi4
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 3  Instance: /gcd_wrapper_tb/duv/gcd_wrapped/mux9
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 3  Instance: /gcd_wrapper_tb/duv/gcd_wrapped/mux9
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 3  Instance: /gcd_wrapper_tb/duv/gcd_wrapped/mux13
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 3  Instance: /gcd_wrapper_tb/duv/gcd_wrapped/mux13
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 3  Instance: /gcd_wrapper_tb/duv/gcd_wrapped/mux20
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 3  Instance: /gcd_wrapper_tb/duv/gcd_wrapped/mux20
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 3  Instance: /gcd_wrapper_tb/duv/gcd_wrapped/mux19
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 3  Instance: /gcd_wrapper_tb/duv/gcd_wrapped/mux19
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 3  Instance: /gcd_wrapper_tb/duv/gcd_wrapped/mux4
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 3  Instance: /gcd_wrapper_tb/duv/gcd_wrapped/mux4
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 3  Instance: /gcd_wrapper_tb/duv/gcd_wrapped/mux3
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 3  Instance: /gcd_wrapper_tb/duv/gcd_wrapped/mux3
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 4  Instance: /gcd_wrapper_tb/duv/gcd_wrapped/mux5
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 4  Instance: /gcd_wrapper_tb/duv/gcd_wrapped/mux5
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 4  Instance: /gcd_wrapper_tb/duv/gcd_wrapped/mux0
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 4  Instance: /gcd_wrapper_tb/duv/gcd_wrapped/mux0
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 4  Instance: /gcd_wrapper_tb/duv/gcd_wrapped/mux7
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 4  Instance: /gcd_wrapper_tb/duv/gcd_wrapped/mux7
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 4  Instance: /gcd_wrapper_tb/duv/gcd_wrapped/mux12
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 4  Instance: /gcd_wrapper_tb/duv/gcd_wrapped/mux12
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 4  Instance: /gcd_wrapper_tb/duv/gcd_wrapped/mux14
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 4  Instance: /gcd_wrapper_tb/duv/gcd_wrapped/mux14
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 4  Instance: /gcd_wrapper_tb/duv/gcd_wrapped/mux21
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 4  Instance: /gcd_wrapper_tb/duv/gcd_wrapped/mux21
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 5  Instance: /gcd_wrapper_tb/duv/gcd_wrapped/mux24
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 5  Instance: /gcd_wrapper_tb/duv/gcd_wrapped/mux24
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 5  Instance: /gcd_wrapper_tb/duv/gcd_wrapped/mux20
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 5  Instance: /gcd_wrapper_tb/duv/gcd_wrapped/mux20
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 2 ns  Iteration: 3  Instance: /gcd_wrapper_tb/duv/gcd_wrapped/mux0
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 2 ns  Iteration: 3  Instance: /gcd_wrapper_tb/duv/gcd_wrapped/mux0
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 2 ns  Iteration: 3  Instance: /gcd_wrapper_tb/duv/gcd_wrapped/mux7
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 2 ns  Iteration: 3  Instance: /gcd_wrapper_tb/duv/gcd_wrapped/mux7
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 2 ns  Iteration: 3  Instance: /gcd_wrapper_tb/duv/gcd_wrapped/mux12
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 2 ns  Iteration: 3  Instance: /gcd_wrapper_tb/duv/gcd_wrapped/mux12
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 2 ns  Iteration: 3  Instance: /gcd_wrapper_tb/duv/gcd_wrapped/mux14
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 2 ns  Iteration: 3  Instance: /gcd_wrapper_tb/duv/gcd_wrapped/mux14
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 2 ns  Iteration: 3  Instance: /gcd_wrapper_tb/duv/gcd_wrapped/mux21
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 2 ns  Iteration: 3  Instance: /gcd_wrapper_tb/duv/gcd_wrapped/mux21
+# ** Warning: NUMERIC_STD."<": metavalue detected, returning FALSE
+#    Time: 2 ns  Iteration: 5  Instance: /gcd_wrapper_tb/duv/gcd_wrapped/cmpi9
+# ** Note: simulation done!
+#    Time: 334 ns  Iteration: 1  Instance: /gcd_wrapper_tb
+# ** Failure: NORMAL EXIT (note: failure is to force the simulator to stop)
+#    Time: 334 ns  Iteration: 1  Process: /gcd_wrapper_tb/generate_sim_done_proc File: /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/hls_verify_gcd_tb.vhd
+# Break in Process generate_sim_done_proc at /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/hls_verify_gcd_tb.vhd line 201
+# Stopped at /home/giacomo/dynamatic/integration-test/gcd/out/sim/VHDL_SRC/hls_verify_gcd_tb.vhd line 201
+# End time: 12:37:27 on Jan 09,2025, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 145

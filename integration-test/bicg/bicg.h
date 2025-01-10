@@ -8,7 +8,7 @@
 #ifndef BICG_BICG_H
 #define BICG_BICG_H
 
-#define N 30
+#define N 10
 
 typedef int in_int_t;
 typedef int inout_int_t;

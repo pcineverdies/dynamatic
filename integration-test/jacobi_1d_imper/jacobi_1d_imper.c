@@ -11,7 +11,7 @@
 #include "jacobi_1d_imper.h"
 #include <stdlib.h>
 
-void jacobi_1d_imper(inout_int_t A[N], inout_int_t B[N]) {
+int jacobi_1d_imper(inout_int_t A[N], inout_int_t B[N]) {
   int t, i, j;
 
   for (t = 0; t < TSTEPS; t++) {
@@ -20,6 +20,8 @@ void jacobi_1d_imper(inout_int_t A[N], inout_int_t B[N]) {
     for (j = 1; j < N - 1; j++)
       A[j] = B[j];
   }
+
+  return A[N-1];
 }
 
 int main(void) {

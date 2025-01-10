@@ -11,11 +11,11 @@
 #include "dynamatic/Integration.h"
 #include <stdlib.h>
 
-#define NX 20
-#define NY 20
-#define N 20
+#define NX 10
+#define NY 10
+#define N 10
 
-void atax_float(in_float_t A[N][N], in_float_t x[N], inout_float_t y[N],
+int atax_float(in_float_t A[N][N], in_float_t x[N], inout_float_t y[N],
                 inout_float_t tmp[N]) {
   int i, j;
 
@@ -27,6 +27,8 @@ void atax_float(in_float_t A[N][N], in_float_t x[N], inout_float_t y[N],
       y[j] = y[j] + A[i][j] * t;
     tmp[i] = t;
   }
+
+  return tmp[NX - 1];
 }
 
 int main(void) {

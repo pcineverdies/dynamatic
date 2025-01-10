@@ -1,0 +1,2244 @@
+# do simulation.do
+# Model Technology ModelSim - Intel FPGA Edition vmap 2020.1 Lib Mapping Utility 2020.02 Feb 28 2020
+# vmap work work 
+# Modifying modelsim.ini
+# Loading project simulation
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 14:25:56 on Jan 09,2025
+# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/mc_support.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# ** Error: (vcom-11) Could not find work.types.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/mc_support.vhd(5): (vcom-1195) Cannot find expanded name "work.types".
+# ** Error: /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/mc_support.vhd(5): Unknown expanded name.
+# ** Note: /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/mc_support.vhd(7): VHDL Compiler exiting
+# End time: 14:25:57 on Jan 09,2025, Elapsed time: 0:00:01
+# Errors: 3, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 14:25:57 on Jan 09,2025
+# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/mux_dataless.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Loading package MATH_REAL
+# -- Compiling entity mux_dataless
+# -- Compiling architecture arch of mux_dataless
+# ** Error: (vcom-11) Could not find work.tehb_dataless.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/mux_dataless.vhd(51): (vcom-1195) Cannot find expanded name "work.tehb_dataless".
+# ** Error: /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/mux_dataless.vhd(51): Unknown expanded name.
+# ** Note: /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/mux_dataless.vhd(62): VHDL Compiler exiting
+# End time: 14:25:57 on Jan 09,2025, Elapsed time: 0:00:00
+# Errors: 3, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 14:25:57 on Jan 09,2025
+# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/load.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity load
+# -- Compiling architecture arch of load
+# ** Error: (vcom-11) Could not find work.tehb.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/load.vhd(33): (vcom-1195) Cannot find expanded name "work.tehb".
+# ** Error: /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/load.vhd(33): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.tehb.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/load.vhd(50): (vcom-1195) Cannot find expanded name "work.tehb".
+# ** Error: /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/load.vhd(50): Unknown expanded name.
+# ** Note: /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/load.vhd(66): VHDL Compiler exiting
+# End time: 14:25:57 on Jan 09,2025, Elapsed time: 0:00:00
+# Errors: 6, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 14:25:57 on Jan 09,2025
+# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/cond_br_dataless.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity cond_br_dataless
+# -- Compiling architecture arch of cond_br_dataless
+# ** Error: (vcom-11) Could not find work.join.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/cond_br_dataless.vhd(27): (vcom-1195) Cannot find expanded name "work.join".
+# ** Error: /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/cond_br_dataless.vhd(27): Unknown expanded name.
+# ** Note: /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/cond_br_dataless.vhd(45): VHDL Compiler exiting
+# End time: 14:25:57 on Jan 09,2025, Elapsed time: 0:00:00
+# Errors: 3, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 14:25:57 on Jan 09,2025
+# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/store.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity store
+# -- Compiling architecture arch of store
+# ** Error: (vcom-11) Could not find work.join.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/store.vhd(35): (vcom-1195) Cannot find expanded name "work.join".
+# ** Error: /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/store.vhd(35): Unknown expanded name.
+# ** Note: /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/store.vhd(56): VHDL Compiler exiting
+# End time: 14:25:57 on Jan 09,2025, Elapsed time: 0:00:00
+# Errors: 3, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 14:25:57 on Jan 09,2025
+# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/mem_controller_loadless.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# ** Error: (vcom-11) Could not find work.types.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/mem_controller_loadless.vhd(4): (vcom-1195) Cannot find expanded name "work.types".
+# ** Error: /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/mem_controller_loadless.vhd(4): Unknown expanded name.
+# ** Note: /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/mem_controller_loadless.vhd(6): VHDL Compiler exiting
+# End time: 14:25:57 on Jan 09,2025, Elapsed time: 0:00:00
+# Errors: 3, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 14:25:57 on Jan 09,2025
+# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/sink_dataless.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity sink_dataless
+# -- Compiling architecture arch of sink_dataless
+# End time: 14:25:57 on Jan 09,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Compile of sink_dataless.vhd was successful.
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 14:25:57 on Jan 09,2025
+# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/handshake_lsq_lsq3_core.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity handshake_lsq_lsq3_core_ga
+# -- Compiling architecture arch of handshake_lsq_lsq3_core_ga
+# -- Compiling entity handshake_lsq_lsq3_core_lda
+# -- Compiling architecture arch of handshake_lsq_lsq3_core_lda
+# -- Compiling entity handshake_lsq_lsq3_core_ldd
+# -- Compiling architecture arch of handshake_lsq_lsq3_core_ldd
+# -- Compiling entity handshake_lsq_lsq3_core_sta
+# -- Compiling architecture arch of handshake_lsq_lsq3_core_sta
+# -- Compiling entity handshake_lsq_lsq3_core_std
+# -- Compiling architecture arch of handshake_lsq_lsq3_core_std
+# -- Compiling entity handshake_lsq_lsq3_core
+# -- Compiling architecture arch of handshake_lsq_lsq3_core
+# -- Loading entity handshake_lsq_lsq3_core_ga
+# -- Loading entity handshake_lsq_lsq3_core_lda
+# -- Loading entity handshake_lsq_lsq3_core_ldd
+# -- Loading entity handshake_lsq_lsq3_core_sta
+# -- Loading entity handshake_lsq_lsq3_core_std
+# End time: 14:25:57 on Jan 09,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Compile of handshake_lsq_lsq3_core.vhd was successful.
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 14:25:57 on Jan 09,2025
+# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/two_port_RAM.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Loading package NUMERIC_STD
+# -- Loading package std_logic_textio
+# ** Error: (vcom-11) Could not find work.sim_package.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/two_port_RAM.vhd(8): (vcom-1195) Cannot find expanded name "work.sim_package".
+# ** Error: /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/two_port_RAM.vhd(8): Unknown expanded name.
+# ** Note: /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/two_port_RAM.vhd(11): VHDL Compiler exiting
+# End time: 14:25:57 on Jan 09,2025, Elapsed time: 0:00:00
+# Errors: 3, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 14:25:57 on Jan 09,2025
+# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/elastic_fifo_inner.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity elastic_fifo_inner
+# -- Compiling architecture arch of elastic_fifo_inner
+# End time: 14:25:57 on Jan 09,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Compile of elastic_fifo_inner.vhd was successful.
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 14:25:57 on Jan 09,2025
+# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/trunci.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity trunci
+# -- Compiling architecture arch of trunci
+# End time: 14:25:57 on Jan 09,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Compile of trunci.vhd was successful.
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 14:25:57 on Jan 09,2025
+# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/handshake_constant_2.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity handshake_constant_2
+# -- Compiling architecture arch of handshake_constant_2
+# End time: 14:25:57 on Jan 09,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Compile of handshake_constant_2.vhd was successful.
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 14:25:57 on Jan 09,2025
+# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/handshake_lsq_lsq3.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity handshake_lsq_lsq3
+# -- Compiling architecture arch of handshake_lsq_lsq3
+# -- Loading entity handshake_lsq_lsq3_core
+# End time: 14:25:57 on Jan 09,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Compile of handshake_lsq_lsq3.vhd was successful.
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 14:25:57 on Jan 09,2025
+# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/simpackage.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Loading package NUMERIC_STD
+# -- Loading package std_logic_textio
+# -- Compiling package sim_package
+# -- Compiling package body sim_package
+# -- Loading package sim_package
+# End time: 14:25:57 on Jan 09,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Compile of simpackage.vhd was successful.
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 14:25:57 on Jan 09,2025
+# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/tb_join.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity tb_join
+# -- Compiling architecture arch of tb_join
+# End time: 14:25:57 on Jan 09,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Compile of tb_join.vhd was successful.
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 14:25:57 on Jan 09,2025
+# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/eager_fork_register_block.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity eager_fork_register_block
+# -- Compiling architecture arch of eager_fork_register_block
+# End time: 14:25:57 on Jan 09,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Compile of eager_fork_register_block.vhd was successful.
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 14:25:57 on Jan 09,2025
+# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/addi.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity addi
+# -- Compiling architecture arch of addi
+# ** Error: (vcom-11) Could not find work.join.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/addi.vhd(28): (vcom-1195) Cannot find expanded name "work.join".
+# ** Error: /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/addi.vhd(28): Unknown expanded name.
+# ** Note: /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/addi.vhd(41): VHDL Compiler exiting
+# End time: 14:25:57 on Jan 09,2025, Elapsed time: 0:00:00
+# Errors: 3, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 14:25:57 on Jan 09,2025
+# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/oehb.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity oehb
+# -- Compiling architecture arch of oehb
+# ** Error: (vcom-11) Could not find work.oehb_dataless.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/oehb.vhd(26): (vcom-1195) Cannot find expanded name "work.oehb_dataless".
+# ** Error: /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/oehb.vhd(26): Unknown expanded name.
+# ** Note: /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/oehb.vhd(49): VHDL Compiler exiting
+# End time: 14:25:57 on Jan 09,2025, Elapsed time: 0:00:00
+# Errors: 3, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 14:25:57 on Jan 09,2025
+# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/handshake_constant_1.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity handshake_constant_1
+# -- Compiling architecture arch of handshake_constant_1
+# End time: 14:25:57 on Jan 09,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Compile of handshake_constant_1.vhd was successful.
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 14:25:57 on Jan 09,2025
+# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/oehb_dataless.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity oehb_dataless
+# -- Compiling architecture arch of oehb_dataless
+# End time: 14:25:57 on Jan 09,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Compile of oehb_dataless.vhd was successful.
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 14:25:57 on Jan 09,2025
+# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/handshake_cmpi_1.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity handshake_cmpi_1
+# -- Compiling architecture arch of handshake_cmpi_1
+# ** Error: (vcom-11) Could not find work.join.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/handshake_cmpi_1.vhd(28): (vcom-1195) Cannot find expanded name "work.join".
+# ** Error: /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/handshake_cmpi_1.vhd(28): Unknown expanded name.
+# ** Note: /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/handshake_cmpi_1.vhd(41): VHDL Compiler exiting
+# End time: 14:25:57 on Jan 09,2025, Elapsed time: 0:00:00
+# Errors: 3, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 14:25:57 on Jan 09,2025
+# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/handshake_lsq_lsq2_core.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity handshake_lsq_lsq2_core_ga
+# -- Compiling architecture arch of handshake_lsq_lsq2_core_ga
+# -- Compiling entity handshake_lsq_lsq2_core_lda
+# -- Compiling architecture arch of handshake_lsq_lsq2_core_lda
+# -- Compiling entity handshake_lsq_lsq2_core_ldd
+# -- Compiling architecture arch of handshake_lsq_lsq2_core_ldd
+# -- Compiling entity handshake_lsq_lsq2_core_sta
+# -- Compiling architecture arch of handshake_lsq_lsq2_core_sta
+# -- Compiling entity handshake_lsq_lsq2_core_std
+# -- Compiling architecture arch of handshake_lsq_lsq2_core_std
+# -- Compiling entity handshake_lsq_lsq2_core
+# -- Compiling architecture arch of handshake_lsq_lsq2_core
+# -- Loading entity handshake_lsq_lsq2_core_ga
+# -- Loading entity handshake_lsq_lsq2_core_lda
+# -- Loading entity handshake_lsq_lsq2_core_ldd
+# -- Loading entity handshake_lsq_lsq2_core_sta
+# -- Loading entity handshake_lsq_lsq2_core_std
+# End time: 14:25:57 on Jan 09,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Compile of handshake_lsq_lsq2_core.vhd was successful.
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 14:25:57 on Jan 09,2025
+# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/handshake_constant_4.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity handshake_constant_4
+# -- Compiling architecture arch of handshake_constant_4
+# End time: 14:25:57 on Jan 09,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Compile of handshake_constant_4.vhd was successful.
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 14:25:57 on Jan 09,2025
+# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/cond_br.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity cond_br
+# -- Compiling architecture arch of cond_br
+# -- Loading entity cond_br_dataless
+# End time: 14:25:57 on Jan 09,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Compile of cond_br.vhd was successful.
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 14:25:57 on Jan 09,2025
+# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/extsi.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity extsi
+# -- Compiling architecture arch of extsi
+# End time: 14:25:57 on Jan 09,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Compile of extsi.vhd was successful.
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 14:25:57 on Jan 09,2025
+# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/handshake_cmpi_0.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity handshake_cmpi_0
+# -- Compiling architecture arch of handshake_cmpi_0
+# ** Error: (vcom-11) Could not find work.join.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/handshake_cmpi_0.vhd(28): (vcom-1195) Cannot find expanded name "work.join".
+# ** Error: /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/handshake_cmpi_0.vhd(28): Unknown expanded name.
+# ** Note: /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/handshake_cmpi_0.vhd(41): VHDL Compiler exiting
+# End time: 14:25:57 on Jan 09,2025, Elapsed time: 0:00:00
+# Errors: 3, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 14:25:57 on Jan 09,2025
+# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/handshake_constant_3.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity handshake_constant_3
+# -- Compiling architecture arch of handshake_constant_3
+# End time: 14:25:57 on Jan 09,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Compile of handshake_constant_3.vhd was successful.
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 14:25:57 on Jan 09,2025
+# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/handshake_lsq_lsq2.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity handshake_lsq_lsq2
+# -- Compiling architecture arch of handshake_lsq_lsq2
+# -- Loading entity handshake_lsq_lsq2_core
+# End time: 14:25:57 on Jan 09,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Compile of handshake_lsq_lsq2.vhd was successful.
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 14:25:57 on Jan 09,2025
+# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/lazy_fork_dataless.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity lazy_fork_dataless
+# -- Compiling architecture arch of lazy_fork_dataless
+# ** Error: (vcom-11) Could not find work.and_n.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/lazy_fork_dataless.vhd(22): (vcom-1195) Cannot find expanded name "work.and_n".
+# ** Error: /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/lazy_fork_dataless.vhd(22): Unknown expanded name.
+# ** Note: /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/lazy_fork_dataless.vhd(42): VHDL Compiler exiting
+# End time: 14:25:57 on Jan 09,2025, Elapsed time: 0:00:00
+# Errors: 3, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 14:25:57 on Jan 09,2025
+# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/jacobi_1d_imper.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity jacobi_1d_imper
+# -- Compiling architecture behavioral of jacobi_1d_imper
+# ** Error: (vcom-11) Could not find work.fork_dataless.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/jacobi_1d_imper.vhd(674): (vcom-1195) Cannot find expanded name "work.fork_dataless".
+# ** Error: /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/jacobi_1d_imper.vhd(674): Unknown expanded name.
+# -- Loading entity handshake_lsq_lsq2
+# ** Error: (vcom-11) Could not find work.mem_controller.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/jacobi_1d_imper.vhd(736): (vcom-1195) Cannot find expanded name "work.mem_controller".
+# ** Error: /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/jacobi_1d_imper.vhd(736): Unknown expanded name.
+# -- Loading entity handshake_lsq_lsq3
+# -- Loading package MATH_REAL
+# -- Loading entity mux_dataless
+# ** Error: (vcom-11) Could not find work.handshake_constant_0.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/jacobi_1d_imper.vhd(836): (vcom-1195) Cannot find expanded name "work.handshake_constant_0".
+# ** Error: /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/jacobi_1d_imper.vhd(836): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.handshake_fork.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/jacobi_1d_imper.vhd(847): (vcom-1195) Cannot find expanded name "work.handshake_fork".
+# ** Error: /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/jacobi_1d_imper.vhd(847): Unknown expanded name.
+# -- Loading entity extsi
+# ** Error: (vcom-11) Could not find work.merge.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/jacobi_1d_imper.vhd(874): (vcom-1195) Cannot find expanded name "work.merge".
+# ** Error: /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/jacobi_1d_imper.vhd(874): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.tehb.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/jacobi_1d_imper.vhd(889): (vcom-1195) Cannot find expanded name "work.tehb".
+# ** Error: /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/jacobi_1d_imper.vhd(889): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.handshake_fork.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/jacobi_1d_imper.vhd(901): (vcom-1195) Cannot find expanded name "work.handshake_fork".
+# ** Error: /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/jacobi_1d_imper.vhd(901): Unknown expanded name.
+# -- Loading entity oehb_dataless
+# ** Error: (vcom-11) Could not find work.tehb_dataless.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/jacobi_1d_imper.vhd(944): (vcom-1195) Cannot find expanded name "work.tehb_dataless".
+# ** Error: /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/jacobi_1d_imper.vhd(944): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.fork_dataless.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/jacobi_1d_imper.vhd(954): (vcom-1195) Cannot find expanded name "work.fork_dataless".
+# ** Error: /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/jacobi_1d_imper.vhd(954): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.mux.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/jacobi_1d_imper.vhd(970): (vcom-1195) Cannot find expanded name "work.mux".
+# ** Error: /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/jacobi_1d_imper.vhd(970): Unknown expanded name.
+# -- Loading entity oehb
+# ** Error: (vcom-11) Could not find work.tehb.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/jacobi_1d_imper.vhd(1000): (vcom-1195) Cannot find expanded name "work.tehb".
+# ** Error: /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/jacobi_1d_imper.vhd(1000): Unknown expanded name.
+# -- Loading entity handshake_constant_1
+# ** Error: (vcom-11) Could not find work.handshake_fork.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/jacobi_1d_imper.vhd(1035): (vcom-1195) Cannot find expanded name "work.handshake_fork".
+# ** Error: /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/jacobi_1d_imper.vhd(1035): Unknown expanded name.
+# -- Loading entity cond_br_dataless
+# -- Loading entity sink_dataless
+# ** Error: (vcom-11) Could not find work.handshake_constant_0.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/jacobi_1d_imper.vhd(1163): (vcom-1195) Cannot find expanded name "work.handshake_constant_0".
+# ** Error: /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/jacobi_1d_imper.vhd(1163): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.merge.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/jacobi_1d_imper.vhd(1174): (vcom-1195) Cannot find expanded name "work.merge".
+# ** Error: /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/jacobi_1d_imper.vhd(1174): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.tehb.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/jacobi_1d_imper.vhd(1189): (vcom-1195) Cannot find expanded name "work.tehb".
+# ** Error: /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/jacobi_1d_imper.vhd(1189): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.handshake_fork.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/jacobi_1d_imper.vhd(1201): (vcom-1195) Cannot find expanded name "work.handshake_fork".
+# ** Error: /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/jacobi_1d_imper.vhd(1201): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.tehb_dataless.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/jacobi_1d_imper.vhd(1226): (vcom-1195) Cannot find expanded name "work.tehb_dataless".
+# ** Error: /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/jacobi_1d_imper.vhd(1226): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.tehb_dataless.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/jacobi_1d_imper.vhd(1261): (vcom-1195) Cannot find expanded name "work.tehb_dataless".
+# ** Error: /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/jacobi_1d_imper.vhd(1261): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.fork_dataless.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/jacobi_1d_imper.vhd(1271): (vcom-1195) Cannot find expanded name "work.fork_dataless".
+# ** Error: /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/jacobi_1d_imper.vhd(1271): Unknown expanded name.
+# -- Loading entity lazy_fork_dataless
+# -- Loading entity cond_br
+# ** Error: (vcom-11) Could not find work.sink.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/jacobi_1d_imper.vhd(1353): (vcom-1195) Cannot find expanded name "work.sink".
+# ** Error: /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/jacobi_1d_imper.vhd(1353): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.sink.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/jacobi_1d_imper.vhd(1392): (vcom-1195) Cannot find expanded name "work.sink".
+# ** Error: /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/jacobi_1d_imper.vhd(1392): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.mux.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/jacobi_1d_imper.vhd(1401): (vcom-1195) Cannot find expanded name "work.mux".
+# ** Error: /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/jacobi_1d_imper.vhd(1401): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.tehb.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/jacobi_1d_imper.vhd(1431): (vcom-1195) Cannot find expanded name "work.tehb".
+# ** Error: /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/jacobi_1d_imper.vhd(1431): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.handshake_fork.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/jacobi_1d_imper.vhd(1443): (vcom-1195) Cannot find expanded name "work.handshake_fork".
+# ** Error: /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/jacobi_1d_imper.vhd(1443): Unknown expanded name.
+# -- Loading entity trunci
+# ** Error: (vcom-11) Could not find work.tfifo.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/jacobi_1d_imper.vhd(1503): (vcom-1195) Cannot find expanded name "work.tfifo".
+# ** Error: /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/jacobi_1d_imper.vhd(1503): Unknown expanded name.
+# -- Loading entity handshake_constant_2
+# -- Loading entity handshake_constant_3
+# ** Error: (vcom-11) Could not find work.handshake_fork.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/jacobi_1d_imper.vhd(1596): (vcom-1195) Cannot find expanded name "work.handshake_fork".
+# ** Error: /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/jacobi_1d_imper.vhd(1596): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.tfifo.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/jacobi_1d_imper.vhd(1641): (vcom-1195) Cannot find expanded name "work.tfifo".
+# ** Error: /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/jacobi_1d_imper.vhd(1641): Unknown expanded name.
+# -- Loading entity addi
+# -- Loading entity load
+# ** Error: (vcom-11) Could not find work.handshake_fork.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/jacobi_1d_imper.vhd(1779): (vcom-1195) Cannot find expanded name "work.handshake_fork".
+# ** Error: /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/jacobi_1d_imper.vhd(1779): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.shli.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/jacobi_1d_imper.vhd(1794): (vcom-1195) Cannot find expanded name "work.shli".
+# ** Error: /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/jacobi_1d_imper.vhd(1794): Unknown expanded name.
+# -- Loading entity store
+# ** Error: (vcom-11) Could not find work.handshake_fork.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/jacobi_1d_imper.vhd(1857): (vcom-1195) Cannot find expanded name "work.handshake_fork".
+# ** Error: /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/jacobi_1d_imper.vhd(1857): Unknown expanded name.
+# -- Loading entity handshake_cmpi_0
+# ** Error: (vcom-11) Could not find work.handshake_fork.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/jacobi_1d_imper.vhd(1899): (vcom-1195) Cannot find expanded name "work.handshake_fork".
+# ** Error: /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/jacobi_1d_imper.vhd(1899): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.handshake_constant_0.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/jacobi_1d_imper.vhd(2005): (vcom-1195) Cannot find expanded name "work.handshake_constant_0".
+# ** Error: /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/jacobi_1d_imper.vhd(2005): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.merge.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/jacobi_1d_imper.vhd(2016): (vcom-1195) Cannot find expanded name "work.merge".
+# ** Error: /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/jacobi_1d_imper.vhd(2016): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.tehb.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/jacobi_1d_imper.vhd(2031): (vcom-1195) Cannot find expanded name "work.tehb".
+# ** Error: /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/jacobi_1d_imper.vhd(2031): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.handshake_fork.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/jacobi_1d_imper.vhd(2043): (vcom-1195) Cannot find expanded name "work.handshake_fork".
+# ** Error: /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/jacobi_1d_imper.vhd(2043): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.tehb_dataless.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/jacobi_1d_imper.vhd(2089): (vcom-1195) Cannot find expanded name "work.tehb_dataless".
+# ** Error: /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/jacobi_1d_imper.vhd(2089): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.fork_dataless.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/jacobi_1d_imper.vhd(2099): (vcom-1195) Cannot find expanded name "work.fork_dataless".
+# ** Error: /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/jacobi_1d_imper.vhd(2099): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.tehb_dataless.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/jacobi_1d_imper.vhd(2136): (vcom-1195) Cannot find expanded name "work.tehb_dataless".
+# ** Error: /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/jacobi_1d_imper.vhd(2136): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.fork_dataless.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/jacobi_1d_imper.vhd(2146): (vcom-1195) Cannot find expanded name "work.fork_dataless".
+# ** Error: /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/jacobi_1d_imper.vhd(2146): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.tehb_dataless.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/jacobi_1d_imper.vhd(2180): (vcom-1195) Cannot find expanded name "work.tehb_dataless".
+# ** Error: /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/jacobi_1d_imper.vhd(2180): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.sink.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/jacobi_1d_imper.vhd(2238): (vcom-1195) Cannot find expanded name "work.sink".
+# ** Error: /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/jacobi_1d_imper.vhd(2238): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.tehb_dataless.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/jacobi_1d_imper.vhd(2295): (vcom-1195) Cannot find expanded name "work.tehb_dataless".
+# ** Error: /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/jacobi_1d_imper.vhd(2295): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.fork_dataless.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/jacobi_1d_imper.vhd(2305): (vcom-1195) Cannot find expanded name "work.fork_dataless".
+# ** Error: /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/jacobi_1d_imper.vhd(2305): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.mux.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/jacobi_1d_imper.vhd(2342): (vcom-1195) Cannot find expanded name "work.mux".
+# ** Error: /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/jacobi_1d_imper.vhd(2342): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.tehb.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/jacobi_1d_imper.vhd(2372): (vcom-1195) Cannot find expanded name "work.tehb".
+# ** Error: /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/jacobi_1d_imper.vhd(2372): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.handshake_fork.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/jacobi_1d_imper.vhd(2384): (vcom-1195) Cannot find expanded name "work.handshake_fork".
+# ** Error: /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/jacobi_1d_imper.vhd(2384): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.handshake_fork.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/jacobi_1d_imper.vhd(2535): (vcom-1195) Cannot find expanded name "work.handshake_fork".
+# ** Error: /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/jacobi_1d_imper.vhd(2535): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.handshake_fork.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/jacobi_1d_imper.vhd(2577): (vcom-1195) Cannot find expanded name "work.handshake_fork".
+# ** Error: /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/jacobi_1d_imper.vhd(2577): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.sink.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/jacobi_1d_imper.vhd(2645): (vcom-1195) Cannot find expanded name "work.sink".
+# ** Error: /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/jacobi_1d_imper.vhd(2645): Unknown expanded name.
+# -- Loading entity handshake_constant_4
+# ** Error: (vcom-11) Could not find work.handshake_fork.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/jacobi_1d_imper.vhd(2703): (vcom-1195) Cannot find expanded name "work.handshake_fork".
+# ** Error: /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/jacobi_1d_imper.vhd(2703): Unknown expanded name.
+# -- Loading entity handshake_cmpi_1
+# ** Error: (vcom-11) Could not find work.handshake_fork.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/jacobi_1d_imper.vhd(2745): (vcom-1195) Cannot find expanded name "work.handshake_fork".
+# ** Error: /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/jacobi_1d_imper.vhd(2745): Unknown expanded name.
+# ** Note: /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/jacobi_1d_imper.vhd(2807): VHDL Compiler exiting
+# End time: 14:25:57 on Jan 09,2025, Elapsed time: 0:00:00
+# Errors: 153, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 14:25:57 on Jan 09,2025
+# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/jacobi_1d_imper_wrapper.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity jacobi_1d_imper_wrapper
+# -- Compiling architecture behavioral of jacobi_1d_imper_wrapper
+# ** Error: (vcom-11) Could not find work.mem_to_bram.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/jacobi_1d_imper_wrapper.vhd(115): (vcom-1195) Cannot find expanded name "work.mem_to_bram".
+# ** Error: /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/jacobi_1d_imper_wrapper.vhd(115): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.mem_to_bram.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/jacobi_1d_imper_wrapper.vhd(135): (vcom-1195) Cannot find expanded name "work.mem_to_bram".
+# ** Error: /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/jacobi_1d_imper_wrapper.vhd(135): Unknown expanded name.
+# -- Loading entity jacobi_1d_imper
+# ** Note: /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/jacobi_1d_imper_wrapper.vhd(188): VHDL Compiler exiting
+# End time: 14:25:57 on Jan 09,2025, Elapsed time: 0:00:00
+# Errors: 6, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 14:25:57 on Jan 09,2025
+# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/mem_controller.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# ** Error: (vcom-11) Could not find work.types.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/mem_controller.vhd(4): (vcom-1195) Cannot find expanded name "work.types".
+# ** Error: /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/mem_controller.vhd(4): Unknown expanded name.
+# ** Note: /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/mem_controller.vhd(6): VHDL Compiler exiting
+# End time: 14:25:58 on Jan 09,2025, Elapsed time: 0:00:01
+# Errors: 3, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 14:25:58 on Jan 09,2025
+# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/tehb.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity tehb
+# -- Compiling architecture arch of tehb
+# ** Error: (vcom-11) Could not find work.tehb_dataless.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/tehb.vhd(28): (vcom-1195) Cannot find expanded name "work.tehb_dataless".
+# ** Error: /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/tehb.vhd(28): Unknown expanded name.
+# ** Note: /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/tehb.vhd(60): VHDL Compiler exiting
+# End time: 14:25:58 on Jan 09,2025, Elapsed time: 0:00:00
+# Errors: 3, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 14:25:58 on Jan 09,2025
+# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/tfifo.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity tfifo
+# -- Compiling architecture arch of tfifo
+# -- Loading entity elastic_fifo_inner
+# End time: 14:25:58 on Jan 09,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Compile of tfifo.vhd was successful.
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 14:25:58 on Jan 09,2025
+# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/logic.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity and_n
+# -- Compiling architecture arch of and_n
+# -- Compiling entity nand_n
+# -- Compiling architecture arch of nand_n
+# -- Compiling entity or_n
+# -- Compiling architecture arch of or_n
+# -- Compiling entity nor_n
+# -- Compiling architecture arch of nor_n
+# End time: 14:25:58 on Jan 09,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Compile of logic.vhd was successful.
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 14:25:58 on Jan 09,2025
+# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/shli.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity shli
+# -- Compiling architecture arch of shli
+# ** Error: (vcom-11) Could not find work.join.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/shli.vhd(28): (vcom-1195) Cannot find expanded name "work.join".
+# ** Error: /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/shli.vhd(28): Unknown expanded name.
+# ** Note: /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/shli.vhd(41): VHDL Compiler exiting
+# End time: 14:25:58 on Jan 09,2025, Elapsed time: 0:00:00
+# Errors: 3, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 14:25:58 on Jan 09,2025
+# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/fork_dataless.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity fork_dataless
+# -- Compiling architecture arch of fork_dataless
+# -- Loading entity or_n
+# -- Loading entity eager_fork_register_block
+# End time: 14:25:58 on Jan 09,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Compile of fork_dataless.vhd was successful.
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 14:25:58 on Jan 09,2025
+# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/types.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling package types
+# End time: 14:25:58 on Jan 09,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Compile of types.vhd was successful.
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 14:25:58 on Jan 09,2025
+# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/sink.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity sink
+# -- Compiling architecture arch of sink
+# End time: 14:25:58 on Jan 09,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Compile of sink.vhd was successful.
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 14:25:58 on Jan 09,2025
+# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/mux.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Loading package MATH_REAL
+# -- Loading package types
+# -- Compiling entity mux
+# -- Compiling architecture arch of mux
+# -- Loading entity tehb
+# End time: 14:25:58 on Jan 09,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Compile of mux.vhd was successful.
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 14:25:58 on Jan 09,2025
+# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/hls_verify_jacobi_1d_imper_tb.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Loading package std_logic_textio
+# -- Loading package NUMERIC_STD
+# -- Loading package sim_package
+# -- Compiling entity jacobi_1d_imper_wrapper_tb
+# -- Compiling architecture behav of jacobi_1d_imper_wrapper_tb
+# ** Warning: /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/hls_verify_jacobi_1d_imper_tb.vhd(90): (vcom-1236) Shared variables must be of a protected type.
+# -- Loading entity jacobi_1d_imper_wrapper
+# ** Error: (vcom-11) Could not find work.single_argument.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/hls_verify_jacobi_1d_imper_tb.vhd(137): (vcom-1195) Cannot find expanded name "work.single_argument".
+# ** Error: /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/hls_verify_jacobi_1d_imper_tb.vhd(137): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.two_port_ram.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/hls_verify_jacobi_1d_imper_tb.vhd(155): (vcom-1195) Cannot find expanded name "work.two_port_RAM".
+# ** Error: /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/hls_verify_jacobi_1d_imper_tb.vhd(155): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.two_port_ram.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/hls_verify_jacobi_1d_imper_tb.vhd(179): (vcom-1195) Cannot find expanded name "work.two_port_RAM".
+# ** Error: /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/hls_verify_jacobi_1d_imper_tb.vhd(179): Unknown expanded name.
+# -- Loading entity tb_join
+# ** Note: /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/hls_verify_jacobi_1d_imper_tb.vhd(414): VHDL Compiler exiting
+# End time: 14:25:58 on Jan 09,2025, Elapsed time: 0:00:00
+# Errors: 9, Warnings: 1
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 14:25:58 on Jan 09,2025
+# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/merge.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Loading package types
+# -- Compiling entity merge
+# -- Compiling architecture arch of merge
+# -- Loading entity tehb
+# End time: 14:25:58 on Jan 09,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Compile of merge.vhd was successful.
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 14:25:58 on Jan 09,2025
+# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/handshake_fork.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package types
+# -- Compiling entity handshake_fork
+# -- Compiling architecture arch of handshake_fork
+# -- Loading package NUMERIC_STD
+# -- Loading entity fork_dataless
+# End time: 14:25:58 on Jan 09,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Compile of handshake_fork.vhd was successful.
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 14:25:58 on Jan 09,2025
+# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/handshake_constant_0.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity handshake_constant_0
+# -- Compiling architecture arch of handshake_constant_0
+# End time: 14:25:58 on Jan 09,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Compile of handshake_constant_0.vhd was successful.
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 14:25:58 on Jan 09,2025
+# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/mem_to_bram.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity mem_to_bram
+# -- Compiling architecture arch of mem_to_bram
+# End time: 14:25:58 on Jan 09,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Compile of mem_to_bram.vhd was successful.
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 14:25:58 on Jan 09,2025
+# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/single_argument.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Loading package NUMERIC_STD
+# -- Loading package std_logic_textio
+# -- Loading package sim_package
+# -- Compiling entity single_argument
+# -- Compiling architecture behav of single_argument
+# ** Warning: /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/single_argument.vhd(40): (vcom-1236) Shared variables must be of a protected type.
+# End time: 14:25:58 on Jan 09,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 1
+# Compile of single_argument.vhd was successful.
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 14:25:58 on Jan 09,2025
+# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/join.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity join
+# -- Compiling architecture arch of join
+# -- Loading entity and_n
+# End time: 14:25:58 on Jan 09,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Compile of join.vhd was successful.
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 14:25:58 on Jan 09,2025
+# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/tehb_dataless.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity tehb_dataless
+# -- Compiling architecture arch of tehb_dataless
+# End time: 14:25:58 on Jan 09,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Compile of tehb_dataless.vhd was successful.
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 14:25:58 on Jan 09,2025
+# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/mc_support.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Loading package types
+# -- Compiling entity read_address_mux
+# -- Compiling architecture arch of read_address_mux
+# -- Compiling entity read_address_ready
+# -- Compiling architecture arch of read_address_ready
+# -- Compiling entity read_data_signals
+# -- Compiling architecture arch of read_data_signals
+# -- Compiling entity read_priority
+# -- Compiling architecture arch of read_priority
+# -- Compiling entity read_memory_arbiter
+# -- Compiling architecture arch of read_memory_arbiter
+# -- Loading entity read_priority
+# -- Loading entity read_address_mux
+# -- Loading entity read_address_ready
+# -- Loading entity read_data_signals
+# -- Compiling entity write_address_mux
+# -- Compiling architecture arch of write_address_mux
+# -- Compiling entity write_address_ready
+# -- Compiling architecture arch of write_address_ready
+# -- Compiling entity write_data_signals
+# -- Compiling architecture arch of write_data_signals
+# -- Compiling entity write_priority
+# -- Compiling architecture arch of write_priority
+# -- Compiling entity write_memory_arbiter
+# -- Compiling architecture arch of write_memory_arbiter
+# -- Loading entity write_priority
+# -- Loading entity write_address_mux
+# -- Loading entity write_address_ready
+# -- Loading entity write_data_signals
+# -- Compiling entity mc_control
+# -- Compiling architecture arch of mc_control
+# End time: 14:25:58 on Jan 09,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Compile of mc_support.vhd was successful.
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 14:25:58 on Jan 09,2025
+# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/mux_dataless.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Loading package MATH_REAL
+# -- Compiling entity mux_dataless
+# -- Compiling architecture arch of mux_dataless
+# -- Loading entity tehb_dataless
+# End time: 14:25:58 on Jan 09,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Compile of mux_dataless.vhd was successful.
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 14:25:58 on Jan 09,2025
+# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/load.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity load
+# -- Compiling architecture arch of load
+# -- Loading entity tehb
+# End time: 14:25:58 on Jan 09,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Compile of load.vhd was successful.
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 14:25:58 on Jan 09,2025
+# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/cond_br_dataless.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity cond_br_dataless
+# -- Compiling architecture arch of cond_br_dataless
+# -- Loading entity join
+# End time: 14:25:58 on Jan 09,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Compile of cond_br_dataless.vhd was successful.
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 14:25:58 on Jan 09,2025
+# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/store.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity store
+# -- Compiling architecture arch of store
+# -- Loading entity join
+# End time: 14:25:58 on Jan 09,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Compile of store.vhd was successful.
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 14:25:58 on Jan 09,2025
+# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/mem_controller_loadless.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Loading package types
+# -- Compiling entity mem_controller_loadless
+# -- Compiling architecture arch of mem_controller_loadless
+# -- Loading entity write_memory_arbiter
+# -- Loading entity mc_control
+# End time: 14:25:58 on Jan 09,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Compile of mem_controller_loadless.vhd was successful.
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 14:25:58 on Jan 09,2025
+# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/two_port_RAM.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Loading package NUMERIC_STD
+# -- Loading package std_logic_textio
+# -- Loading package sim_package
+# -- Compiling entity two_port_RAM
+# -- Compiling architecture behav of two_port_RAM
+# ** Warning: /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/two_port_RAM.vhd(47): (vcom-1236) Shared variables must be of a protected type.
+# End time: 14:25:58 on Jan 09,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 1
+# Compile of two_port_RAM.vhd was successful.
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 14:25:58 on Jan 09,2025
+# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/addi.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity addi
+# -- Compiling architecture arch of addi
+# -- Loading entity join
+# End time: 14:25:58 on Jan 09,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Compile of addi.vhd was successful.
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 14:25:58 on Jan 09,2025
+# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/oehb.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity oehb
+# -- Compiling architecture arch of oehb
+# -- Loading entity oehb_dataless
+# End time: 14:25:58 on Jan 09,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Compile of oehb.vhd was successful.
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 14:25:58 on Jan 09,2025
+# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/handshake_cmpi_1.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity handshake_cmpi_1
+# -- Compiling architecture arch of handshake_cmpi_1
+# -- Loading entity join
+# End time: 14:25:58 on Jan 09,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Compile of handshake_cmpi_1.vhd was successful.
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 14:25:58 on Jan 09,2025
+# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/handshake_cmpi_0.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity handshake_cmpi_0
+# -- Compiling architecture arch of handshake_cmpi_0
+# -- Loading entity join
+# End time: 14:25:58 on Jan 09,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Compile of handshake_cmpi_0.vhd was successful.
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 14:25:58 on Jan 09,2025
+# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/lazy_fork_dataless.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity lazy_fork_dataless
+# -- Compiling architecture arch of lazy_fork_dataless
+# -- Loading entity and_n
+# End time: 14:25:58 on Jan 09,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Compile of lazy_fork_dataless.vhd was successful.
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 14:25:58 on Jan 09,2025
+# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/jacobi_1d_imper.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity jacobi_1d_imper
+# -- Compiling architecture behavioral of jacobi_1d_imper
+# -- Loading entity fork_dataless
+# -- Loading entity handshake_lsq_lsq2
+# ** Error: (vcom-11) Could not find work.mem_controller.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/jacobi_1d_imper.vhd(736): (vcom-1195) Cannot find expanded name "work.mem_controller".
+# ** Error: /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/jacobi_1d_imper.vhd(736): Unknown expanded name.
+# -- Loading entity handshake_lsq_lsq3
+# -- Loading package MATH_REAL
+# -- Loading entity mux_dataless
+# -- Loading entity handshake_constant_0
+# -- Loading package types
+# -- Loading entity handshake_fork
+# -- Loading entity extsi
+# -- Loading entity merge
+# -- Loading entity tehb
+# -- Loading entity oehb_dataless
+# -- Loading entity tehb_dataless
+# -- Loading entity mux
+# -- Loading entity oehb
+# -- Loading entity handshake_constant_1
+# -- Loading entity cond_br_dataless
+# -- Loading entity sink_dataless
+# -- Loading entity lazy_fork_dataless
+# -- Loading entity cond_br
+# -- Loading entity sink
+# -- Loading entity trunci
+# -- Loading entity tfifo
+# -- Loading entity handshake_constant_2
+# -- Loading entity handshake_constant_3
+# -- Loading entity addi
+# -- Loading entity load
+# -- Loading entity shli
+# -- Loading entity store
+# -- Loading entity handshake_cmpi_0
+# -- Loading entity handshake_constant_4
+# -- Loading entity handshake_cmpi_1
+# ** Note: /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/jacobi_1d_imper.vhd(2807): VHDL Compiler exiting
+# End time: 14:25:58 on Jan 09,2025, Elapsed time: 0:00:00
+# Errors: 3, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 14:25:58 on Jan 09,2025
+# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/jacobi_1d_imper_wrapper.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity jacobi_1d_imper_wrapper
+# -- Compiling architecture behavioral of jacobi_1d_imper_wrapper
+# -- Loading entity mem_to_bram
+# -- Loading entity jacobi_1d_imper
+# End time: 14:25:58 on Jan 09,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Compile of jacobi_1d_imper_wrapper.vhd was successful.
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 14:25:58 on Jan 09,2025
+# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/mem_controller.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Loading package types
+# -- Compiling entity mem_controller
+# -- Compiling architecture arch of mem_controller
+# -- Loading entity mem_controller_loadless
+# -- Loading entity read_memory_arbiter
+# End time: 14:25:58 on Jan 09,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Compile of mem_controller.vhd was successful.
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 14:25:58 on Jan 09,2025
+# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/tehb.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity tehb
+# -- Compiling architecture arch of tehb
+# -- Loading entity tehb_dataless
+# End time: 14:25:58 on Jan 09,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Compile of tehb.vhd was successful.
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 14:25:58 on Jan 09,2025
+# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/shli.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity shli
+# -- Compiling architecture arch of shli
+# -- Loading entity join
+# End time: 14:25:58 on Jan 09,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Compile of shli.vhd was successful.
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 14:25:58 on Jan 09,2025
+# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/hls_verify_jacobi_1d_imper_tb.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Loading package std_logic_textio
+# -- Loading package NUMERIC_STD
+# -- Loading package sim_package
+# -- Compiling entity jacobi_1d_imper_wrapper_tb
+# -- Compiling architecture behav of jacobi_1d_imper_wrapper_tb
+# ** Warning: /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/hls_verify_jacobi_1d_imper_tb.vhd(90): (vcom-1236) Shared variables must be of a protected type.
+# -- Loading entity jacobi_1d_imper_wrapper
+# -- Loading entity single_argument
+# -- Loading entity two_port_RAM
+# -- Loading entity tb_join
+# End time: 14:25:58 on Jan 09,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 1
+# Compile of hls_verify_jacobi_1d_imper_tb.vhd was successful.
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 14:25:58 on Jan 09,2025
+# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/jacobi_1d_imper.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity jacobi_1d_imper
+# -- Compiling architecture behavioral of jacobi_1d_imper
+# -- Loading entity fork_dataless
+# -- Loading entity handshake_lsq_lsq2
+# -- Loading package types
+# -- Loading entity mem_controller
+# -- Loading entity handshake_lsq_lsq3
+# -- Loading package MATH_REAL
+# -- Loading entity mux_dataless
+# -- Loading entity handshake_constant_0
+# -- Loading entity handshake_fork
+# -- Loading entity extsi
+# -- Loading entity merge
+# -- Loading entity tehb
+# -- Loading entity oehb_dataless
+# -- Loading entity tehb_dataless
+# -- Loading entity mux
+# -- Loading entity oehb
+# -- Loading entity handshake_constant_1
+# -- Loading entity cond_br_dataless
+# -- Loading entity sink_dataless
+# -- Loading entity lazy_fork_dataless
+# -- Loading entity cond_br
+# -- Loading entity sink
+# -- Loading entity trunci
+# -- Loading entity tfifo
+# -- Loading entity handshake_constant_2
+# -- Loading entity handshake_constant_3
+# -- Loading entity addi
+# -- Loading entity load
+# -- Loading entity shli
+# -- Loading entity store
+# -- Loading entity handshake_cmpi_0
+# -- Loading entity handshake_constant_4
+# -- Loading entity handshake_cmpi_1
+# End time: 14:25:58 on Jan 09,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Compile of jacobi_1d_imper.vhd was successful.
+# All compile dependencies have been resolved.vcom -work work -2008 -explicit -stats=none /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/sink_dataless.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity sink_dataless
+# -- Compiling architecture arch of sink_dataless
+# vcom -work work -2008 -explicit -stats=none /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/handshake_lsq_lsq3_core.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity handshake_lsq_lsq3_core_ga
+# -- Compiling architecture arch of handshake_lsq_lsq3_core_ga
+# -- Compiling entity handshake_lsq_lsq3_core_lda
+# -- Compiling architecture arch of handshake_lsq_lsq3_core_lda
+# -- Compiling entity handshake_lsq_lsq3_core_ldd
+# -- Compiling architecture arch of handshake_lsq_lsq3_core_ldd
+# -- Compiling entity handshake_lsq_lsq3_core_sta
+# -- Compiling architecture arch of handshake_lsq_lsq3_core_sta
+# -- Compiling entity handshake_lsq_lsq3_core_std
+# -- Compiling architecture arch of handshake_lsq_lsq3_core_std
+# -- Compiling entity handshake_lsq_lsq3_core
+# -- Compiling architecture arch of handshake_lsq_lsq3_core
+# -- Loading entity handshake_lsq_lsq3_core_ga
+# -- Loading entity handshake_lsq_lsq3_core_lda
+# -- Loading entity handshake_lsq_lsq3_core_ldd
+# -- Loading entity handshake_lsq_lsq3_core_sta
+# -- Loading entity handshake_lsq_lsq3_core_std
+# vcom -work work -2008 -explicit -stats=none /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/elastic_fifo_inner.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity elastic_fifo_inner
+# -- Compiling architecture arch of elastic_fifo_inner
+# vcom -work work -2008 -explicit -stats=none /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/trunci.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity trunci
+# -- Compiling architecture arch of trunci
+# vcom -work work -2008 -explicit -stats=none /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/handshake_constant_2.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity handshake_constant_2
+# -- Compiling architecture arch of handshake_constant_2
+# vcom -work work -2008 -explicit -stats=none /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/handshake_lsq_lsq3.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity handshake_lsq_lsq3
+# -- Compiling architecture arch of handshake_lsq_lsq3
+# -- Loading entity handshake_lsq_lsq3_core
+# vcom -work work -2008 -explicit -stats=none /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/simpackage.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Loading package NUMERIC_STD
+# -- Loading package std_logic_textio
+# -- Compiling package sim_package
+# -- Compiling package body sim_package
+# -- Loading package sim_package
+# vcom -work work -2008 -explicit -stats=none /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/tb_join.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity tb_join
+# -- Compiling architecture arch of tb_join
+# vcom -work work -2008 -explicit -stats=none /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/eager_fork_register_block.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity eager_fork_register_block
+# -- Compiling architecture arch of eager_fork_register_block
+# vcom -work work -2008 -explicit -stats=none /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/handshake_constant_1.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity handshake_constant_1
+# -- Compiling architecture arch of handshake_constant_1
+# vcom -work work -2008 -explicit -stats=none /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/oehb_dataless.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity oehb_dataless
+# -- Compiling architecture arch of oehb_dataless
+# vcom -work work -2008 -explicit -stats=none /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/handshake_lsq_lsq2_core.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity handshake_lsq_lsq2_core_ga
+# -- Compiling architecture arch of handshake_lsq_lsq2_core_ga
+# -- Compiling entity handshake_lsq_lsq2_core_lda
+# -- Compiling architecture arch of handshake_lsq_lsq2_core_lda
+# -- Compiling entity handshake_lsq_lsq2_core_ldd
+# -- Compiling architecture arch of handshake_lsq_lsq2_core_ldd
+# -- Compiling entity handshake_lsq_lsq2_core_sta
+# -- Compiling architecture arch of handshake_lsq_lsq2_core_sta
+# -- Compiling entity handshake_lsq_lsq2_core_std
+# -- Compiling architecture arch of handshake_lsq_lsq2_core_std
+# -- Compiling entity handshake_lsq_lsq2_core
+# -- Compiling architecture arch of handshake_lsq_lsq2_core
+# -- Loading entity handshake_lsq_lsq2_core_ga
+# -- Loading entity handshake_lsq_lsq2_core_lda
+# -- Loading entity handshake_lsq_lsq2_core_ldd
+# -- Loading entity handshake_lsq_lsq2_core_sta
+# -- Loading entity handshake_lsq_lsq2_core_std
+# vcom -work work -2008 -explicit -stats=none /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/handshake_constant_4.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity handshake_constant_4
+# -- Compiling architecture arch of handshake_constant_4
+# vcom -work work -2008 -explicit -stats=none /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/cond_br.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity cond_br
+# -- Compiling architecture arch of cond_br
+# -- Loading entity cond_br_dataless
+# vcom -work work -2008 -explicit -stats=none /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/extsi.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity extsi
+# -- Compiling architecture arch of extsi
+# vcom -work work -2008 -explicit -stats=none /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/handshake_constant_3.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity handshake_constant_3
+# -- Compiling architecture arch of handshake_constant_3
+# vcom -work work -2008 -explicit -stats=none /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/handshake_lsq_lsq2.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity handshake_lsq_lsq2
+# -- Compiling architecture arch of handshake_lsq_lsq2
+# -- Loading entity handshake_lsq_lsq2_core
+# vcom -work work -2008 -explicit -stats=none /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/tfifo.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity tfifo
+# -- Compiling architecture arch of tfifo
+# -- Loading entity elastic_fifo_inner
+# vcom -work work -2008 -explicit -stats=none /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/logic.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity and_n
+# -- Compiling architecture arch of and_n
+# -- Compiling entity nand_n
+# -- Compiling architecture arch of nand_n
+# -- Compiling entity or_n
+# -- Compiling architecture arch of or_n
+# -- Compiling entity nor_n
+# -- Compiling architecture arch of nor_n
+# vcom -work work -2008 -explicit -stats=none /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/fork_dataless.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity fork_dataless
+# -- Compiling architecture arch of fork_dataless
+# -- Loading entity or_n
+# -- Loading entity eager_fork_register_block
+# vcom -work work -2008 -explicit -stats=none /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/types.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling package types
+# vcom -work work -2008 -explicit -stats=none /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/sink.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity sink
+# -- Compiling architecture arch of sink
+# vcom -work work -2008 -explicit -stats=none /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/mux.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Loading package MATH_REAL
+# -- Loading package types
+# -- Compiling entity mux
+# -- Compiling architecture arch of mux
+# -- Loading entity tehb
+# vcom -work work -2008 -explicit -stats=none /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/merge.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Loading package types
+# -- Compiling entity merge
+# -- Compiling architecture arch of merge
+# -- Loading entity tehb
+# vcom -work work -2008 -explicit -stats=none /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/handshake_fork.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package types
+# -- Compiling entity handshake_fork
+# -- Compiling architecture arch of handshake_fork
+# -- Loading package NUMERIC_STD
+# -- Loading entity fork_dataless
+# vcom -work work -2008 -explicit -stats=none /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/handshake_constant_0.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity handshake_constant_0
+# -- Compiling architecture arch of handshake_constant_0
+# vcom -work work -2008 -explicit -stats=none /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/mem_to_bram.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity mem_to_bram
+# -- Compiling architecture arch of mem_to_bram
+# vcom -work work -2008 -explicit -stats=none /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/single_argument.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Loading package NUMERIC_STD
+# -- Loading package std_logic_textio
+# -- Loading package sim_package
+# -- Compiling entity single_argument
+# -- Compiling architecture behav of single_argument
+# ** Warning: /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/single_argument.vhd(40): (vcom-1236) Shared variables must be of a protected type.
+# vcom -work work -2008 -explicit -stats=none /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/join.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity join
+# -- Compiling architecture arch of join
+# -- Loading entity and_n
+# vcom -work work -2008 -explicit -stats=none /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/tehb_dataless.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity tehb_dataless
+# -- Compiling architecture arch of tehb_dataless
+# vcom -work work -2008 -explicit -stats=none /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/mc_support.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Loading package types
+# -- Compiling entity read_address_mux
+# -- Compiling architecture arch of read_address_mux
+# -- Compiling entity read_address_ready
+# -- Compiling architecture arch of read_address_ready
+# -- Compiling entity read_data_signals
+# -- Compiling architecture arch of read_data_signals
+# -- Compiling entity read_priority
+# -- Compiling architecture arch of read_priority
+# -- Compiling entity read_memory_arbiter
+# -- Compiling architecture arch of read_memory_arbiter
+# -- Loading entity read_priority
+# -- Loading entity read_address_mux
+# -- Loading entity read_address_ready
+# -- Loading entity read_data_signals
+# -- Compiling entity write_address_mux
+# -- Compiling architecture arch of write_address_mux
+# -- Compiling entity write_address_ready
+# -- Compiling architecture arch of write_address_ready
+# -- Compiling entity write_data_signals
+# -- Compiling architecture arch of write_data_signals
+# -- Compiling entity write_priority
+# -- Compiling architecture arch of write_priority
+# -- Compiling entity write_memory_arbiter
+# -- Compiling architecture arch of write_memory_arbiter
+# -- Loading entity write_priority
+# -- Loading entity write_address_mux
+# -- Loading entity write_address_ready
+# -- Loading entity write_data_signals
+# -- Compiling entity mc_control
+# -- Compiling architecture arch of mc_control
+# vcom -work work -2008 -explicit -stats=none /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/mux_dataless.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Loading package MATH_REAL
+# -- Compiling entity mux_dataless
+# -- Compiling architecture arch of mux_dataless
+# -- Loading entity tehb_dataless
+# vcom -work work -2008 -explicit -stats=none /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/load.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity load
+# -- Compiling architecture arch of load
+# -- Loading entity tehb
+# vcom -work work -2008 -explicit -stats=none /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/cond_br_dataless.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity cond_br_dataless
+# -- Compiling architecture arch of cond_br_dataless
+# -- Loading entity join
+# vcom -work work -2008 -explicit -stats=none /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/store.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity store
+# -- Compiling architecture arch of store
+# -- Loading entity join
+# vcom -work work -2008 -explicit -stats=none /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/mem_controller_loadless.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Loading package types
+# -- Compiling entity mem_controller_loadless
+# -- Compiling architecture arch of mem_controller_loadless
+# -- Loading entity write_memory_arbiter
+# -- Loading entity mc_control
+# vcom -work work -2008 -explicit -stats=none /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/two_port_RAM.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Loading package NUMERIC_STD
+# -- Loading package std_logic_textio
+# -- Loading package sim_package
+# -- Compiling entity two_port_RAM
+# -- Compiling architecture behav of two_port_RAM
+# ** Warning: /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/two_port_RAM.vhd(47): (vcom-1236) Shared variables must be of a protected type.
+# vcom -work work -2008 -explicit -stats=none /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/addi.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity addi
+# -- Compiling architecture arch of addi
+# -- Loading entity join
+# vcom -work work -2008 -explicit -stats=none /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/oehb.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity oehb
+# -- Compiling architecture arch of oehb
+# -- Loading entity oehb_dataless
+# vcom -work work -2008 -explicit -stats=none /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/handshake_cmpi_1.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity handshake_cmpi_1
+# -- Compiling architecture arch of handshake_cmpi_1
+# -- Loading entity join
+# vcom -work work -2008 -explicit -stats=none /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/handshake_cmpi_0.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity handshake_cmpi_0
+# -- Compiling architecture arch of handshake_cmpi_0
+# -- Loading entity join
+# vcom -work work -2008 -explicit -stats=none /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/lazy_fork_dataless.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity lazy_fork_dataless
+# -- Compiling architecture arch of lazy_fork_dataless
+# -- Loading entity and_n
+# vcom -work work -2008 -explicit -stats=none /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/jacobi_1d_imper_wrapper.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity jacobi_1d_imper_wrapper
+# -- Compiling architecture behavioral of jacobi_1d_imper_wrapper
+# -- Loading entity mem_to_bram
+# -- Loading entity jacobi_1d_imper
+# vcom -work work -2008 -explicit -stats=none /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/mem_controller.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Loading package types
+# -- Compiling entity mem_controller
+# -- Compiling architecture arch of mem_controller
+# -- Loading entity mem_controller_loadless
+# -- Loading entity read_memory_arbiter
+# vcom -work work -2008 -explicit -stats=none /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/tehb.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity tehb
+# -- Compiling architecture arch of tehb
+# -- Loading entity tehb_dataless
+# vcom -work work -2008 -explicit -stats=none /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/shli.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity shli
+# -- Compiling architecture arch of shli
+# -- Loading entity join
+# vcom -work work -2008 -explicit -stats=none /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/hls_verify_jacobi_1d_imper_tb.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Loading package std_logic_textio
+# -- Loading package NUMERIC_STD
+# -- Loading package sim_package
+# -- Compiling entity jacobi_1d_imper_wrapper_tb
+# -- Compiling architecture behav of jacobi_1d_imper_wrapper_tb
+# ** Warning: /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/hls_verify_jacobi_1d_imper_tb.vhd(90): (vcom-1236) Shared variables must be of a protected type.
+# -- Loading entity jacobi_1d_imper_wrapper
+# -- Loading entity single_argument
+# -- Loading entity two_port_RAM
+# -- Loading entity tb_join
+# vcom -work work -2008 -explicit -stats=none /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/jacobi_1d_imper.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity jacobi_1d_imper
+# -- Compiling architecture behavioral of jacobi_1d_imper
+# -- Loading entity fork_dataless
+# -- Loading entity handshake_lsq_lsq2
+# -- Loading package types
+# -- Loading entity mem_controller
+# -- Loading entity handshake_lsq_lsq3
+# -- Loading package MATH_REAL
+# -- Loading entity mux_dataless
+# -- Loading entity handshake_constant_0
+# -- Loading entity handshake_fork
+# -- Loading entity extsi
+# -- Loading entity merge
+# -- Loading entity tehb
+# -- Loading entity oehb_dataless
+# -- Loading entity tehb_dataless
+# -- Loading entity mux
+# -- Loading entity oehb
+# -- Loading entity handshake_constant_1
+# -- Loading entity cond_br_dataless
+# -- Loading entity sink_dataless
+# -- Loading entity lazy_fork_dataless
+# -- Loading entity cond_br
+# -- Loading entity sink
+# -- Loading entity trunci
+# -- Loading entity tfifo
+# -- Loading entity handshake_constant_2
+# -- Loading entity handshake_constant_3
+# -- Loading entity addi
+# -- Loading entity load
+# -- Loading entity shli
+# -- Loading entity store
+# -- Loading entity handshake_cmpi_0
+# -- Loading entity handshake_constant_4
+# -- Loading entity handshake_cmpi_1
+# 48 compiles, 0 failed with no errors.
+# vsim jacobi_1d_imper_wrapper_tb 
+# Start time: 14:26:00 on Jan 09,2025
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_unsigned(body)
+# Loading ieee.std_logic_textio(body)
+# Loading ieee.numeric_std(body)
+# Loading work.sim_package(body)
+# Loading work.jacobi_1d_imper_wrapper_tb(behav)
+# Loading work.jacobi_1d_imper_wrapper(behavioral)
+# Loading work.mem_to_bram(arch)
+# Loading work.types
+# Loading ieee.math_real(body)
+# Loading work.jacobi_1d_imper(behavioral)
+# Loading work.fork_dataless(arch)
+# Loading work.or_n(arch)
+# Loading work.eager_fork_register_block(arch)
+# Loading work.handshake_lsq_lsq2(arch)
+# Loading work.handshake_lsq_lsq2_core(arch)
+# Loading work.handshake_lsq_lsq2_core_ga(arch)
+# Loading work.handshake_lsq_lsq2_core_lda(arch)
+# Loading work.handshake_lsq_lsq2_core_ldd(arch)
+# Loading work.handshake_lsq_lsq2_core_sta(arch)
+# Loading work.handshake_lsq_lsq2_core_std(arch)
+# Loading work.mem_controller(arch)
+# Loading work.mem_controller_loadless(arch)
+# Loading work.write_memory_arbiter(arch)
+# Loading work.write_priority(arch)
+# Loading work.write_address_mux(arch)
+# Loading work.write_address_ready(arch)
+# Loading work.write_data_signals(arch)
+# Loading work.mc_control(arch)
+# Loading work.read_memory_arbiter(arch)
+# Loading work.read_priority(arch)
+# Loading work.read_address_mux(arch)
+# Loading work.read_address_ready(arch)
+# Loading work.read_data_signals(arch)
+# Loading work.handshake_lsq_lsq3(arch)
+# Loading work.handshake_lsq_lsq3_core(arch)
+# Loading work.handshake_lsq_lsq3_core_ga(arch)
+# Loading work.handshake_lsq_lsq3_core_lda(arch)
+# Loading work.handshake_lsq_lsq3_core_ldd(arch)
+# Loading work.handshake_lsq_lsq3_core_sta(arch)
+# Loading work.handshake_lsq_lsq3_core_std(arch)
+# Loading work.mux_dataless(arch)
+# Loading work.tehb_dataless(arch)
+# Loading work.handshake_constant_0(arch)
+# Loading work.handshake_fork(arch)
+# Loading work.extsi(arch)
+# Loading work.merge(arch)
+# Loading work.tehb(arch)
+# Loading work.oehb_dataless(arch)
+# Loading work.mux(arch)
+# Loading work.oehb(arch)
+# Loading work.handshake_constant_1(arch)
+# Loading work.cond_br_dataless(arch)
+# Loading work.join(arch)
+# Loading work.and_n(arch)
+# Loading work.sink_dataless(arch)
+# Loading work.lazy_fork_dataless(arch)
+# Loading work.cond_br(arch)
+# Loading work.sink(arch)
+# Loading work.trunci(arch)
+# Loading work.tfifo(arch)
+# Loading work.elastic_fifo_inner(arch)
+# Loading work.handshake_constant_2(arch)
+# Loading work.handshake_constant_3(arch)
+# Loading work.addi(arch)
+# Loading work.load(arch)
+# Loading work.shli(arch)
+# Loading work.store(arch)
+# Loading work.handshake_cmpi_0(arch)
+# Loading work.handshake_constant_4(arch)
+# Loading work.handshake_cmpi_1(arch)
+# Loading work.single_argument(behav)
+# Loading work.two_port_ram(behav)
+# Loading work.tb_join(arch)
+# ** Warning: Design size of 61738 statements exceeds ModelSim-Intel FPGA Starter Edition recommended capacity.
+# Expect performance to be adversely affected.
+# ** Warning: NUMERIC_STD."<": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 0  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/cmpi2
+# ** Warning: NUMERIC_STD."<": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 0  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/cmpi1
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 0  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/mux17
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 0  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/mux17
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 0  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/mux15
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 0  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/mux15
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 0  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/mux11
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 0  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/mux11
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 0  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/mux10
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 0  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/mux10
+# ** Warning: NUMERIC_STD."<": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 0  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/cmpi0
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/shli0
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 0  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/mux14
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 0  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/mux14
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 0  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/mux5
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 0  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/mux5
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 0  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/mux9
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 0  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/mux9
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 0  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/mux0
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 0  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/mux0
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 0  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/mux2
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 0  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/mux2
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/lsq3/handshake_lsq_lsq3_core
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/lsq3/handshake_lsq_lsq3_core
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/lsq3/handshake_lsq_lsq3_core
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/lsq3/handshake_lsq_lsq3_core
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/lsq3/handshake_lsq_lsq3_core
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/lsq3/handshake_lsq_lsq3_core
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/lsq3/handshake_lsq_lsq3_core
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/lsq3/handshake_lsq_lsq3_core
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/lsq3/handshake_lsq_lsq3_core
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/lsq3/handshake_lsq_lsq3_core
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/lsq3/handshake_lsq_lsq3_core
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/lsq3/handshake_lsq_lsq3_core
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/lsq3/handshake_lsq_lsq3_core
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/lsq3/handshake_lsq_lsq3_core
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/lsq3/handshake_lsq_lsq3_core
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/lsq3/handshake_lsq_lsq3_core
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/lsq3/handshake_lsq_lsq3_core
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/lsq3/handshake_lsq_lsq3_core
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/lsq3/handshake_lsq_lsq3_core
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/lsq3/handshake_lsq_lsq3_core
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/lsq3/handshake_lsq_lsq3_core
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/lsq3/handshake_lsq_lsq3_core
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/lsq3/handshake_lsq_lsq3_core
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/lsq3/handshake_lsq_lsq3_core
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/lsq3/handshake_lsq_lsq3_core
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/lsq3/handshake_lsq_lsq3_core
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/lsq3/handshake_lsq_lsq3_core
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/lsq3/handshake_lsq_lsq3_core
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/lsq3/handshake_lsq_lsq3_core
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/lsq3/handshake_lsq_lsq3_core
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/lsq3/handshake_lsq_lsq3_core
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/lsq3/handshake_lsq_lsq3_core
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/lsq2/handshake_lsq_lsq2_core
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/lsq2/handshake_lsq_lsq2_core
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/lsq2/handshake_lsq_lsq2_core
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/lsq2/handshake_lsq_lsq2_core
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/lsq2/handshake_lsq_lsq2_core
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/lsq2/handshake_lsq_lsq2_core
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/lsq2/handshake_lsq_lsq2_core
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/lsq2/handshake_lsq_lsq2_core
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/lsq2/handshake_lsq_lsq2_core
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/lsq2/handshake_lsq_lsq2_core
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/lsq2/handshake_lsq_lsq2_core
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/lsq2/handshake_lsq_lsq2_core
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/lsq2/handshake_lsq_lsq2_core
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/lsq2/handshake_lsq_lsq2_core
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/lsq2/handshake_lsq_lsq2_core
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/lsq2/handshake_lsq_lsq2_core
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/lsq2/handshake_lsq_lsq2_core
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/lsq2/handshake_lsq_lsq2_core
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/lsq2/handshake_lsq_lsq2_core
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/lsq2/handshake_lsq_lsq2_core
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/lsq2/handshake_lsq_lsq2_core
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/lsq2/handshake_lsq_lsq2_core
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/lsq2/handshake_lsq_lsq2_core
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/lsq2/handshake_lsq_lsq2_core
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/lsq2/handshake_lsq_lsq2_core
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/lsq2/handshake_lsq_lsq2_core
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/lsq2/handshake_lsq_lsq2_core
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/lsq2/handshake_lsq_lsq2_core
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/lsq2/handshake_lsq_lsq2_core
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/lsq2/handshake_lsq_lsq2_core
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/lsq2/handshake_lsq_lsq2_core
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/lsq2/handshake_lsq_lsq2_core
+# ** Warning: NUMERIC_STD."<": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 1  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/cmpi2
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 1  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/lsq3/handshake_lsq_lsq3_core
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 1  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/lsq3/handshake_lsq_lsq3_core
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 1  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/lsq3/handshake_lsq_lsq3_core
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 1  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/lsq3/handshake_lsq_lsq3_core
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 1  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/lsq3/handshake_lsq_lsq3_core
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 1  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/lsq3/handshake_lsq_lsq3_core
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 1  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/lsq3/handshake_lsq_lsq3_core
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 1  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/lsq3/handshake_lsq_lsq3_core
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 1  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/lsq3/handshake_lsq_lsq3_core
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 1  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/lsq3/handshake_lsq_lsq3_core
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 1  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/lsq3/handshake_lsq_lsq3_core
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 1  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/lsq3/handshake_lsq_lsq3_core
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 1  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/lsq3/handshake_lsq_lsq3_core
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 1  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/lsq3/handshake_lsq_lsq3_core
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 1  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/lsq3/handshake_lsq_lsq3_core
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 1  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/lsq3/handshake_lsq_lsq3_core
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 1  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/lsq3/handshake_lsq_lsq3_core
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 1  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/lsq3/handshake_lsq_lsq3_core
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 1  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/lsq3/handshake_lsq_lsq3_core
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 1  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/lsq3/handshake_lsq_lsq3_core
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 1  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/lsq3/handshake_lsq_lsq3_core
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 1  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/lsq3/handshake_lsq_lsq3_core
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 1  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/lsq3/handshake_lsq_lsq3_core
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 1  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/lsq3/handshake_lsq_lsq3_core
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 1  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/lsq3/handshake_lsq_lsq3_core
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 1  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/lsq3/handshake_lsq_lsq3_core
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 1  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/lsq3/handshake_lsq_lsq3_core
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 1  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/lsq3/handshake_lsq_lsq3_core
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 1  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/lsq3/handshake_lsq_lsq3_core
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 1  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/lsq3/handshake_lsq_lsq3_core
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 1  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/lsq3/handshake_lsq_lsq3_core
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 1  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/lsq3/handshake_lsq_lsq3_core
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 1  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/lsq2/handshake_lsq_lsq2_core
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 1  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/lsq2/handshake_lsq_lsq2_core
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 1  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/lsq2/handshake_lsq_lsq2_core
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 1  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/lsq2/handshake_lsq_lsq2_core
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 1  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/lsq2/handshake_lsq_lsq2_core
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 1  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/lsq2/handshake_lsq_lsq2_core
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 1  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/lsq2/handshake_lsq_lsq2_core
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 1  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/lsq2/handshake_lsq_lsq2_core
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 1  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/lsq2/handshake_lsq_lsq2_core
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 1  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/lsq2/handshake_lsq_lsq2_core
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 1  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/lsq2/handshake_lsq_lsq2_core
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 1  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/lsq2/handshake_lsq_lsq2_core
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 1  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/lsq2/handshake_lsq_lsq2_core
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 1  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/lsq2/handshake_lsq_lsq2_core
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 1  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/lsq2/handshake_lsq_lsq2_core
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 1  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/lsq2/handshake_lsq_lsq2_core
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 1  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/lsq2/handshake_lsq_lsq2_core
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 1  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/lsq2/handshake_lsq_lsq2_core
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 1  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/lsq2/handshake_lsq_lsq2_core
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 1  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/lsq2/handshake_lsq_lsq2_core
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 1  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/lsq2/handshake_lsq_lsq2_core
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 1  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/lsq2/handshake_lsq_lsq2_core
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 1  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/lsq2/handshake_lsq_lsq2_core
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 1  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/lsq2/handshake_lsq_lsq2_core
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 1  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/lsq2/handshake_lsq_lsq2_core
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 1  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/lsq2/handshake_lsq_lsq2_core
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 1  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/lsq2/handshake_lsq_lsq2_core
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 1  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/lsq2/handshake_lsq_lsq2_core
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 1  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/lsq2/handshake_lsq_lsq2_core
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 1  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/lsq2/handshake_lsq_lsq2_core
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 1  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/lsq2/handshake_lsq_lsq2_core
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 1  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/lsq2/handshake_lsq_lsq2_core
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 1  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/mux2
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 1  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/mux2
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 1  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/mux0
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 1  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/mux0
+# ** Warning: NUMERIC_STD."<": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 2  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/cmpi2
+# ** Warning: NUMERIC_STD."<": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 2  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/cmpi1
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 2  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/shli0
+# ** Warning: NUMERIC_STD."<": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 2  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/cmpi0
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 3  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/mux5
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 3  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/mux5
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 3  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/mux14
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 3  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/mux14
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 3  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/mux11
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 3  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/mux11
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 3  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/mux10
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 3  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/mux10
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 3  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/mux17
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 3  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/mux17
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 3  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/mux15
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 3  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/mux15
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 3  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/mux2
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 3  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/mux2
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 3  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/mux9
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 3  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/mux9
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 3  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/mux0
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 3  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/mux0
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 4  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/mux14
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 4  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/mux14
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 4  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/mux17
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 4  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/mux17
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 4  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/mux9
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 4  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/mux9
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 2 ns  Iteration: 3  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/mux0
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 2 ns  Iteration: 3  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/mux0
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 2 ns  Iteration: 3  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/mux2
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 2 ns  Iteration: 3  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/mux2
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 2 ns  Iteration: 3  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/mux5
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 2 ns  Iteration: 3  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/mux5
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 2 ns  Iteration: 3  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/mux10
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 2 ns  Iteration: 3  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/mux10
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 2 ns  Iteration: 3  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/mux11
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 2 ns  Iteration: 3  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/mux11
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 2 ns  Iteration: 3  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/mux15
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 2 ns  Iteration: 3  Instance: /jacobi_1d_imper_wrapper_tb/duv/jacobi_1d_imper_wrapped/mux15
+# ** Note: simulation done!
+#    Time: 662 ns  Iteration: 1  Instance: /jacobi_1d_imper_wrapper_tb
+# ** Failure: NORMAL EXIT (note: failure is to force the simulator to stop)
+#    Time: 662 ns  Iteration: 1  Process: /jacobi_1d_imper_wrapper_tb/generate_sim_done_proc File: /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/hls_verify_jacobi_1d_imper_tb.vhd
+# Break in Process generate_sim_done_proc at /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/hls_verify_jacobi_1d_imper_tb.vhd line 323
+# Stopped at /home/giacomo/dynamatic/integration-test/jacobi_1d_imper/out/sim/VHDL_SRC/hls_verify_jacobi_1d_imper_tb.vhd line 323
+# End time: 14:26:01 on Jan 09,2025, Elapsed time: 0:00:01
+# Errors: 1, Warnings: 248

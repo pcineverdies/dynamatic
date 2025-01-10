@@ -3,9 +3,9 @@
 
 typedef int inout_int_t;
 
-#define N 100
-#define TSTEPS 3
+#define N 50
+#define TSTEPS 2
 
-void jacobi_1d_imper(inout_int_t A[N], inout_int_t B[N]);
+int jacobi_1d_imper(inout_int_t A[N], inout_int_t B[N]);
 
 #endif // JACOBI_1D_IMPER_JACOBI_1D_IMPER_H

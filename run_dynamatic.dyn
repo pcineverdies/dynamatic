@@ -1,0 +1,11 @@
+set-src integration-test/sobel/sobel.c
+compile --fast-token-delivery --straight-to-queue
+write-hdl 
+simulate 
+exit
+
+#   CURRENT FAILING WITH SQ:
+#   ./integration-test/lu/lu.c
+#   ./integration-test/gemver/gemver.c                      -> works by postponing the activation of LFs in the last outer for loop (if condition over the whole for).
+#   ./integration-test/gemver_float/gemver_float.c          -> Same as above.
+#   ./integration-test/memory/test_memory_6/test_memory_6.c -> LSQ issue?

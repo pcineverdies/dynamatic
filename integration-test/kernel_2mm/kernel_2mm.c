@@ -11,7 +11,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-void kernel_2mm(in_int_t alpha, in_int_t beta, inout_int_t tmp[NI][NJ],
+int kernel_2mm(in_int_t alpha, in_int_t beta, inout_int_t tmp[NI][NJ],
                 in_int_t A[NI][NK], in_int_t B[NK][NJ], in_int_t C[NK][NL],
                 inout_int_t D[NI][NL]) {
   for (unsigned i = 0; i < NI; i++) {
@@ -29,6 +29,8 @@ void kernel_2mm(in_int_t alpha, in_int_t beta, inout_int_t tmp[NI][NJ],
         D[i][l] += tmp[i][k] * C[k][l];
     }
   }
+
+  return D[NI-1][NL-1];
 }
 
 int main(void) {

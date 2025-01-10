@@ -16,8 +16,8 @@
 #include "dynamatic/Analysis/NameAnalysis.h"
 #include "dynamatic/Dialect/Handshake/HandshakeAttributes.h"
 #include "dynamatic/Dialect/Handshake/HandshakeOps.h"
-#include "dynamatic/Support/Attribute.h"
 #include "dynamatic/Dialect/Handshake/HandshakeTypes.h"
+#include "dynamatic/Support/Attribute.h"
 #include "dynamatic/Support/CFG.h"
 #include "dynamatic/Support/Logging.h"
 #include "dynamatic/Transforms/BufferPlacement/BufferingSupport.h"
@@ -514,6 +514,10 @@ LogicalResult HandshakePlaceBuffersPass::placeWithoutUsingMILP() {
     // at least one opaque and one transparent slot, unless a constraint
     // explicitly prevents us from putting a buffer there
     for (auto mergeLikeOp : funcOp.getOps<MergeLikeOpInterface>()) {
+
+      if (mergeLikeOp->hasAttr("ftd.imerge"))
+        continue;
+
       ChannelBufProps &resProps = channelProps[mergeLikeOp->getResult(0)];
       if (resProps.maxTrans.value_or(1) >= 1) {
         resProps.minTrans = std::max(resProps.minTrans, 1U);
@@ -530,6 +534,21 @@ LogicalResult HandshakePlaceBuffersPass::placeWithoutUsingMILP() {
             << "Cannot place opaque buffer on merge-like operation's "
                "output due to channel-specific buffering constraints. This may "
                "yield an invalid buffering.";
+      }
+    }
+
+    for (auto sostInterfaceOp : funcOp.getOps<handshake::ForkOp>()) {
+      for (auto res : sostInterfaceOp->getResults()) {
+        ChannelBufProps &resProps = channelProps[res];
+        if (resProps.maxTrans.value_or(1) >= 1) {
+          resProps.minTrans = std::max(resProps.minTrans, 5U);
+        } else {
+          sostInterfaceOp->emitWarning()
+              << "Cannot place transparent buffer on merge-like operation's "
+                 "output due to channel-specific buffering constraints. This "
+                 "may "
+                 "yield an invalid buffering.";
+        }
       }
     }
 
@@ -590,3 +609,4 @@ dynamatic::buffer::createHandshakePlaceBuffers(
       algorithm, frequencies, timingModels, firstCFDFC, targetCP, timeout,
       dumpLogs);
 }
+
