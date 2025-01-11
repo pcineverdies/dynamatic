@@ -4,7 +4,7 @@
 # Modifying modelsim.ini
 # Loading project simulation
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 14:54:23 on Jan 09,2025
+# Start time: 19:57:38 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/mc_support.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -14,10 +14,10 @@
 # ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/mc_support.vhd(5): (vcom-1195) Cannot find expanded name "work.types".
 # ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/mc_support.vhd(5): Unknown expanded name.
 # ** Note: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/mc_support.vhd(7): VHDL Compiler exiting
-# End time: 14:54:23 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 19:57:38 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 3, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 14:54:23 on Jan 09,2025
+# Start time: 19:57:38 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/mux_dataless.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -30,10 +30,10 @@
 # ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/mux_dataless.vhd(51): (vcom-1195) Cannot find expanded name "work.tehb_dataless".
 # ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/mux_dataless.vhd(51): Unknown expanded name.
 # ** Note: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/mux_dataless.vhd(62): VHDL Compiler exiting
-# End time: 14:54:23 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 19:57:38 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 3, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 14:54:23 on Jan 09,2025
+# Start time: 19:57:38 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/load.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -48,10 +48,10 @@
 # ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/load.vhd(50): (vcom-1195) Cannot find expanded name "work.tehb".
 # ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/load.vhd(50): Unknown expanded name.
 # ** Note: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/load.vhd(66): VHDL Compiler exiting
-# End time: 14:54:23 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 19:57:38 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 6, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 14:54:23 on Jan 09,2025
+# Start time: 19:57:38 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/cond_br_dataless.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -63,10 +63,10 @@
 # ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/cond_br_dataless.vhd(27): (vcom-1195) Cannot find expanded name "work.join".
 # ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/cond_br_dataless.vhd(27): Unknown expanded name.
 # ** Note: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/cond_br_dataless.vhd(45): VHDL Compiler exiting
-# End time: 14:54:23 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 19:57:38 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 3, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 14:54:23 on Jan 09,2025
+# Start time: 19:57:38 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/store.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -78,10 +78,10 @@
 # ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/store.vhd(35): (vcom-1195) Cannot find expanded name "work.join".
 # ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/store.vhd(35): Unknown expanded name.
 # ** Note: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/store.vhd(56): VHDL Compiler exiting
-# End time: 14:54:23 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 19:57:38 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 3, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 14:54:23 on Jan 09,2025
+# Start time: 19:57:38 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/sink_dataless.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -89,11 +89,11 @@
 # -- Loading package NUMERIC_STD
 # -- Compiling entity sink_dataless
 # -- Compiling architecture arch of sink_dataless
-# End time: 14:54:23 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 19:57:38 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of sink_dataless.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 14:54:23 on Jan 09,2025
+# Start time: 19:57:38 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/handshake_lsq_lsq3_core.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -116,11 +116,11 @@
 # -- Loading entity handshake_lsq_lsq3_core_ldd
 # -- Loading entity handshake_lsq_lsq3_core_sta
 # -- Loading entity handshake_lsq_lsq3_core_std
-# End time: 14:54:23 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 19:57:38 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of handshake_lsq_lsq3_core.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 14:54:23 on Jan 09,2025
+# Start time: 19:57:38 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/two_port_RAM.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -133,10 +133,10 @@
 # ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/two_port_RAM.vhd(8): (vcom-1195) Cannot find expanded name "work.sim_package".
 # ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/two_port_RAM.vhd(8): Unknown expanded name.
 # ** Note: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/two_port_RAM.vhd(11): VHDL Compiler exiting
-# End time: 14:54:23 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 19:57:38 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 3, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 14:54:23 on Jan 09,2025
+# Start time: 19:57:38 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/elastic_fifo_inner.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -144,11 +144,11 @@
 # -- Loading package NUMERIC_STD
 # -- Compiling entity elastic_fifo_inner
 # -- Compiling architecture arch of elastic_fifo_inner
-# End time: 14:54:23 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 19:57:38 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of elastic_fifo_inner.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 14:54:23 on Jan 09,2025
+# Start time: 19:57:38 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/delay_buffer.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -156,11 +156,11 @@
 # -- Loading package NUMERIC_STD
 # -- Compiling entity delay_buffer
 # -- Compiling architecture arch of delay_buffer
-# End time: 14:54:23 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 19:57:38 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of delay_buffer.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 14:54:23 on Jan 09,2025
+# Start time: 19:57:38 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/trunci.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -168,11 +168,11 @@
 # -- Loading package NUMERIC_STD
 # -- Compiling entity trunci
 # -- Compiling architecture arch of trunci
-# End time: 14:54:23 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 19:57:38 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of trunci.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 14:54:23 on Jan 09,2025
+# Start time: 19:57:38 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/handshake_constant_2.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -180,11 +180,11 @@
 # -- Loading package NUMERIC_STD
 # -- Compiling entity handshake_constant_2
 # -- Compiling architecture arch of handshake_constant_2
-# End time: 14:54:23 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 19:57:38 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of handshake_constant_2.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 14:54:23 on Jan 09,2025
+# Start time: 19:57:38 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/handshake_lsq_lsq3.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -193,11 +193,11 @@
 # -- Compiling entity handshake_lsq_lsq3
 # -- Compiling architecture arch of handshake_lsq_lsq3
 # -- Loading entity handshake_lsq_lsq3_core
-# End time: 14:54:23 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 19:57:38 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of handshake_lsq_lsq3.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 14:54:23 on Jan 09,2025
+# Start time: 19:57:38 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/mem_controller_storeless.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -207,10 +207,10 @@
 # ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/mem_controller_storeless.vhd(4): (vcom-1195) Cannot find expanded name "work.types".
 # ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/mem_controller_storeless.vhd(4): Unknown expanded name.
 # ** Note: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/mem_controller_storeless.vhd(6): VHDL Compiler exiting
-# End time: 14:54:23 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 19:57:38 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 3, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 14:54:23 on Jan 09,2025
+# Start time: 19:57:38 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/extui.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -218,26 +218,11 @@
 # -- Loading package NUMERIC_STD
 # -- Compiling entity extui
 # -- Compiling architecture arch of extui
-# End time: 14:54:23 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 19:57:38 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of extui.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 14:54:23 on Jan 09,2025
-# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/tfifo_dataless.vhd 
-# -- Loading package STANDARD
-# -- Loading package TEXTIO
-# -- Loading package std_logic_1164
-# -- Loading package NUMERIC_STD
-# -- Compiling entity tfifo_dataless
-# -- Compiling architecture arch of tfifo_dataless
-# ** Error: (vcom-11) Could not find work.elastic_fifo_inner_dataless.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/tfifo_dataless.vhd(31): (vcom-1195) Cannot find expanded name "work.elastic_fifo_inner_dataless".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/tfifo_dataless.vhd(31): Unknown expanded name.
-# ** Note: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/tfifo_dataless.vhd(42): VHDL Compiler exiting
-# End time: 14:54:23 on Jan 09,2025, Elapsed time: 0:00:00
-# Errors: 3, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 14:54:23 on Jan 09,2025
+# Start time: 19:57:38 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/simpackage.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -249,11 +234,11 @@
 # -- Compiling package sim_package
 # -- Compiling package body sim_package
 # -- Loading package sim_package
-# End time: 14:54:23 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 19:57:38 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of simpackage.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 14:54:23 on Jan 09,2025
+# Start time: 19:57:38 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -262,484 +247,489 @@
 # -- Compiling entity atax
 # -- Compiling architecture behavioral of atax
 # ** Error: (vcom-11) Could not find work.fork_dataless.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(887): (vcom-1195) Cannot find expanded name "work.fork_dataless".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(887): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(820): (vcom-1195) Cannot find expanded name "work.fork_dataless".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(820): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.handshake_lsq_lsq2.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(917): (vcom-1195) Cannot find expanded name "work.handshake_lsq_lsq2".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(917): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(848): (vcom-1195) Cannot find expanded name "work.handshake_lsq_lsq2".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(848): Unknown expanded name.
 # -- Loading entity handshake_lsq_lsq3
 # ** Error: (vcom-11) Could not find work.mem_controller_storeless.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(991): (vcom-1195) Cannot find expanded name "work.mem_controller_storeless".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(991): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(922): (vcom-1195) Cannot find expanded name "work.mem_controller_storeless".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(922): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.mem_controller_storeless.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1015): (vcom-1195) Cannot find expanded name "work.mem_controller_storeless".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1015): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(946): (vcom-1195) Cannot find expanded name "work.mem_controller_storeless".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(946): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.source.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(976): (vcom-1195) Cannot find expanded name "work.source".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(976): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.handshake_constant_0.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(984): (vcom-1195) Cannot find expanded name "work.handshake_constant_0".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(984): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.extsi.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(995): (vcom-1195) Cannot find expanded name "work.extsi".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(995): Unknown expanded name.
 # -- Loading package MATH_REAL
 # -- Loading entity mux_dataless
 # ** Error: (vcom-11) Could not find work.handshake_constant_0.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1060): (vcom-1195) Cannot find expanded name "work.handshake_constant_0".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1060): Unknown expanded name.
-# ** Error: (vcom-11) Could not find work.handshake_fork.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1071): (vcom-1195) Cannot find expanded name "work.handshake_fork".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1071): Unknown expanded name.
-# ** Error: (vcom-11) Could not find work.extsi.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1086): (vcom-1195) Cannot find expanded name "work.extsi".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1086): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1022): (vcom-1195) Cannot find expanded name "work.handshake_constant_0".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1022): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.tfifo.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1098): (vcom-1195) Cannot find expanded name "work.tfifo".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1098): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1033): (vcom-1195) Cannot find expanded name "work.tfifo".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1033): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.merge.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1125): (vcom-1195) Cannot find expanded name "work.merge".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1125): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1060): (vcom-1195) Cannot find expanded name "work.merge".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1060): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.tehb.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1140): (vcom-1195) Cannot find expanded name "work.tehb".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1140): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1075): (vcom-1195) Cannot find expanded name "work.tehb".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1075): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.handshake_fork.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1152): (vcom-1195) Cannot find expanded name "work.handshake_fork".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1152): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1087): (vcom-1195) Cannot find expanded name "work.handshake_fork".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1087): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.oehb_dataless.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1173): (vcom-1195) Cannot find expanded name "work.oehb_dataless".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1173): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1105): (vcom-1195) Cannot find expanded name "work.oehb_dataless".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1105): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.tehb_dataless.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1183): (vcom-1195) Cannot find expanded name "work.tehb_dataless".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1183): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1115): (vcom-1195) Cannot find expanded name "work.tehb_dataless".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1115): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.lazy_fork_dataless.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1193): (vcom-1195) Cannot find expanded name "work.lazy_fork_dataless".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1193): Unknown expanded name.
-# ** Error: (vcom-11) Could not find work.oehb_dataless.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1220): (vcom-1195) Cannot find expanded name "work.oehb_dataless".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1220): Unknown expanded name.
-# ** Error: (vcom-11) Could not find work.tehb_dataless.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1230): (vcom-1195) Cannot find expanded name "work.tehb_dataless".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1230): Unknown expanded name.
-# ** Error: (vcom-11) Could not find work.fork_dataless.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1240): (vcom-1195) Cannot find expanded name "work.fork_dataless".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1240): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1125): (vcom-1195) Cannot find expanded name "work.lazy_fork_dataless".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1125): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.mux.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1260): (vcom-1195) Cannot find expanded name "work.mux".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1260): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1137): (vcom-1195) Cannot find expanded name "work.mux".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1137): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.oehb.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1278): (vcom-1195) Cannot find expanded name "work.oehb".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1278): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1155): (vcom-1195) Cannot find expanded name "work.oehb".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1155): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.tehb.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1290): (vcom-1195) Cannot find expanded name "work.tehb".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1290): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1167): (vcom-1195) Cannot find expanded name "work.tehb".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1167): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.handshake_fork.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1302): (vcom-1195) Cannot find expanded name "work.handshake_fork".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1302): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1179): (vcom-1195) Cannot find expanded name "work.handshake_fork".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1179): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.extsi.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1326): (vcom-1195) Cannot find expanded name "work.extsi".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1326): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1203): (vcom-1195) Cannot find expanded name "work.extsi".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1203): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.tfifo.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1338): (vcom-1195) Cannot find expanded name "work.tfifo".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1338): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1215): (vcom-1195) Cannot find expanded name "work.tfifo".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1215): Unknown expanded name.
 # -- Loading entity trunci
+# ** Error: (vcom-11) Could not find work.source.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1251): (vcom-1195) Cannot find expanded name "work.source".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1251): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.handshake_constant_0.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1374): (vcom-1195) Cannot find expanded name "work.handshake_constant_0".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1374): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1259): (vcom-1195) Cannot find expanded name "work.handshake_constant_0".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1259): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.extsi.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1385): (vcom-1195) Cannot find expanded name "work.extsi".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1385): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1270): (vcom-1195) Cannot find expanded name "work.extsi".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1270): Unknown expanded name.
 # -- Loading entity load
 # ** Error: (vcom-11) Could not find work.tfifo.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1415): (vcom-1195) Cannot find expanded name "work.tfifo".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1415): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1300): (vcom-1195) Cannot find expanded name "work.tfifo".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1300): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.cond_br.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1427): (vcom-1195) Cannot find expanded name "work.cond_br".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1427): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1312): (vcom-1195) Cannot find expanded name "work.cond_br".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1312): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.sink.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1445): (vcom-1195) Cannot find expanded name "work.sink".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1445): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1330): (vcom-1195) Cannot find expanded name "work.sink".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1330): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.extsi.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1454): (vcom-1195) Cannot find expanded name "work.extsi".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1454): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1339): (vcom-1195) Cannot find expanded name "work.extsi".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1339): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.cond_br.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1466): (vcom-1195) Cannot find expanded name "work.cond_br".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1466): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1351): (vcom-1195) Cannot find expanded name "work.cond_br".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1351): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.handshake_fork.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1484): (vcom-1195) Cannot find expanded name "work.handshake_fork".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1484): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1369): (vcom-1195) Cannot find expanded name "work.handshake_fork".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1369): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.cond_br.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1499): (vcom-1195) Cannot find expanded name "work.cond_br".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1499): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1384): (vcom-1195) Cannot find expanded name "work.cond_br".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1384): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.sink.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1517): (vcom-1195) Cannot find expanded name "work.sink".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1517): Unknown expanded name.
-# -- Loading entity cond_br_dataless
-# -- Loading entity sink_dataless
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1402): (vcom-1195) Cannot find expanded name "work.sink".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1402): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.cond_br.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1549): (vcom-1195) Cannot find expanded name "work.cond_br".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1549): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1411): (vcom-1195) Cannot find expanded name "work.cond_br".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1411): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.sink.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1567): (vcom-1195) Cannot find expanded name "work.sink".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1567): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1429): (vcom-1195) Cannot find expanded name "work.sink".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1429): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.handshake_constant_0.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1576): (vcom-1195) Cannot find expanded name "work.handshake_constant_0".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1576): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1438): (vcom-1195) Cannot find expanded name "work.handshake_constant_0".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1438): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.merge.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1587): (vcom-1195) Cannot find expanded name "work.merge".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1587): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1449): (vcom-1195) Cannot find expanded name "work.merge".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1449): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.tehb.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1602): (vcom-1195) Cannot find expanded name "work.tehb".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1602): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1464): (vcom-1195) Cannot find expanded name "work.tehb".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1464): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.handshake_fork.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1614): (vcom-1195) Cannot find expanded name "work.handshake_fork".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1614): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1476): (vcom-1195) Cannot find expanded name "work.handshake_fork".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1476): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.mux.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1635): (vcom-1195) Cannot find expanded name "work.mux".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1635): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1494): (vcom-1195) Cannot find expanded name "work.mux".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1494): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.oehb.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1653): (vcom-1195) Cannot find expanded name "work.oehb".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1653): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1512): (vcom-1195) Cannot find expanded name "work.oehb".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1512): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.tehb.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1665): (vcom-1195) Cannot find expanded name "work.tehb".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1665): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1524): (vcom-1195) Cannot find expanded name "work.tehb".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1524): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.handshake_fork.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1677): (vcom-1195) Cannot find expanded name "work.handshake_fork".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1677): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1536): (vcom-1195) Cannot find expanded name "work.handshake_fork".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1536): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.extsi.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1707): (vcom-1195) Cannot find expanded name "work.extsi".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1707): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1566): (vcom-1195) Cannot find expanded name "work.extsi".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1566): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.extsi.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1719): (vcom-1195) Cannot find expanded name "work.extsi".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1719): Unknown expanded name.
-# ** Error: (vcom-11) Could not find work.oehb_dataless.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1746): (vcom-1195) Cannot find expanded name "work.oehb_dataless".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1746): Unknown expanded name.
-# ** Error: (vcom-11) Could not find work.tehb_dataless.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1756): (vcom-1195) Cannot find expanded name "work.tehb_dataless".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1756): Unknown expanded name.
-# ** Error: (vcom-11) Could not find work.fork_dataless.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1766): (vcom-1195) Cannot find expanded name "work.fork_dataless".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1766): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1578): (vcom-1195) Cannot find expanded name "work.extsi".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1578): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.mux.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1784): (vcom-1195) Cannot find expanded name "work.mux".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1784): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1590): (vcom-1195) Cannot find expanded name "work.mux".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1590): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.mux.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1802): (vcom-1195) Cannot find expanded name "work.mux".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1802): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1608): (vcom-1195) Cannot find expanded name "work.mux".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1608): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.oehb.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1820): (vcom-1195) Cannot find expanded name "work.oehb".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1820): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1626): (vcom-1195) Cannot find expanded name "work.oehb".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1626): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.tehb.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1832): (vcom-1195) Cannot find expanded name "work.tehb".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1832): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1638): (vcom-1195) Cannot find expanded name "work.tehb".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1638): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.handshake_fork.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1844): (vcom-1195) Cannot find expanded name "work.handshake_fork".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1844): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1650): (vcom-1195) Cannot find expanded name "work.handshake_fork".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1650): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.extsi.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1862): (vcom-1195) Cannot find expanded name "work.extsi".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1862): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1668): (vcom-1195) Cannot find expanded name "work.extsi".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1668): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.extsi.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1874): (vcom-1195) Cannot find expanded name "work.extsi".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1874): Unknown expanded name.
-# -- Loading entity tfifo_dataless
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1680): (vcom-1195) Cannot find expanded name "work.extsi".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1680): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.source.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1704): (vcom-1195) Cannot find expanded name "work.source".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1704): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.handshake_constant_0.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1908): (vcom-1195) Cannot find expanded name "work.handshake_constant_0".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1908): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1712): (vcom-1195) Cannot find expanded name "work.handshake_constant_0".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1712): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.source.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1723): (vcom-1195) Cannot find expanded name "work.source".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1723): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.handshake_constant_1.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1929): (vcom-1195) Cannot find expanded name "work.handshake_constant_1".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1929): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1731): (vcom-1195) Cannot find expanded name "work.handshake_constant_1".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1731): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.extsi.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1940): (vcom-1195) Cannot find expanded name "work.extsi".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1940): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1742): (vcom-1195) Cannot find expanded name "work.extsi".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1742): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.source.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1754): (vcom-1195) Cannot find expanded name "work.source".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1754): Unknown expanded name.
 # -- Loading entity handshake_constant_2
 # ** Error: (vcom-11) Could not find work.handshake_fork.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1963): (vcom-1195) Cannot find expanded name "work.handshake_fork".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1963): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1773): (vcom-1195) Cannot find expanded name "work.handshake_fork".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1773): Unknown expanded name.
 # -- Loading entity extui
 # ** Error: (vcom-11) Could not find work.extsi.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1990): (vcom-1195) Cannot find expanded name "work.extsi".
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1800): (vcom-1195) Cannot find expanded name "work.extsi".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1800): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.source.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1812): (vcom-1195) Cannot find expanded name "work.source".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1812): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.handshake_constant_3.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1820): (vcom-1195) Cannot find expanded name "work.handshake_constant_3".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1820): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.shli.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1843): (vcom-1195) Cannot find expanded name "work.shli".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1843): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.extsi.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1858): (vcom-1195) Cannot find expanded name "work.extsi".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1858): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.shli.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1870): (vcom-1195) Cannot find expanded name "work.shli".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1870): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.addi.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1885): (vcom-1195) Cannot find expanded name "work.addi".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1885): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.addi.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1900): (vcom-1195) Cannot find expanded name "work.addi".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1900): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.mulf.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1951): (vcom-1195) Cannot find expanded name "work.mulf".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1951): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.oehb.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1966): (vcom-1195) Cannot find expanded name "work.oehb".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1966): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.tehb.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1978): (vcom-1195) Cannot find expanded name "work.tehb".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1978): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.addf.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1990): (vcom-1195) Cannot find expanded name "work.addf".
 # ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1990): Unknown expanded name.
-# ** Error: (vcom-11) Could not find work.handshake_constant_3.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2002): (vcom-1195) Cannot find expanded name "work.handshake_constant_3".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2002): Unknown expanded name.
-# ** Error: (vcom-11) Could not find work.shli.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2025): (vcom-1195) Cannot find expanded name "work.shli".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2025): Unknown expanded name.
-# ** Error: (vcom-11) Could not find work.extsi.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2040): (vcom-1195) Cannot find expanded name "work.extsi".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2040): Unknown expanded name.
-# ** Error: (vcom-11) Could not find work.shli.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2052): (vcom-1195) Cannot find expanded name "work.shli".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2052): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.addi.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2067): (vcom-1195) Cannot find expanded name "work.addi".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2067): Unknown expanded name.
-# ** Error: (vcom-11) Could not find work.addi.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2082): (vcom-1195) Cannot find expanded name "work.addi".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2082): Unknown expanded name.
-# ** Error: (vcom-11) Could not find work.mulf.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2133): (vcom-1195) Cannot find expanded name "work.mulf".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2133): Unknown expanded name.
-# ** Error: (vcom-11) Could not find work.oehb.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2148): (vcom-1195) Cannot find expanded name "work.oehb".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2148): Unknown expanded name.
-# ** Error: (vcom-11) Could not find work.tehb.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2160): (vcom-1195) Cannot find expanded name "work.tehb".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2160): Unknown expanded name.
-# ** Error: (vcom-11) Could not find work.addf.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2172): (vcom-1195) Cannot find expanded name "work.addf".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2172): Unknown expanded name.
-# ** Error: (vcom-11) Could not find work.addi.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2187): (vcom-1195) Cannot find expanded name "work.addi".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2187): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2005): (vcom-1195) Cannot find expanded name "work.addi".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2005): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.handshake_fork.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2202): (vcom-1195) Cannot find expanded name "work.handshake_fork".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2202): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2020): (vcom-1195) Cannot find expanded name "work.handshake_fork".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2020): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.tfifo.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2229): (vcom-1195) Cannot find expanded name "work.tfifo".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2229): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2047): (vcom-1195) Cannot find expanded name "work.tfifo".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2047): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.handshake_cmpi_0.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2241): (vcom-1195) Cannot find expanded name "work.handshake_cmpi_0".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2241): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2059): (vcom-1195) Cannot find expanded name "work.handshake_cmpi_0".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2059): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.handshake_fork.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2256): (vcom-1195) Cannot find expanded name "work.handshake_fork".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2256): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2074): (vcom-1195) Cannot find expanded name "work.handshake_fork".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2074): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.tehb_dataless.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2283): (vcom-1195) Cannot find expanded name "work.tehb_dataless".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2283): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2098): (vcom-1195) Cannot find expanded name "work.tehb_dataless".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2098): Unknown expanded name.
+# -- Loading entity cond_br_dataless
 # ** Error: (vcom-11) Could not find work.handshake_constant_0.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2308): (vcom-1195) Cannot find expanded name "work.handshake_constant_0".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2308): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2123): (vcom-1195) Cannot find expanded name "work.handshake_constant_0".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2123): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.oehb_dataless.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2319): (vcom-1195) Cannot find expanded name "work.oehb_dataless".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2319): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2134): (vcom-1195) Cannot find expanded name "work.oehb_dataless".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2134): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.tehb_dataless.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2329): (vcom-1195) Cannot find expanded name "work.tehb_dataless".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2329): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2144): (vcom-1195) Cannot find expanded name "work.tehb_dataless".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2144): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.merge.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2354): (vcom-1195) Cannot find expanded name "work.merge".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2354): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2169): (vcom-1195) Cannot find expanded name "work.merge".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2169): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.tehb.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2369): (vcom-1195) Cannot find expanded name "work.tehb".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2369): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2184): (vcom-1195) Cannot find expanded name "work.tehb".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2184): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.handshake_fork.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2381): (vcom-1195) Cannot find expanded name "work.handshake_fork".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2381): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2196): (vcom-1195) Cannot find expanded name "work.handshake_fork".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2196): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.oehb_dataless.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2405): (vcom-1195) Cannot find expanded name "work.oehb_dataless".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2405): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2217): (vcom-1195) Cannot find expanded name "work.oehb_dataless".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2217): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.tehb_dataless.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2415): (vcom-1195) Cannot find expanded name "work.tehb_dataless".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2415): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2227): (vcom-1195) Cannot find expanded name "work.tehb_dataless".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2227): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.lazy_fork_dataless.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2425): (vcom-1195) Cannot find expanded name "work.lazy_fork_dataless".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2425): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2237): (vcom-1195) Cannot find expanded name "work.lazy_fork_dataless".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2237): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.cond_br.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2437): (vcom-1195) Cannot find expanded name "work.cond_br".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2437): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2249): (vcom-1195) Cannot find expanded name "work.cond_br".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2249): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.sink.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2455): (vcom-1195) Cannot find expanded name "work.sink".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2455): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2267): (vcom-1195) Cannot find expanded name "work.sink".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2267): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.cond_br.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2487): (vcom-1195) Cannot find expanded name "work.cond_br".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2487): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2276): (vcom-1195) Cannot find expanded name "work.cond_br".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2276): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.sink.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2505): (vcom-1195) Cannot find expanded name "work.sink".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2505): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2294): (vcom-1195) Cannot find expanded name "work.sink".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2294): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.cond_br.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2514): (vcom-1195) Cannot find expanded name "work.cond_br".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2514): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2303): (vcom-1195) Cannot find expanded name "work.cond_br".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2303): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.sink.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2532): (vcom-1195) Cannot find expanded name "work.sink".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2532): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2321): (vcom-1195) Cannot find expanded name "work.sink".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2321): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.tfifo.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2541): (vcom-1195) Cannot find expanded name "work.tfifo".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2541): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2330): (vcom-1195) Cannot find expanded name "work.tfifo".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2330): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.mux.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2553): (vcom-1195) Cannot find expanded name "work.mux".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2553): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2342): (vcom-1195) Cannot find expanded name "work.mux".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2342): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.oehb.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2571): (vcom-1195) Cannot find expanded name "work.oehb".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2571): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2360): (vcom-1195) Cannot find expanded name "work.oehb".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2360): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.tehb.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2583): (vcom-1195) Cannot find expanded name "work.tehb".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2583): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2372): (vcom-1195) Cannot find expanded name "work.tehb".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2372): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.handshake_fork.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2595): (vcom-1195) Cannot find expanded name "work.handshake_fork".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2595): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2384): (vcom-1195) Cannot find expanded name "work.handshake_fork".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2384): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.tfifo.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2610): (vcom-1195) Cannot find expanded name "work.tfifo".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2610): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2399): (vcom-1195) Cannot find expanded name "work.tfifo".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2399): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.mux.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2622): (vcom-1195) Cannot find expanded name "work.mux".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2622): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2411): (vcom-1195) Cannot find expanded name "work.mux".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2411): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.oehb.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2640): (vcom-1195) Cannot find expanded name "work.oehb".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2640): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2429): (vcom-1195) Cannot find expanded name "work.oehb".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2429): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.tehb.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2652): (vcom-1195) Cannot find expanded name "work.tehb".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2652): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2441): (vcom-1195) Cannot find expanded name "work.tehb".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2441): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.handshake_fork.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2664): (vcom-1195) Cannot find expanded name "work.handshake_fork".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2664): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2453): (vcom-1195) Cannot find expanded name "work.handshake_fork".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2453): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.extsi.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2694): (vcom-1195) Cannot find expanded name "work.extsi".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2694): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2483): (vcom-1195) Cannot find expanded name "work.extsi".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2483): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.extsi.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2706): (vcom-1195) Cannot find expanded name "work.extsi".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2706): Unknown expanded name.
-# ** Error: (vcom-11) Could not find work.oehb_dataless.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2743): (vcom-1195) Cannot find expanded name "work.oehb_dataless".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2743): Unknown expanded name.
-# ** Error: (vcom-11) Could not find work.tehb_dataless.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2753): (vcom-1195) Cannot find expanded name "work.tehb_dataless".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2753): Unknown expanded name.
-# ** Error: (vcom-11) Could not find work.fork_dataless.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2763): (vcom-1195) Cannot find expanded name "work.fork_dataless".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2763): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2495): (vcom-1195) Cannot find expanded name "work.extsi".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2495): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.mux.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2779): (vcom-1195) Cannot find expanded name "work.mux".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2779): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2507): (vcom-1195) Cannot find expanded name "work.mux".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2507): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.oehb.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2797): (vcom-1195) Cannot find expanded name "work.oehb".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2797): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2525): (vcom-1195) Cannot find expanded name "work.oehb".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2525): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.tehb.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2809): (vcom-1195) Cannot find expanded name "work.tehb".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2809): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2537): (vcom-1195) Cannot find expanded name "work.tehb".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2537): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.handshake_fork.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2821): (vcom-1195) Cannot find expanded name "work.handshake_fork".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2821): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2549): (vcom-1195) Cannot find expanded name "work.handshake_fork".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2549): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.extsi.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2842): (vcom-1195) Cannot find expanded name "work.extsi".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2842): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2570): (vcom-1195) Cannot find expanded name "work.extsi".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2570): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.extsi.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2854): (vcom-1195) Cannot find expanded name "work.extsi".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2854): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2582): (vcom-1195) Cannot find expanded name "work.extsi".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2582): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.tfifo.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2866): (vcom-1195) Cannot find expanded name "work.tfifo".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2866): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2594): (vcom-1195) Cannot find expanded name "work.tfifo".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2594): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.source.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2630): (vcom-1195) Cannot find expanded name "work.source".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2630): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.handshake_constant_1.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2902): (vcom-1195) Cannot find expanded name "work.handshake_constant_1".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2902): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2638): (vcom-1195) Cannot find expanded name "work.handshake_constant_1".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2638): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.extsi.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2913): (vcom-1195) Cannot find expanded name "work.extsi".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2913): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2649): (vcom-1195) Cannot find expanded name "work.extsi".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2649): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.source.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2661): (vcom-1195) Cannot find expanded name "work.source".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2661): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.handshake_fork.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2936): (vcom-1195) Cannot find expanded name "work.handshake_fork".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2936): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2680): (vcom-1195) Cannot find expanded name "work.handshake_fork".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2680): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.extsi.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2963): (vcom-1195) Cannot find expanded name "work.extsi".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2963): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2707): (vcom-1195) Cannot find expanded name "work.extsi".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2707): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.source.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2719): (vcom-1195) Cannot find expanded name "work.source".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2719): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.handshake_constant_3.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2975): (vcom-1195) Cannot find expanded name "work.handshake_constant_3".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2975): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2727): (vcom-1195) Cannot find expanded name "work.handshake_constant_3".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2727): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.shli.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(3016): (vcom-1195) Cannot find expanded name "work.shli".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(3016): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2768): (vcom-1195) Cannot find expanded name "work.shli".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2768): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.extsi.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(3031): (vcom-1195) Cannot find expanded name "work.extsi".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(3031): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2783): (vcom-1195) Cannot find expanded name "work.extsi".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2783): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.shli.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(3043): (vcom-1195) Cannot find expanded name "work.shli".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(3043): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2795): (vcom-1195) Cannot find expanded name "work.shli".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2795): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.addi.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(3058): (vcom-1195) Cannot find expanded name "work.addi".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(3058): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2810): (vcom-1195) Cannot find expanded name "work.addi".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2810): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.addi.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(3073): (vcom-1195) Cannot find expanded name "work.addi".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(3073): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2825): (vcom-1195) Cannot find expanded name "work.addi".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2825): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.mulf.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(3106): (vcom-1195) Cannot find expanded name "work.mulf".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(3106): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2858): (vcom-1195) Cannot find expanded name "work.mulf".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2858): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.addf.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(3121): (vcom-1195) Cannot find expanded name "work.addf".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(3121): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2873): (vcom-1195) Cannot find expanded name "work.addf".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2873): Unknown expanded name.
 # -- Loading entity store
 # ** Error: (vcom-11) Could not find work.addi.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(3154): (vcom-1195) Cannot find expanded name "work.addi".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(3154): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2906): (vcom-1195) Cannot find expanded name "work.addi".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2906): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.handshake_fork.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(3169): (vcom-1195) Cannot find expanded name "work.handshake_fork".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(3169): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2921): (vcom-1195) Cannot find expanded name "work.handshake_fork".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2921): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.handshake_cmpi_0.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(3196): (vcom-1195) Cannot find expanded name "work.handshake_cmpi_0".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(3196): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2948): (vcom-1195) Cannot find expanded name "work.handshake_cmpi_0".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2948): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.handshake_fork.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(3211): (vcom-1195) Cannot find expanded name "work.handshake_fork".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(3211): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2963): (vcom-1195) Cannot find expanded name "work.handshake_fork".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2963): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.tfifo.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(3238): (vcom-1195) Cannot find expanded name "work.tfifo".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(3238): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2987): (vcom-1195) Cannot find expanded name "work.tfifo".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2987): Unknown expanded name.
+# -- Loading entity sink_dataless
 # ** Error: (vcom-11) Could not find work.oehb_dataless.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(3273): (vcom-1195) Cannot find expanded name "work.oehb_dataless".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(3273): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(3022): (vcom-1195) Cannot find expanded name "work.oehb_dataless".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(3022): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.oehb_dataless.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(3298): (vcom-1195) Cannot find expanded name "work.oehb_dataless".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(3298): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(3047): (vcom-1195) Cannot find expanded name "work.oehb_dataless".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(3047): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.tehb_dataless.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(3308): (vcom-1195) Cannot find expanded name "work.tehb_dataless".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(3308): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(3057): (vcom-1195) Cannot find expanded name "work.tehb_dataless".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(3057): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.lazy_fork_dataless.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(3318): (vcom-1195) Cannot find expanded name "work.lazy_fork_dataless".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(3318): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(3067): (vcom-1195) Cannot find expanded name "work.lazy_fork_dataless".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(3067): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.cond_br.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(3330): (vcom-1195) Cannot find expanded name "work.cond_br".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(3330): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(3079): (vcom-1195) Cannot find expanded name "work.cond_br".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(3079): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.sink.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(3348): (vcom-1195) Cannot find expanded name "work.sink".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(3348): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(3097): (vcom-1195) Cannot find expanded name "work.sink".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(3097): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.source.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(3106): (vcom-1195) Cannot find expanded name "work.source".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(3106): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.handshake_constant_1.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(3380): (vcom-1195) Cannot find expanded name "work.handshake_constant_1".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(3380): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(3114): (vcom-1195) Cannot find expanded name "work.handshake_constant_1".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(3114): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.extsi.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(3391): (vcom-1195) Cannot find expanded name "work.extsi".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(3391): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(3125): (vcom-1195) Cannot find expanded name "work.extsi".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(3125): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.source.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(3137): (vcom-1195) Cannot find expanded name "work.source".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(3137): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.extsi.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(3414): (vcom-1195) Cannot find expanded name "work.extsi".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(3414): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(3156): (vcom-1195) Cannot find expanded name "work.extsi".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(3156): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.addi.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(3444): (vcom-1195) Cannot find expanded name "work.addi".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(3444): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(3186): (vcom-1195) Cannot find expanded name "work.addi".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(3186): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.handshake_fork.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(3459): (vcom-1195) Cannot find expanded name "work.handshake_fork".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(3459): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(3201): (vcom-1195) Cannot find expanded name "work.handshake_fork".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(3201): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.handshake_cmpi_0.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(3486): (vcom-1195) Cannot find expanded name "work.handshake_cmpi_0".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(3486): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(3228): (vcom-1195) Cannot find expanded name "work.handshake_cmpi_0".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(3228): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.handshake_fork.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(3501): (vcom-1195) Cannot find expanded name "work.handshake_fork".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(3501): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(3243): (vcom-1195) Cannot find expanded name "work.handshake_fork".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(3243): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.lazy_fork_dataless.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(3525): (vcom-1195) Cannot find expanded name "work.lazy_fork_dataless".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(3525): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(3264): (vcom-1195) Cannot find expanded name "work.lazy_fork_dataless".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(3264): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.fork_dataless.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(3537): (vcom-1195) Cannot find expanded name "work.fork_dataless".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(3537): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(3276): (vcom-1195) Cannot find expanded name "work.fork_dataless".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(3276): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.handshake_constant_4.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(3557): (vcom-1195) Cannot find expanded name "work.handshake_constant_4".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(3557): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(3296): (vcom-1195) Cannot find expanded name "work.handshake_constant_4".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(3296): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.fptosi.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(3598): (vcom-1195) Cannot find expanded name "work.fptosi".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(3598): Unknown expanded name.
-# ** Note: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(3610): VHDL Compiler exiting
-# End time: 14:54:23 on Jan 09,2025, Elapsed time: 0:00:00
-# Errors: 441, Warnings: 0
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(3337): (vcom-1195) Cannot find expanded name "work.fptosi".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(3337): Unknown expanded name.
+# ** Note: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(3349): VHDL Compiler exiting
+# End time: 19:57:38 on Jan 10,2025, Elapsed time: 0:00:00
+# Errors: 447, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 14:54:23 on Jan 09,2025
+# Start time: 19:57:38 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/tb_join.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
 # -- Loading package std_logic_1164
 # -- Compiling entity tb_join
 # -- Compiling architecture arch of tb_join
-# End time: 14:54:23 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 19:57:38 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of tb_join.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 14:54:23 on Jan 09,2025
+# Start time: 19:57:38 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/eager_fork_register_block.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
 # -- Loading package std_logic_1164
 # -- Compiling entity eager_fork_register_block
 # -- Compiling architecture arch of eager_fork_register_block
-# End time: 14:54:23 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 19:57:38 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of eager_fork_register_block.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 14:54:23 on Jan 09,2025
+# Start time: 19:57:38 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/addi.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -751,10 +741,10 @@
 # ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/addi.vhd(28): (vcom-1195) Cannot find expanded name "work.join".
 # ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/addi.vhd(28): Unknown expanded name.
 # ** Note: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/addi.vhd(41): VHDL Compiler exiting
-# End time: 14:54:23 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 19:57:38 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 3, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 14:54:23 on Jan 09,2025
+# Start time: 19:57:38 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/flopoco_ip_cores.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -949,11 +939,11 @@
 # -- Compiling architecture arch of FPDiv_64bit
 # ** Warning: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/flopoco_ip_cores.vhd(12306): (vcom-1514) Range choice direction (downto) does not determine aggregate index range direction (to).
 # ** Warning: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/flopoco_ip_cores.vhd(12309): (vcom-1514) Range choice direction (downto) does not determine aggregate index range direction (to).
-# End time: 14:54:23 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 19:57:38 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 63
 # Compile of flopoco_ip_cores.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 14:54:23 on Jan 09,2025
+# Start time: 19:57:38 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/addf.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -974,10 +964,10 @@
 # -- Loading entity OutputIEEE_32bit
 # -- Loading entity FloatingPointAdder
 # ** Note: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/addf.vhd(93): VHDL Compiler exiting
-# End time: 14:54:23 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 19:57:38 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 6, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 14:54:23 on Jan 09,2025
+# Start time: 19:57:38 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/hls_verify_atax_tb.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -1010,10 +1000,10 @@
 # ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/hls_verify_atax_tb.vhd(299): Unknown expanded name.
 # -- Loading entity tb_join
 # ** Note: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/hls_verify_atax_tb.vhd(538): VHDL Compiler exiting
-# End time: 14:54:23 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 19:57:38 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 18, Warnings: 1
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 14:54:23 on Jan 09,2025
+# Start time: 19:57:38 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/oehb.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -1025,10 +1015,10 @@
 # ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/oehb.vhd(26): (vcom-1195) Cannot find expanded name "work.oehb_dataless".
 # ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/oehb.vhd(26): Unknown expanded name.
 # ** Note: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/oehb.vhd(49): VHDL Compiler exiting
-# End time: 14:54:23 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 19:57:38 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 3, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 14:54:23 on Jan 09,2025
+# Start time: 19:57:39 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/handshake_constant_1.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -1036,11 +1026,11 @@
 # -- Loading package NUMERIC_STD
 # -- Compiling entity handshake_constant_1
 # -- Compiling architecture arch of handshake_constant_1
-# End time: 14:54:23 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 19:57:39 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of handshake_constant_1.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 14:54:23 on Jan 09,2025
+# Start time: 19:57:39 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/oehb_dataless.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -1048,11 +1038,23 @@
 # -- Loading package NUMERIC_STD
 # -- Compiling entity oehb_dataless
 # -- Compiling architecture arch of oehb_dataless
-# End time: 14:54:23 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 19:57:39 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of oehb_dataless.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 14:54:23 on Jan 09,2025
+# Start time: 19:57:39 on Jan 10,2025
+# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/source.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity source
+# -- Compiling architecture arch of source
+# End time: 19:57:39 on Jan 10,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Compile of source.vhd was successful.
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 19:57:39 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/handshake_lsq_lsq2_core.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -1075,11 +1077,11 @@
 # -- Loading entity handshake_lsq_lsq2_core_ldd
 # -- Loading entity handshake_lsq_lsq2_core_sta
 # -- Loading entity handshake_lsq_lsq2_core_std
-# End time: 14:54:24 on Jan 09,2025, Elapsed time: 0:00:01
+# End time: 19:57:39 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of handshake_lsq_lsq2_core.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 14:54:24 on Jan 09,2025
+# Start time: 19:57:39 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/handshake_constant_4.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -1087,11 +1089,11 @@
 # -- Loading package NUMERIC_STD
 # -- Compiling entity handshake_constant_4
 # -- Compiling architecture arch of handshake_constant_4
-# End time: 14:54:24 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 19:57:39 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of handshake_constant_4.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 14:54:24 on Jan 09,2025
+# Start time: 19:57:39 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/cond_br.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -1100,11 +1102,11 @@
 # -- Compiling entity cond_br
 # -- Compiling architecture arch of cond_br
 # -- Loading entity cond_br_dataless
-# End time: 14:54:24 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 19:57:39 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of cond_br.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 14:54:24 on Jan 09,2025
+# Start time: 19:57:39 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/mulf.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -1123,10 +1125,10 @@
 # -- Loading entity OutputIEEE_32bit
 # -- Loading entity FloatingPointMultiplier
 # ** Note: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/mulf.vhd(94): VHDL Compiler exiting
-# End time: 14:54:24 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 19:57:39 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 3, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 14:54:24 on Jan 09,2025
+# Start time: 19:57:39 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/fptosi.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -1144,11 +1146,11 @@
 # -- Compiling architecture arch of fptosi
 # -- Loading entity delay_buffer
 # -- Loading entity oehb
-# End time: 14:54:24 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 19:57:39 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of fptosi.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 14:54:24 on Jan 09,2025
+# Start time: 19:57:39 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/extsi.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -1156,11 +1158,11 @@
 # -- Loading package NUMERIC_STD
 # -- Compiling entity extsi
 # -- Compiling architecture arch of extsi
-# End time: 14:54:24 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 19:57:39 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of extsi.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 14:54:24 on Jan 09,2025
+# Start time: 19:57:39 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/handshake_cmpi_0.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -1172,10 +1174,10 @@
 # ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/handshake_cmpi_0.vhd(28): (vcom-1195) Cannot find expanded name "work.join".
 # ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/handshake_cmpi_0.vhd(28): Unknown expanded name.
 # ** Note: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/handshake_cmpi_0.vhd(41): VHDL Compiler exiting
-# End time: 14:54:24 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 19:57:39 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 3, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 14:54:24 on Jan 09,2025
+# Start time: 19:57:39 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/handshake_constant_3.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -1183,11 +1185,11 @@
 # -- Loading package NUMERIC_STD
 # -- Compiling entity handshake_constant_3
 # -- Compiling architecture arch of handshake_constant_3
-# End time: 14:54:24 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 19:57:39 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of handshake_constant_3.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 14:54:24 on Jan 09,2025
+# Start time: 19:57:39 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/handshake_lsq_lsq2.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -1196,11 +1198,11 @@
 # -- Compiling entity handshake_lsq_lsq2
 # -- Compiling architecture arch of handshake_lsq_lsq2
 # -- Loading entity handshake_lsq_lsq2_core
-# End time: 14:54:24 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 19:57:39 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of handshake_lsq_lsq2.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 14:54:24 on Jan 09,2025
+# Start time: 19:57:39 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax_wrapper.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -1222,10 +1224,10 @@
 # ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax_wrapper.vhd(255): Unknown expanded name.
 # -- Loading entity atax
 # ** Note: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax_wrapper.vhd(328): VHDL Compiler exiting
-# End time: 14:54:24 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 19:57:39 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 12, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 14:54:24 on Jan 09,2025
+# Start time: 19:57:39 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/lazy_fork_dataless.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -1236,10 +1238,10 @@
 # ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/lazy_fork_dataless.vhd(22): (vcom-1195) Cannot find expanded name "work.and_n".
 # ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/lazy_fork_dataless.vhd(22): Unknown expanded name.
 # ** Note: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/lazy_fork_dataless.vhd(42): VHDL Compiler exiting
-# End time: 14:54:24 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 19:57:39 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 3, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 14:54:24 on Jan 09,2025
+# Start time: 19:57:39 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/tehb.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -1251,10 +1253,10 @@
 # ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/tehb.vhd(28): (vcom-1195) Cannot find expanded name "work.tehb_dataless".
 # ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/tehb.vhd(28): Unknown expanded name.
 # ** Note: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/tehb.vhd(60): VHDL Compiler exiting
-# End time: 14:54:24 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 19:57:39 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 3, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 14:54:24 on Jan 09,2025
+# Start time: 19:57:39 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/tfifo.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -1263,11 +1265,11 @@
 # -- Compiling entity tfifo
 # -- Compiling architecture arch of tfifo
 # -- Loading entity elastic_fifo_inner
-# End time: 14:54:24 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 19:57:39 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of tfifo.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 14:54:24 on Jan 09,2025
+# Start time: 19:57:39 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/logic.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -1280,11 +1282,11 @@
 # -- Compiling architecture arch of or_n
 # -- Compiling entity nor_n
 # -- Compiling architecture arch of nor_n
-# End time: 14:54:24 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 19:57:39 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of logic.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 14:54:24 on Jan 09,2025
+# Start time: 19:57:39 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/shli.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -1296,10 +1298,10 @@
 # ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/shli.vhd(28): (vcom-1195) Cannot find expanded name "work.join".
 # ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/shli.vhd(28): Unknown expanded name.
 # ** Note: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/shli.vhd(41): VHDL Compiler exiting
-# End time: 14:54:24 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 19:57:39 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 3, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 14:54:24 on Jan 09,2025
+# Start time: 19:57:39 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/fork_dataless.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -1309,33 +1311,21 @@
 # -- Compiling architecture arch of fork_dataless
 # -- Loading entity or_n
 # -- Loading entity eager_fork_register_block
-# End time: 14:54:24 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 19:57:39 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of fork_dataless.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 14:54:24 on Jan 09,2025
+# Start time: 19:57:39 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/types.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
 # -- Loading package std_logic_1164
 # -- Compiling package types
-# End time: 14:54:24 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 19:57:39 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of types.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 14:54:24 on Jan 09,2025
-# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/elastic_fifo_inner_dataless.vhd 
-# -- Loading package STANDARD
-# -- Loading package TEXTIO
-# -- Loading package std_logic_1164
-# -- Loading package NUMERIC_STD
-# -- Compiling entity elastic_fifo_inner_dataless
-# -- Compiling architecture arch of elastic_fifo_inner_dataless
-# End time: 14:54:24 on Jan 09,2025, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Compile of elastic_fifo_inner_dataless.vhd was successful.
-# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 14:54:24 on Jan 09,2025
+# Start time: 19:57:39 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/sink.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -1343,11 +1333,11 @@
 # -- Loading package NUMERIC_STD
 # -- Compiling entity sink
 # -- Compiling architecture arch of sink
-# End time: 14:54:24 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 19:57:39 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of sink.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 14:54:24 on Jan 09,2025
+# Start time: 19:57:39 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/mux.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -1358,11 +1348,11 @@
 # -- Compiling entity mux
 # -- Compiling architecture arch of mux
 # -- Loading entity tehb
-# End time: 14:54:24 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 19:57:39 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of mux.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 14:54:24 on Jan 09,2025
+# Start time: 19:57:39 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/merge.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -1372,11 +1362,11 @@
 # -- Compiling entity merge
 # -- Compiling architecture arch of merge
 # -- Loading entity tehb
-# End time: 14:54:24 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 19:57:39 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of merge.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 14:54:24 on Jan 09,2025
+# Start time: 19:57:39 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/handshake_fork.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -1386,11 +1376,11 @@
 # -- Compiling architecture arch of handshake_fork
 # -- Loading package NUMERIC_STD
 # -- Loading entity fork_dataless
-# End time: 14:54:24 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 19:57:39 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of handshake_fork.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 14:54:24 on Jan 09,2025
+# Start time: 19:57:39 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/handshake_constant_0.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -1398,11 +1388,11 @@
 # -- Loading package NUMERIC_STD
 # -- Compiling entity handshake_constant_0
 # -- Compiling architecture arch of handshake_constant_0
-# End time: 14:54:24 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 19:57:39 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of handshake_constant_0.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 14:54:24 on Jan 09,2025
+# Start time: 19:57:39 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/mem_to_bram.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -1410,11 +1400,11 @@
 # -- Loading package NUMERIC_STD
 # -- Compiling entity mem_to_bram
 # -- Compiling architecture arch of mem_to_bram
-# End time: 14:54:24 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 19:57:39 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of mem_to_bram.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 14:54:24 on Jan 09,2025
+# Start time: 19:57:39 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/single_argument.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -1427,11 +1417,11 @@
 # -- Compiling entity single_argument
 # -- Compiling architecture behav of single_argument
 # ** Warning: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/single_argument.vhd(40): (vcom-1236) Shared variables must be of a protected type.
-# End time: 14:54:24 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 19:57:39 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 1
 # Compile of single_argument.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 14:54:24 on Jan 09,2025
+# Start time: 19:57:39 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/join.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -1439,11 +1429,11 @@
 # -- Compiling entity join
 # -- Compiling architecture arch of join
 # -- Loading entity and_n
-# End time: 14:54:24 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 19:57:39 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of join.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 14:54:24 on Jan 09,2025
+# Start time: 19:57:39 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/tehb_dataless.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -1451,11 +1441,11 @@
 # -- Loading package NUMERIC_STD
 # -- Compiling entity tehb_dataless
 # -- Compiling architecture arch of tehb_dataless
-# End time: 14:54:24 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 19:57:39 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of tehb_dataless.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 14:54:24 on Jan 09,2025
+# Start time: 19:57:39 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/mc_support.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -1492,11 +1482,11 @@
 # -- Loading entity write_data_signals
 # -- Compiling entity mc_control
 # -- Compiling architecture arch of mc_control
-# End time: 14:54:24 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 19:57:39 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of mc_support.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 14:54:24 on Jan 09,2025
+# Start time: 19:57:39 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/mux_dataless.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -1506,11 +1496,11 @@
 # -- Compiling entity mux_dataless
 # -- Compiling architecture arch of mux_dataless
 # -- Loading entity tehb_dataless
-# End time: 14:54:24 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 19:57:39 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of mux_dataless.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 14:54:24 on Jan 09,2025
+# Start time: 19:57:39 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/load.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -1519,11 +1509,11 @@
 # -- Compiling entity load
 # -- Compiling architecture arch of load
 # -- Loading entity tehb
-# End time: 14:54:24 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 19:57:39 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of load.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 14:54:24 on Jan 09,2025
+# Start time: 19:57:39 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/cond_br_dataless.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -1532,11 +1522,11 @@
 # -- Compiling entity cond_br_dataless
 # -- Compiling architecture arch of cond_br_dataless
 # -- Loading entity join
-# End time: 14:54:24 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 19:57:39 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of cond_br_dataless.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 14:54:24 on Jan 09,2025
+# Start time: 19:57:40 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/store.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -1545,11 +1535,11 @@
 # -- Compiling entity store
 # -- Compiling architecture arch of store
 # -- Loading entity join
-# End time: 14:54:24 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 19:57:40 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of store.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 14:54:24 on Jan 09,2025
+# Start time: 19:57:40 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/two_port_RAM.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -1562,11 +1552,11 @@
 # -- Compiling entity two_port_RAM
 # -- Compiling architecture behav of two_port_RAM
 # ** Warning: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/two_port_RAM.vhd(47): (vcom-1236) Shared variables must be of a protected type.
-# End time: 14:54:24 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 19:57:40 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 1
 # Compile of two_port_RAM.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 14:54:24 on Jan 09,2025
+# Start time: 19:57:40 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/mem_controller_storeless.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -1577,24 +1567,11 @@
 # -- Compiling architecture arch of mem_controller_storeless
 # -- Loading entity read_memory_arbiter
 # -- Loading entity mc_control
-# End time: 14:54:25 on Jan 09,2025, Elapsed time: 0:00:01
+# End time: 19:57:40 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of mem_controller_storeless.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 14:54:25 on Jan 09,2025
-# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/tfifo_dataless.vhd 
-# -- Loading package STANDARD
-# -- Loading package TEXTIO
-# -- Loading package std_logic_1164
-# -- Loading package NUMERIC_STD
-# -- Compiling entity tfifo_dataless
-# -- Compiling architecture arch of tfifo_dataless
-# -- Loading entity elastic_fifo_inner_dataless
-# End time: 14:54:25 on Jan 09,2025, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Compile of tfifo_dataless.vhd was successful.
-# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 14:54:25 on Jan 09,2025
+# Start time: 19:57:40 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -1607,14 +1584,15 @@
 # -- Loading entity handshake_lsq_lsq3
 # -- Loading package types
 # -- Loading entity mem_controller_storeless
+# -- Loading entity source
+# -- Loading entity handshake_constant_0
+# -- Loading entity extsi
 # -- Loading package MATH_REAL
 # -- Loading entity mux_dataless
-# -- Loading entity handshake_constant_0
-# -- Loading entity handshake_fork
-# -- Loading entity extsi
 # -- Loading entity tfifo
 # -- Loading entity merge
 # -- Loading entity tehb
+# -- Loading entity handshake_fork
 # -- Loading entity oehb_dataless
 # -- Loading entity tehb_dataless
 # -- Loading entity lazy_fork_dataless
@@ -1624,9 +1602,6 @@
 # -- Loading entity load
 # -- Loading entity cond_br
 # -- Loading entity sink
-# -- Loading entity cond_br_dataless
-# -- Loading entity sink_dataless
-# -- Loading entity tfifo_dataless
 # -- Loading entity handshake_constant_1
 # -- Loading entity handshake_constant_2
 # -- Loading entity extui
@@ -1634,19 +1609,21 @@
 # -- Loading entity shli
 # -- Loading entity addi
 # ** Error: (vcom-11) Could not find work.mulf.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2133): (vcom-1195) Cannot find expanded name "work.mulf".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2133): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1951): (vcom-1195) Cannot find expanded name "work.mulf".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1951): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.addf.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2172): (vcom-1195) Cannot find expanded name "work.addf".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2172): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1990): (vcom-1195) Cannot find expanded name "work.addf".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(1990): Unknown expanded name.
 # -- Loading entity handshake_cmpi_0
+# -- Loading entity cond_br_dataless
 # ** Error: (vcom-11) Could not find work.mulf.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(3106): (vcom-1195) Cannot find expanded name "work.mulf".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(3106): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2858): (vcom-1195) Cannot find expanded name "work.mulf".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2858): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.addf.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(3121): (vcom-1195) Cannot find expanded name "work.addf".
-# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(3121): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2873): (vcom-1195) Cannot find expanded name "work.addf".
+# ** Error: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(2873): Unknown expanded name.
 # -- Loading entity store
+# -- Loading entity sink_dataless
 # -- Loading entity handshake_constant_4
 # -- Loading package instance float_pkg
 # -- Loading package fixed_float_types
@@ -1656,11 +1633,11 @@
 # -- Loading package body fixed_generic_pkg
 # -- Loading package body float_generic_pkg
 # -- Loading entity fptosi
-# ** Note: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(3610): VHDL Compiler exiting
-# End time: 14:54:25 on Jan 09,2025, Elapsed time: 0:00:00
+# ** Note: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd(3349): VHDL Compiler exiting
+# End time: 19:57:40 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 12, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 14:54:25 on Jan 09,2025
+# Start time: 19:57:40 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/addi.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -1669,11 +1646,11 @@
 # -- Compiling entity addi
 # -- Compiling architecture arch of addi
 # -- Loading entity join
-# End time: 14:54:25 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 19:57:40 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of addi.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 14:54:25 on Jan 09,2025
+# Start time: 19:57:40 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/addf.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -1698,11 +1675,11 @@
 # -- Compiling architecture arch of addf
 # -- Loading entity addf_single_precision
 # -- Loading entity addf_double_precision
-# End time: 14:54:25 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 19:57:40 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of addf.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 14:54:25 on Jan 09,2025
+# Start time: 19:57:40 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/hls_verify_atax_tb.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -1719,11 +1696,11 @@
 # -- Loading entity single_argument
 # -- Loading entity two_port_RAM
 # -- Loading entity tb_join
-# End time: 14:54:25 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 19:57:40 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 1
 # Compile of hls_verify_atax_tb.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 14:54:25 on Jan 09,2025
+# Start time: 19:57:40 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/oehb.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -1732,11 +1709,11 @@
 # -- Compiling entity oehb
 # -- Compiling architecture arch of oehb
 # -- Loading entity oehb_dataless
-# End time: 14:54:25 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 19:57:40 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of oehb.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 14:54:25 on Jan 09,2025
+# Start time: 19:57:40 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/mulf.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -1761,11 +1738,11 @@
 # -- Compiling architecture arch of mulf
 # -- Loading entity mulf_single_precision
 # -- Loading entity mulf_double_precision
-# End time: 14:54:25 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 19:57:40 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of mulf.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 14:54:25 on Jan 09,2025
+# Start time: 19:57:40 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/handshake_cmpi_0.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -1774,11 +1751,11 @@
 # -- Compiling entity handshake_cmpi_0
 # -- Compiling architecture arch of handshake_cmpi_0
 # -- Loading entity join
-# End time: 14:54:25 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 19:57:40 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of handshake_cmpi_0.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 14:54:25 on Jan 09,2025
+# Start time: 19:57:40 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax_wrapper.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -1788,11 +1765,11 @@
 # -- Compiling architecture behavioral of atax_wrapper
 # -- Loading entity mem_to_bram
 # -- Loading entity atax
-# End time: 14:54:25 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 19:57:40 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of atax_wrapper.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 14:54:25 on Jan 09,2025
+# Start time: 19:57:40 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/lazy_fork_dataless.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -1800,11 +1777,11 @@
 # -- Compiling entity lazy_fork_dataless
 # -- Compiling architecture arch of lazy_fork_dataless
 # -- Loading entity and_n
-# End time: 14:54:25 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 19:57:40 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of lazy_fork_dataless.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 14:54:25 on Jan 09,2025
+# Start time: 19:57:40 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/tehb.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -1813,11 +1790,11 @@
 # -- Compiling entity tehb
 # -- Compiling architecture arch of tehb
 # -- Loading entity tehb_dataless
-# End time: 14:54:25 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 19:57:40 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of tehb.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 14:54:25 on Jan 09,2025
+# Start time: 19:57:40 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/shli.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -1826,11 +1803,11 @@
 # -- Compiling entity shli
 # -- Compiling architecture arch of shli
 # -- Loading entity join
-# End time: 14:54:25 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 19:57:40 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of shli.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 14:54:25 on Jan 09,2025
+# Start time: 19:57:40 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/atax.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -1843,14 +1820,15 @@
 # -- Loading entity handshake_lsq_lsq3
 # -- Loading package types
 # -- Loading entity mem_controller_storeless
+# -- Loading entity source
+# -- Loading entity handshake_constant_0
+# -- Loading entity extsi
 # -- Loading package MATH_REAL
 # -- Loading entity mux_dataless
-# -- Loading entity handshake_constant_0
-# -- Loading entity handshake_fork
-# -- Loading entity extsi
 # -- Loading entity tfifo
 # -- Loading entity merge
 # -- Loading entity tehb
+# -- Loading entity handshake_fork
 # -- Loading entity oehb_dataless
 # -- Loading entity tehb_dataless
 # -- Loading entity lazy_fork_dataless
@@ -1860,9 +1838,6 @@
 # -- Loading entity load
 # -- Loading entity cond_br
 # -- Loading entity sink
-# -- Loading entity cond_br_dataless
-# -- Loading entity sink_dataless
-# -- Loading entity tfifo_dataless
 # -- Loading entity handshake_constant_1
 # -- Loading entity handshake_constant_2
 # -- Loading entity extui
@@ -1872,7 +1847,9 @@
 # -- Loading entity mulf
 # -- Loading entity addf
 # -- Loading entity handshake_cmpi_0
+# -- Loading entity cond_br_dataless
 # -- Loading entity store
+# -- Loading entity sink_dataless
 # -- Loading entity handshake_constant_4
 # -- Loading package instance float_pkg
 # -- Loading package fixed_float_types
@@ -1882,7 +1859,7 @@
 # -- Loading package body fixed_generic_pkg
 # -- Loading package body float_generic_pkg
 # -- Loading entity fptosi
-# End time: 14:54:25 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 19:57:40 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of atax.vhd was successful.
 # All compile dependencies have been resolved.vcom -work work -2008 -explicit -stats=none /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/sink_dataless.vhd
@@ -2202,6 +2179,14 @@
 # -- Loading package NUMERIC_STD
 # -- Compiling entity oehb_dataless
 # -- Compiling architecture arch of oehb_dataless
+# vcom -work work -2008 -explicit -stats=none /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/source.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity source
+# -- Compiling architecture arch of source
 # vcom -work work -2008 -explicit -stats=none /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/handshake_lsq_lsq2_core.vhd
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
 # -- Loading package STANDARD
@@ -2323,14 +2308,6 @@
 # -- Loading package TEXTIO
 # -- Loading package std_logic_1164
 # -- Compiling package types
-# vcom -work work -2008 -explicit -stats=none /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/elastic_fifo_inner_dataless.vhd
-# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# -- Loading package STANDARD
-# -- Loading package TEXTIO
-# -- Loading package std_logic_1164
-# -- Loading package NUMERIC_STD
-# -- Compiling entity elastic_fifo_inner_dataless
-# -- Compiling architecture arch of elastic_fifo_inner_dataless
 # vcom -work work -2008 -explicit -stats=none /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/sink.vhd
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
 # -- Loading package STANDARD
@@ -2513,15 +2490,6 @@
 # -- Compiling architecture arch of mem_controller_storeless
 # -- Loading entity read_memory_arbiter
 # -- Loading entity mc_control
-# vcom -work work -2008 -explicit -stats=none /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/tfifo_dataless.vhd
-# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# -- Loading package STANDARD
-# -- Loading package TEXTIO
-# -- Loading package std_logic_1164
-# -- Loading package NUMERIC_STD
-# -- Compiling entity tfifo_dataless
-# -- Compiling architecture arch of tfifo_dataless
-# -- Loading entity elastic_fifo_inner_dataless
 # vcom -work work -2008 -explicit -stats=none /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/addi.vhd
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
 # -- Loading package STANDARD
@@ -2665,14 +2633,15 @@
 # -- Loading entity handshake_lsq_lsq3
 # -- Loading package types
 # -- Loading entity mem_controller_storeless
+# -- Loading entity source
+# -- Loading entity handshake_constant_0
+# -- Loading entity extsi
 # -- Loading package MATH_REAL
 # -- Loading entity mux_dataless
-# -- Loading entity handshake_constant_0
-# -- Loading entity handshake_fork
-# -- Loading entity extsi
 # -- Loading entity tfifo
 # -- Loading entity merge
 # -- Loading entity tehb
+# -- Loading entity handshake_fork
 # -- Loading entity oehb_dataless
 # -- Loading entity tehb_dataless
 # -- Loading entity lazy_fork_dataless
@@ -2682,9 +2651,6 @@
 # -- Loading entity load
 # -- Loading entity cond_br
 # -- Loading entity sink
-# -- Loading entity cond_br_dataless
-# -- Loading entity sink_dataless
-# -- Loading entity tfifo_dataless
 # -- Loading entity handshake_constant_1
 # -- Loading entity handshake_constant_2
 # -- Loading entity extui
@@ -2694,7 +2660,9 @@
 # -- Loading entity mulf
 # -- Loading entity addf
 # -- Loading entity handshake_cmpi_0
+# -- Loading entity cond_br_dataless
 # -- Loading entity store
+# -- Loading entity sink_dataless
 # -- Loading entity handshake_constant_4
 # -- Loading package instance float_pkg
 # -- Loading package fixed_float_types
@@ -2704,9 +2672,9 @@
 # -- Loading package body fixed_generic_pkg
 # -- Loading package body float_generic_pkg
 # -- Loading entity fptosi
-# 54 compiles, 0 failed with no errors.
+# 53 compiles, 0 failed with no errors.
 # vsim atax_wrapper_tb 
-# Start time: 14:54:27 on Jan 09,2025
+# Start time: 19:57:42 on Jan 10,2025
 # Loading std.standard
 # Loading std.textio(body)
 # Loading ieee.std_logic_1164(body)
@@ -2750,15 +2718,16 @@
 # Loading work.read_address_ready(arch)
 # Loading work.read_data_signals(arch)
 # Loading work.mc_control(arch)
+# Loading work.source(arch)
+# Loading work.handshake_constant_0(arch)
+# Loading work.extsi(arch)
 # Loading work.mux_dataless(arch)
 # Loading work.tehb_dataless(arch)
-# Loading work.handshake_constant_0(arch)
-# Loading work.handshake_fork(arch)
-# Loading work.extsi(arch)
 # Loading work.tfifo(arch)
 # Loading work.elastic_fifo_inner(arch)
 # Loading work.merge(arch)
 # Loading work.tehb(arch)
+# Loading work.handshake_fork(arch)
 # Loading work.oehb_dataless(arch)
 # Loading work.lazy_fork_dataless(arch)
 # Loading work.and_n(arch)
@@ -2770,9 +2739,6 @@
 # Loading work.cond_br_dataless(arch)
 # Loading work.join(arch)
 # Loading work.sink(arch)
-# Loading work.sink_dataless(arch)
-# Loading work.tfifo_dataless(arch)
-# Loading work.elastic_fifo_inner_dataless(arch)
 # Loading work.handshake_constant_1(arch)
 # Loading work.handshake_constant_2(arch)
 # Loading work.extui(arch)
@@ -2799,12 +2765,13 @@
 # Loading work.intadder_34_freq450_uid11(arch)
 # Loading work.handshake_cmpi_0(arch)
 # Loading work.store(arch)
+# Loading work.sink_dataless(arch)
 # Loading work.handshake_constant_4(arch)
 # Loading work.fptosi(arch)
 # Loading work.single_argument(behav)
 # Loading work.two_port_ram(behav)
 # Loading work.tb_join(arch)
-# ** Warning: Design size of 72392 statements exceeds ModelSim-Intel FPGA Starter Edition recommended capacity.
+# ** Warning: Design size of 70580 statements exceeds ModelSim-Intel FPGA Starter Edition recommended capacity.
 # Expect performance to be adversely affected.
 # ** Warning: NUMERIC_STD."<": metavalue detected, returning FALSE
 #    Time: 0 ps  Iteration: 0  Instance: /atax_wrapper_tb/duv/atax_wrapped/cmpi2
@@ -2989,25 +2956,21 @@
 # ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
 #    Time: 0 ps  Iteration: 0  Instance: /atax_wrapper_tb/duv/atax_wrapped/shli7
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 0  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux25
+#    Time: 0 ps  Iteration: 0  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux8
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 0  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux25
+#    Time: 0 ps  Iteration: 0  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux8
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 0  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux24
+#    Time: 0 ps  Iteration: 0  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux6
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 0  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux24
-# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 0  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux20
-# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 0  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux20
-# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 0  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux19
-# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 0  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux19
+#    Time: 0 ps  Iteration: 0  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux6
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
 #    Time: 0 ps  Iteration: 0  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux5
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
 #    Time: 0 ps  Iteration: 0  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux5
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 0  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux11
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 0  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux11
 # ** Warning: NUMERIC_STD."<": metavalue detected, returning FALSE
 #    Time: 0 ps  Iteration: 0  Instance: /atax_wrapper_tb/duv/atax_wrapped/cmpi0
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
@@ -3189,37 +3152,29 @@
 # ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
 #    Time: 0 ps  Iteration: 0  Instance: /atax_wrapper_tb/duv/atax_wrapped/shli6
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 0  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux18
+#    Time: 0 ps  Iteration: 0  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux4
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 0  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux18
+#    Time: 0 ps  Iteration: 0  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux4
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 0  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux17
+#    Time: 0 ps  Iteration: 0  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux3
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 0  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux17
+#    Time: 0 ps  Iteration: 0  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux3
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 0  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux13
+#    Time: 0 ps  Iteration: 0  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux1
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 0  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux13
-# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 0  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux11
-# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 0  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux11
-# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 0  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux10
-# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 0  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux10
+#    Time: 0 ps  Iteration: 0  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux1
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
 #    Time: 0 ps  Iteration: 0  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux0
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
 #    Time: 0 ps  Iteration: 0  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux0
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 0  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux4
+#    Time: 0 ps  Iteration: 0  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux10
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 0  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux4
+#    Time: 0 ps  Iteration: 0  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux10
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 0  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux2
+#    Time: 0 ps  Iteration: 0  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux9
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 0  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux2
+#    Time: 0 ps  Iteration: 0  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux9
 # ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
 #    Time: 0 ps  Iteration: 0  Instance: /atax_wrapper_tb/duv/atax_wrapped/lsq3/handshake_lsq_lsq3_core
 # ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
@@ -3517,17 +3472,13 @@
 # ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
 #    Time: 0 ps  Iteration: 1  Instance: /atax_wrapper_tb/duv/atax_wrapped/lsq2/handshake_lsq_lsq2_core
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 1  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux2
+#    Time: 0 ps  Iteration: 1  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux9
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 1  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux2
+#    Time: 0 ps  Iteration: 1  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux9
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 1  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux4
+#    Time: 0 ps  Iteration: 1  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux10
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 1  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux4
-# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 1  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux0
-# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 1  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux0
+#    Time: 0 ps  Iteration: 1  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux10
 # ** Warning: NUMERIC_STD."<": metavalue detected, returning FALSE
 #    Time: 0 ps  Iteration: 2  Instance: /atax_wrapper_tb/duv/atax_wrapped/cmpi2
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
@@ -3571,9 +3522,13 @@
 # ** Warning: NUMERIC_STD."<": metavalue detected, returning FALSE
 #    Time: 0 ps  Iteration: 2  Instance: /atax_wrapper_tb/duv/atax_wrapped/cmpi0
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 2  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux18
+#    Time: 0 ps  Iteration: 2  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux4
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 2  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux18
+#    Time: 0 ps  Iteration: 2  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux4
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 2  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux0
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 2  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux0
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
 #    Time: 0 ps  Iteration: 3  Instance: /atax_wrapper_tb/duv/atax_wrapped/addf1/gen_flopoco_ip/ip/ip
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
@@ -3605,69 +3560,57 @@
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
 #    Time: 0 ps  Iteration: 3  Instance: /atax_wrapper_tb/duv/atax_wrapped/addf0/gen_flopoco_ip/ip/ieee2nfloat_rhs
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 3  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux17
+#    Time: 0 ps  Iteration: 3  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux3
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 3  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux17
-# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 3  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux18
-# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 3  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux18
-# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 3  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux13
-# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 3  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux13
-# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 3  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux11
-# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 3  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux11
-# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 3  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux5
-# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 3  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux5
-# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 3  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux25
-# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 3  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux25
-# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 3  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux24
-# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 3  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux24
-# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 3  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux20
-# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 3  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux20
-# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 3  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux19
-# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 3  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux19
+#    Time: 0 ps  Iteration: 3  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux3
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
 #    Time: 0 ps  Iteration: 3  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux4
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
 #    Time: 0 ps  Iteration: 3  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux4
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 3  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux2
+#    Time: 0 ps  Iteration: 3  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux1
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 3  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux2
+#    Time: 0 ps  Iteration: 3  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux1
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 3  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux11
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 3  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux11
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 3  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux8
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 3  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux8
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 3  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux6
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 3  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux6
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 3  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux5
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 3  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux5
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
 #    Time: 0 ps  Iteration: 3  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux10
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
 #    Time: 0 ps  Iteration: 3  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux10
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 3  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux0
+#    Time: 0 ps  Iteration: 3  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux9
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 3  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux9
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
 #    Time: 0 ps  Iteration: 3  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux0
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 4  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux18
+#    Time: 0 ps  Iteration: 3  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux0
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 4  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux18
+#    Time: 0 ps  Iteration: 4  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux0
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 4  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux25
+#    Time: 0 ps  Iteration: 4  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux0
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 4  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux25
+#    Time: 0 ps  Iteration: 4  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux4
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 4  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux10
+#    Time: 0 ps  Iteration: 4  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux4
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 4  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux10
+#    Time: 0 ps  Iteration: 4  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux8
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 4  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux8
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
 #    Time: 0 ps  Iteration: 5  Instance: /atax_wrapper_tb/duv/atax_wrapped/addf1/gen_flopoco_ip/ip/ip/LZCAndShifter
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
@@ -3679,9 +3622,9 @@
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
 #    Time: 0 ps  Iteration: 5  Instance: /atax_wrapper_tb/duv/atax_wrapped/addf0/gen_flopoco_ip/ip/ip/LZCAndShifter
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 5  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux19
+#    Time: 0 ps  Iteration: 5  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux5
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 5  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux19
+#    Time: 0 ps  Iteration: 5  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux5
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
 #    Time: 0 ps  Iteration: 5  Instance: /atax_wrapper_tb/duv/atax_wrapped/mulf0/gen_flopoco_ip/ip/nfloat2ieee_result
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
@@ -3721,49 +3664,37 @@
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
 #    Time: 0 ps  Iteration: 8  Instance: /atax_wrapper_tb/duv/atax_wrapped/addf1/gen_flopoco_ip/ip/ip
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 8  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux17
+#    Time: 0 ps  Iteration: 8  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux3
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 8  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux17
+#    Time: 0 ps  Iteration: 8  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux3
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
 #    Time: 0 ps  Iteration: 8  Instance: /atax_wrapper_tb/duv/atax_wrapped/addf0/gen_flopoco_ip/ip/ip
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
 #    Time: 0 ps  Iteration: 8  Instance: /atax_wrapper_tb/duv/atax_wrapped/addf0/gen_flopoco_ip/ip/ip
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 10  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux19
+#    Time: 0 ps  Iteration: 10  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux5
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 10  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux19
+#    Time: 0 ps  Iteration: 10  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux5
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
 #    Time: 0 ps  Iteration: 11  Instance: /atax_wrapper_tb/duv/atax_wrapped/addf1/gen_flopoco_ip/ip/ip
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
 #    Time: 0 ps  Iteration: 11  Instance: /atax_wrapper_tb/duv/atax_wrapped/addf0/gen_flopoco_ip/ip/ip
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 2 ns  Iteration: 3  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux2
+#    Time: 2 ns  Iteration: 3  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux9
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 2 ns  Iteration: 3  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux2
+#    Time: 2 ns  Iteration: 3  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux9
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 2 ns  Iteration: 3  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux0
+#    Time: 2 ns  Iteration: 3  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux3
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 2 ns  Iteration: 3  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux0
+#    Time: 2 ns  Iteration: 3  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux3
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 2 ns  Iteration: 3  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux17
+#    Time: 2 ns  Iteration: 3  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux10
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 2 ns  Iteration: 3  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux17
+#    Time: 2 ns  Iteration: 3  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux10
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 2 ns  Iteration: 3  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux13
+#    Time: 2 ns  Iteration: 3  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux11
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 2 ns  Iteration: 3  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux13
-# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 2 ns  Iteration: 3  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux4
-# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 2 ns  Iteration: 3  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux4
-# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 2 ns  Iteration: 3  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux5
-# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 2 ns  Iteration: 3  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux5
-# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 2 ns  Iteration: 3  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux24
-# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 2 ns  Iteration: 3  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux24
+#    Time: 2 ns  Iteration: 3  Instance: /atax_wrapper_tb/duv/atax_wrapped/mux11
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
 #    Time: 2 ns  Iteration: 7  Instance: /atax_wrapper_tb/duv/atax_wrapped/addf0/gen_flopoco_ip/ip/ip
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
@@ -5157,10 +5088,10 @@
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
 #    Time: 1194 ns  Iteration: 2  Instance: /atax_wrapper_tb/duv/atax_wrapped/addf1/gen_flopoco_ip/ip/ip/fracAdder
 # ** Note: simulation done!
-#    Time: 4274 ns  Iteration: 1  Instance: /atax_wrapper_tb
+#    Time: 4238 ns  Iteration: 1  Instance: /atax_wrapper_tb
 # ** Failure: NORMAL EXIT (note: failure is to force the simulator to stop)
-#    Time: 4274 ns  Iteration: 1  Process: /atax_wrapper_tb/generate_sim_done_proc File: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/hls_verify_atax_tb.vhd
+#    Time: 4238 ns  Iteration: 1  Process: /atax_wrapper_tb/generate_sim_done_proc File: /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/hls_verify_atax_tb.vhd
 # Break in Process generate_sim_done_proc at /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/hls_verify_atax_tb.vhd line 447
 # Stopped at /home/giacomo/dynamatic/integration-test/atax/out/sim/VHDL_SRC/hls_verify_atax_tb.vhd line 447
-# End time: 14:54:29 on Jan 09,2025, Elapsed time: 0:00:02
-# Errors: 1, Warnings: 1234
+# End time: 19:57:44 on Jan 10,2025, Elapsed time: 0:00:02
+# Errors: 1, Warnings: 1215

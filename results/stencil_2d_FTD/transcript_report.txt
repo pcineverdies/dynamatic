@@ -4,7 +4,7 @@
 # Modifying modelsim.ini
 # Loading project simulation
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 15:52:54 on Jan 09,2025
+# Start time: 20:05:28 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/mc_support.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -14,26 +14,10 @@
 # ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/mc_support.vhd(5): (vcom-1195) Cannot find expanded name "work.types".
 # ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/mc_support.vhd(5): Unknown expanded name.
 # ** Note: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/mc_support.vhd(7): VHDL Compiler exiting
-# End time: 15:52:54 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 20:05:28 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 3, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 15:52:54 on Jan 09,2025
-# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/mux_dataless.vhd 
-# -- Loading package STANDARD
-# -- Loading package TEXTIO
-# -- Loading package std_logic_1164
-# -- Loading package NUMERIC_STD
-# -- Loading package MATH_REAL
-# -- Compiling entity mux_dataless
-# -- Compiling architecture arch of mux_dataless
-# ** Error: (vcom-11) Could not find work.tehb_dataless.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/mux_dataless.vhd(51): (vcom-1195) Cannot find expanded name "work.tehb_dataless".
-# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/mux_dataless.vhd(51): Unknown expanded name.
-# ** Note: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/mux_dataless.vhd(62): VHDL Compiler exiting
-# End time: 15:52:54 on Jan 09,2025, Elapsed time: 0:00:00
-# Errors: 3, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 15:52:54 on Jan 09,2025
+# Start time: 20:05:28 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/load.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -48,10 +32,10 @@
 # ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/load.vhd(50): (vcom-1195) Cannot find expanded name "work.tehb".
 # ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/load.vhd(50): Unknown expanded name.
 # ** Note: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/load.vhd(66): VHDL Compiler exiting
-# End time: 15:52:54 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 20:05:28 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 6, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 15:52:54 on Jan 09,2025
+# Start time: 20:05:28 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/cond_br_dataless.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -63,10 +47,10 @@
 # ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/cond_br_dataless.vhd(27): (vcom-1195) Cannot find expanded name "work.join".
 # ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/cond_br_dataless.vhd(27): Unknown expanded name.
 # ** Note: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/cond_br_dataless.vhd(45): VHDL Compiler exiting
-# End time: 15:52:54 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 20:05:28 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 3, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 15:52:54 on Jan 09,2025
+# Start time: 20:05:28 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/store.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -78,10 +62,10 @@
 # ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/store.vhd(35): (vcom-1195) Cannot find expanded name "work.join".
 # ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/store.vhd(35): Unknown expanded name.
 # ** Note: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/store.vhd(56): VHDL Compiler exiting
-# End time: 15:52:54 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 20:05:28 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 3, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 15:52:54 on Jan 09,2025
+# Start time: 20:05:28 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/mem_controller_loadless.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -91,22 +75,10 @@
 # ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/mem_controller_loadless.vhd(4): (vcom-1195) Cannot find expanded name "work.types".
 # ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/mem_controller_loadless.vhd(4): Unknown expanded name.
 # ** Note: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/mem_controller_loadless.vhd(6): VHDL Compiler exiting
-# End time: 15:52:54 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 20:05:28 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 3, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 15:52:54 on Jan 09,2025
-# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/sink_dataless.vhd 
-# -- Loading package STANDARD
-# -- Loading package TEXTIO
-# -- Loading package std_logic_1164
-# -- Loading package NUMERIC_STD
-# -- Compiling entity sink_dataless
-# -- Compiling architecture arch of sink_dataless
-# End time: 15:52:54 on Jan 09,2025, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Compile of sink_dataless.vhd was successful.
-# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 15:52:54 on Jan 09,2025
+# Start time: 20:05:28 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/two_port_RAM.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -119,10 +91,10 @@
 # ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/two_port_RAM.vhd(8): (vcom-1195) Cannot find expanded name "work.sim_package".
 # ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/two_port_RAM.vhd(8): Unknown expanded name.
 # ** Note: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/two_port_RAM.vhd(11): VHDL Compiler exiting
-# End time: 15:52:54 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 20:05:28 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 3, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 15:52:54 on Jan 09,2025
+# Start time: 20:05:28 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/elastic_fifo_inner.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -130,11 +102,11 @@
 # -- Loading package NUMERIC_STD
 # -- Compiling entity elastic_fifo_inner
 # -- Compiling architecture arch of elastic_fifo_inner
-# End time: 15:52:54 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 20:05:28 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of elastic_fifo_inner.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 15:52:54 on Jan 09,2025
+# Start time: 20:05:28 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/delay_buffer.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -142,11 +114,11 @@
 # -- Loading package NUMERIC_STD
 # -- Compiling entity delay_buffer
 # -- Compiling architecture arch of delay_buffer
-# End time: 15:52:54 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 20:05:28 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of delay_buffer.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 15:52:54 on Jan 09,2025
+# Start time: 20:05:28 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/trunci.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -154,11 +126,11 @@
 # -- Loading package NUMERIC_STD
 # -- Compiling entity trunci
 # -- Compiling architecture arch of trunci
-# End time: 15:52:54 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 20:05:28 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of trunci.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 15:52:54 on Jan 09,2025
+# Start time: 20:05:28 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d_wrapper.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -179,10 +151,10 @@
 # ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d_wrapper.vhd(215): (vcom-1195) Cannot find expanded name "work.stencil_2d".
 # ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d_wrapper.vhd(215): Unknown expanded name.
 # ** Note: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d_wrapper.vhd(258): VHDL Compiler exiting
-# End time: 15:52:54 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 20:05:28 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 12, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 15:52:54 on Jan 09,2025
+# Start time: 20:05:28 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/handshake_constant_2.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -190,11 +162,11 @@
 # -- Loading package NUMERIC_STD
 # -- Compiling entity handshake_constant_2
 # -- Compiling architecture arch of handshake_constant_2
-# End time: 15:52:54 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 20:05:28 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of handshake_constant_2.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 15:52:54 on Jan 09,2025
+# Start time: 20:05:28 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -203,207 +175,236 @@
 # -- Compiling entity stencil_2d
 # -- Compiling architecture behavioral of stencil_2d
 # ** Error: (vcom-11) Could not find work.fork_dataless.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(717): (vcom-1195) Cannot find expanded name "work.fork_dataless".
-# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(717): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(651): (vcom-1195) Cannot find expanded name "work.fork_dataless".
+# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(651): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.mem_controller_loadless.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(743): (vcom-1195) Cannot find expanded name "work.mem_controller_loadless".
-# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(743): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(675): (vcom-1195) Cannot find expanded name "work.mem_controller_loadless".
+# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(675): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.mem_controller_storeless.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(770): (vcom-1195) Cannot find expanded name "work.mem_controller_storeless".
-# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(770): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(702): (vcom-1195) Cannot find expanded name "work.mem_controller_storeless".
+# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(702): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.mem_controller_storeless.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(794): (vcom-1195) Cannot find expanded name "work.mem_controller_storeless".
-# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(794): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(726): (vcom-1195) Cannot find expanded name "work.mem_controller_storeless".
+# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(726): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.source.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(750): (vcom-1195) Cannot find expanded name "work.source".
+# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(750): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.handshake_constant_0.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(818): (vcom-1195) Cannot find expanded name "work.handshake_constant_0".
-# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(818): Unknown expanded name.
-# ** Error: (vcom-11) Could not find work.handshake_fork.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(829): (vcom-1195) Cannot find expanded name "work.handshake_fork".
-# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(829): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(758): (vcom-1195) Cannot find expanded name "work.handshake_constant_0".
+# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(758): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.extsi.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(844): (vcom-1195) Cannot find expanded name "work.extsi".
-# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(844): Unknown expanded name.
-# ** Error: (vcom-11) Could not find work.merge.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(856): (vcom-1195) Cannot find expanded name "work.merge".
-# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(856): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(769): (vcom-1195) Cannot find expanded name "work.extsi".
+# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(769): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.handshake_constant_0.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(781): (vcom-1195) Cannot find expanded name "work.handshake_constant_0".
+# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(781): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.tehb.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(871): (vcom-1195) Cannot find expanded name "work.tehb".
-# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(871): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(792): (vcom-1195) Cannot find expanded name "work.tehb".
+# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(792): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.mux.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(804): (vcom-1195) Cannot find expanded name "work.mux".
+# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(804): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.oehb.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(822): (vcom-1195) Cannot find expanded name "work.oehb".
+# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(822): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.tehb.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(834): (vcom-1195) Cannot find expanded name "work.tehb".
+# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(834): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.handshake_fork.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(883): (vcom-1195) Cannot find expanded name "work.handshake_fork".
-# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(883): Unknown expanded name.
-# -- Loading package MATH_REAL
-# -- Loading entity mux_dataless
-# ** Error: (vcom-11) Could not find work.oehb_dataless.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(913): (vcom-1195) Cannot find expanded name "work.oehb_dataless".
-# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(913): Unknown expanded name.
-# ** Error: (vcom-11) Could not find work.tehb_dataless.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(923): (vcom-1195) Cannot find expanded name "work.tehb_dataless".
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(846): (vcom-1195) Cannot find expanded name "work.handshake_fork".
+# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(846): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.tfifo.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(864): (vcom-1195) Cannot find expanded name "work.tfifo".
+# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(864): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.extsi.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(876): (vcom-1195) Cannot find expanded name "work.extsi".
+# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(876): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.extsi.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(888): (vcom-1195) Cannot find expanded name "work.extsi".
+# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(888): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.merge.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(900): (vcom-1195) Cannot find expanded name "work.merge".
+# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(900): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.source.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(915): (vcom-1195) Cannot find expanded name "work.source".
+# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(915): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.handshake_constant_0.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(923): (vcom-1195) Cannot find expanded name "work.handshake_constant_0".
 # ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(923): Unknown expanded name.
-# ** Error: (vcom-11) Could not find work.fork_dataless.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(933): (vcom-1195) Cannot find expanded name "work.fork_dataless".
-# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(933): Unknown expanded name.
-# ** Error: (vcom-11) Could not find work.mux.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(951): (vcom-1195) Cannot find expanded name "work.mux".
-# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(951): Unknown expanded name.
-# ** Error: (vcom-11) Could not find work.oehb.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(969): (vcom-1195) Cannot find expanded name "work.oehb".
-# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(969): Unknown expanded name.
-# ** Error: (vcom-11) Could not find work.tehb.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(981): (vcom-1195) Cannot find expanded name "work.tehb".
-# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(981): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.handshake_fork.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(993): (vcom-1195) Cannot find expanded name "work.handshake_fork".
-# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(993): Unknown expanded name.
-# ** Error: (vcom-11) Could not find work.tfifo.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1011): (vcom-1195) Cannot find expanded name "work.tfifo".
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(934): (vcom-1195) Cannot find expanded name "work.handshake_fork".
+# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(934): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.extsi.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(949): (vcom-1195) Cannot find expanded name "work.extsi".
+# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(949): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.extsi.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(961): (vcom-1195) Cannot find expanded name "work.extsi".
+# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(961): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.handshake_constant_0.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(973): (vcom-1195) Cannot find expanded name "work.handshake_constant_0".
+# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(973): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.merge.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(984): (vcom-1195) Cannot find expanded name "work.merge".
+# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(984): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.tehb.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(999): (vcom-1195) Cannot find expanded name "work.tehb".
+# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(999): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.handshake_fork.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1011): (vcom-1195) Cannot find expanded name "work.handshake_fork".
 # ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1011): Unknown expanded name.
-# ** Error: (vcom-11) Could not find work.extsi.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1023): (vcom-1195) Cannot find expanded name "work.extsi".
-# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1023): Unknown expanded name.
-# ** Error: (vcom-11) Could not find work.extsi.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1035): (vcom-1195) Cannot find expanded name "work.extsi".
-# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1035): Unknown expanded name.
-# ** Error: (vcom-11) Could not find work.handshake_constant_0.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1047): (vcom-1195) Cannot find expanded name "work.handshake_constant_0".
+# ** Error: (vcom-11) Could not find work.mux.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1029): (vcom-1195) Cannot find expanded name "work.mux".
+# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1029): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.oehb.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1047): (vcom-1195) Cannot find expanded name "work.oehb".
 # ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1047): Unknown expanded name.
-# ** Error: (vcom-11) Could not find work.handshake_fork.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1058): (vcom-1195) Cannot find expanded name "work.handshake_fork".
-# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1058): Unknown expanded name.
-# ** Error: (vcom-11) Could not find work.extsi.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1073): (vcom-1195) Cannot find expanded name "work.extsi".
-# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1073): Unknown expanded name.
-# ** Error: (vcom-11) Could not find work.extsi.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1085): (vcom-1195) Cannot find expanded name "work.extsi".
-# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1085): Unknown expanded name.
-# ** Error: (vcom-11) Could not find work.handshake_constant_0.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1097): (vcom-1195) Cannot find expanded name "work.handshake_constant_0".
-# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1097): Unknown expanded name.
-# ** Error: (vcom-11) Could not find work.merge.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1108): (vcom-1195) Cannot find expanded name "work.merge".
-# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1108): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.tehb.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1123): (vcom-1195) Cannot find expanded name "work.tehb".
-# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1123): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1059): (vcom-1195) Cannot find expanded name "work.tehb".
+# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1059): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.handshake_fork.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1135): (vcom-1195) Cannot find expanded name "work.handshake_fork".
-# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1135): Unknown expanded name.
-# ** Error: (vcom-11) Could not find work.mux.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1156): (vcom-1195) Cannot find expanded name "work.mux".
-# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1156): Unknown expanded name.
-# ** Error: (vcom-11) Could not find work.oehb.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1174): (vcom-1195) Cannot find expanded name "work.oehb".
-# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1174): Unknown expanded name.
-# ** Error: (vcom-11) Could not find work.tehb.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1186): (vcom-1195) Cannot find expanded name "work.tehb".
-# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1186): Unknown expanded name.
-# ** Error: (vcom-11) Could not find work.handshake_fork.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1198): (vcom-1195) Cannot find expanded name "work.handshake_fork".
-# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1198): Unknown expanded name.
-# ** Error: (vcom-11) Could not find work.oehb_dataless.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1228): (vcom-1195) Cannot find expanded name "work.oehb_dataless".
-# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1228): Unknown expanded name.
-# ** Error: (vcom-11) Could not find work.tehb_dataless.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1238): (vcom-1195) Cannot find expanded name "work.tehb_dataless".
-# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1238): Unknown expanded name.
-# ** Error: (vcom-11) Could not find work.fork_dataless.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1248): (vcom-1195) Cannot find expanded name "work.fork_dataless".
-# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1248): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1071): (vcom-1195) Cannot find expanded name "work.handshake_fork".
+# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1071): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.tfifo.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1266): (vcom-1195) Cannot find expanded name "work.tfifo".
-# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1266): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1086): (vcom-1195) Cannot find expanded name "work.tfifo".
+# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1086): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.mux.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1278): (vcom-1195) Cannot find expanded name "work.mux".
-# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1278): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1098): (vcom-1195) Cannot find expanded name "work.mux".
+# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1098): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.mux.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1296): (vcom-1195) Cannot find expanded name "work.mux".
-# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1296): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1116): (vcom-1195) Cannot find expanded name "work.mux".
+# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1116): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.oehb.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1314): (vcom-1195) Cannot find expanded name "work.oehb".
-# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1314): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1134): (vcom-1195) Cannot find expanded name "work.oehb".
+# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1134): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.tehb.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1326): (vcom-1195) Cannot find expanded name "work.tehb".
-# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1326): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1146): (vcom-1195) Cannot find expanded name "work.tehb".
+# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1146): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.handshake_fork.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1338): (vcom-1195) Cannot find expanded name "work.handshake_fork".
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1158): (vcom-1195) Cannot find expanded name "work.handshake_fork".
+# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1158): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.extsi.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1173): (vcom-1195) Cannot find expanded name "work.extsi".
+# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1173): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.source.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1185): (vcom-1195) Cannot find expanded name "work.source".
+# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1185): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.handshake_constant_0.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1193): (vcom-1195) Cannot find expanded name "work.handshake_constant_0".
+# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1193): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.extsi.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1204): (vcom-1195) Cannot find expanded name "work.extsi".
+# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1204): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.cond_br.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1216): (vcom-1195) Cannot find expanded name "work.cond_br".
+# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1216): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.sink.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1234): (vcom-1195) Cannot find expanded name "work.sink".
+# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1234): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.cond_br.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1243): (vcom-1195) Cannot find expanded name "work.cond_br".
+# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1243): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.sink.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1261): (vcom-1195) Cannot find expanded name "work.sink".
+# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1261): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.cond_br.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1270): (vcom-1195) Cannot find expanded name "work.cond_br".
+# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1270): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.sink.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1288): (vcom-1195) Cannot find expanded name "work.sink".
+# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1288): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.tfifo.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1297): (vcom-1195) Cannot find expanded name "work.tfifo".
+# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1297): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.cond_br.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1309): (vcom-1195) Cannot find expanded name "work.cond_br".
+# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1309): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.handshake_constant_0.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1327): (vcom-1195) Cannot find expanded name "work.handshake_constant_0".
+# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1327): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.merge.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1338): (vcom-1195) Cannot find expanded name "work.merge".
 # ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1338): Unknown expanded name.
-# ** Error: (vcom-11) Could not find work.extsi.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1353): (vcom-1195) Cannot find expanded name "work.extsi".
+# ** Error: (vcom-11) Could not find work.tehb.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1353): (vcom-1195) Cannot find expanded name "work.tehb".
 # ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1353): Unknown expanded name.
-# ** Error: (vcom-11) Could not find work.handshake_constant_0.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1365): (vcom-1195) Cannot find expanded name "work.handshake_constant_0".
+# ** Error: (vcom-11) Could not find work.handshake_fork.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1365): (vcom-1195) Cannot find expanded name "work.handshake_fork".
 # ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1365): Unknown expanded name.
-# ** Error: (vcom-11) Could not find work.extsi.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1376): (vcom-1195) Cannot find expanded name "work.extsi".
-# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1376): Unknown expanded name.
-# ** Error: (vcom-11) Could not find work.cond_br.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1388): (vcom-1195) Cannot find expanded name "work.cond_br".
-# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1388): Unknown expanded name.
-# ** Error: (vcom-11) Could not find work.sink.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1406): (vcom-1195) Cannot find expanded name "work.sink".
-# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1406): Unknown expanded name.
-# -- Loading entity cond_br_dataless
-# -- Loading entity sink_dataless
-# ** Error: (vcom-11) Could not find work.cond_br.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1438): (vcom-1195) Cannot find expanded name "work.cond_br".
-# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1438): Unknown expanded name.
-# ** Error: (vcom-11) Could not find work.sink.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1456): (vcom-1195) Cannot find expanded name "work.sink".
-# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1456): Unknown expanded name.
-# ** Error: (vcom-11) Could not find work.cond_br.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1465): (vcom-1195) Cannot find expanded name "work.cond_br".
-# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1465): Unknown expanded name.
-# ** Error: (vcom-11) Could not find work.sink.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1483): (vcom-1195) Cannot find expanded name "work.sink".
-# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1483): Unknown expanded name.
-# ** Error: (vcom-11) Could not find work.tfifo.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1492): (vcom-1195) Cannot find expanded name "work.tfifo".
-# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1492): Unknown expanded name.
-# ** Error: (vcom-11) Could not find work.cond_br.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1504): (vcom-1195) Cannot find expanded name "work.cond_br".
-# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1504): Unknown expanded name.
-# ** Error: (vcom-11) Could not find work.handshake_constant_0.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1522): (vcom-1195) Cannot find expanded name "work.handshake_constant_0".
-# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1522): Unknown expanded name.
-# ** Error: (vcom-11) Could not find work.merge.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1533): (vcom-1195) Cannot find expanded name "work.merge".
-# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1533): Unknown expanded name.
-# ** Error: (vcom-11) Could not find work.tehb.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1548): (vcom-1195) Cannot find expanded name "work.tehb".
-# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1548): Unknown expanded name.
-# ** Error: (vcom-11) Could not find work.handshake_fork.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1560): (vcom-1195) Cannot find expanded name "work.handshake_fork".
-# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1560): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.mux.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1584): (vcom-1195) Cannot find expanded name "work.mux".
-# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1584): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1386): (vcom-1195) Cannot find expanded name "work.mux".
+# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1386): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.oehb.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1602): (vcom-1195) Cannot find expanded name "work.oehb".
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1404): (vcom-1195) Cannot find expanded name "work.oehb".
+# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1404): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.tehb.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1416): (vcom-1195) Cannot find expanded name "work.tehb".
+# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1416): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.handshake_fork.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1428): (vcom-1195) Cannot find expanded name "work.handshake_fork".
+# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1428): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.tfifo.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1443): (vcom-1195) Cannot find expanded name "work.tfifo".
+# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1443): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.extsi.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1455): (vcom-1195) Cannot find expanded name "work.extsi".
+# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1455): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.mux.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1467): (vcom-1195) Cannot find expanded name "work.mux".
+# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1467): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.oehb.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1485): (vcom-1195) Cannot find expanded name "work.oehb".
+# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1485): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.tehb.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1497): (vcom-1195) Cannot find expanded name "work.tehb".
+# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1497): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.handshake_fork.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1509): (vcom-1195) Cannot find expanded name "work.handshake_fork".
+# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1509): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.tfifo.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1530): (vcom-1195) Cannot find expanded name "work.tfifo".
+# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1530): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.extsi.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1542): (vcom-1195) Cannot find expanded name "work.extsi".
+# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1542): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.extsi.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1554): (vcom-1195) Cannot find expanded name "work.extsi".
+# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1554): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.tfifo.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1566): (vcom-1195) Cannot find expanded name "work.tfifo".
+# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1566): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.extsi.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1578): (vcom-1195) Cannot find expanded name "work.extsi".
+# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1578): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.oehb.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1590): (vcom-1195) Cannot find expanded name "work.oehb".
+# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1590): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.tehb.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1602): (vcom-1195) Cannot find expanded name "work.tehb".
 # ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1602): Unknown expanded name.
-# ** Error: (vcom-11) Could not find work.tehb.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1614): (vcom-1195) Cannot find expanded name "work.tehb".
-# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1614): Unknown expanded name.
-# ** Error: (vcom-11) Could not find work.handshake_fork.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1626): (vcom-1195) Cannot find expanded name "work.handshake_fork".
-# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1626): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.tfifo.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1641): (vcom-1195) Cannot find expanded name "work.tfifo".
-# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1641): Unknown expanded name.
-# ** Error: (vcom-11) Could not find work.extsi.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1653): (vcom-1195) Cannot find expanded name "work.extsi".
-# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1653): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1614): (vcom-1195) Cannot find expanded name "work.tfifo".
+# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1614): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.mux.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1665): (vcom-1195) Cannot find expanded name "work.mux".
-# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1665): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1626): (vcom-1195) Cannot find expanded name "work.mux".
+# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1626): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.mux.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1644): (vcom-1195) Cannot find expanded name "work.mux".
+# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1644): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.oehb.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1683): (vcom-1195) Cannot find expanded name "work.oehb".
-# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1683): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1662): (vcom-1195) Cannot find expanded name "work.oehb".
+# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1662): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.tehb.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1695): (vcom-1195) Cannot find expanded name "work.tehb".
-# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1695): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1674): (vcom-1195) Cannot find expanded name "work.tehb".
+# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1674): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.handshake_fork.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1707): (vcom-1195) Cannot find expanded name "work.handshake_fork".
-# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1707): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1686): (vcom-1195) Cannot find expanded name "work.handshake_fork".
+# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1686): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.tfifo.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1704): (vcom-1195) Cannot find expanded name "work.tfifo".
+# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1704): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.extsi.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1716): (vcom-1195) Cannot find expanded name "work.extsi".
+# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1716): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.tfifo.
 # ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1728): (vcom-1195) Cannot find expanded name "work.tfifo".
 # ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1728): Unknown expanded name.
@@ -413,231 +414,195 @@
 # ** Error: (vcom-11) Could not find work.extsi.
 # ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1752): (vcom-1195) Cannot find expanded name "work.extsi".
 # ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1752): Unknown expanded name.
-# ** Error: (vcom-11) Could not find work.tfifo.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1764): (vcom-1195) Cannot find expanded name "work.tfifo".
+# ** Error: (vcom-11) Could not find work.source.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1764): (vcom-1195) Cannot find expanded name "work.source".
 # ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1764): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.handshake_constant_1.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1772): (vcom-1195) Cannot find expanded name "work.handshake_constant_1".
+# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1772): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.extsi.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1776): (vcom-1195) Cannot find expanded name "work.extsi".
-# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1776): Unknown expanded name.
-# ** Error: (vcom-11) Could not find work.oehb_dataless.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1803): (vcom-1195) Cannot find expanded name "work.oehb_dataless".
-# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1803): Unknown expanded name.
-# ** Error: (vcom-11) Could not find work.tehb_dataless.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1813): (vcom-1195) Cannot find expanded name "work.tehb_dataless".
-# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1813): Unknown expanded name.
-# ** Error: (vcom-11) Could not find work.fork_dataless.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1823): (vcom-1195) Cannot find expanded name "work.fork_dataless".
-# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1823): Unknown expanded name.
-# ** Error: (vcom-11) Could not find work.oehb.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1839): (vcom-1195) Cannot find expanded name "work.oehb".
-# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1839): Unknown expanded name.
-# ** Error: (vcom-11) Could not find work.tehb.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1851): (vcom-1195) Cannot find expanded name "work.tehb".
-# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1851): Unknown expanded name.
-# ** Error: (vcom-11) Could not find work.tfifo.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1863): (vcom-1195) Cannot find expanded name "work.tfifo".
-# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1863): Unknown expanded name.
-# ** Error: (vcom-11) Could not find work.mux.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1875): (vcom-1195) Cannot find expanded name "work.mux".
-# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1875): Unknown expanded name.
-# ** Error: (vcom-11) Could not find work.mux.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1893): (vcom-1195) Cannot find expanded name "work.mux".
-# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1893): Unknown expanded name.
-# ** Error: (vcom-11) Could not find work.oehb.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1911): (vcom-1195) Cannot find expanded name "work.oehb".
-# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1911): Unknown expanded name.
-# ** Error: (vcom-11) Could not find work.tehb.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1923): (vcom-1195) Cannot find expanded name "work.tehb".
-# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1923): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1783): (vcom-1195) Cannot find expanded name "work.extsi".
+# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1783): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.source.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1795): (vcom-1195) Cannot find expanded name "work.source".
+# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1795): Unknown expanded name.
+# -- Loading entity handshake_constant_2
+# ** Error: (vcom-11) Could not find work.extsi.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1814): (vcom-1195) Cannot find expanded name "work.extsi".
+# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1814): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.source.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1826): (vcom-1195) Cannot find expanded name "work.source".
+# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1826): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.handshake_constant_3.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1834): (vcom-1195) Cannot find expanded name "work.handshake_constant_3".
+# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1834): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.handshake_fork.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1935): (vcom-1195) Cannot find expanded name "work.handshake_fork".
-# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1935): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1845): (vcom-1195) Cannot find expanded name "work.handshake_fork".
+# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1845): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.tfifo.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1953): (vcom-1195) Cannot find expanded name "work.tfifo".
-# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1953): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1860): (vcom-1195) Cannot find expanded name "work.tfifo".
+# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1860): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.extui.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1872): (vcom-1195) Cannot find expanded name "work.extui".
+# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1872): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.extsi.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1965): (vcom-1195) Cannot find expanded name "work.extsi".
-# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1965): Unknown expanded name.
-# ** Error: (vcom-11) Could not find work.tfifo.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1977): (vcom-1195) Cannot find expanded name "work.tfifo".
-# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1977): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1884): (vcom-1195) Cannot find expanded name "work.extsi".
+# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1884): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.shli.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1896): (vcom-1195) Cannot find expanded name "work.shli".
+# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1896): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.addi.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1911): (vcom-1195) Cannot find expanded name "work.addi".
+# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1911): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.addi.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1926): (vcom-1195) Cannot find expanded name "work.addi".
+# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1926): Unknown expanded name.
+# -- Loading entity load
+# ** Error: (vcom-11) Could not find work.addi.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1959): (vcom-1195) Cannot find expanded name "work.addi".
+# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1959): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.extsi.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1989): (vcom-1195) Cannot find expanded name "work.extsi".
-# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1989): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1974): (vcom-1195) Cannot find expanded name "work.extsi".
+# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1974): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.muli.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1986): (vcom-1195) Cannot find expanded name "work.muli".
+# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(1986): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.extsi.
 # ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2001): (vcom-1195) Cannot find expanded name "work.extsi".
 # ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2001): Unknown expanded name.
-# ** Error: (vcom-11) Could not find work.handshake_constant_1.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2013): (vcom-1195) Cannot find expanded name "work.handshake_constant_1".
+# ** Error: (vcom-11) Could not find work.addi.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2013): (vcom-1195) Cannot find expanded name "work.addi".
 # ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2013): Unknown expanded name.
-# ** Error: (vcom-11) Could not find work.extsi.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2024): (vcom-1195) Cannot find expanded name "work.extsi".
-# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2024): Unknown expanded name.
-# -- Loading entity handshake_constant_2
-# ** Error: (vcom-11) Could not find work.extsi.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2047): (vcom-1195) Cannot find expanded name "work.extsi".
-# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2047): Unknown expanded name.
-# ** Error: (vcom-11) Could not find work.handshake_constant_3.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2059): (vcom-1195) Cannot find expanded name "work.handshake_constant_3".
-# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2059): Unknown expanded name.
-# ** Error: (vcom-11) Could not find work.handshake_fork.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2070): (vcom-1195) Cannot find expanded name "work.handshake_fork".
-# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2070): Unknown expanded name.
-# ** Error: (vcom-11) Could not find work.tfifo.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2085): (vcom-1195) Cannot find expanded name "work.tfifo".
-# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2085): Unknown expanded name.
-# ** Error: (vcom-11) Could not find work.extui.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2097): (vcom-1195) Cannot find expanded name "work.extui".
-# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2097): Unknown expanded name.
-# ** Error: (vcom-11) Could not find work.extsi.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2109): (vcom-1195) Cannot find expanded name "work.extsi".
-# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2109): Unknown expanded name.
-# ** Error: (vcom-11) Could not find work.shli.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2121): (vcom-1195) Cannot find expanded name "work.shli".
-# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2121): Unknown expanded name.
-# ** Error: (vcom-11) Could not find work.addi.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2136): (vcom-1195) Cannot find expanded name "work.addi".
-# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2136): Unknown expanded name.
-# ** Error: (vcom-11) Could not find work.addi.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2151): (vcom-1195) Cannot find expanded name "work.addi".
-# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2151): Unknown expanded name.
-# -- Loading entity load
-# ** Error: (vcom-11) Could not find work.addi.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2184): (vcom-1195) Cannot find expanded name "work.addi".
-# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2184): Unknown expanded name.
-# ** Error: (vcom-11) Could not find work.extsi.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2199): (vcom-1195) Cannot find expanded name "work.extsi".
-# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2199): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.muli.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2211): (vcom-1195) Cannot find expanded name "work.muli".
-# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2211): Unknown expanded name.
-# ** Error: (vcom-11) Could not find work.extsi.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2226): (vcom-1195) Cannot find expanded name "work.extsi".
-# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2226): Unknown expanded name.
-# ** Error: (vcom-11) Could not find work.addi.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2238): (vcom-1195) Cannot find expanded name "work.addi".
-# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2238): Unknown expanded name.
-# ** Error: (vcom-11) Could not find work.muli.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2271): (vcom-1195) Cannot find expanded name "work.muli".
-# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2271): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2046): (vcom-1195) Cannot find expanded name "work.muli".
+# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2046): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.oehb.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2286): (vcom-1195) Cannot find expanded name "work.oehb".
-# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2286): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2061): (vcom-1195) Cannot find expanded name "work.oehb".
+# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2061): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.tehb.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2298): (vcom-1195) Cannot find expanded name "work.tehb".
-# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2298): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2073): (vcom-1195) Cannot find expanded name "work.tehb".
+# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2073): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.addi.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2310): (vcom-1195) Cannot find expanded name "work.addi".
-# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2310): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2085): (vcom-1195) Cannot find expanded name "work.addi".
+# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2085): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.addi.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2325): (vcom-1195) Cannot find expanded name "work.addi".
-# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2325): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2100): (vcom-1195) Cannot find expanded name "work.addi".
+# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2100): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.handshake_fork.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2340): (vcom-1195) Cannot find expanded name "work.handshake_fork".
-# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2340): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2115): (vcom-1195) Cannot find expanded name "work.handshake_fork".
+# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2115): Unknown expanded name.
 # -- Loading entity trunci
 # ** Error: (vcom-11) Could not find work.handshake_cmpi_0.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2367): (vcom-1195) Cannot find expanded name "work.handshake_cmpi_0".
-# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2367): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2142): (vcom-1195) Cannot find expanded name "work.handshake_cmpi_0".
+# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2142): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.handshake_fork.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2382): (vcom-1195) Cannot find expanded name "work.handshake_fork".
-# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2382): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2157): (vcom-1195) Cannot find expanded name "work.handshake_fork".
+# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2157): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.tfifo.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2409): (vcom-1195) Cannot find expanded name "work.tfifo".
-# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2409): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2181): (vcom-1195) Cannot find expanded name "work.tfifo".
+# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2181): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.cond_br.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2421): (vcom-1195) Cannot find expanded name "work.cond_br".
-# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2421): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2193): (vcom-1195) Cannot find expanded name "work.cond_br".
+# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2193): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.handshake_fork.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2439): (vcom-1195) Cannot find expanded name "work.handshake_fork".
-# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2439): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2211): (vcom-1195) Cannot find expanded name "work.handshake_fork".
+# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2211): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.cond_br.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2454): (vcom-1195) Cannot find expanded name "work.cond_br".
-# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2454): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2226): (vcom-1195) Cannot find expanded name "work.cond_br".
+# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2226): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.sink.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2472): (vcom-1195) Cannot find expanded name "work.sink".
-# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2472): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2244): (vcom-1195) Cannot find expanded name "work.sink".
+# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2244): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.cond_br.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2504): (vcom-1195) Cannot find expanded name "work.cond_br".
-# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2504): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2253): (vcom-1195) Cannot find expanded name "work.cond_br".
+# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2253): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.sink.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2522): (vcom-1195) Cannot find expanded name "work.sink".
-# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2522): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2271): (vcom-1195) Cannot find expanded name "work.sink".
+# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2271): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.source.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2280): (vcom-1195) Cannot find expanded name "work.source".
+# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2280): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.extsi.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2542): (vcom-1195) Cannot find expanded name "work.extsi".
-# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2542): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2299): (vcom-1195) Cannot find expanded name "work.extsi".
+# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2299): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.source.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2311): (vcom-1195) Cannot find expanded name "work.source".
+# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2311): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.handshake_constant_3.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2554): (vcom-1195) Cannot find expanded name "work.handshake_constant_3".
-# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2554): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2319): (vcom-1195) Cannot find expanded name "work.handshake_constant_3".
+# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2319): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.extsi.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2565): (vcom-1195) Cannot find expanded name "work.extsi".
-# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2565): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2330): (vcom-1195) Cannot find expanded name "work.extsi".
+# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2330): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.addi.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2342): (vcom-1195) Cannot find expanded name "work.addi".
+# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2342): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.handshake_fork.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2357): (vcom-1195) Cannot find expanded name "work.handshake_fork".
+# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2357): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.handshake_cmpi_0.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2384): (vcom-1195) Cannot find expanded name "work.handshake_cmpi_0".
+# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2384): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.handshake_fork.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2399): (vcom-1195) Cannot find expanded name "work.handshake_fork".
+# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2399): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.cond_br.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2420): (vcom-1195) Cannot find expanded name "work.cond_br".
+# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2420): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.sink.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2438): (vcom-1195) Cannot find expanded name "work.sink".
+# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2438): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.cond_br.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2447): (vcom-1195) Cannot find expanded name "work.cond_br".
+# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2447): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.sink.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2465): (vcom-1195) Cannot find expanded name "work.sink".
+# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2465): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.handshake_constant_3.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2474): (vcom-1195) Cannot find expanded name "work.handshake_constant_3".
+# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2474): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.extsi.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2485): (vcom-1195) Cannot find expanded name "work.extsi".
+# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2485): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.source.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2497): (vcom-1195) Cannot find expanded name "work.source".
+# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2497): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.handshake_constant_4.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2505): (vcom-1195) Cannot find expanded name "work.handshake_constant_4".
+# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2505): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.extsi.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2516): (vcom-1195) Cannot find expanded name "work.extsi".
+# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2516): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.source.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2528): (vcom-1195) Cannot find expanded name "work.source".
+# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2528): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.handshake_constant_3.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2536): (vcom-1195) Cannot find expanded name "work.handshake_constant_3".
+# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2536): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.extsi.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2547): (vcom-1195) Cannot find expanded name "work.extsi".
+# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2547): Unknown expanded name.
+# -- Loading entity store
 # ** Error: (vcom-11) Could not find work.addi.
 # ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2577): (vcom-1195) Cannot find expanded name "work.addi".
 # ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2577): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.handshake_fork.
 # ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2592): (vcom-1195) Cannot find expanded name "work.handshake_fork".
 # ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2592): Unknown expanded name.
-# ** Error: (vcom-11) Could not find work.handshake_cmpi_0.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2619): (vcom-1195) Cannot find expanded name "work.handshake_cmpi_0".
-# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2619): Unknown expanded name.
-# ** Error: (vcom-11) Could not find work.handshake_fork.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2634): (vcom-1195) Cannot find expanded name "work.handshake_fork".
-# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2634): Unknown expanded name.
-# ** Error: (vcom-11) Could not find work.cond_br.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2658): (vcom-1195) Cannot find expanded name "work.cond_br".
-# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2658): Unknown expanded name.
-# ** Error: (vcom-11) Could not find work.sink.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2676): (vcom-1195) Cannot find expanded name "work.sink".
-# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2676): Unknown expanded name.
-# ** Error: (vcom-11) Could not find work.cond_br.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2685): (vcom-1195) Cannot find expanded name "work.cond_br".
-# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2685): Unknown expanded name.
-# ** Error: (vcom-11) Could not find work.sink.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2703): (vcom-1195) Cannot find expanded name "work.sink".
-# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2703): Unknown expanded name.
-# ** Error: (vcom-11) Could not find work.handshake_constant_3.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2735): (vcom-1195) Cannot find expanded name "work.handshake_constant_3".
-# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2735): Unknown expanded name.
-# ** Error: (vcom-11) Could not find work.extsi.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2746): (vcom-1195) Cannot find expanded name "work.extsi".
-# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2746): Unknown expanded name.
-# ** Error: (vcom-11) Could not find work.tfifo_dataless.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2758): (vcom-1195) Cannot find expanded name "work.tfifo_dataless".
-# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2758): Unknown expanded name.
-# ** Error: (vcom-11) Could not find work.handshake_constant_4.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2768): (vcom-1195) Cannot find expanded name "work.handshake_constant_4".
-# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2768): Unknown expanded name.
-# ** Error: (vcom-11) Could not find work.extsi.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2779): (vcom-1195) Cannot find expanded name "work.extsi".
-# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2779): Unknown expanded name.
-# ** Error: (vcom-11) Could not find work.handshake_constant_3.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2791): (vcom-1195) Cannot find expanded name "work.handshake_constant_3".
-# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2791): Unknown expanded name.
-# ** Error: (vcom-11) Could not find work.extsi.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2802): (vcom-1195) Cannot find expanded name "work.extsi".
-# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2802): Unknown expanded name.
-# -- Loading entity store
-# ** Error: (vcom-11) Could not find work.addi.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2832): (vcom-1195) Cannot find expanded name "work.addi".
-# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2832): Unknown expanded name.
-# ** Error: (vcom-11) Could not find work.handshake_fork.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2847): (vcom-1195) Cannot find expanded name "work.handshake_fork".
-# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2847): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.tfifo.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2874): (vcom-1195) Cannot find expanded name "work.tfifo".
-# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2874): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2619): (vcom-1195) Cannot find expanded name "work.tfifo".
+# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2619): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.handshake_cmpi_1.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2886): (vcom-1195) Cannot find expanded name "work.handshake_cmpi_1".
-# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2886): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2631): (vcom-1195) Cannot find expanded name "work.handshake_cmpi_1".
+# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2631): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.handshake_fork.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2901): (vcom-1195) Cannot find expanded name "work.handshake_fork".
-# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2901): Unknown expanded name.
-# ** Note: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2922): VHDL Compiler exiting
-# End time: 15:52:54 on Jan 09,2025, Elapsed time: 0:00:00
-# Errors: 423, Warnings: 0
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2646): (vcom-1195) Cannot find expanded name "work.handshake_fork".
+# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2646): Unknown expanded name.
+# ** Note: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2664): VHDL Compiler exiting
+# End time: 20:05:28 on Jan 10,2025, Elapsed time: 0:00:00
+# Errors: 420, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 15:52:54 on Jan 09,2025
+# Start time: 20:05:28 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/mem_controller_storeless.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -647,10 +612,10 @@
 # ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/mem_controller_storeless.vhd(4): (vcom-1195) Cannot find expanded name "work.types".
 # ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/mem_controller_storeless.vhd(4): Unknown expanded name.
 # ** Note: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/mem_controller_storeless.vhd(6): VHDL Compiler exiting
-# End time: 15:52:54 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 20:05:28 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 3, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 15:52:54 on Jan 09,2025
+# Start time: 20:05:28 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/extui.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -658,26 +623,11 @@
 # -- Loading package NUMERIC_STD
 # -- Compiling entity extui
 # -- Compiling architecture arch of extui
-# End time: 15:52:54 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 20:05:28 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of extui.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 15:52:54 on Jan 09,2025
-# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/tfifo_dataless.vhd 
-# -- Loading package STANDARD
-# -- Loading package TEXTIO
-# -- Loading package std_logic_1164
-# -- Loading package NUMERIC_STD
-# -- Compiling entity tfifo_dataless
-# -- Compiling architecture arch of tfifo_dataless
-# ** Error: (vcom-11) Could not find work.elastic_fifo_inner_dataless.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/tfifo_dataless.vhd(31): (vcom-1195) Cannot find expanded name "work.elastic_fifo_inner_dataless".
-# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/tfifo_dataless.vhd(31): Unknown expanded name.
-# ** Note: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/tfifo_dataless.vhd(42): VHDL Compiler exiting
-# End time: 15:52:54 on Jan 09,2025, Elapsed time: 0:00:00
-# Errors: 3, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 15:52:54 on Jan 09,2025
+# Start time: 20:05:28 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/simpackage.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -689,33 +639,33 @@
 # -- Compiling package sim_package
 # -- Compiling package body sim_package
 # -- Loading package sim_package
-# End time: 15:52:54 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 20:05:28 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of simpackage.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 15:52:54 on Jan 09,2025
+# Start time: 20:05:28 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/tb_join.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
 # -- Loading package std_logic_1164
 # -- Compiling entity tb_join
 # -- Compiling architecture arch of tb_join
-# End time: 15:52:54 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 20:05:28 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of tb_join.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 15:52:54 on Jan 09,2025
+# Start time: 20:05:28 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/eager_fork_register_block.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
 # -- Loading package std_logic_1164
 # -- Compiling entity eager_fork_register_block
 # -- Compiling architecture arch of eager_fork_register_block
-# End time: 15:52:54 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 20:05:28 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of eager_fork_register_block.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 15:52:54 on Jan 09,2025
+# Start time: 20:05:28 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/addi.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -727,10 +677,10 @@
 # ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/addi.vhd(28): (vcom-1195) Cannot find expanded name "work.join".
 # ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/addi.vhd(28): Unknown expanded name.
 # ** Note: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/addi.vhd(41): VHDL Compiler exiting
-# End time: 15:52:54 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 20:05:28 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 3, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 15:52:54 on Jan 09,2025
+# Start time: 20:05:28 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/muli.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -749,10 +699,10 @@
 # ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/muli.vhd(106): (vcom-1195) Cannot find expanded name "work.oehb".
 # ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/muli.vhd(106): Unknown expanded name.
 # ** Note: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/muli.vhd(117): VHDL Compiler exiting
-# End time: 15:52:54 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 20:05:28 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 6, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 15:52:54 on Jan 09,2025
+# Start time: 20:05:28 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/oehb.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -764,10 +714,10 @@
 # ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/oehb.vhd(26): (vcom-1195) Cannot find expanded name "work.oehb_dataless".
 # ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/oehb.vhd(26): Unknown expanded name.
 # ** Note: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/oehb.vhd(49): VHDL Compiler exiting
-# End time: 15:52:54 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 20:05:28 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 3, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 15:52:54 on Jan 09,2025
+# Start time: 20:05:28 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/handshake_constant_1.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -775,11 +725,11 @@
 # -- Loading package NUMERIC_STD
 # -- Compiling entity handshake_constant_1
 # -- Compiling architecture arch of handshake_constant_1
-# End time: 15:52:54 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 20:05:28 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of handshake_constant_1.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 15:52:54 on Jan 09,2025
+# Start time: 20:05:28 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/oehb_dataless.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -787,11 +737,11 @@
 # -- Loading package NUMERIC_STD
 # -- Compiling entity oehb_dataless
 # -- Compiling architecture arch of oehb_dataless
-# End time: 15:52:54 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 20:05:28 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of oehb_dataless.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 15:52:54 on Jan 09,2025
+# Start time: 20:05:28 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/handshake_cmpi_1.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -803,10 +753,22 @@
 # ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/handshake_cmpi_1.vhd(28): (vcom-1195) Cannot find expanded name "work.join".
 # ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/handshake_cmpi_1.vhd(28): Unknown expanded name.
 # ** Note: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/handshake_cmpi_1.vhd(41): VHDL Compiler exiting
-# End time: 15:52:54 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 20:05:28 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 3, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 15:52:54 on Jan 09,2025
+# Start time: 20:05:28 on Jan 10,2025
+# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/source.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity source
+# -- Compiling architecture arch of source
+# End time: 20:05:28 on Jan 10,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Compile of source.vhd was successful.
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:05:28 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/handshake_constant_4.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -814,11 +776,11 @@
 # -- Loading package NUMERIC_STD
 # -- Compiling entity handshake_constant_4
 # -- Compiling architecture arch of handshake_constant_4
-# End time: 15:52:54 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 20:05:28 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of handshake_constant_4.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 15:52:54 on Jan 09,2025
+# Start time: 20:05:28 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/cond_br.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -827,11 +789,11 @@
 # -- Compiling entity cond_br
 # -- Compiling architecture arch of cond_br
 # -- Loading entity cond_br_dataless
-# End time: 15:52:55 on Jan 09,2025, Elapsed time: 0:00:01
+# End time: 20:05:28 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of cond_br.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 15:52:55 on Jan 09,2025
+# Start time: 20:05:28 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/extsi.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -839,11 +801,11 @@
 # -- Loading package NUMERIC_STD
 # -- Compiling entity extsi
 # -- Compiling architecture arch of extsi
-# End time: 15:52:55 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 20:05:28 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of extsi.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 15:52:55 on Jan 09,2025
+# Start time: 20:05:28 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/handshake_cmpi_0.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -855,10 +817,10 @@
 # ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/handshake_cmpi_0.vhd(28): (vcom-1195) Cannot find expanded name "work.join".
 # ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/handshake_cmpi_0.vhd(28): Unknown expanded name.
 # ** Note: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/handshake_cmpi_0.vhd(41): VHDL Compiler exiting
-# End time: 15:52:55 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 20:05:28 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 3, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 15:52:55 on Jan 09,2025
+# Start time: 20:05:28 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/handshake_constant_3.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -866,11 +828,11 @@
 # -- Loading package NUMERIC_STD
 # -- Compiling entity handshake_constant_3
 # -- Compiling architecture arch of handshake_constant_3
-# End time: 15:52:55 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 20:05:28 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of handshake_constant_3.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 15:52:55 on Jan 09,2025
+# Start time: 20:05:28 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/tehb.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -882,10 +844,10 @@
 # ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/tehb.vhd(28): (vcom-1195) Cannot find expanded name "work.tehb_dataless".
 # ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/tehb.vhd(28): Unknown expanded name.
 # ** Note: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/tehb.vhd(60): VHDL Compiler exiting
-# End time: 15:52:55 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 20:05:28 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 3, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 15:52:55 on Jan 09,2025
+# Start time: 20:05:28 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/tfifo.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -894,11 +856,11 @@
 # -- Compiling entity tfifo
 # -- Compiling architecture arch of tfifo
 # -- Loading entity elastic_fifo_inner
-# End time: 15:52:55 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 20:05:28 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of tfifo.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 15:52:55 on Jan 09,2025
+# Start time: 20:05:28 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/logic.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -911,11 +873,11 @@
 # -- Compiling architecture arch of or_n
 # -- Compiling entity nor_n
 # -- Compiling architecture arch of nor_n
-# End time: 15:52:55 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 20:05:28 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of logic.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 15:52:55 on Jan 09,2025
+# Start time: 20:05:28 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/shli.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -927,10 +889,10 @@
 # ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/shli.vhd(28): (vcom-1195) Cannot find expanded name "work.join".
 # ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/shli.vhd(28): Unknown expanded name.
 # ** Note: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/shli.vhd(41): VHDL Compiler exiting
-# End time: 15:52:55 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 20:05:28 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 3, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 15:52:55 on Jan 09,2025
+# Start time: 20:05:28 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/fork_dataless.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -940,21 +902,21 @@
 # -- Compiling architecture arch of fork_dataless
 # -- Loading entity or_n
 # -- Loading entity eager_fork_register_block
-# End time: 15:52:55 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 20:05:28 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of fork_dataless.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 15:52:55 on Jan 09,2025
+# Start time: 20:05:28 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/types.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
 # -- Loading package std_logic_1164
 # -- Compiling package types
-# End time: 15:52:55 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 20:05:28 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of types.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 15:52:55 on Jan 09,2025
+# Start time: 20:05:28 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/hls_verify_stencil_2d_tb.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -982,22 +944,10 @@
 # ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/hls_verify_stencil_2d_tb.vhd(239): Unknown expanded name.
 # -- Loading entity tb_join
 # ** Note: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/hls_verify_stencil_2d_tb.vhd(446): VHDL Compiler exiting
-# End time: 15:52:55 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 20:05:28 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 12, Warnings: 1
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 15:52:55 on Jan 09,2025
-# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/elastic_fifo_inner_dataless.vhd 
-# -- Loading package STANDARD
-# -- Loading package TEXTIO
-# -- Loading package std_logic_1164
-# -- Loading package NUMERIC_STD
-# -- Compiling entity elastic_fifo_inner_dataless
-# -- Compiling architecture arch of elastic_fifo_inner_dataless
-# End time: 15:52:55 on Jan 09,2025, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Compile of elastic_fifo_inner_dataless.vhd was successful.
-# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 15:52:55 on Jan 09,2025
+# Start time: 20:05:28 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/sink.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -1005,11 +955,11 @@
 # -- Loading package NUMERIC_STD
 # -- Compiling entity sink
 # -- Compiling architecture arch of sink
-# End time: 15:52:55 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 20:05:28 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of sink.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 15:52:55 on Jan 09,2025
+# Start time: 20:05:28 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/mux.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -1020,11 +970,11 @@
 # -- Compiling entity mux
 # -- Compiling architecture arch of mux
 # -- Loading entity tehb
-# End time: 15:52:55 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 20:05:28 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of mux.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 15:52:55 on Jan 09,2025
+# Start time: 20:05:28 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/merge.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -1034,11 +984,11 @@
 # -- Compiling entity merge
 # -- Compiling architecture arch of merge
 # -- Loading entity tehb
-# End time: 15:52:55 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 20:05:29 on Jan 10,2025, Elapsed time: 0:00:01
 # Errors: 0, Warnings: 0
 # Compile of merge.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 15:52:55 on Jan 09,2025
+# Start time: 20:05:29 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/handshake_fork.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -1048,11 +998,11 @@
 # -- Compiling architecture arch of handshake_fork
 # -- Loading package NUMERIC_STD
 # -- Loading entity fork_dataless
-# End time: 15:52:55 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 20:05:29 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of handshake_fork.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 15:52:55 on Jan 09,2025
+# Start time: 20:05:29 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/handshake_constant_0.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -1060,11 +1010,11 @@
 # -- Loading package NUMERIC_STD
 # -- Compiling entity handshake_constant_0
 # -- Compiling architecture arch of handshake_constant_0
-# End time: 15:52:55 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 20:05:29 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of handshake_constant_0.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 15:52:55 on Jan 09,2025
+# Start time: 20:05:29 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/mem_to_bram.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -1072,11 +1022,11 @@
 # -- Loading package NUMERIC_STD
 # -- Compiling entity mem_to_bram
 # -- Compiling architecture arch of mem_to_bram
-# End time: 15:52:55 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 20:05:29 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of mem_to_bram.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 15:52:55 on Jan 09,2025
+# Start time: 20:05:29 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/single_argument.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -1089,11 +1039,11 @@
 # -- Compiling entity single_argument
 # -- Compiling architecture behav of single_argument
 # ** Warning: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/single_argument.vhd(40): (vcom-1236) Shared variables must be of a protected type.
-# End time: 15:52:55 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 20:05:29 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 1
 # Compile of single_argument.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 15:52:55 on Jan 09,2025
+# Start time: 20:05:29 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/join.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -1101,11 +1051,11 @@
 # -- Compiling entity join
 # -- Compiling architecture arch of join
 # -- Loading entity and_n
-# End time: 15:52:55 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 20:05:29 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of join.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 15:52:55 on Jan 09,2025
+# Start time: 20:05:29 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/tehb_dataless.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -1113,11 +1063,11 @@
 # -- Loading package NUMERIC_STD
 # -- Compiling entity tehb_dataless
 # -- Compiling architecture arch of tehb_dataless
-# End time: 15:52:55 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 20:05:29 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of tehb_dataless.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 15:52:55 on Jan 09,2025
+# Start time: 20:05:29 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/mc_support.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -1154,25 +1104,11 @@
 # -- Loading entity write_data_signals
 # -- Compiling entity mc_control
 # -- Compiling architecture arch of mc_control
-# End time: 15:52:55 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 20:05:29 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of mc_support.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 15:52:55 on Jan 09,2025
-# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/mux_dataless.vhd 
-# -- Loading package STANDARD
-# -- Loading package TEXTIO
-# -- Loading package std_logic_1164
-# -- Loading package NUMERIC_STD
-# -- Loading package MATH_REAL
-# -- Compiling entity mux_dataless
-# -- Compiling architecture arch of mux_dataless
-# -- Loading entity tehb_dataless
-# End time: 15:52:55 on Jan 09,2025, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Compile of mux_dataless.vhd was successful.
-# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 15:52:55 on Jan 09,2025
+# Start time: 20:05:29 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/load.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -1181,11 +1117,11 @@
 # -- Compiling entity load
 # -- Compiling architecture arch of load
 # -- Loading entity tehb
-# End time: 15:52:55 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 20:05:29 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of load.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 15:52:55 on Jan 09,2025
+# Start time: 20:05:29 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/cond_br_dataless.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -1194,11 +1130,11 @@
 # -- Compiling entity cond_br_dataless
 # -- Compiling architecture arch of cond_br_dataless
 # -- Loading entity join
-# End time: 15:52:55 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 20:05:29 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of cond_br_dataless.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 15:52:55 on Jan 09,2025
+# Start time: 20:05:29 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/store.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -1207,11 +1143,11 @@
 # -- Compiling entity store
 # -- Compiling architecture arch of store
 # -- Loading entity join
-# End time: 15:52:55 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 20:05:29 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of store.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 15:52:55 on Jan 09,2025
+# Start time: 20:05:29 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/mem_controller_loadless.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -1222,11 +1158,11 @@
 # -- Compiling architecture arch of mem_controller_loadless
 # -- Loading entity write_memory_arbiter
 # -- Loading entity mc_control
-# End time: 15:52:55 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 20:05:29 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of mem_controller_loadless.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 15:52:55 on Jan 09,2025
+# Start time: 20:05:29 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/two_port_RAM.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -1239,11 +1175,11 @@
 # -- Compiling entity two_port_RAM
 # -- Compiling architecture behav of two_port_RAM
 # ** Warning: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/two_port_RAM.vhd(47): (vcom-1236) Shared variables must be of a protected type.
-# End time: 15:52:55 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 20:05:29 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 1
 # Compile of two_port_RAM.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 15:52:55 on Jan 09,2025
+# Start time: 20:05:29 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d_wrapper.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -1253,11 +1189,11 @@
 # -- Compiling architecture behavioral of stencil_2d_wrapper
 # -- Loading entity mem_to_bram
 # -- Loading entity stencil_2d
-# End time: 15:52:55 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 20:05:29 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of stencil_2d_wrapper.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 15:52:55 on Jan 09,2025
+# Start time: 20:05:29 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -1269,27 +1205,23 @@
 # -- Loading package types
 # -- Loading entity mem_controller_loadless
 # ** Error: (vcom-11) Could not find work.mem_controller_storeless.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(770): (vcom-1195) Cannot find expanded name "work.mem_controller_storeless".
-# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(770): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(702): (vcom-1195) Cannot find expanded name "work.mem_controller_storeless".
+# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(702): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.mem_controller_storeless.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(794): (vcom-1195) Cannot find expanded name "work.mem_controller_storeless".
-# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(794): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(726): (vcom-1195) Cannot find expanded name "work.mem_controller_storeless".
+# ** Error: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(726): Unknown expanded name.
+# -- Loading entity source
 # -- Loading entity handshake_constant_0
-# -- Loading entity handshake_fork
 # -- Loading entity extsi
-# -- Loading entity merge
 # -- Loading entity tehb
 # -- Loading package MATH_REAL
-# -- Loading entity mux_dataless
-# -- Loading entity oehb_dataless
-# -- Loading entity tehb_dataless
 # -- Loading entity mux
 # -- Loading entity oehb
+# -- Loading entity handshake_fork
 # -- Loading entity tfifo
+# -- Loading entity merge
 # -- Loading entity cond_br
 # -- Loading entity sink
-# -- Loading entity cond_br_dataless
-# -- Loading entity sink_dataless
 # -- Loading entity handshake_constant_1
 # -- Loading entity handshake_constant_2
 # -- Loading entity handshake_constant_3
@@ -1300,15 +1232,14 @@
 # -- Loading entity muli
 # -- Loading entity trunci
 # -- Loading entity handshake_cmpi_0
-# -- Loading entity tfifo_dataless
 # -- Loading entity handshake_constant_4
 # -- Loading entity store
 # -- Loading entity handshake_cmpi_1
-# ** Note: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2922): VHDL Compiler exiting
-# End time: 15:52:55 on Jan 09,2025, Elapsed time: 0:00:00
+# ** Note: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd(2664): VHDL Compiler exiting
+# End time: 20:05:29 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 6, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 15:52:55 on Jan 09,2025
+# Start time: 20:05:29 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/mem_controller_storeless.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -1319,24 +1250,11 @@
 # -- Compiling architecture arch of mem_controller_storeless
 # -- Loading entity read_memory_arbiter
 # -- Loading entity mc_control
-# End time: 15:52:55 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 20:05:29 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of mem_controller_storeless.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 15:52:55 on Jan 09,2025
-# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/tfifo_dataless.vhd 
-# -- Loading package STANDARD
-# -- Loading package TEXTIO
-# -- Loading package std_logic_1164
-# -- Loading package NUMERIC_STD
-# -- Compiling entity tfifo_dataless
-# -- Compiling architecture arch of tfifo_dataless
-# -- Loading entity elastic_fifo_inner_dataless
-# End time: 15:52:55 on Jan 09,2025, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Compile of tfifo_dataless.vhd was successful.
-# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 15:52:55 on Jan 09,2025
+# Start time: 20:05:29 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/addi.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -1345,11 +1263,11 @@
 # -- Compiling entity addi
 # -- Compiling architecture arch of addi
 # -- Loading entity join
-# End time: 15:52:55 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 20:05:29 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of addi.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 15:52:55 on Jan 09,2025
+# Start time: 20:05:29 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/muli.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -1363,11 +1281,11 @@
 # -- Loading entity mul_4_stage
 # -- Loading entity delay_buffer
 # -- Loading entity oehb
-# End time: 15:52:55 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 20:05:29 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of muli.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 15:52:55 on Jan 09,2025
+# Start time: 20:05:29 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/oehb.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -1376,11 +1294,11 @@
 # -- Compiling entity oehb
 # -- Compiling architecture arch of oehb
 # -- Loading entity oehb_dataless
-# End time: 15:52:55 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 20:05:29 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of oehb.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 15:52:55 on Jan 09,2025
+# Start time: 20:05:29 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/handshake_cmpi_1.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -1389,11 +1307,11 @@
 # -- Compiling entity handshake_cmpi_1
 # -- Compiling architecture arch of handshake_cmpi_1
 # -- Loading entity join
-# End time: 15:52:55 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 20:05:29 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of handshake_cmpi_1.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 15:52:55 on Jan 09,2025
+# Start time: 20:05:29 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/handshake_cmpi_0.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -1402,11 +1320,11 @@
 # -- Compiling entity handshake_cmpi_0
 # -- Compiling architecture arch of handshake_cmpi_0
 # -- Loading entity join
-# End time: 15:52:55 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 20:05:29 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of handshake_cmpi_0.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 15:52:55 on Jan 09,2025
+# Start time: 20:05:29 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/tehb.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -1415,11 +1333,11 @@
 # -- Compiling entity tehb
 # -- Compiling architecture arch of tehb
 # -- Loading entity tehb_dataless
-# End time: 15:52:55 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 20:05:29 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of tehb.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 15:52:55 on Jan 09,2025
+# Start time: 20:05:29 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/shli.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -1428,11 +1346,11 @@
 # -- Compiling entity shli
 # -- Compiling architecture arch of shli
 # -- Loading entity join
-# End time: 15:52:55 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 20:05:29 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of shli.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 15:52:55 on Jan 09,2025
+# Start time: 20:05:29 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/hls_verify_stencil_2d_tb.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -1449,11 +1367,11 @@
 # -- Loading entity single_argument
 # -- Loading entity two_port_RAM
 # -- Loading entity tb_join
-# End time: 15:52:55 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 20:05:29 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 1
 # Compile of hls_verify_stencil_2d_tb.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 15:52:56 on Jan 09,2025
+# Start time: 20:05:29 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/stencil_2d.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -1465,22 +1383,18 @@
 # -- Loading package types
 # -- Loading entity mem_controller_loadless
 # -- Loading entity mem_controller_storeless
+# -- Loading entity source
 # -- Loading entity handshake_constant_0
-# -- Loading entity handshake_fork
 # -- Loading entity extsi
-# -- Loading entity merge
 # -- Loading entity tehb
 # -- Loading package MATH_REAL
-# -- Loading entity mux_dataless
-# -- Loading entity oehb_dataless
-# -- Loading entity tehb_dataless
 # -- Loading entity mux
 # -- Loading entity oehb
+# -- Loading entity handshake_fork
 # -- Loading entity tfifo
+# -- Loading entity merge
 # -- Loading entity cond_br
 # -- Loading entity sink
-# -- Loading entity cond_br_dataless
-# -- Loading entity sink_dataless
 # -- Loading entity handshake_constant_1
 # -- Loading entity handshake_constant_2
 # -- Loading entity handshake_constant_3
@@ -1491,22 +1405,13 @@
 # -- Loading entity muli
 # -- Loading entity trunci
 # -- Loading entity handshake_cmpi_0
-# -- Loading entity tfifo_dataless
 # -- Loading entity handshake_constant_4
 # -- Loading entity store
 # -- Loading entity handshake_cmpi_1
-# End time: 15:52:56 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 20:05:29 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of stencil_2d.vhd was successful.
-# All compile dependencies have been resolved.vcom -work work -2008 -explicit -stats=none /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/sink_dataless.vhd
-# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# -- Loading package STANDARD
-# -- Loading package TEXTIO
-# -- Loading package std_logic_1164
-# -- Loading package NUMERIC_STD
-# -- Compiling entity sink_dataless
-# -- Compiling architecture arch of sink_dataless
-# vcom -work work -2008 -explicit -stats=none /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/elastic_fifo_inner.vhd
+# All compile dependencies have been resolved.vcom -work work -2008 -explicit -stats=none /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/elastic_fifo_inner.vhd
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -1588,6 +1493,14 @@
 # -- Loading package NUMERIC_STD
 # -- Compiling entity oehb_dataless
 # -- Compiling architecture arch of oehb_dataless
+# vcom -work work -2008 -explicit -stats=none /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/source.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity source
+# -- Compiling architecture arch of source
 # vcom -work work -2008 -explicit -stats=none /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/handshake_constant_4.vhd
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
 # -- Loading package STANDARD
@@ -1659,14 +1572,6 @@
 # -- Loading package TEXTIO
 # -- Loading package std_logic_1164
 # -- Compiling package types
-# vcom -work work -2008 -explicit -stats=none /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/elastic_fifo_inner_dataless.vhd
-# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# -- Loading package STANDARD
-# -- Loading package TEXTIO
-# -- Loading package std_logic_1164
-# -- Loading package NUMERIC_STD
-# -- Compiling entity elastic_fifo_inner_dataless
-# -- Compiling architecture arch of elastic_fifo_inner_dataless
 # vcom -work work -2008 -explicit -stats=none /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/sink.vhd
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
 # -- Loading package STANDARD
@@ -1788,16 +1693,6 @@
 # -- Loading entity write_data_signals
 # -- Compiling entity mc_control
 # -- Compiling architecture arch of mc_control
-# vcom -work work -2008 -explicit -stats=none /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/mux_dataless.vhd
-# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# -- Loading package STANDARD
-# -- Loading package TEXTIO
-# -- Loading package std_logic_1164
-# -- Loading package NUMERIC_STD
-# -- Loading package MATH_REAL
-# -- Compiling entity mux_dataless
-# -- Compiling architecture arch of mux_dataless
-# -- Loading entity tehb_dataless
 # vcom -work work -2008 -explicit -stats=none /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/load.vhd
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
 # -- Loading package STANDARD
@@ -1870,15 +1765,6 @@
 # -- Compiling architecture arch of mem_controller_storeless
 # -- Loading entity read_memory_arbiter
 # -- Loading entity mc_control
-# vcom -work work -2008 -explicit -stats=none /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/tfifo_dataless.vhd
-# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# -- Loading package STANDARD
-# -- Loading package TEXTIO
-# -- Loading package std_logic_1164
-# -- Loading package NUMERIC_STD
-# -- Compiling entity tfifo_dataless
-# -- Compiling architecture arch of tfifo_dataless
-# -- Loading entity elastic_fifo_inner_dataless
 # vcom -work work -2008 -explicit -stats=none /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/addi.vhd
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
 # -- Loading package STANDARD
@@ -1976,22 +1862,18 @@
 # -- Loading package types
 # -- Loading entity mem_controller_loadless
 # -- Loading entity mem_controller_storeless
+# -- Loading entity source
 # -- Loading entity handshake_constant_0
-# -- Loading entity handshake_fork
 # -- Loading entity extsi
-# -- Loading entity merge
 # -- Loading entity tehb
 # -- Loading package MATH_REAL
-# -- Loading entity mux_dataless
-# -- Loading entity oehb_dataless
-# -- Loading entity tehb_dataless
 # -- Loading entity mux
 # -- Loading entity oehb
+# -- Loading entity handshake_fork
 # -- Loading entity tfifo
+# -- Loading entity merge
 # -- Loading entity cond_br
 # -- Loading entity sink
-# -- Loading entity cond_br_dataless
-# -- Loading entity sink_dataless
 # -- Loading entity handshake_constant_1
 # -- Loading entity handshake_constant_2
 # -- Loading entity handshake_constant_3
@@ -2002,13 +1884,12 @@
 # -- Loading entity muli
 # -- Loading entity trunci
 # -- Loading entity handshake_cmpi_0
-# -- Loading entity tfifo_dataless
 # -- Loading entity handshake_constant_4
 # -- Loading entity store
 # -- Loading entity handshake_cmpi_1
-# 48 compiles, 0 failed with no errors.
+# 45 compiles, 0 failed with no errors.
 # vsim stencil_2d_wrapper_tb 
-# Start time: 15:52:57 on Jan 09,2025
+# Start time: 20:05:30 on Jan 10,2025
 # Loading std.standard
 # Loading std.textio(body)
 # Loading ieee.std_logic_1164(body)
@@ -2039,24 +1920,23 @@
 # Loading work.read_address_mux(arch)
 # Loading work.read_address_ready(arch)
 # Loading work.read_data_signals(arch)
+# Loading work.source(arch)
 # Loading work.handshake_constant_0(arch)
-# Loading work.handshake_fork(arch)
 # Loading work.extsi(arch)
-# Loading work.merge(arch)
 # Loading work.tehb(arch)
 # Loading work.tehb_dataless(arch)
-# Loading work.mux_dataless(arch)
-# Loading work.oehb_dataless(arch)
 # Loading work.mux(arch)
 # Loading work.oehb(arch)
+# Loading work.oehb_dataless(arch)
+# Loading work.handshake_fork(arch)
 # Loading work.tfifo(arch)
 # Loading work.elastic_fifo_inner(arch)
+# Loading work.merge(arch)
 # Loading work.cond_br(arch)
 # Loading work.cond_br_dataless(arch)
 # Loading work.join(arch)
 # Loading work.and_n(arch)
 # Loading work.sink(arch)
-# Loading work.sink_dataless(arch)
 # Loading work.handshake_constant_1(arch)
 # Loading work.handshake_constant_2(arch)
 # Loading work.handshake_constant_3(arch)
@@ -2069,15 +1949,13 @@
 # Loading work.delay_buffer(arch)
 # Loading work.trunci(arch)
 # Loading work.handshake_cmpi_0(arch)
-# Loading work.tfifo_dataless(arch)
-# Loading work.elastic_fifo_inner_dataless(arch)
 # Loading work.handshake_constant_4(arch)
 # Loading work.store(arch)
 # Loading work.handshake_cmpi_1(arch)
 # Loading work.single_argument(behav)
 # Loading work.two_port_ram(behav)
 # Loading work.tb_join(arch)
-# ** Warning: Design size of 20960 statements exceeds ModelSim-Intel FPGA Starter Edition recommended capacity.
+# ** Warning: Design size of 19148 statements exceeds ModelSim-Intel FPGA Starter Edition recommended capacity.
 # Expect performance to be adversely affected.
 # ** Warning: NUMERIC_STD."<": metavalue detected, returning FALSE
 #    Time: 0 ps  Iteration: 0  Instance: /stencil_2d_wrapper_tb/duv/stencil_2d_wrapped/cmpi2
@@ -2088,156 +1966,120 @@
 # ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
 #    Time: 0 ps  Iteration: 0  Instance: /stencil_2d_wrapper_tb/duv/stencil_2d_wrapped/shli1
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 0  Instance: /stencil_2d_wrapper_tb/duv/stencil_2d_wrapped/mux28
+#    Time: 0 ps  Iteration: 0  Instance: /stencil_2d_wrapper_tb/duv/stencil_2d_wrapped/mux9
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 0  Instance: /stencil_2d_wrapper_tb/duv/stencil_2d_wrapped/mux28
+#    Time: 0 ps  Iteration: 0  Instance: /stencil_2d_wrapper_tb/duv/stencil_2d_wrapped/mux9
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 0  Instance: /stencil_2d_wrapper_tb/duv/stencil_2d_wrapped/mux27
+#    Time: 0 ps  Iteration: 0  Instance: /stencil_2d_wrapper_tb/duv/stencil_2d_wrapped/mux8
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 0  Instance: /stencil_2d_wrapper_tb/duv/stencil_2d_wrapped/mux27
+#    Time: 0 ps  Iteration: 0  Instance: /stencil_2d_wrapper_tb/duv/stencil_2d_wrapped/mux8
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 0  Instance: /stencil_2d_wrapper_tb/duv/stencil_2d_wrapped/mux26
+#    Time: 0 ps  Iteration: 0  Instance: /stencil_2d_wrapper_tb/duv/stencil_2d_wrapped/mux7
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 0  Instance: /stencil_2d_wrapper_tb/duv/stencil_2d_wrapped/mux26
+#    Time: 0 ps  Iteration: 0  Instance: /stencil_2d_wrapper_tb/duv/stencil_2d_wrapped/mux7
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 0  Instance: /stencil_2d_wrapper_tb/duv/stencil_2d_wrapped/mux23
+#    Time: 0 ps  Iteration: 0  Instance: /stencil_2d_wrapper_tb/duv/stencil_2d_wrapped/mux5
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 0  Instance: /stencil_2d_wrapper_tb/duv/stencil_2d_wrapped/mux23
+#    Time: 0 ps  Iteration: 0  Instance: /stencil_2d_wrapper_tb/duv/stencil_2d_wrapped/mux5
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 0  Instance: /stencil_2d_wrapper_tb/duv/stencil_2d_wrapped/mux21
+#    Time: 0 ps  Iteration: 0  Instance: /stencil_2d_wrapper_tb/duv/stencil_2d_wrapped/mux3
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 0  Instance: /stencil_2d_wrapper_tb/duv/stencil_2d_wrapped/mux21
+#    Time: 0 ps  Iteration: 0  Instance: /stencil_2d_wrapper_tb/duv/stencil_2d_wrapped/mux3
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 0  Instance: /stencil_2d_wrapper_tb/duv/stencil_2d_wrapped/mux19
+#    Time: 0 ps  Iteration: 0  Instance: /stencil_2d_wrapper_tb/duv/stencil_2d_wrapped/mux2
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 0  Instance: /stencil_2d_wrapper_tb/duv/stencil_2d_wrapped/mux19
+#    Time: 0 ps  Iteration: 0  Instance: /stencil_2d_wrapper_tb/duv/stencil_2d_wrapped/mux2
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 0  Instance: /stencil_2d_wrapper_tb/duv/stencil_2d_wrapped/mux18
+#    Time: 0 ps  Iteration: 0  Instance: /stencil_2d_wrapper_tb/duv/stencil_2d_wrapped/mux1
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 0  Instance: /stencil_2d_wrapper_tb/duv/stencil_2d_wrapped/mux18
-# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 0  Instance: /stencil_2d_wrapper_tb/duv/stencil_2d_wrapped/mux17
-# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 0  Instance: /stencil_2d_wrapper_tb/duv/stencil_2d_wrapped/mux17
-# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 0  Instance: /stencil_2d_wrapper_tb/duv/stencil_2d_wrapped/mux13
-# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 0  Instance: /stencil_2d_wrapper_tb/duv/stencil_2d_wrapped/mux13
-# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 0  Instance: /stencil_2d_wrapper_tb/duv/stencil_2d_wrapped/mux10
-# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 0  Instance: /stencil_2d_wrapper_tb/duv/stencil_2d_wrapped/mux10
+#    Time: 0 ps  Iteration: 0  Instance: /stencil_2d_wrapper_tb/duv/stencil_2d_wrapped/mux1
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
 #    Time: 0 ps  Iteration: 0  Instance: /stencil_2d_wrapper_tb/duv/stencil_2d_wrapped/mux0
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
 #    Time: 0 ps  Iteration: 0  Instance: /stencil_2d_wrapper_tb/duv/stencil_2d_wrapped/mux0
 # ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
 #    Time: 0 ps  Iteration: 1  Instance: /stencil_2d_wrapper_tb/duv/stencil_2d_wrapped/shli1
-# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 1  Instance: /stencil_2d_wrapper_tb/duv/stencil_2d_wrapped/mux0
-# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 1  Instance: /stencil_2d_wrapper_tb/duv/stencil_2d_wrapped/mux0
 # ** Warning: NUMERIC_STD."<": metavalue detected, returning FALSE
 #    Time: 0 ps  Iteration: 2  Instance: /stencil_2d_wrapper_tb/duv/stencil_2d_wrapped/cmpi2
 # ** Warning: NUMERIC_STD."<": metavalue detected, returning FALSE
 #    Time: 0 ps  Iteration: 2  Instance: /stencil_2d_wrapper_tb/duv/stencil_2d_wrapped/cmpi1
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 2  Instance: /stencil_2d_wrapper_tb/duv/stencil_2d_wrapped/mux27
+#    Time: 0 ps  Iteration: 2  Instance: /stencil_2d_wrapper_tb/duv/stencil_2d_wrapped/mux8
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 2  Instance: /stencil_2d_wrapper_tb/duv/stencil_2d_wrapped/mux27
+#    Time: 0 ps  Iteration: 2  Instance: /stencil_2d_wrapper_tb/duv/stencil_2d_wrapped/mux8
 # ** Warning: NUMERIC_STD."<": metavalue detected, returning FALSE
 #    Time: 0 ps  Iteration: 2  Instance: /stencil_2d_wrapper_tb/duv/stencil_2d_wrapped/cmpi0
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 2  Instance: /stencil_2d_wrapper_tb/duv/stencil_2d_wrapped/mux28
+#    Time: 0 ps  Iteration: 2  Instance: /stencil_2d_wrapper_tb/duv/stencil_2d_wrapped/mux9
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 2  Instance: /stencil_2d_wrapper_tb/duv/stencil_2d_wrapped/mux28
+#    Time: 0 ps  Iteration: 2  Instance: /stencil_2d_wrapper_tb/duv/stencil_2d_wrapped/mux9
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 2  Instance: /stencil_2d_wrapper_tb/duv/stencil_2d_wrapped/mux0
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 2  Instance: /stencil_2d_wrapper_tb/duv/stencil_2d_wrapped/mux0
 # ** Warning: NUMERIC_STD."<": metavalue detected, returning FALSE
 #    Time: 0 ps  Iteration: 3  Instance: /stencil_2d_wrapper_tb/duv/stencil_2d_wrapped/cmpi2
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 3  Instance: /stencil_2d_wrapper_tb/duv/stencil_2d_wrapped/mux28
+#    Time: 0 ps  Iteration: 3  Instance: /stencil_2d_wrapper_tb/duv/stencil_2d_wrapped/mux9
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 3  Instance: /stencil_2d_wrapper_tb/duv/stencil_2d_wrapped/mux28
+#    Time: 0 ps  Iteration: 3  Instance: /stencil_2d_wrapper_tb/duv/stencil_2d_wrapped/mux9
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 3  Instance: /stencil_2d_wrapper_tb/duv/stencil_2d_wrapped/mux26
+#    Time: 0 ps  Iteration: 3  Instance: /stencil_2d_wrapper_tb/duv/stencil_2d_wrapped/mux7
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 3  Instance: /stencil_2d_wrapper_tb/duv/stencil_2d_wrapped/mux26
+#    Time: 0 ps  Iteration: 3  Instance: /stencil_2d_wrapper_tb/duv/stencil_2d_wrapped/mux7
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 3  Instance: /stencil_2d_wrapper_tb/duv/stencil_2d_wrapped/mux23
+#    Time: 0 ps  Iteration: 3  Instance: /stencil_2d_wrapper_tb/duv/stencil_2d_wrapped/mux5
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 3  Instance: /stencil_2d_wrapper_tb/duv/stencil_2d_wrapped/mux23
+#    Time: 0 ps  Iteration: 3  Instance: /stencil_2d_wrapper_tb/duv/stencil_2d_wrapped/mux5
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 3  Instance: /stencil_2d_wrapper_tb/duv/stencil_2d_wrapped/mux21
+#    Time: 0 ps  Iteration: 3  Instance: /stencil_2d_wrapper_tb/duv/stencil_2d_wrapped/mux8
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 3  Instance: /stencil_2d_wrapper_tb/duv/stencil_2d_wrapped/mux21
+#    Time: 0 ps  Iteration: 3  Instance: /stencil_2d_wrapper_tb/duv/stencil_2d_wrapped/mux8
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 3  Instance: /stencil_2d_wrapper_tb/duv/stencil_2d_wrapped/mux27
+#    Time: 0 ps  Iteration: 3  Instance: /stencil_2d_wrapper_tb/duv/stencil_2d_wrapped/mux2
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 3  Instance: /stencil_2d_wrapper_tb/duv/stencil_2d_wrapped/mux27
+#    Time: 0 ps  Iteration: 3  Instance: /stencil_2d_wrapper_tb/duv/stencil_2d_wrapped/mux2
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 3  Instance: /stencil_2d_wrapper_tb/duv/stencil_2d_wrapped/mux18
+#    Time: 0 ps  Iteration: 3  Instance: /stencil_2d_wrapper_tb/duv/stencil_2d_wrapped/mux3
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 3  Instance: /stencil_2d_wrapper_tb/duv/stencil_2d_wrapped/mux18
+#    Time: 0 ps  Iteration: 3  Instance: /stencil_2d_wrapper_tb/duv/stencil_2d_wrapped/mux3
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 3  Instance: /stencil_2d_wrapper_tb/duv/stencil_2d_wrapped/mux19
+#    Time: 0 ps  Iteration: 3  Instance: /stencil_2d_wrapper_tb/duv/stencil_2d_wrapped/mux1
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 3  Instance: /stencil_2d_wrapper_tb/duv/stencil_2d_wrapped/mux19
-# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 3  Instance: /stencil_2d_wrapper_tb/duv/stencil_2d_wrapped/mux17
-# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 3  Instance: /stencil_2d_wrapper_tb/duv/stencil_2d_wrapped/mux17
-# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 3  Instance: /stencil_2d_wrapper_tb/duv/stencil_2d_wrapped/mux13
-# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 3  Instance: /stencil_2d_wrapper_tb/duv/stencil_2d_wrapped/mux13
-# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 3  Instance: /stencil_2d_wrapper_tb/duv/stencil_2d_wrapped/mux10
-# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 3  Instance: /stencil_2d_wrapper_tb/duv/stencil_2d_wrapped/mux10
+#    Time: 0 ps  Iteration: 3  Instance: /stencil_2d_wrapper_tb/duv/stencil_2d_wrapped/mux1
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
 #    Time: 0 ps  Iteration: 3  Instance: /stencil_2d_wrapper_tb/duv/stencil_2d_wrapped/mux0
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
 #    Time: 0 ps  Iteration: 3  Instance: /stencil_2d_wrapper_tb/duv/stencil_2d_wrapped/mux0
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 4  Instance: /stencil_2d_wrapper_tb/duv/stencil_2d_wrapped/mux19
+#    Time: 0 ps  Iteration: 4  Instance: /stencil_2d_wrapper_tb/duv/stencil_2d_wrapped/mux0
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 4  Instance: /stencil_2d_wrapper_tb/duv/stencil_2d_wrapped/mux19
+#    Time: 0 ps  Iteration: 4  Instance: /stencil_2d_wrapper_tb/duv/stencil_2d_wrapped/mux0
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 4  Instance: /stencil_2d_wrapper_tb/duv/stencil_2d_wrapped/mux28
+#    Time: 0 ps  Iteration: 4  Instance: /stencil_2d_wrapper_tb/duv/stencil_2d_wrapped/mux3
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 4  Instance: /stencil_2d_wrapper_tb/duv/stencil_2d_wrapped/mux28
+#    Time: 0 ps  Iteration: 4  Instance: /stencil_2d_wrapper_tb/duv/stencil_2d_wrapped/mux3
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 4  Instance: /stencil_2d_wrapper_tb/duv/stencil_2d_wrapped/mux10
+#    Time: 0 ps  Iteration: 4  Instance: /stencil_2d_wrapper_tb/duv/stencil_2d_wrapped/mux9
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 4  Instance: /stencil_2d_wrapper_tb/duv/stencil_2d_wrapped/mux10
+#    Time: 0 ps  Iteration: 4  Instance: /stencil_2d_wrapper_tb/duv/stencil_2d_wrapped/mux9
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 2 ns  Iteration: 3  Instance: /stencil_2d_wrapper_tb/duv/stencil_2d_wrapped/mux0
+#    Time: 2 ns  Iteration: 3  Instance: /stencil_2d_wrapper_tb/duv/stencil_2d_wrapped/mux8
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 2 ns  Iteration: 3  Instance: /stencil_2d_wrapper_tb/duv/stencil_2d_wrapped/mux0
+#    Time: 2 ns  Iteration: 3  Instance: /stencil_2d_wrapper_tb/duv/stencil_2d_wrapped/mux8
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 2 ns  Iteration: 3  Instance: /stencil_2d_wrapper_tb/duv/stencil_2d_wrapped/mux17
+#    Time: 2 ns  Iteration: 4  Instance: /stencil_2d_wrapper_tb/duv/stencil_2d_wrapped/mux8
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 2 ns  Iteration: 3  Instance: /stencil_2d_wrapper_tb/duv/stencil_2d_wrapped/mux17
+#    Time: 2 ns  Iteration: 4  Instance: /stencil_2d_wrapper_tb/duv/stencil_2d_wrapped/mux8
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 2 ns  Iteration: 3  Instance: /stencil_2d_wrapper_tb/duv/stencil_2d_wrapped/mux26
+#    Time: 2 ns  Iteration: 4  Instance: /stencil_2d_wrapper_tb/duv/stencil_2d_wrapped/mux2
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 2 ns  Iteration: 3  Instance: /stencil_2d_wrapper_tb/duv/stencil_2d_wrapped/mux26
-# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 2 ns  Iteration: 3  Instance: /stencil_2d_wrapper_tb/duv/stencil_2d_wrapped/mux27
-# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 2 ns  Iteration: 3  Instance: /stencil_2d_wrapper_tb/duv/stencil_2d_wrapped/mux27
-# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 2 ns  Iteration: 4  Instance: /stencil_2d_wrapper_tb/duv/stencil_2d_wrapped/mux18
-# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 2 ns  Iteration: 4  Instance: /stencil_2d_wrapper_tb/duv/stencil_2d_wrapped/mux18
-# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 2 ns  Iteration: 4  Instance: /stencil_2d_wrapper_tb/duv/stencil_2d_wrapped/mux27
-# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 2 ns  Iteration: 4  Instance: /stencil_2d_wrapper_tb/duv/stencil_2d_wrapped/mux27
+#    Time: 2 ns  Iteration: 4  Instance: /stencil_2d_wrapper_tb/duv/stencil_2d_wrapped/mux2
 # ** Note: simulation done!
-#    Time: 1750 ns  Iteration: 1  Instance: /stencil_2d_wrapper_tb
+#    Time: 1714 ns  Iteration: 1  Instance: /stencil_2d_wrapper_tb
 # ** Failure: NORMAL EXIT (note: failure is to force the simulator to stop)
-#    Time: 1750 ns  Iteration: 1  Process: /stencil_2d_wrapper_tb/generate_sim_done_proc File: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/hls_verify_stencil_2d_tb.vhd
+#    Time: 1714 ns  Iteration: 1  Process: /stencil_2d_wrapper_tb/generate_sim_done_proc File: /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/hls_verify_stencil_2d_tb.vhd
 # Break in Process generate_sim_done_proc at /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/hls_verify_stencil_2d_tb.vhd line 355
 # Stopped at /home/giacomo/dynamatic/integration-test/stencil_2d/out/sim/VHDL_SRC/hls_verify_stencil_2d_tb.vhd line 355
-# End time: 15:52:57 on Jan 09,2025, Elapsed time: 0:00:00
-# Errors: 1, Warnings: 130
+# End time: 20:05:31 on Jan 10,2025, Elapsed time: 0:00:01
+# Errors: 1, Warnings: 109

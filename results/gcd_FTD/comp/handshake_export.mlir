@@ -1,197 +1,173 @@
 module {
   handshake.func @gcd(%arg0: !handshake.channel<i32>, %arg1: !handshake.channel<i32>, %arg2: !handshake.control<>, ...) -> (!handshake.channel<i32>, !handshake.control<>) attributes {argNames = ["a", "b", "start"], cfg.edges = "[0,1,12,andi0][7,8,11,cmpi8][2,1][9,10,7,andi7][4,3][11,12][6,5][1,2,3,cmpi3][8,9][3,4,5,andi3][10,9][5,6,7,andi5]", resNames = ["out0", "end"]} {
-    %0:7 = fork [7] %arg2 {handshake.bb = 0 : ui32, handshake.bufProps = #handshake<bufProps{"0": [0,0], [0,0], 0.000000e+00, 0.000000e+00, 0.000000e+00}>, handshake.name = "fork0"} : <>
+    %0:6 = fork [6] %arg2 {handshake.bb = 0 : ui32, handshake.bufProps = #handshake<bufProps{"0": [0,0], [0,0], 0.000000e+00, 0.000000e+00, 0.000000e+00}>, handshake.name = "fork0"} : <>
     %1:3 = fork [3] %arg1 {handshake.bb = 0 : ui32, handshake.bufProps = #handshake<bufProps{"0": [0,0], [0,0], 0.000000e+00, 0.000000e+00, 0.000000e+00}>, handshake.name = "fork1"} : <i32>
     %2:3 = fork [3] %arg0 {handshake.bb = 0 : ui32, handshake.bufProps = #handshake<bufProps{"0": [0,0], [0,0], 0.000000e+00, 0.000000e+00, 0.000000e+00}>, handshake.name = "fork2"} : <i32>
-    %5 = cmpi eq, %2#2, %26#0 {handshake.bb = 0 : ui32, handshake.name = "cmpi0"} : <i32>
-    %8 = cmpi ne, %2#1, %26#1 {handshake.bb = 0 : ui32, handshake.name = "cmpi1"} : <i32>
-    %10 = select %5[%1#2, %23] {handshake.bb = 0 : ui32, handshake.name = "select0"} : <i1>, <i32>
-    %13 = cmpi ne, %1#1, %26#2 {handshake.bb = 0 : ui32, handshake.name = "cmpi2"} : <i32>
-    %14 = andi %8, %13 {handshake.bb = 0 : ui32, handshake.name = "andi0"} : <i1>
-    %15:4 = fork [4] %14 {handshake.bb = 0 : ui32, handshake.name = "fork3"} : <i1>
-    %trueResult, %falseResult = cond_br %15#0, %21#0 {handshake.bb = 1 : ui32, handshake.name = "cond_br96"} : <i1>, <i1>
+    %3 = source {handshake.bb = 0 : ui32, handshake.name = "source0"} : <>
+    %4 = constant %3 {handshake.bb = 0 : ui32, handshake.name = "constant16", value = false} : <>, <i1>
+    %5:2 = fork [2] %4 {handshake.bb = 0 : ui32, handshake.name = "fork3"} : <i1>
+    %7 = extsi %5#1 {handshake.bb = 0 : ui32, handshake.name = "extsi0"} : <i1> to <i32>
+    %8:3 = fork [3] %7 {handshake.bb = 0 : ui32, handshake.name = "fork4"} : <i32>
+    %11 = cmpi eq, %2#2, %8#0 {handshake.bb = 0 : ui32, handshake.name = "cmpi0"} : <i32>
+    %14 = cmpi ne, %2#1, %8#1 {handshake.bb = 0 : ui32, handshake.name = "cmpi1"} : <i32>
+    %16 = select %11[%1#2, %29] {handshake.bb = 0 : ui32, handshake.name = "select0"} : <i1>, <i32>
+    %19 = cmpi ne, %1#1, %8#2 {handshake.bb = 0 : ui32, handshake.name = "cmpi2"} : <i32>
+    %20 = andi %14, %19 {handshake.bb = 0 : ui32, handshake.name = "andi0"} : <i1>
+    %21:3 = fork [3] %20 {handshake.bb = 0 : ui32, handshake.name = "fork5"} : <i1>
+    %trueResult, %falseResult = cond_br %21#0, %5#0 {handshake.bb = 1 : ui32, handshake.name = "cond_br57"} : <i1>, <i1>
     sink %falseResult {handshake.name = "sink0"} : <i1>
-    %18 = extsi %trueResult {handshake.bb = 1 : ui32, handshake.name = "extsi16"} : <i1> to <i32>
-    %20 = constant %0#6 {ftd.imerge, handshake.bb = 1 : ui32, handshake.name = "constant1", value = false} : <>, <i1>
-    %21:4 = fork [4] %20 {handshake.bb = 1 : ui32, handshake.name = "fork4"} : <i1>
-    %23 = extsi %21#1 {handshake.bb = 1 : ui32, handshake.name = "extsi0"} : <i1> to <i32>
-    %25 = extsi %21#2 {handshake.bb = 1 : ui32, handshake.name = "extsi1"} : <i1> to <i32>
-    %26:3 = fork [3] %25 {handshake.bb = 1 : ui32, handshake.name = "fork5"} : <i32>
-    %29 = merge %21#3, %64#0 {ftd.imerge, handshake.bb = 1 : ui32, handshake.name = "merge0"} : <i1>
-    %30 = buffer %29 {handshake.bb = 1 : ui32, handshake.name = "buffer24", hw.parameters = {NUM_SLOTS = 1 : ui32, TIMING = #handshake<timing {R: 1}>}} : <i1>
-    %31:4 = fork [4] %30 {handshake.bb = 1 : ui32, handshake.bufProps = #handshake<bufProps{"0": [1,inf], [0,inf], 0.000000e+00, 0.000000e+00, 0.000000e+00}>, handshake.name = "fork6"} : <i1>
-    %35 = mux %31#3 [%175#1, %74#1] {ftd.regen, handshake.bb = 1 : ui32, handshake.name = "mux0"} : <i1>, <>
-    %36 = buffer %35 {handshake.bb = 1 : ui32, handshake.name = "buffer29", hw.parameters = {NUM_SLOTS = 1 : ui32, TIMING = #handshake<timing {D: 1, V: 1, R: 0}>}} : <>
-    %37 = buffer %36 {handshake.bb = 1 : ui32, handshake.name = "buffer30", hw.parameters = {NUM_SLOTS = 1 : ui32, TIMING = #handshake<timing {R: 1}>}} : <>
-    %38:3 = fork [3] %37 {handshake.bb = 1 : ui32, handshake.name = "fork7"} : <>
-    %41 = mux %31#2 [%2#0, %80] {ftd.phi, handshake.bb = 1 : ui32, handshake.name = "mux3"} : <i1>, <i32>
-    %42 = buffer %41 {handshake.bb = 1 : ui32, handshake.name = "buffer34", hw.parameters = {NUM_SLOTS = 1 : ui32, TIMING = #handshake<timing {D: 1, V: 1, R: 0}>}} : <i32>
-    %43 = buffer %42 {handshake.bb = 1 : ui32, handshake.name = "buffer35", hw.parameters = {NUM_SLOTS = 1 : ui32, TIMING = #handshake<timing {R: 1}>}} : <i32>
-    %44:2 = fork [2] %43 {handshake.bb = 1 : ui32, handshake.name = "fork8"} : <i32>
-    %47 = mux %31#1 [%1#0, %82] {ftd.phi, handshake.bb = 1 : ui32, handshake.name = "mux4"} : <i1>, <i32>
-    %48 = buffer %47 {handshake.bb = 1 : ui32, handshake.name = "buffer38", hw.parameters = {NUM_SLOTS = 1 : ui32, TIMING = #handshake<timing {D: 1, V: 1, R: 0}>}} : <i32>
-    %49 = buffer %48 {handshake.bb = 1 : ui32, handshake.name = "buffer39", hw.parameters = {NUM_SLOTS = 1 : ui32, TIMING = #handshake<timing {R: 1}>}} : <i32>
-    %50:2 = fork [2] %49 {handshake.bb = 1 : ui32, handshake.name = "fork9"} : <i32>
-    %52 = mux %31#0 [%18, %84] {ftd.phi, handshake.bb = 1 : ui32, handshake.name = "mux5"} : <i1>, <i32>
-    %54 = constant %38#1 {handshake.bb = 1 : ui32, handshake.name = "constant16", value = 1 : i2} : <>, <i2>
-    %56 = constant %38#0 {handshake.bb = 1 : ui32, handshake.name = "constant17", value = false} : <>, <i1>
-    %57 = extsi %56 {handshake.bb = 1 : ui32, handshake.name = "extsi17"} : <i1> to <i2>
-    %60 = ori %44#1, %50#1 {handshake.bb = 1 : ui32, handshake.name = "ori0"} : <i32>
-    %61 = trunci %60 {handshake.bb = 1 : ui32, handshake.name = "trunci0"} : <i32> to <i2>
-    %62 = andi %61, %54 {handshake.bb = 1 : ui32, handshake.name = "andi1"} : <i2>
-    %63 = cmpi eq, %62, %57 {handshake.bb = 1 : ui32, handshake.name = "cmpi3"} : <i2>
-    %64:5 = fork [5] %63 {handshake.bb = 1 : ui32, handshake.name = "fork10"} : <i1>
-    %65 = buffer %52 {handshake.bb = 2 : ui32, handshake.name = "buffer42", hw.parameters = {NUM_SLOTS = 1 : ui32, TIMING = #handshake<timing {D: 1, V: 1, R: 0}>}} : <i32>
-    %66 = buffer %65 {handshake.bb = 2 : ui32, handshake.name = "buffer43", hw.parameters = {NUM_SLOTS = 1 : ui32, TIMING = #handshake<timing {R: 1}>}} : <i32>
-    %trueResult_0, %falseResult_1 = cond_br %64#1, %66 {handshake.bb = 2 : ui32, handshake.name = "cond_br97"} : <i1>, <i32>
-    %trueResult_2, %falseResult_3 = cond_br %64#2, %50#0 {handshake.bb = 2 : ui32, handshake.name = "cond_br98"} : <i1>, <i32>
-    %trueResult_4, %falseResult_5 = cond_br %64#3, %44#0 {handshake.bb = 2 : ui32, handshake.name = "cond_br99"} : <i1>, <i32>
-    %trueResult_6, %falseResult_7 = cond_br %64#4, %38#2 {handshake.bb = 2 : ui32, handshake.name = "cond_br100"} : <i1>, <>
-    sink %falseResult_7 {handshake.name = "sink1"} : <>
-    %74:2 = fork [2] %trueResult_6 {handshake.bb = 2 : ui32, handshake.name = "fork11"} : <>
-    %76 = constant %74#0 {handshake.bb = 2 : ui32, handshake.name = "constant18", value = 1 : i2} : <>, <i2>
-    %77 = extsi %76 {handshake.bb = 2 : ui32, handshake.name = "extsi4"} : <i2> to <i32>
-    %78:3 = fork [3] %77 {handshake.bb = 2 : ui32, handshake.name = "fork12"} : <i32>
-    %80 = shrsi %trueResult_4, %78#0 {handshake.bb = 2 : ui32, handshake.name = "shrsi0"} : <i32>
-    %82 = shrsi %trueResult_2, %78#1 {handshake.bb = 2 : ui32, handshake.name = "shrsi1"} : <i32>
-    %84 = addi %trueResult_0, %78#2 {handshake.bb = 2 : ui32, handshake.name = "addi0"} : <i32>
-    %86 = constant %0#5 {ftd.imerge, handshake.bb = 3 : ui32, handshake.name = "constant24", value = false} : <>, <i1>
-    %88 = merge %86, %119#2 {ftd.imerge, handshake.bb = 3 : ui32, handshake.name = "merge6"} : <i1>
-    %89 = buffer %88 {handshake.bb = 3 : ui32, handshake.name = "buffer54", hw.parameters = {NUM_SLOTS = 1 : ui32, TIMING = #handshake<timing {R: 1}>}} : <i1>
-    %90:2 = fork [2] %89 {handshake.bb = 3 : ui32, handshake.bufProps = #handshake<bufProps{"0": [1,inf], [0,inf], 0.000000e+00, 0.000000e+00, 0.000000e+00}>, handshake.name = "fork13"} : <i1>
-    %94 = mux %90#1 [%175#2, %124#1] {ftd.regen, handshake.bb = 3 : ui32, handshake.name = "mux7"} : <i1>, <>
-    %95 = buffer %94 {handshake.bb = 3 : ui32, handshake.name = "buffer57", hw.parameters = {NUM_SLOTS = 1 : ui32, TIMING = #handshake<timing {D: 1, V: 1, R: 0}>}} : <>
-    %96 = buffer %95 {handshake.bb = 3 : ui32, handshake.name = "buffer58", hw.parameters = {NUM_SLOTS = 1 : ui32, TIMING = #handshake<timing {R: 1}>}} : <>
-    %97:3 = fork [3] %96 {handshake.bb = 3 : ui32, handshake.name = "fork14"} : <>
-    %99 = mux %90#0 [%falseResult_5, %128] {ftd.phi, handshake.bb = 3 : ui32, handshake.name = "mux9"} : <i1>, <i32>
-    %100 = buffer %99 {handshake.bb = 3 : ui32, handshake.name = "buffer62", hw.parameters = {NUM_SLOTS = 1 : ui32, TIMING = #handshake<timing {D: 1, V: 1, R: 0}>}} : <i32>
-    %101 = buffer %100 {handshake.bb = 3 : ui32, handshake.name = "buffer63", hw.parameters = {NUM_SLOTS = 1 : ui32, TIMING = #handshake<timing {R: 1}>}} : <i32>
-    %102:3 = fork [3] %101 {handshake.bb = 3 : ui32, handshake.name = "fork15"} : <i32>
-    %104 = trunci %102#0 {handshake.bb = 3 : ui32, handshake.name = "trunci1"} : <i32> to <i2>
-    %106 = constant %97#1 {handshake.bb = 3 : ui32, handshake.name = "constant19", value = 1 : i2} : <>, <i2>
-    %108 = constant %97#0 {handshake.bb = 3 : ui32, handshake.name = "constant20", value = false} : <>, <i1>
-    %109:2 = fork [2] %108 {handshake.bb = 3 : ui32, handshake.name = "fork16"} : <i1>
-    %111 = extsi %109#0 {handshake.bb = 3 : ui32, handshake.name = "extsi18"} : <i1> to <i2>
-    %113 = extsi %109#1 {handshake.bb = 3 : ui32, handshake.name = "extsi6"} : <i1> to <i32>
-    %115 = cmpi sgt, %102#2, %113 {handshake.bb = 3 : ui32, handshake.name = "cmpi4"} : <i32>
-    %116 = andi %104, %106 {handshake.bb = 3 : ui32, handshake.name = "andi2"} : <i2>
-    %117 = cmpi eq, %116, %111 {handshake.bb = 3 : ui32, handshake.name = "cmpi5"} : <i2>
-    %118 = andi %115, %117 {handshake.bb = 3 : ui32, handshake.name = "andi3"} : <i1>
-    %119:3 = fork [3] %118 {handshake.bb = 3 : ui32, handshake.name = "fork17"} : <i1>
-    %trueResult_8, %falseResult_9 = cond_br %119#1, %102#1 {handshake.bb = 4 : ui32, handshake.name = "cond_br101"} : <i1>, <i32>
-    %trueResult_10, %falseResult_11 = cond_br %119#0, %97#2 {handshake.bb = 4 : ui32, handshake.name = "cond_br102"} : <i1>, <>
-    sink %falseResult_11 {handshake.name = "sink2"} : <>
-    %124:2 = fork [2] %trueResult_10 {handshake.bb = 4 : ui32, handshake.name = "fork18"} : <>
-    %126 = constant %124#0 {handshake.bb = 4 : ui32, handshake.name = "constant21", value = 1 : i2} : <>, <i2>
-    %127 = extsi %126 {handshake.bb = 4 : ui32, handshake.name = "extsi7"} : <i2> to <i32>
-    %128 = shrsi %trueResult_8, %127 {handshake.bb = 4 : ui32, handshake.name = "shrsi2"} : <i32>
-    %130 = constant %0#4 {ftd.imerge, handshake.bb = 5 : ui32, handshake.name = "constant29", value = false} : <>, <i1>
-    %132 = merge %130, %163#2 {ftd.imerge, handshake.bb = 5 : ui32, handshake.name = "merge10"} : <i1>
-    %133 = buffer %132 {handshake.bb = 5 : ui32, handshake.name = "buffer74", hw.parameters = {NUM_SLOTS = 1 : ui32, TIMING = #handshake<timing {R: 1}>}} : <i1>
-    %134:2 = fork [2] %133 {handshake.bb = 5 : ui32, handshake.bufProps = #handshake<bufProps{"0": [1,inf], [0,inf], 0.000000e+00, 0.000000e+00, 0.000000e+00}>, handshake.name = "fork19"} : <i1>
-    %138 = mux %134#1 [%175#3, %168#1] {ftd.regen, handshake.bb = 5 : ui32, handshake.name = "mux12"} : <i1>, <>
-    %139 = buffer %138 {handshake.bb = 5 : ui32, handshake.name = "buffer77", hw.parameters = {NUM_SLOTS = 1 : ui32, TIMING = #handshake<timing {D: 1, V: 1, R: 0}>}} : <>
-    %140 = buffer %139 {handshake.bb = 5 : ui32, handshake.name = "buffer78", hw.parameters = {NUM_SLOTS = 1 : ui32, TIMING = #handshake<timing {R: 1}>}} : <>
-    %141:3 = fork [3] %140 {handshake.bb = 5 : ui32, handshake.name = "fork20"} : <>
-    %143 = mux %134#0 [%falseResult_3, %172] {ftd.phi, handshake.bb = 5 : ui32, handshake.name = "mux13"} : <i1>, <i32>
-    %144 = buffer %143 {handshake.bb = 5 : ui32, handshake.name = "buffer82", hw.parameters = {NUM_SLOTS = 1 : ui32, TIMING = #handshake<timing {D: 1, V: 1, R: 0}>}} : <i32>
-    %145 = buffer %144 {handshake.bb = 5 : ui32, handshake.name = "buffer83", hw.parameters = {NUM_SLOTS = 1 : ui32, TIMING = #handshake<timing {R: 1}>}} : <i32>
-    %146:3 = fork [3] %145 {handshake.bb = 5 : ui32, handshake.name = "fork21"} : <i32>
-    %148 = trunci %146#0 {handshake.bb = 5 : ui32, handshake.name = "trunci2"} : <i32> to <i2>
-    %150 = constant %141#1 {handshake.bb = 5 : ui32, handshake.name = "constant22", value = 1 : i2} : <>, <i2>
-    %152 = constant %141#0 {handshake.bb = 5 : ui32, handshake.name = "constant23", value = false} : <>, <i1>
-    %153:2 = fork [2] %152 {handshake.bb = 5 : ui32, handshake.name = "fork22"} : <i1>
-    %155 = extsi %153#0 {handshake.bb = 5 : ui32, handshake.name = "extsi19"} : <i1> to <i2>
-    %157 = extsi %153#1 {handshake.bb = 5 : ui32, handshake.name = "extsi9"} : <i1> to <i32>
-    %159 = cmpi sgt, %146#2, %157 {handshake.bb = 5 : ui32, handshake.name = "cmpi6"} : <i32>
-    %160 = andi %148, %150 {handshake.bb = 5 : ui32, handshake.name = "andi4"} : <i2>
-    %161 = cmpi eq, %160, %155 {handshake.bb = 5 : ui32, handshake.name = "cmpi7"} : <i2>
-    %162 = andi %159, %161 {handshake.bb = 5 : ui32, handshake.name = "andi5"} : <i1>
-    %163:3 = fork [3] %162 {handshake.bb = 5 : ui32, handshake.name = "fork23"} : <i1>
-    %trueResult_12, %falseResult_13 = cond_br %163#1, %146#1 {handshake.bb = 6 : ui32, handshake.name = "cond_br103"} : <i1>, <i32>
-    %trueResult_14, %falseResult_15 = cond_br %163#0, %141#2 {handshake.bb = 6 : ui32, handshake.name = "cond_br104"} : <i1>, <>
-    sink %falseResult_15 {handshake.name = "sink3"} : <>
-    %168:2 = fork [2] %trueResult_14 {handshake.bb = 6 : ui32, handshake.name = "fork24"} : <>
-    %170 = constant %168#0 {handshake.bb = 6 : ui32, handshake.name = "constant25", value = 1 : i2} : <>, <i2>
-    %171 = extsi %170 {handshake.bb = 6 : ui32, handshake.name = "extsi10"} : <i2> to <i32>
-    %172 = shrsi %trueResult_12, %171 {handshake.bb = 6 : ui32, handshake.name = "shrsi3"} : <i32>
-    %trueResult_16, %falseResult_17 = cond_br %15#3, %0#3 {handshake.bb = 7 : ui32, handshake.name = "cond_br105"} : <i1>, <>
-    sink %falseResult_17 {handshake.name = "sink4"} : <>
-    %175:4 = fork [4] %trueResult_16 {handshake.bb = 7 : ui32, handshake.name = "fork25"} : <>
-    %177 = constant %0#2 {ftd.imerge, handshake.bb = 7 : ui32, handshake.name = "constant34", value = false} : <>, <i1>
-    %179 = merge %177, %201#3 {ftd.imerge, handshake.bb = 7 : ui32, handshake.name = "merge14"} : <i1>
-    %180 = buffer %179 {handshake.bb = 7 : ui32, handshake.name = "buffer98", hw.parameters = {NUM_SLOTS = 1 : ui32, TIMING = #handshake<timing {R: 1}>}} : <i1>
-    %181:3 = fork [3] %180 {handshake.bb = 7 : ui32, handshake.bufProps = #handshake<bufProps{"0": [1,inf], [0,inf], 0.000000e+00, 0.000000e+00, 0.000000e+00}>, handshake.name = "fork26"} : <i1>
-    %185 = mux %181#2 [%175#0, %233#2] {ftd.regen, handshake.bb = 7 : ui32, handshake.name = "mux14"} : <i1>, <>
-    %186 = buffer %185 {handshake.bb = 7 : ui32, handshake.name = "buffer102", hw.parameters = {NUM_SLOTS = 1 : ui32, TIMING = #handshake<timing {D: 1, V: 1, R: 0}>}} : <>
-    %187 = buffer %186 {handshake.bb = 7 : ui32, handshake.name = "buffer103", hw.parameters = {NUM_SLOTS = 1 : ui32, TIMING = #handshake<timing {R: 1}>}} : <>
-    %188:2 = fork [2] %187 {handshake.bb = 7 : ui32, handshake.name = "fork27"} : <>
-    %190 = mux %181#1 [%falseResult_9, %falseResult_25] {ftd.phi, handshake.bb = 7 : ui32, handshake.name = "mux19"} : <i1>, <i32>
-    %191 = buffer %190 {handshake.bb = 7 : ui32, handshake.name = "buffer106", hw.parameters = {NUM_SLOTS = 1 : ui32, TIMING = #handshake<timing {D: 1, V: 1, R: 0}>}} : <i32>
-    %192 = buffer %191 {handshake.bb = 7 : ui32, handshake.name = "buffer107", hw.parameters = {NUM_SLOTS = 1 : ui32, TIMING = #handshake<timing {R: 1}>}} : <i32>
-    %193:2 = fork [2] %192 {handshake.bb = 7 : ui32, handshake.name = "fork28"} : <i32>
-    %195 = mux %181#0 [%falseResult_13, %222] {ftd.phi, handshake.bb = 7 : ui32, handshake.name = "mux20"} : <i1>, <i32>
-    %197 = constant %188#0 {handshake.bb = 7 : ui32, handshake.name = "constant26", value = false} : <>, <i1>
-    %198 = extsi %197 {handshake.bb = 7 : ui32, handshake.name = "extsi11"} : <i1> to <i32>
-    %200 = cmpi ne, %193#1, %198 {handshake.bb = 7 : ui32, handshake.name = "cmpi8"} : <i32>
-    %201:4 = fork [4] %200 {handshake.bb = 7 : ui32, handshake.name = "fork29"} : <i1>
-    %trueResult_18, %falseResult_19 = cond_br %201#2, %193#0 {handshake.bb = 8 : ui32, handshake.name = "cond_br106"} : <i1>, <i32>
-    sink %falseResult_19 {handshake.name = "sink5"} : <i32>
-    %204:3 = fork [3] %trueResult_18 {handshake.bb = 8 : ui32, handshake.name = "fork30"} : <i32>
-    %205 = buffer %195 {handshake.bb = 8 : ui32, handshake.name = "buffer110", hw.parameters = {NUM_SLOTS = 1 : ui32, TIMING = #handshake<timing {D: 1, V: 1, R: 0}>}} : <i32>
-    %206 = buffer %205 {handshake.bb = 8 : ui32, handshake.name = "buffer111", hw.parameters = {NUM_SLOTS = 1 : ui32, TIMING = #handshake<timing {R: 1}>}} : <i32>
-    %trueResult_20, %falseResult_21 = cond_br %201#1, %206 {handshake.bb = 8 : ui32, handshake.name = "cond_br107"} : <i1>, <i32>
-    %208:3 = fork [3] %trueResult_20 {handshake.bb = 8 : ui32, handshake.name = "fork31"} : <i32>
-    %210 = constant %233#0 {handshake.bb = 8 : ui32, handshake.name = "constant27", value = false} : <>, <i1>
-    %211 = extsi %210 {handshake.bb = 8 : ui32, handshake.name = "extsi12"} : <i1> to <i32>
-    %212:2 = fork [2] %211 {handshake.bb = 8 : ui32, handshake.name = "fork32"} : <i32>
-    %215 = subi %204#2, %208#2 {handshake.bb = 8 : ui32, handshake.name = "subi0"} : <i32>
-    %216:3 = fork [3] %215 {handshake.bb = 8 : ui32, handshake.name = "fork33"} : <i32>
-    %219 = cmpi slt, %204#1, %208#1 {handshake.bb = 8 : ui32, handshake.name = "cmpi9"} : <i32>
-    %222 = select %219[%204#0, %208#0] {handshake.bb = 8 : ui32, handshake.name = "select1"} : <i1>, <i32>
-    %225 = cmpi sge, %216#2, %212#0 {handshake.bb = 8 : ui32, handshake.name = "cmpi10"} : <i32>
-    %228 = subi %212#1, %216#1 {handshake.bb = 8 : ui32, handshake.name = "subi2"} : <i32>
-    %230 = select %225[%216#0, %228] {handshake.bb = 8 : ui32, handshake.name = "select2"} : <i1>, <i32>
-    %trueResult_22, %falseResult_23 = cond_br %201#0, %188#1 {handshake.bb = 9 : ui32, handshake.name = "cond_br108"} : <i1>, <>
-    sink %falseResult_23 {handshake.name = "sink6"} : <>
-    %233:3 = fork [3] %trueResult_22 {handshake.bb = 9 : ui32, handshake.name = "fork34"} : <>
-    %235 = constant %0#1 {ftd.imerge, handshake.bb = 9 : ui32, handshake.name = "constant43", value = false} : <>, <i1>
-    %237 = merge %235, %268#2 {ftd.imerge, handshake.bb = 9 : ui32, handshake.name = "merge21"} : <i1>
-    %238 = buffer %237 {handshake.bb = 9 : ui32, handshake.name = "buffer130", hw.parameters = {NUM_SLOTS = 1 : ui32, TIMING = #handshake<timing {R: 1}>}} : <i1>
-    %239:2 = fork [2] %238 {handshake.bb = 9 : ui32, handshake.bufProps = #handshake<bufProps{"0": [1,inf], [0,inf], 0.000000e+00, 0.000000e+00, 0.000000e+00}>, handshake.name = "fork35"} : <i1>
-    %243 = mux %239#1 [%233#1, %273#1] {ftd.regen, handshake.bb = 9 : ui32, handshake.name = "mux21"} : <i1>, <>
-    %244 = buffer %243 {handshake.bb = 9 : ui32, handshake.name = "buffer133", hw.parameters = {NUM_SLOTS = 1 : ui32, TIMING = #handshake<timing {D: 1, V: 1, R: 0}>}} : <>
-    %245 = buffer %244 {handshake.bb = 9 : ui32, handshake.name = "buffer134", hw.parameters = {NUM_SLOTS = 1 : ui32, TIMING = #handshake<timing {R: 1}>}} : <>
-    %246:3 = fork [3] %245 {handshake.bb = 9 : ui32, handshake.name = "fork36"} : <>
-    %248 = mux %239#0 [%230, %277] {ftd.phi, handshake.bb = 9 : ui32, handshake.name = "mux24"} : <i1>, <i32>
-    %249 = buffer %248 {handshake.bb = 9 : ui32, handshake.name = "buffer138", hw.parameters = {NUM_SLOTS = 1 : ui32, TIMING = #handshake<timing {D: 1, V: 1, R: 0}>}} : <i32>
-    %250 = buffer %249 {handshake.bb = 9 : ui32, handshake.name = "buffer139", hw.parameters = {NUM_SLOTS = 1 : ui32, TIMING = #handshake<timing {R: 1}>}} : <i32>
-    %251:3 = fork [3] %250 {handshake.bb = 9 : ui32, handshake.name = "fork37"} : <i32>
-    %253 = trunci %251#0 {handshake.bb = 9 : ui32, handshake.name = "trunci3"} : <i32> to <i2>
-    %255 = constant %246#1 {handshake.bb = 9 : ui32, handshake.name = "constant28", value = 1 : i2} : <>, <i2>
-    %257 = constant %246#0 {handshake.bb = 9 : ui32, handshake.name = "constant30", value = false} : <>, <i1>
-    %258:2 = fork [2] %257 {handshake.bb = 9 : ui32, handshake.name = "fork38"} : <i1>
-    %260 = extsi %258#0 {handshake.bb = 9 : ui32, handshake.name = "extsi20"} : <i1> to <i2>
-    %262 = extsi %258#1 {handshake.bb = 9 : ui32, handshake.name = "extsi14"} : <i1> to <i32>
-    %264 = cmpi sgt, %251#2, %262 {handshake.bb = 9 : ui32, handshake.name = "cmpi11"} : <i32>
-    %265 = andi %253, %255 {handshake.bb = 9 : ui32, handshake.name = "andi6"} : <i2>
-    %266 = cmpi eq, %265, %260 {handshake.bb = 9 : ui32, handshake.name = "cmpi12"} : <i2>
-    %267 = andi %264, %266 {handshake.bb = 9 : ui32, handshake.name = "andi7"} : <i1>
-    %268:3 = fork [3] %267 {handshake.bb = 9 : ui32, handshake.name = "fork39"} : <i1>
-    %trueResult_24, %falseResult_25 = cond_br %268#1, %251#1 {handshake.bb = 10 : ui32, handshake.name = "cond_br109"} : <i1>, <i32>
-    %trueResult_26, %falseResult_27 = cond_br %268#0, %246#2 {handshake.bb = 10 : ui32, handshake.name = "cond_br110"} : <i1>, <>
-    sink %falseResult_27 {handshake.name = "sink7"} : <>
-    %273:2 = fork [2] %trueResult_26 {handshake.bb = 10 : ui32, handshake.name = "fork40"} : <>
-    %275 = constant %273#0 {handshake.bb = 10 : ui32, handshake.name = "constant31", value = 1 : i2} : <>, <i2>
-    %276 = extsi %275 {handshake.bb = 10 : ui32, handshake.name = "extsi15"} : <i2> to <i32>
-    %277 = shrsi %trueResult_24, %276 {handshake.bb = 10 : ui32, handshake.name = "shrsi4"} : <i32>
-    %278 = shli %falseResult_21, %falseResult_1 {handshake.bb = 11 : ui32, handshake.name = "shli0"} : <i32>
-    %trueResult_28, %falseResult_29 = cond_br %15#2, %10 {handshake.bb = 12 : ui32, handshake.name = "cond_br95"} : <i1>, <i32>
-    sink %trueResult_28 {handshake.name = "sink8"} : <i32>
-    %281 = mux %15#1 [%falseResult_29, %278] {ftd.phi, handshake.bb = 12 : ui32, handshake.name = "mux25"} : <i1>, <i32>
-    %283 = buffer %281 {handshake.bb = 12 : ui32, handshake.name = "buffer150", hw.parameters = {NUM_SLOTS = 1 : ui32, TIMING = #handshake<timing {D: 1, V: 1, R: 0}>}} : <i32>
-    %284 = buffer %283 {handshake.bb = 12 : ui32, handshake.name = "buffer151", hw.parameters = {NUM_SLOTS = 1 : ui32, TIMING = #handshake<timing {R: 1}>}} : <i32>
-    end {handshake.bb = 12 : ui32, handshake.name = "end0"} %284, %0#0 : <i32>, <>
+    %24 = extsi %trueResult {handshake.bb = 1 : ui32, handshake.name = "extsi16"} : <i1> to <i32>
+    %26 = constant %0#5 {ftd.imerge, handshake.bb = 1 : ui32, handshake.name = "constant1", value = false} : <>, <i1>
+    %27:2 = fork [2] %26 {handshake.bb = 1 : ui32, handshake.name = "fork6"} : <i1>
+    %29 = extsi %27#0 {handshake.bb = 1 : ui32, handshake.name = "extsi1"} : <i1> to <i32>
+    %32 = mux %40#2 [%2#0, %73] {ftd.phi, handshake.bb = 1 : ui32, handshake.name = "mux0"} : <i1>, <i32>
+    %33 = buffer %32 {handshake.bb = 1 : ui32, handshake.name = "buffer22", hw.parameters = {NUM_SLOTS = 1 : ui32, TIMING = #handshake<timing {D: 1, V: 1, R: 0}>}} : <i32>
+    %34 = buffer %33 {handshake.bb = 1 : ui32, handshake.name = "buffer23", hw.parameters = {NUM_SLOTS = 1 : ui32, TIMING = #handshake<timing {R: 1}>}} : <i32>
+    %35:2 = fork [2] %34 {handshake.bb = 1 : ui32, handshake.name = "fork7"} : <i32>
+    %38 = merge %27#1, %60#0 {ftd.imerge, handshake.bb = 1 : ui32, handshake.name = "merge0"} : <i1>
+    %39 = buffer %38 {handshake.bb = 1 : ui32, handshake.name = "buffer26", hw.parameters = {NUM_SLOTS = 1 : ui32, TIMING = #handshake<timing {R: 1}>}} : <i1>
+    %40:3 = fork [3] %39 {handshake.bb = 1 : ui32, handshake.bufProps = #handshake<bufProps{"0": [1,inf], [0,inf], 0.000000e+00, 0.000000e+00, 0.000000e+00}>, handshake.name = "fork8"} : <i1>
+    %43 = mux %40#1 [%1#0, %75] {ftd.phi, handshake.bb = 1 : ui32, handshake.name = "mux1"} : <i1>, <i32>
+    %44 = buffer %43 {handshake.bb = 1 : ui32, handshake.name = "buffer30", hw.parameters = {NUM_SLOTS = 1 : ui32, TIMING = #handshake<timing {D: 1, V: 1, R: 0}>}} : <i32>
+    %45 = buffer %44 {handshake.bb = 1 : ui32, handshake.name = "buffer31", hw.parameters = {NUM_SLOTS = 1 : ui32, TIMING = #handshake<timing {R: 1}>}} : <i32>
+    %46:2 = fork [2] %45 {handshake.bb = 1 : ui32, handshake.name = "fork9"} : <i32>
+    %48 = mux %40#0 [%24, %77] {ftd.phi, handshake.bb = 1 : ui32, handshake.name = "mux2"} : <i1>, <i32>
+    %49 = source {handshake.bb = 1 : ui32, handshake.name = "source1"} : <>
+    %50 = constant %49 {handshake.bb = 1 : ui32, handshake.name = "constant17", value = 1 : i2} : <>, <i2>
+    %51 = source {handshake.bb = 1 : ui32, handshake.name = "source2"} : <>
+    %52 = constant %51 {handshake.bb = 1 : ui32, handshake.name = "constant18", value = false} : <>, <i1>
+    %53 = extsi %52 {handshake.bb = 1 : ui32, handshake.name = "extsi17"} : <i1> to <i2>
+    %56 = ori %35#1, %46#1 {handshake.bb = 1 : ui32, handshake.name = "ori0"} : <i32>
+    %57 = trunci %56 {handshake.bb = 1 : ui32, handshake.name = "trunci0"} : <i32> to <i2>
+    %58 = andi %57, %50 {handshake.bb = 1 : ui32, handshake.name = "andi1"} : <i2>
+    %59 = cmpi eq, %58, %53 {handshake.bb = 1 : ui32, handshake.name = "cmpi3"} : <i2>
+    %60:4 = fork [4] %59 {handshake.bb = 1 : ui32, handshake.name = "fork10"} : <i1>
+    %61 = buffer %48 {handshake.bb = 2 : ui32, handshake.name = "buffer34", hw.parameters = {NUM_SLOTS = 1 : ui32, TIMING = #handshake<timing {D: 1, V: 1, R: 0}>}} : <i32>
+    %62 = buffer %61 {handshake.bb = 2 : ui32, handshake.name = "buffer35", hw.parameters = {NUM_SLOTS = 1 : ui32, TIMING = #handshake<timing {R: 1}>}} : <i32>
+    %trueResult_0, %falseResult_1 = cond_br %60#1, %62 {handshake.bb = 2 : ui32, handshake.name = "cond_br58"} : <i1>, <i32>
+    %trueResult_2, %falseResult_3 = cond_br %60#2, %46#0 {handshake.bb = 2 : ui32, handshake.name = "cond_br59"} : <i1>, <i32>
+    %trueResult_4, %falseResult_5 = cond_br %60#3, %35#0 {handshake.bb = 2 : ui32, handshake.name = "cond_br60"} : <i1>, <i32>
+    %68 = source {handshake.bb = 2 : ui32, handshake.name = "source6"} : <>
+    %69 = constant %68 {handshake.bb = 2 : ui32, handshake.name = "constant19", value = 1 : i2} : <>, <i2>
+    %70 = extsi %69 {handshake.bb = 2 : ui32, handshake.name = "extsi4"} : <i2> to <i32>
+    %71:3 = fork [3] %70 {handshake.bb = 2 : ui32, handshake.name = "fork11"} : <i32>
+    %73 = shrsi %trueResult_4, %71#0 {handshake.bb = 2 : ui32, handshake.name = "shrsi0"} : <i32>
+    %75 = shrsi %trueResult_2, %71#1 {handshake.bb = 2 : ui32, handshake.name = "shrsi1"} : <i32>
+    %77 = addi %trueResult_0, %71#2 {handshake.bb = 2 : ui32, handshake.name = "addi0"} : <i32>
+    %79 = constant %0#4 {ftd.imerge, handshake.bb = 3 : ui32, handshake.name = "constant21", value = false} : <>, <i1>
+    %80 = buffer %88 {handshake.bb = 3 : ui32, handshake.name = "buffer48", hw.parameters = {NUM_SLOTS = 1 : ui32, TIMING = #handshake<timing {R: 1}>}} : <i1>
+    %81 = mux %80 [%falseResult_5, %109] {ftd.phi, handshake.bb = 3 : ui32, handshake.bufProps = #handshake<bufProps{"0": [1,inf], [0,inf], 0.000000e+00, 0.000000e+00, 0.000000e+00}>, handshake.name = "mux3"} : <i1>, <i32>
+    %82 = buffer %81 {handshake.bb = 3 : ui32, handshake.name = "buffer43", hw.parameters = {NUM_SLOTS = 1 : ui32, TIMING = #handshake<timing {D: 1, V: 1, R: 0}>}} : <i32>
+    %83 = buffer %82 {handshake.bb = 3 : ui32, handshake.name = "buffer44", hw.parameters = {NUM_SLOTS = 1 : ui32, TIMING = #handshake<timing {R: 1}>}} : <i32>
+    %84:3 = fork [3] %83 {handshake.bb = 3 : ui32, handshake.name = "fork12"} : <i32>
+    %86 = trunci %84#0 {handshake.bb = 3 : ui32, handshake.name = "trunci1"} : <i32> to <i2>
+    %88 = merge %79, %103#1 {ftd.imerge, handshake.bb = 3 : ui32, handshake.name = "merge3"} : <i1>
+    %89 = source {handshake.bb = 3 : ui32, handshake.name = "source7"} : <>
+    %90 = constant %89 {handshake.bb = 3 : ui32, handshake.name = "constant20", value = 1 : i2} : <>, <i2>
+    %91 = source {handshake.bb = 3 : ui32, handshake.name = "source8"} : <>
+    %92 = constant %91 {handshake.bb = 3 : ui32, handshake.name = "constant22", value = false} : <>, <i1>
+    %93:2 = fork [2] %92 {handshake.bb = 3 : ui32, handshake.name = "fork13"} : <i1>
+    %95 = extsi %93#0 {handshake.bb = 3 : ui32, handshake.name = "extsi18"} : <i1> to <i2>
+    %97 = extsi %93#1 {handshake.bb = 3 : ui32, handshake.name = "extsi6"} : <i1> to <i32>
+    %99 = cmpi sgt, %84#2, %97 {handshake.bb = 3 : ui32, handshake.name = "cmpi4"} : <i32>
+    %100 = andi %86, %90 {handshake.bb = 3 : ui32, handshake.name = "andi2"} : <i2>
+    %101 = cmpi eq, %100, %95 {handshake.bb = 3 : ui32, handshake.name = "cmpi5"} : <i2>
+    %102 = andi %99, %101 {handshake.bb = 3 : ui32, handshake.name = "andi3"} : <i1>
+    %103:2 = fork [2] %102 {handshake.bb = 3 : ui32, handshake.name = "fork14"} : <i1>
+    %trueResult_6, %falseResult_7 = cond_br %103#0, %84#1 {handshake.bb = 4 : ui32, handshake.name = "cond_br61"} : <i1>, <i32>
+    %106 = source {handshake.bb = 4 : ui32, handshake.name = "source10"} : <>
+    %107 = constant %106 {handshake.bb = 4 : ui32, handshake.name = "constant24", value = 1 : i2} : <>, <i2>
+    %108 = extsi %107 {handshake.bb = 4 : ui32, handshake.name = "extsi7"} : <i2> to <i32>
+    %109 = shrsi %trueResult_6, %108 {handshake.bb = 4 : ui32, handshake.name = "shrsi2"} : <i32>
+    %111 = constant %0#3 {ftd.imerge, handshake.bb = 5 : ui32, handshake.name = "constant23", value = false} : <>, <i1>
+    %112 = buffer %120 {handshake.bb = 5 : ui32, handshake.name = "buffer58", hw.parameters = {NUM_SLOTS = 1 : ui32, TIMING = #handshake<timing {R: 1}>}} : <i1>
+    %113 = mux %112 [%falseResult_3, %141] {ftd.phi, handshake.bb = 5 : ui32, handshake.bufProps = #handshake<bufProps{"0": [1,inf], [0,inf], 0.000000e+00, 0.000000e+00, 0.000000e+00}>, handshake.name = "mux4"} : <i1>, <i32>
+    %114 = buffer %113 {handshake.bb = 5 : ui32, handshake.name = "buffer53", hw.parameters = {NUM_SLOTS = 1 : ui32, TIMING = #handshake<timing {D: 1, V: 1, R: 0}>}} : <i32>
+    %115 = buffer %114 {handshake.bb = 5 : ui32, handshake.name = "buffer54", hw.parameters = {NUM_SLOTS = 1 : ui32, TIMING = #handshake<timing {R: 1}>}} : <i32>
+    %116:3 = fork [3] %115 {handshake.bb = 5 : ui32, handshake.name = "fork15"} : <i32>
+    %118 = trunci %116#0 {handshake.bb = 5 : ui32, handshake.name = "trunci2"} : <i32> to <i2>
+    %120 = merge %111, %135#1 {ftd.imerge, handshake.bb = 5 : ui32, handshake.name = "merge4"} : <i1>
+    %121 = source {handshake.bb = 5 : ui32, handshake.name = "source11"} : <>
+    %122 = constant %121 {handshake.bb = 5 : ui32, handshake.name = "constant26", value = 1 : i2} : <>, <i2>
+    %123 = source {handshake.bb = 5 : ui32, handshake.name = "source12"} : <>
+    %124 = constant %123 {handshake.bb = 5 : ui32, handshake.name = "constant27", value = false} : <>, <i1>
+    %125:2 = fork [2] %124 {handshake.bb = 5 : ui32, handshake.name = "fork16"} : <i1>
+    %127 = extsi %125#0 {handshake.bb = 5 : ui32, handshake.name = "extsi19"} : <i1> to <i2>
+    %129 = extsi %125#1 {handshake.bb = 5 : ui32, handshake.name = "extsi9"} : <i1> to <i32>
+    %131 = cmpi sgt, %116#2, %129 {handshake.bb = 5 : ui32, handshake.name = "cmpi6"} : <i32>
+    %132 = andi %118, %122 {handshake.bb = 5 : ui32, handshake.name = "andi4"} : <i2>
+    %133 = cmpi eq, %132, %127 {handshake.bb = 5 : ui32, handshake.name = "cmpi7"} : <i2>
+    %134 = andi %131, %133 {handshake.bb = 5 : ui32, handshake.name = "andi5"} : <i1>
+    %135:2 = fork [2] %134 {handshake.bb = 5 : ui32, handshake.name = "fork17"} : <i1>
+    %trueResult_8, %falseResult_9 = cond_br %135#0, %116#1 {handshake.bb = 6 : ui32, handshake.name = "cond_br62"} : <i1>, <i32>
+    %138 = source {handshake.bb = 6 : ui32, handshake.name = "source14"} : <>
+    %139 = constant %138 {handshake.bb = 6 : ui32, handshake.name = "constant28", value = 1 : i2} : <>, <i2>
+    %140 = extsi %139 {handshake.bb = 6 : ui32, handshake.name = "extsi10"} : <i2> to <i32>
+    %141 = shrsi %trueResult_8, %140 {handshake.bb = 6 : ui32, handshake.name = "shrsi3"} : <i32>
+    %143 = constant %0#2 {ftd.imerge, handshake.bb = 7 : ui32, handshake.name = "constant25", value = false} : <>, <i1>
+    %145 = mux %152#1 [%falseResult_7, %falseResult_15] {ftd.phi, handshake.bb = 7 : ui32, handshake.name = "mux5"} : <i1>, <i32>
+    %146 = buffer %145 {handshake.bb = 7 : ui32, handshake.name = "buffer63", hw.parameters = {NUM_SLOTS = 1 : ui32, TIMING = #handshake<timing {D: 1, V: 1, R: 0}>}} : <i32>
+    %147 = buffer %146 {handshake.bb = 7 : ui32, handshake.name = "buffer64", hw.parameters = {NUM_SLOTS = 1 : ui32, TIMING = #handshake<timing {R: 1}>}} : <i32>
+    %148:2 = fork [2] %147 {handshake.bb = 7 : ui32, handshake.name = "fork18"} : <i32>
+    %150 = merge %143, %160#2 {ftd.imerge, handshake.bb = 7 : ui32, handshake.name = "merge5"} : <i1>
+    %151 = buffer %150 {handshake.bb = 7 : ui32, handshake.name = "buffer67", hw.parameters = {NUM_SLOTS = 1 : ui32, TIMING = #handshake<timing {R: 1}>}} : <i1>
+    %152:2 = fork [2] %151 {handshake.bb = 7 : ui32, handshake.bufProps = #handshake<bufProps{"0": [1,inf], [0,inf], 0.000000e+00, 0.000000e+00, 0.000000e+00}>, handshake.name = "fork19"} : <i1>
+    %154 = mux %152#0 [%falseResult_9, %181] {ftd.phi, handshake.bb = 7 : ui32, handshake.name = "mux6"} : <i1>, <i32>
+    %155 = source {handshake.bb = 7 : ui32, handshake.name = "source15"} : <>
+    %156 = constant %155 {handshake.bb = 7 : ui32, handshake.name = "constant30", value = false} : <>, <i1>
+    %157 = extsi %156 {handshake.bb = 7 : ui32, handshake.name = "extsi11"} : <i1> to <i32>
+    %159 = cmpi ne, %148#1, %157 {handshake.bb = 7 : ui32, handshake.name = "cmpi8"} : <i32>
+    %160:3 = fork [3] %159 {handshake.bb = 7 : ui32, handshake.name = "fork20"} : <i1>
+    %trueResult_10, %falseResult_11 = cond_br %160#1, %148#0 {handshake.bb = 8 : ui32, handshake.name = "cond_br63"} : <i1>, <i32>
+    sink %falseResult_11 {handshake.name = "sink1"} : <i32>
+    %163:3 = fork [3] %trueResult_10 {handshake.bb = 8 : ui32, handshake.name = "fork21"} : <i32>
+    %164 = buffer %154 {handshake.bb = 8 : ui32, handshake.name = "buffer70", hw.parameters = {NUM_SLOTS = 1 : ui32, TIMING = #handshake<timing {D: 1, V: 1, R: 0}>}} : <i32>
+    %165 = buffer %164 {handshake.bb = 8 : ui32, handshake.name = "buffer71", hw.parameters = {NUM_SLOTS = 1 : ui32, TIMING = #handshake<timing {R: 1}>}} : <i32>
+    %trueResult_12, %falseResult_13 = cond_br %160#0, %165 {handshake.bb = 8 : ui32, handshake.name = "cond_br64"} : <i1>, <i32>
+    %167:3 = fork [3] %trueResult_12 {handshake.bb = 8 : ui32, handshake.name = "fork22"} : <i32>
+    %168 = source {handshake.bb = 8 : ui32, handshake.name = "source18"} : <>
+    %169 = constant %168 {handshake.bb = 8 : ui32, handshake.name = "constant31", value = false} : <>, <i1>
+    %170 = extsi %169 {handshake.bb = 8 : ui32, handshake.name = "extsi12"} : <i1> to <i32>
+    %171:2 = fork [2] %170 {handshake.bb = 8 : ui32, handshake.name = "fork23"} : <i32>
+    %174 = subi %163#2, %167#2 {handshake.bb = 8 : ui32, handshake.name = "subi0"} : <i32>
+    %175:3 = fork [3] %174 {handshake.bb = 8 : ui32, handshake.name = "fork24"} : <i32>
+    %178 = cmpi slt, %163#1, %167#1 {handshake.bb = 8 : ui32, handshake.name = "cmpi9"} : <i32>
+    %181 = select %178[%163#0, %167#0] {handshake.bb = 8 : ui32, handshake.name = "select1"} : <i1>, <i32>
+    %184 = cmpi sge, %175#2, %171#0 {handshake.bb = 8 : ui32, handshake.name = "cmpi10"} : <i32>
+    %187 = subi %171#1, %175#1 {handshake.bb = 8 : ui32, handshake.name = "subi2"} : <i32>
+    %189 = select %184[%175#0, %187] {handshake.bb = 8 : ui32, handshake.name = "select2"} : <i1>, <i32>
+    %191 = constant %0#1 {ftd.imerge, handshake.bb = 9 : ui32, handshake.name = "constant29", value = false} : <>, <i1>
+    %192 = buffer %200 {handshake.bb = 9 : ui32, handshake.name = "buffer91", hw.parameters = {NUM_SLOTS = 1 : ui32, TIMING = #handshake<timing {R: 1}>}} : <i1>
+    %193 = mux %192 [%189, %221] {ftd.phi, handshake.bb = 9 : ui32, handshake.bufProps = #handshake<bufProps{"0": [1,inf], [0,inf], 0.000000e+00, 0.000000e+00, 0.000000e+00}>, handshake.name = "mux7"} : <i1>, <i32>
+    %194 = buffer %193 {handshake.bb = 9 : ui32, handshake.name = "buffer86", hw.parameters = {NUM_SLOTS = 1 : ui32, TIMING = #handshake<timing {D: 1, V: 1, R: 0}>}} : <i32>
+    %195 = buffer %194 {handshake.bb = 9 : ui32, handshake.name = "buffer87", hw.parameters = {NUM_SLOTS = 1 : ui32, TIMING = #handshake<timing {R: 1}>}} : <i32>
+    %196:3 = fork [3] %195 {handshake.bb = 9 : ui32, handshake.name = "fork25"} : <i32>
+    %198 = trunci %196#0 {handshake.bb = 9 : ui32, handshake.name = "trunci3"} : <i32> to <i2>
+    %200 = merge %191, %215#1 {ftd.imerge, handshake.bb = 9 : ui32, handshake.name = "merge7"} : <i1>
+    %201 = source {handshake.bb = 9 : ui32, handshake.name = "source19"} : <>
+    %202 = constant %201 {handshake.bb = 9 : ui32, handshake.name = "constant32", value = 1 : i2} : <>, <i2>
+    %203 = source {handshake.bb = 9 : ui32, handshake.name = "source20"} : <>
+    %204 = constant %203 {handshake.bb = 9 : ui32, handshake.name = "constant33", value = false} : <>, <i1>
+    %205:2 = fork [2] %204 {handshake.bb = 9 : ui32, handshake.name = "fork26"} : <i1>
+    %207 = extsi %205#0 {handshake.bb = 9 : ui32, handshake.name = "extsi20"} : <i1> to <i2>
+    %209 = extsi %205#1 {handshake.bb = 9 : ui32, handshake.name = "extsi14"} : <i1> to <i32>
+    %211 = cmpi sgt, %196#2, %209 {handshake.bb = 9 : ui32, handshake.name = "cmpi11"} : <i32>
+    %212 = andi %198, %202 {handshake.bb = 9 : ui32, handshake.name = "andi6"} : <i2>
+    %213 = cmpi eq, %212, %207 {handshake.bb = 9 : ui32, handshake.name = "cmpi12"} : <i2>
+    %214 = andi %211, %213 {handshake.bb = 9 : ui32, handshake.name = "andi7"} : <i1>
+    %215:2 = fork [2] %214 {handshake.bb = 9 : ui32, handshake.name = "fork27"} : <i1>
+    %trueResult_14, %falseResult_15 = cond_br %215#0, %196#1 {handshake.bb = 10 : ui32, handshake.name = "cond_br65"} : <i1>, <i32>
+    %218 = source {handshake.bb = 10 : ui32, handshake.name = "source22"} : <>
+    %219 = constant %218 {handshake.bb = 10 : ui32, handshake.name = "constant34", value = 1 : i2} : <>, <i2>
+    %220 = extsi %219 {handshake.bb = 10 : ui32, handshake.name = "extsi15"} : <i2> to <i32>
+    %221 = shrsi %trueResult_14, %220 {handshake.bb = 10 : ui32, handshake.name = "shrsi4"} : <i32>
+    %222 = shli %falseResult_13, %falseResult_1 {handshake.bb = 11 : ui32, handshake.name = "shli0"} : <i32>
+    %trueResult_16, %falseResult_17 = cond_br %21#2, %16 {handshake.bb = 12 : ui32, handshake.name = "cond_br56"} : <i1>, <i32>
+    sink %trueResult_16 {handshake.name = "sink2"} : <i32>
+    %225 = mux %21#1 [%falseResult_17, %222] {ftd.phi, handshake.bb = 12 : ui32, handshake.name = "mux8"} : <i1>, <i32>
+    %227 = buffer %225 {handshake.bb = 12 : ui32, handshake.name = "buffer96", hw.parameters = {NUM_SLOTS = 1 : ui32, TIMING = #handshake<timing {D: 1, V: 1, R: 0}>}} : <i32>
+    %228 = buffer %227 {handshake.bb = 12 : ui32, handshake.name = "buffer97", hw.parameters = {NUM_SLOTS = 1 : ui32, TIMING = #handshake<timing {R: 1}>}} : <i32>
+    end {handshake.bb = 12 : ui32, handshake.name = "end0"} %228, %0#0 : <i32>, <>
   }
 }
 

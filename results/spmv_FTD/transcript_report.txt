@@ -4,7 +4,7 @@
 # Modifying modelsim.ini
 # Loading project simulation
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 10:31:35 on Jan 09,2025
+# Start time: 19:47:53 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/mc_support.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -14,26 +14,10 @@
 # ** Error (suppressible): /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/mc_support.vhd(5): (vcom-1195) Cannot find expanded name "work.types".
 # ** Error: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/mc_support.vhd(5): Unknown expanded name.
 # ** Note: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/mc_support.vhd(7): VHDL Compiler exiting
-# End time: 10:31:35 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 19:47:53 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 3, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 10:31:35 on Jan 09,2025
-# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/mux_dataless.vhd 
-# -- Loading package STANDARD
-# -- Loading package TEXTIO
-# -- Loading package std_logic_1164
-# -- Loading package NUMERIC_STD
-# -- Loading package MATH_REAL
-# -- Compiling entity mux_dataless
-# -- Compiling architecture arch of mux_dataless
-# ** Error: (vcom-11) Could not find work.tehb_dataless.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/mux_dataless.vhd(51): (vcom-1195) Cannot find expanded name "work.tehb_dataless".
-# ** Error: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/mux_dataless.vhd(51): Unknown expanded name.
-# ** Note: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/mux_dataless.vhd(62): VHDL Compiler exiting
-# End time: 10:31:35 on Jan 09,2025, Elapsed time: 0:00:00
-# Errors: 3, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 10:31:35 on Jan 09,2025
+# Start time: 19:47:53 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/load.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -48,10 +32,10 @@
 # ** Error (suppressible): /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/load.vhd(50): (vcom-1195) Cannot find expanded name "work.tehb".
 # ** Error: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/load.vhd(50): Unknown expanded name.
 # ** Note: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/load.vhd(66): VHDL Compiler exiting
-# End time: 10:31:35 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 19:47:53 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 6, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 10:31:35 on Jan 09,2025
+# Start time: 19:47:53 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/cond_br_dataless.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -63,10 +47,10 @@
 # ** Error (suppressible): /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/cond_br_dataless.vhd(27): (vcom-1195) Cannot find expanded name "work.join".
 # ** Error: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/cond_br_dataless.vhd(27): Unknown expanded name.
 # ** Note: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/cond_br_dataless.vhd(45): VHDL Compiler exiting
-# End time: 10:31:35 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 19:47:53 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 3, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 10:31:35 on Jan 09,2025
+# Start time: 19:47:53 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/store.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -78,10 +62,10 @@
 # ** Error (suppressible): /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/store.vhd(35): (vcom-1195) Cannot find expanded name "work.join".
 # ** Error: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/store.vhd(35): Unknown expanded name.
 # ** Note: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/store.vhd(56): VHDL Compiler exiting
-# End time: 10:31:35 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 19:47:53 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 3, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 10:31:35 on Jan 09,2025
+# Start time: 19:47:53 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/hls_verify_spmv_tb.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -94,10 +78,10 @@
 # ** Error (suppressible): /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/hls_verify_spmv_tb.vhd(9): (vcom-1195) Cannot find expanded name "work.sim_package".
 # ** Error: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/hls_verify_spmv_tb.vhd(9): Unknown expanded name.
 # ** Note: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/hls_verify_spmv_tb.vhd(13): VHDL Compiler exiting
-# End time: 10:31:35 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 19:47:53 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 3, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 10:31:35 on Jan 09,2025
+# Start time: 19:47:53 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/mem_controller_loadless.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -107,22 +91,10 @@
 # ** Error (suppressible): /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/mem_controller_loadless.vhd(4): (vcom-1195) Cannot find expanded name "work.types".
 # ** Error: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/mem_controller_loadless.vhd(4): Unknown expanded name.
 # ** Note: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/mem_controller_loadless.vhd(6): VHDL Compiler exiting
-# End time: 10:31:35 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 19:47:53 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 3, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 10:31:35 on Jan 09,2025
-# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/sink_dataless.vhd 
-# -- Loading package STANDARD
-# -- Loading package TEXTIO
-# -- Loading package std_logic_1164
-# -- Loading package NUMERIC_STD
-# -- Compiling entity sink_dataless
-# -- Compiling architecture arch of sink_dataless
-# End time: 10:31:35 on Jan 09,2025, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Compile of sink_dataless.vhd was successful.
-# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 10:31:35 on Jan 09,2025
+# Start time: 19:47:53 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/two_port_RAM.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -135,10 +107,10 @@
 # ** Error (suppressible): /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/two_port_RAM.vhd(8): (vcom-1195) Cannot find expanded name "work.sim_package".
 # ** Error: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/two_port_RAM.vhd(8): Unknown expanded name.
 # ** Note: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/two_port_RAM.vhd(11): VHDL Compiler exiting
-# End time: 10:31:35 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 19:47:53 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 3, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 10:31:35 on Jan 09,2025
+# Start time: 19:47:53 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/elastic_fifo_inner.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -146,11 +118,11 @@
 # -- Loading package NUMERIC_STD
 # -- Compiling entity elastic_fifo_inner
 # -- Compiling architecture arch of elastic_fifo_inner
-# End time: 10:31:35 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 19:47:53 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of elastic_fifo_inner.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 10:31:35 on Jan 09,2025
+# Start time: 19:47:53 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/delay_buffer.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -158,11 +130,11 @@
 # -- Loading package NUMERIC_STD
 # -- Compiling entity delay_buffer
 # -- Compiling architecture arch of delay_buffer
-# End time: 10:31:35 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 19:47:53 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of delay_buffer.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 10:31:35 on Jan 09,2025
+# Start time: 19:47:53 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/trunci.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -170,11 +142,11 @@
 # -- Loading package NUMERIC_STD
 # -- Compiling entity trunci
 # -- Compiling architecture arch of trunci
-# End time: 10:31:35 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 19:47:53 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of trunci.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 10:31:35 on Jan 09,2025
+# Start time: 19:47:53 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/mem_controller_storeless.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -184,25 +156,10 @@
 # ** Error (suppressible): /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/mem_controller_storeless.vhd(4): (vcom-1195) Cannot find expanded name "work.types".
 # ** Error: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/mem_controller_storeless.vhd(4): Unknown expanded name.
 # ** Note: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/mem_controller_storeless.vhd(6): VHDL Compiler exiting
-# End time: 10:31:35 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 19:47:53 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 3, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 10:31:35 on Jan 09,2025
-# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/tfifo_dataless.vhd 
-# -- Loading package STANDARD
-# -- Loading package TEXTIO
-# -- Loading package std_logic_1164
-# -- Loading package NUMERIC_STD
-# -- Compiling entity tfifo_dataless
-# -- Compiling architecture arch of tfifo_dataless
-# ** Error: (vcom-11) Could not find work.elastic_fifo_inner_dataless.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/tfifo_dataless.vhd(31): (vcom-1195) Cannot find expanded name "work.elastic_fifo_inner_dataless".
-# ** Error: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/tfifo_dataless.vhd(31): Unknown expanded name.
-# ** Note: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/tfifo_dataless.vhd(42): VHDL Compiler exiting
-# End time: 10:31:35 on Jan 09,2025, Elapsed time: 0:00:00
-# Errors: 3, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 10:31:35 on Jan 09,2025
+# Start time: 19:47:53 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/simpackage.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -214,33 +171,33 @@
 # -- Compiling package sim_package
 # -- Compiling package body sim_package
 # -- Loading package sim_package
-# End time: 10:31:35 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 19:47:53 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of simpackage.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 10:31:35 on Jan 09,2025
+# Start time: 19:47:53 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/tb_join.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
 # -- Loading package std_logic_1164
 # -- Compiling entity tb_join
 # -- Compiling architecture arch of tb_join
-# End time: 10:31:35 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 19:47:53 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of tb_join.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 10:31:35 on Jan 09,2025
+# Start time: 19:47:53 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/eager_fork_register_block.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
 # -- Loading package std_logic_1164
 # -- Compiling entity eager_fork_register_block
 # -- Compiling architecture arch of eager_fork_register_block
-# End time: 10:31:35 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 19:47:53 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of eager_fork_register_block.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 10:31:35 on Jan 09,2025
+# Start time: 19:47:53 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/addi.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -252,10 +209,10 @@
 # ** Error (suppressible): /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/addi.vhd(28): (vcom-1195) Cannot find expanded name "work.join".
 # ** Error: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/addi.vhd(28): Unknown expanded name.
 # ** Note: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/addi.vhd(41): VHDL Compiler exiting
-# End time: 10:31:35 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 19:47:53 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 3, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 10:31:35 on Jan 09,2025
+# Start time: 19:47:53 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/muli.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -274,10 +231,10 @@
 # ** Error (suppressible): /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/muli.vhd(106): (vcom-1195) Cannot find expanded name "work.oehb".
 # ** Error: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/muli.vhd(106): Unknown expanded name.
 # ** Note: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/muli.vhd(117): VHDL Compiler exiting
-# End time: 10:31:36 on Jan 09,2025, Elapsed time: 0:00:01
+# End time: 19:47:53 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 6, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 10:31:36 on Jan 09,2025
+# Start time: 19:47:53 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/oehb.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -289,10 +246,10 @@
 # ** Error (suppressible): /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/oehb.vhd(26): (vcom-1195) Cannot find expanded name "work.oehb_dataless".
 # ** Error: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/oehb.vhd(26): Unknown expanded name.
 # ** Note: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/oehb.vhd(49): VHDL Compiler exiting
-# End time: 10:31:36 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 19:47:54 on Jan 10,2025, Elapsed time: 0:00:01
 # Errors: 3, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 10:31:36 on Jan 09,2025
+# Start time: 19:47:54 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/handshake_constant_1.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -300,11 +257,11 @@
 # -- Loading package NUMERIC_STD
 # -- Compiling entity handshake_constant_1
 # -- Compiling architecture arch of handshake_constant_1
-# End time: 10:31:36 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 19:47:54 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of handshake_constant_1.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 10:31:36 on Jan 09,2025
+# Start time: 19:47:54 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/oehb_dataless.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -312,11 +269,11 @@
 # -- Loading package NUMERIC_STD
 # -- Compiling entity oehb_dataless
 # -- Compiling architecture arch of oehb_dataless
-# End time: 10:31:36 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 19:47:54 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of oehb_dataless.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 10:31:36 on Jan 09,2025
+# Start time: 19:47:54 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/handshake_cmpi_1.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -328,10 +285,22 @@
 # ** Error (suppressible): /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/handshake_cmpi_1.vhd(28): (vcom-1195) Cannot find expanded name "work.join".
 # ** Error: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/handshake_cmpi_1.vhd(28): Unknown expanded name.
 # ** Note: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/handshake_cmpi_1.vhd(41): VHDL Compiler exiting
-# End time: 10:31:36 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 19:47:54 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 3, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 10:31:36 on Jan 09,2025
+# Start time: 19:47:54 on Jan 10,2025
+# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/source.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity source
+# -- Compiling architecture arch of source
+# End time: 19:47:54 on Jan 10,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Compile of source.vhd was successful.
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 19:47:54 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/cond_br.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -340,11 +309,11 @@
 # -- Compiling entity cond_br
 # -- Compiling architecture arch of cond_br
 # -- Loading entity cond_br_dataless
-# End time: 10:31:36 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 19:47:54 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of cond_br.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 10:31:36 on Jan 09,2025
+# Start time: 19:47:54 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -353,208 +322,188 @@
 # -- Compiling entity spmv
 # -- Compiling architecture behavioral of spmv
 # ** Error: (vcom-11) Could not find work.fork_dataless.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(578): (vcom-1195) Cannot find expanded name "work.fork_dataless".
-# ** Error: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(578): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(532): (vcom-1195) Cannot find expanded name "work.fork_dataless".
+# ** Error: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(532): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.mem_controller_loadless.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(606): (vcom-1195) Cannot find expanded name "work.mem_controller_loadless".
-# ** Error: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(606): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(558): (vcom-1195) Cannot find expanded name "work.mem_controller_loadless".
+# ** Error: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(558): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.mem_controller_storeless.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(585): (vcom-1195) Cannot find expanded name "work.mem_controller_storeless".
+# ** Error: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(585): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.mem_controller_storeless.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(609): (vcom-1195) Cannot find expanded name "work.mem_controller_storeless".
+# ** Error: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(609): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.mem_controller_storeless.
 # ** Error (suppressible): /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(633): (vcom-1195) Cannot find expanded name "work.mem_controller_storeless".
 # ** Error: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(633): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.mem_controller_storeless.
 # ** Error (suppressible): /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(657): (vcom-1195) Cannot find expanded name "work.mem_controller_storeless".
 # ** Error: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(657): Unknown expanded name.
-# ** Error: (vcom-11) Could not find work.mem_controller_storeless.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(681): (vcom-1195) Cannot find expanded name "work.mem_controller_storeless".
-# ** Error: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(681): Unknown expanded name.
-# ** Error: (vcom-11) Could not find work.mem_controller_storeless.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(705): (vcom-1195) Cannot find expanded name "work.mem_controller_storeless".
-# ** Error: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(705): Unknown expanded name.
+# -- Loading entity source
+# ** Error: (vcom-11) Could not find work.handshake_constant_0.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(695): (vcom-1195) Cannot find expanded name "work.handshake_constant_0".
+# ** Error: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(695): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.handshake_fork.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(706): (vcom-1195) Cannot find expanded name "work.handshake_fork".
+# ** Error: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(706): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.extsi.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(721): (vcom-1195) Cannot find expanded name "work.extsi".
+# ** Error: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(721): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.extsi.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(733): (vcom-1195) Cannot find expanded name "work.extsi".
+# ** Error: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(733): Unknown expanded name.
 # -- Loading entity oehb
 # ** Error: (vcom-11) Could not find work.tehb.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(747): (vcom-1195) Cannot find expanded name "work.tehb".
-# ** Error: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(747): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(757): (vcom-1195) Cannot find expanded name "work.tehb".
+# ** Error: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(757): Unknown expanded name.
 # -- Loading entity cond_br
 # ** Error: (vcom-11) Could not find work.sink.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(777): (vcom-1195) Cannot find expanded name "work.sink".
-# ** Error: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(777): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(787): (vcom-1195) Cannot find expanded name "work.sink".
+# ** Error: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(787): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.sink.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(804): (vcom-1195) Cannot find expanded name "work.sink".
-# ** Error: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(804): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(814): (vcom-1195) Cannot find expanded name "work.sink".
+# ** Error: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(814): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.handshake_constant_0.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(813): (vcom-1195) Cannot find expanded name "work.handshake_constant_0".
-# ** Error: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(813): Unknown expanded name.
-# ** Error: (vcom-11) Could not find work.handshake_fork.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(824): (vcom-1195) Cannot find expanded name "work.handshake_fork".
-# ** Error: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(824): Unknown expanded name.
-# ** Error: (vcom-11) Could not find work.extsi.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(842): (vcom-1195) Cannot find expanded name "work.extsi".
-# ** Error: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(842): Unknown expanded name.
-# ** Error: (vcom-11) Could not find work.extsi.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(854): (vcom-1195) Cannot find expanded name "work.extsi".
-# ** Error: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(854): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(823): (vcom-1195) Cannot find expanded name "work.handshake_constant_0".
+# ** Error: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(823): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.merge.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(866): (vcom-1195) Cannot find expanded name "work.merge".
-# ** Error: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(866): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(834): (vcom-1195) Cannot find expanded name "work.merge".
+# ** Error: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(834): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.tehb.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(881): (vcom-1195) Cannot find expanded name "work.tehb".
-# ** Error: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(881): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(849): (vcom-1195) Cannot find expanded name "work.tehb".
+# ** Error: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(849): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.handshake_fork.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(893): (vcom-1195) Cannot find expanded name "work.handshake_fork".
-# ** Error: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(893): Unknown expanded name.
-# -- Loading package MATH_REAL
-# -- Loading entity mux_dataless
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(861): (vcom-1195) Cannot find expanded name "work.handshake_fork".
+# ** Error: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(861): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.mux.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(929): (vcom-1195) Cannot find expanded name "work.mux".
-# ** Error: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(929): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(879): (vcom-1195) Cannot find expanded name "work.mux".
+# ** Error: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(879): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.tehb.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(959): (vcom-1195) Cannot find expanded name "work.tehb".
-# ** Error: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(959): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(909): (vcom-1195) Cannot find expanded name "work.tehb".
+# ** Error: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(909): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.handshake_fork.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(971): (vcom-1195) Cannot find expanded name "work.handshake_fork".
-# ** Error: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(971): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(921): (vcom-1195) Cannot find expanded name "work.handshake_fork".
+# ** Error: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(921): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.mux.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(986): (vcom-1195) Cannot find expanded name "work.mux".
-# ** Error: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(986): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(936): (vcom-1195) Cannot find expanded name "work.mux".
+# ** Error: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(936): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.mux.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1004): (vcom-1195) Cannot find expanded name "work.mux".
-# ** Error: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1004): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(954): (vcom-1195) Cannot find expanded name "work.mux".
+# ** Error: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(954): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.tehb.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1034): (vcom-1195) Cannot find expanded name "work.tehb".
-# ** Error: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1034): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(984): (vcom-1195) Cannot find expanded name "work.tehb".
+# ** Error: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(984): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.handshake_fork.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1046): (vcom-1195) Cannot find expanded name "work.handshake_fork".
-# ** Error: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1046): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(996): (vcom-1195) Cannot find expanded name "work.handshake_fork".
+# ** Error: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(996): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.handshake_cmpi_0.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1061): (vcom-1195) Cannot find expanded name "work.handshake_cmpi_0".
-# ** Error: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1061): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1011): (vcom-1195) Cannot find expanded name "work.handshake_cmpi_0".
+# ** Error: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1011): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.handshake_fork.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1076): (vcom-1195) Cannot find expanded name "work.handshake_fork".
-# ** Error: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1076): Unknown expanded name.
-# -- Loading entity oehb_dataless
-# ** Error: (vcom-11) Could not find work.tehb_dataless.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1110): (vcom-1195) Cannot find expanded name "work.tehb_dataless".
-# ** Error: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1110): Unknown expanded name.
-# -- Loading entity cond_br_dataless
-# -- Loading entity sink_dataless
-# ** Error: (vcom-11) Could not find work.fork_dataless.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1143): (vcom-1195) Cannot find expanded name "work.fork_dataless".
-# ** Error: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1143): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1026): (vcom-1195) Cannot find expanded name "work.handshake_fork".
+# ** Error: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1026): Unknown expanded name.
 # -- Loading entity handshake_constant_1
-# ** Error: (vcom-11) Could not find work.handshake_fork.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1170): (vcom-1195) Cannot find expanded name "work.handshake_fork".
-# ** Error: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1170): Unknown expanded name.
-# ** Error: (vcom-11) Could not find work.tfifo.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1185): (vcom-1195) Cannot find expanded name "work.tfifo".
-# ** Error: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1185): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.extsi.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1197): (vcom-1195) Cannot find expanded name "work.extsi".
-# ** Error: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1197): Unknown expanded name.
-# ** Error: (vcom-11) Could not find work.extsi.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1209): (vcom-1195) Cannot find expanded name "work.extsi".
-# ** Error: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1209): Unknown expanded name.
-# -- Loading entity tfifo_dataless
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1066): (vcom-1195) Cannot find expanded name "work.extsi".
+# ** Error: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1066): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.handshake_constant_0.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1231): (vcom-1195) Cannot find expanded name "work.handshake_constant_0".
-# ** Error: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1231): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1086): (vcom-1195) Cannot find expanded name "work.handshake_constant_0".
+# ** Error: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1086): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.extsi.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1242): (vcom-1195) Cannot find expanded name "work.extsi".
-# ** Error: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1242): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1097): (vcom-1195) Cannot find expanded name "work.extsi".
+# ** Error: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1097): Unknown expanded name.
 # -- Loading entity load
 # ** Error: (vcom-11) Could not find work.handshake_fork.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1272): (vcom-1195) Cannot find expanded name "work.handshake_fork".
-# ** Error: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1272): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1127): (vcom-1195) Cannot find expanded name "work.handshake_fork".
+# ** Error: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1127): Unknown expanded name.
 # -- Loading entity addi
 # ** Error: (vcom-11) Could not find work.sink.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1338): (vcom-1195) Cannot find expanded name "work.sink".
-# ** Error: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1338): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1193): (vcom-1195) Cannot find expanded name "work.sink".
+# ** Error: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1193): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.handshake_constant_0.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1347): (vcom-1195) Cannot find expanded name "work.handshake_constant_0".
-# ** Error: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1347): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1202): (vcom-1195) Cannot find expanded name "work.handshake_constant_0".
+# ** Error: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1202): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.merge.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1358): (vcom-1195) Cannot find expanded name "work.merge".
-# ** Error: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1358): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1213): (vcom-1195) Cannot find expanded name "work.merge".
+# ** Error: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1213): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.tehb.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1373): (vcom-1195) Cannot find expanded name "work.tehb".
-# ** Error: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1373): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1228): (vcom-1195) Cannot find expanded name "work.tehb".
+# ** Error: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1228): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.handshake_fork.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1385): (vcom-1195) Cannot find expanded name "work.handshake_fork".
-# ** Error: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1385): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1240): (vcom-1195) Cannot find expanded name "work.handshake_fork".
+# ** Error: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1240): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.mux.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1431): (vcom-1195) Cannot find expanded name "work.mux".
-# ** Error: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1431): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1258): (vcom-1195) Cannot find expanded name "work.mux".
+# ** Error: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1258): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.tehb.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1461): (vcom-1195) Cannot find expanded name "work.tehb".
-# ** Error: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1461): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1288): (vcom-1195) Cannot find expanded name "work.tehb".
+# ** Error: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1288): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.handshake_fork.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1473): (vcom-1195) Cannot find expanded name "work.handshake_fork".
-# ** Error: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1473): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1300): (vcom-1195) Cannot find expanded name "work.handshake_fork".
+# ** Error: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1300): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.tfifo.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1488): (vcom-1195) Cannot find expanded name "work.tfifo".
-# ** Error: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1488): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1315): (vcom-1195) Cannot find expanded name "work.tfifo".
+# ** Error: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1315): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.mux.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1500): (vcom-1195) Cannot find expanded name "work.mux".
-# ** Error: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1500): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1327): (vcom-1195) Cannot find expanded name "work.mux".
+# ** Error: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1327): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.tfifo.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1518): (vcom-1195) Cannot find expanded name "work.tfifo".
-# ** Error: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1518): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1345): (vcom-1195) Cannot find expanded name "work.tfifo".
+# ** Error: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1345): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.mux.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1530): (vcom-1195) Cannot find expanded name "work.mux".
-# ** Error: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1530): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1357): (vcom-1195) Cannot find expanded name "work.mux".
+# ** Error: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1357): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.tehb.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1560): (vcom-1195) Cannot find expanded name "work.tehb".
-# ** Error: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1560): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1387): (vcom-1195) Cannot find expanded name "work.tehb".
+# ** Error: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1387): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.handshake_fork.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1572): (vcom-1195) Cannot find expanded name "work.handshake_fork".
-# ** Error: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1572): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1399): (vcom-1195) Cannot find expanded name "work.handshake_fork".
+# ** Error: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1399): Unknown expanded name.
 # -- Loading entity handshake_cmpi_1
 # ** Error: (vcom-11) Could not find work.handshake_fork.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1602): (vcom-1195) Cannot find expanded name "work.handshake_fork".
-# ** Error: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1602): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1429): (vcom-1195) Cannot find expanded name "work.handshake_fork".
+# ** Error: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1429): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.tehb.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1638): (vcom-1195) Cannot find expanded name "work.tehb".
-# ** Error: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1638): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1462): (vcom-1195) Cannot find expanded name "work.tehb".
+# ** Error: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1462): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.tfifo.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1650): (vcom-1195) Cannot find expanded name "work.tfifo".
-# ** Error: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1650): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1474): (vcom-1195) Cannot find expanded name "work.tfifo".
+# ** Error: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1474): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.sink.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1698): (vcom-1195) Cannot find expanded name "work.sink".
-# ** Error: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1698): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1522): (vcom-1195) Cannot find expanded name "work.sink".
+# ** Error: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1522): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.handshake_fork.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1707): (vcom-1195) Cannot find expanded name "work.handshake_fork".
-# ** Error: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1707): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1531): (vcom-1195) Cannot find expanded name "work.handshake_fork".
+# ** Error: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1531): Unknown expanded name.
 # -- Loading entity trunci
-# ** Error: (vcom-11) Could not find work.tehb_dataless.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1759): (vcom-1195) Cannot find expanded name "work.tehb_dataless".
-# ** Error: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1759): Unknown expanded name.
-# ** Error: (vcom-11) Could not find work.fork_dataless.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1792): (vcom-1195) Cannot find expanded name "work.fork_dataless".
-# ** Error: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1792): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.extsi.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1815): (vcom-1195) Cannot find expanded name "work.extsi".
-# ** Error: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1815): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1592): (vcom-1195) Cannot find expanded name "work.extsi".
+# ** Error: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1592): Unknown expanded name.
 # -- Loading entity muli
 # ** Error: (vcom-11) Could not find work.sink.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1956): (vcom-1195) Cannot find expanded name "work.sink".
-# ** Error: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1956): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1733): (vcom-1195) Cannot find expanded name "work.sink".
+# ** Error: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1733): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.handshake_fork.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1965): (vcom-1195) Cannot find expanded name "work.handshake_fork".
-# ** Error: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1965): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1742): (vcom-1195) Cannot find expanded name "work.handshake_fork".
+# ** Error: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1742): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.tfifo.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1986): (vcom-1195) Cannot find expanded name "work.tfifo".
-# ** Error: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1986): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1763): (vcom-1195) Cannot find expanded name "work.tfifo".
+# ** Error: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1763): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.tfifo.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(2010): (vcom-1195) Cannot find expanded name "work.tfifo".
-# ** Error: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(2010): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1787): (vcom-1195) Cannot find expanded name "work.tfifo".
+# ** Error: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1787): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.extsi.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(2057): (vcom-1195) Cannot find expanded name "work.extsi".
-# ** Error: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(2057): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1834): (vcom-1195) Cannot find expanded name "work.extsi".
+# ** Error: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1834): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.extsi.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1865): (vcom-1195) Cannot find expanded name "work.extsi".
+# ** Error: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1865): Unknown expanded name.
 # -- Loading entity store
-# ** Note: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(2102): VHDL Compiler exiting
-# End time: 10:31:36 on Jan 09,2025, Elapsed time: 0:00:00
-# Errors: 183, Warnings: 0
+# ** Note: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd(1910): VHDL Compiler exiting
+# End time: 19:47:54 on Jan 10,2025, Elapsed time: 0:00:00
+# Errors: 168, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 10:31:36 on Jan 09,2025
+# Start time: 19:47:54 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/extsi.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -562,11 +511,11 @@
 # -- Loading package NUMERIC_STD
 # -- Compiling entity extsi
 # -- Compiling architecture arch of extsi
-# End time: 10:31:36 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 19:47:54 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of extsi.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 10:31:36 on Jan 09,2025
+# Start time: 19:47:54 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/handshake_cmpi_0.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -578,10 +527,10 @@
 # ** Error (suppressible): /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/handshake_cmpi_0.vhd(28): (vcom-1195) Cannot find expanded name "work.join".
 # ** Error: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/handshake_cmpi_0.vhd(28): Unknown expanded name.
 # ** Note: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/handshake_cmpi_0.vhd(41): VHDL Compiler exiting
-# End time: 10:31:36 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 19:47:54 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 3, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 10:31:36 on Jan 09,2025
+# Start time: 19:47:54 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/tehb.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -593,10 +542,10 @@
 # ** Error (suppressible): /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/tehb.vhd(28): (vcom-1195) Cannot find expanded name "work.tehb_dataless".
 # ** Error: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/tehb.vhd(28): Unknown expanded name.
 # ** Note: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/tehb.vhd(60): VHDL Compiler exiting
-# End time: 10:31:36 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 19:47:54 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 3, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 10:31:36 on Jan 09,2025
+# Start time: 19:47:54 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/tfifo.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -605,11 +554,11 @@
 # -- Compiling entity tfifo
 # -- Compiling architecture arch of tfifo
 # -- Loading entity elastic_fifo_inner
-# End time: 10:31:36 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 19:47:54 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of tfifo.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 10:31:36 on Jan 09,2025
+# Start time: 19:47:54 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/logic.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -622,11 +571,11 @@
 # -- Compiling architecture arch of or_n
 # -- Compiling entity nor_n
 # -- Compiling architecture arch of nor_n
-# End time: 10:31:36 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 19:47:54 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of logic.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 10:31:36 on Jan 09,2025
+# Start time: 19:47:54 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv_wrapper.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -651,10 +600,10 @@
 # ** Error: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv_wrapper.vhd(318): Unknown expanded name.
 # -- Loading entity spmv
 # ** Note: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv_wrapper.vhd(404): VHDL Compiler exiting
-# End time: 10:31:36 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 19:47:54 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 15, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 10:31:36 on Jan 09,2025
+# Start time: 19:47:54 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/fork_dataless.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -664,33 +613,21 @@
 # -- Compiling architecture arch of fork_dataless
 # -- Loading entity or_n
 # -- Loading entity eager_fork_register_block
-# End time: 10:31:36 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 19:47:54 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of fork_dataless.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 10:31:36 on Jan 09,2025
+# Start time: 19:47:54 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/types.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
 # -- Loading package std_logic_1164
 # -- Compiling package types
-# End time: 10:31:36 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 19:47:54 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of types.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 10:31:36 on Jan 09,2025
-# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/elastic_fifo_inner_dataless.vhd 
-# -- Loading package STANDARD
-# -- Loading package TEXTIO
-# -- Loading package std_logic_1164
-# -- Loading package NUMERIC_STD
-# -- Compiling entity elastic_fifo_inner_dataless
-# -- Compiling architecture arch of elastic_fifo_inner_dataless
-# End time: 10:31:36 on Jan 09,2025, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Compile of elastic_fifo_inner_dataless.vhd was successful.
-# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 10:31:36 on Jan 09,2025
+# Start time: 19:47:54 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/sink.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -698,11 +635,11 @@
 # -- Loading package NUMERIC_STD
 # -- Compiling entity sink
 # -- Compiling architecture arch of sink
-# End time: 10:31:36 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 19:47:54 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of sink.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 10:31:36 on Jan 09,2025
+# Start time: 19:47:54 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/mux.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -713,11 +650,11 @@
 # -- Compiling entity mux
 # -- Compiling architecture arch of mux
 # -- Loading entity tehb
-# End time: 10:31:36 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 19:47:54 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of mux.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 10:31:36 on Jan 09,2025
+# Start time: 19:47:54 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/merge.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -727,11 +664,11 @@
 # -- Compiling entity merge
 # -- Compiling architecture arch of merge
 # -- Loading entity tehb
-# End time: 10:31:36 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 19:47:54 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of merge.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 10:31:36 on Jan 09,2025
+# Start time: 19:47:54 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/handshake_fork.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -741,11 +678,11 @@
 # -- Compiling architecture arch of handshake_fork
 # -- Loading package NUMERIC_STD
 # -- Loading entity fork_dataless
-# End time: 10:31:36 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 19:47:54 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of handshake_fork.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 10:31:36 on Jan 09,2025
+# Start time: 19:47:54 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/handshake_constant_0.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -753,11 +690,11 @@
 # -- Loading package NUMERIC_STD
 # -- Compiling entity handshake_constant_0
 # -- Compiling architecture arch of handshake_constant_0
-# End time: 10:31:36 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 19:47:54 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of handshake_constant_0.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 10:31:36 on Jan 09,2025
+# Start time: 19:47:54 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/mem_to_bram.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -765,11 +702,11 @@
 # -- Loading package NUMERIC_STD
 # -- Compiling entity mem_to_bram
 # -- Compiling architecture arch of mem_to_bram
-# End time: 10:31:36 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 19:47:54 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of mem_to_bram.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 10:31:36 on Jan 09,2025
+# Start time: 19:47:54 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/single_argument.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -782,11 +719,11 @@
 # -- Compiling entity single_argument
 # -- Compiling architecture behav of single_argument
 # ** Warning: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/single_argument.vhd(40): (vcom-1236) Shared variables must be of a protected type.
-# End time: 10:31:36 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 19:47:54 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 1
 # Compile of single_argument.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 10:31:36 on Jan 09,2025
+# Start time: 19:47:54 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/join.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -794,11 +731,11 @@
 # -- Compiling entity join
 # -- Compiling architecture arch of join
 # -- Loading entity and_n
-# End time: 10:31:36 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 19:47:54 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of join.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 10:31:36 on Jan 09,2025
+# Start time: 19:47:54 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/tehb_dataless.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -806,11 +743,11 @@
 # -- Loading package NUMERIC_STD
 # -- Compiling entity tehb_dataless
 # -- Compiling architecture arch of tehb_dataless
-# End time: 10:31:36 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 19:47:54 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of tehb_dataless.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 10:31:36 on Jan 09,2025
+# Start time: 19:47:54 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/mc_support.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -847,25 +784,11 @@
 # -- Loading entity write_data_signals
 # -- Compiling entity mc_control
 # -- Compiling architecture arch of mc_control
-# End time: 10:31:36 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 19:47:54 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of mc_support.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 10:31:36 on Jan 09,2025
-# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/mux_dataless.vhd 
-# -- Loading package STANDARD
-# -- Loading package TEXTIO
-# -- Loading package std_logic_1164
-# -- Loading package NUMERIC_STD
-# -- Loading package MATH_REAL
-# -- Compiling entity mux_dataless
-# -- Compiling architecture arch of mux_dataless
-# -- Loading entity tehb_dataless
-# End time: 10:31:36 on Jan 09,2025, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Compile of mux_dataless.vhd was successful.
-# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 10:31:36 on Jan 09,2025
+# Start time: 19:47:54 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/load.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -874,11 +797,11 @@
 # -- Compiling entity load
 # -- Compiling architecture arch of load
 # -- Loading entity tehb
-# End time: 10:31:36 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 19:47:54 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of load.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 10:31:36 on Jan 09,2025
+# Start time: 19:47:54 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/cond_br_dataless.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -887,11 +810,11 @@
 # -- Compiling entity cond_br_dataless
 # -- Compiling architecture arch of cond_br_dataless
 # -- Loading entity join
-# End time: 10:31:36 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 19:47:54 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of cond_br_dataless.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 10:31:36 on Jan 09,2025
+# Start time: 19:47:54 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/store.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -900,11 +823,11 @@
 # -- Compiling entity store
 # -- Compiling architecture arch of store
 # -- Loading entity join
-# End time: 10:31:36 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 19:47:54 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of store.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 10:31:36 on Jan 09,2025
+# Start time: 19:47:54 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/hls_verify_spmv_tb.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -936,10 +859,10 @@
 # ** Error: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/hls_verify_spmv_tb.vhd(390): Unknown expanded name.
 # -- Loading entity tb_join
 # ** Note: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/hls_verify_spmv_tb.vhd(721): VHDL Compiler exiting
-# End time: 10:31:36 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 19:47:54 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 15, Warnings: 1
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 10:31:36 on Jan 09,2025
+# Start time: 19:47:54 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/mem_controller_loadless.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -950,11 +873,11 @@
 # -- Compiling architecture arch of mem_controller_loadless
 # -- Loading entity write_memory_arbiter
 # -- Loading entity mc_control
-# End time: 10:31:36 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 19:47:54 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of mem_controller_loadless.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 10:31:36 on Jan 09,2025
+# Start time: 19:47:54 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/two_port_RAM.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -967,11 +890,11 @@
 # -- Compiling entity two_port_RAM
 # -- Compiling architecture behav of two_port_RAM
 # ** Warning: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/two_port_RAM.vhd(47): (vcom-1236) Shared variables must be of a protected type.
-# End time: 10:31:36 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 19:47:54 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 1
 # Compile of two_port_RAM.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 10:31:36 on Jan 09,2025
+# Start time: 19:47:54 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/mem_controller_storeless.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -982,24 +905,11 @@
 # -- Compiling architecture arch of mem_controller_storeless
 # -- Loading entity read_memory_arbiter
 # -- Loading entity mc_control
-# End time: 10:31:36 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 19:47:54 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of mem_controller_storeless.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 10:31:36 on Jan 09,2025
-# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/tfifo_dataless.vhd 
-# -- Loading package STANDARD
-# -- Loading package TEXTIO
-# -- Loading package std_logic_1164
-# -- Loading package NUMERIC_STD
-# -- Compiling entity tfifo_dataless
-# -- Compiling architecture arch of tfifo_dataless
-# -- Loading entity elastic_fifo_inner_dataless
-# End time: 10:31:36 on Jan 09,2025, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Compile of tfifo_dataless.vhd was successful.
-# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 10:31:36 on Jan 09,2025
+# Start time: 19:47:54 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/addi.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -1008,11 +918,11 @@
 # -- Compiling entity addi
 # -- Compiling architecture arch of addi
 # -- Loading entity join
-# End time: 10:31:36 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 19:47:54 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of addi.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 10:31:36 on Jan 09,2025
+# Start time: 19:47:54 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/muli.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -1026,11 +936,11 @@
 # -- Loading entity mul_4_stage
 # -- Loading entity delay_buffer
 # -- Loading entity oehb
-# End time: 10:31:36 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 19:47:54 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of muli.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 10:31:36 on Jan 09,2025
+# Start time: 19:47:54 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/oehb.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -1039,11 +949,11 @@
 # -- Compiling entity oehb
 # -- Compiling architecture arch of oehb
 # -- Loading entity oehb_dataless
-# End time: 10:31:36 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 19:47:54 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of oehb.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 10:31:36 on Jan 09,2025
+# Start time: 19:47:54 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/handshake_cmpi_1.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -1052,11 +962,11 @@
 # -- Compiling entity handshake_cmpi_1
 # -- Compiling architecture arch of handshake_cmpi_1
 # -- Loading entity join
-# End time: 10:31:36 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 19:47:54 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of handshake_cmpi_1.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 10:31:36 on Jan 09,2025
+# Start time: 19:47:54 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -1068,36 +978,31 @@
 # -- Loading package types
 # -- Loading entity mem_controller_loadless
 # -- Loading entity mem_controller_storeless
+# -- Loading entity source
+# -- Loading entity handshake_constant_0
+# -- Loading entity handshake_fork
+# -- Loading entity extsi
 # -- Loading entity oehb
 # -- Loading entity tehb
 # -- Loading entity cond_br
 # -- Loading entity sink
-# -- Loading entity handshake_constant_0
-# -- Loading entity handshake_fork
-# -- Loading entity extsi
 # -- Loading entity merge
 # -- Loading package MATH_REAL
-# -- Loading entity mux_dataless
 # -- Loading entity mux
 # -- Loading entity handshake_cmpi_0
-# -- Loading entity oehb_dataless
-# -- Loading entity tehb_dataless
-# -- Loading entity cond_br_dataless
-# -- Loading entity sink_dataless
 # -- Loading entity handshake_constant_1
-# -- Loading entity tfifo
-# -- Loading entity tfifo_dataless
 # -- Loading entity load
 # -- Loading entity addi
+# -- Loading entity tfifo
 # -- Loading entity handshake_cmpi_1
 # -- Loading entity trunci
 # -- Loading entity muli
 # -- Loading entity store
-# End time: 10:31:36 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 19:47:54 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of spmv.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 10:31:36 on Jan 09,2025
+# Start time: 19:47:54 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/handshake_cmpi_0.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -1106,11 +1011,11 @@
 # -- Compiling entity handshake_cmpi_0
 # -- Compiling architecture arch of handshake_cmpi_0
 # -- Loading entity join
-# End time: 10:31:37 on Jan 09,2025, Elapsed time: 0:00:01
+# End time: 19:47:54 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of handshake_cmpi_0.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 10:31:37 on Jan 09,2025
+# Start time: 19:47:54 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/tehb.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -1119,11 +1024,11 @@
 # -- Compiling entity tehb
 # -- Compiling architecture arch of tehb
 # -- Loading entity tehb_dataless
-# End time: 10:31:37 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 19:47:54 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of tehb.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 10:31:37 on Jan 09,2025
+# Start time: 19:47:54 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/spmv_wrapper.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -1133,11 +1038,11 @@
 # -- Compiling architecture behavioral of spmv_wrapper
 # -- Loading entity mem_to_bram
 # -- Loading entity spmv
-# End time: 10:31:37 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 19:47:54 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of spmv_wrapper.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 10:31:37 on Jan 09,2025
+# Start time: 19:47:55 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/hls_verify_spmv_tb.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -1154,18 +1059,10 @@
 # -- Loading entity single_argument
 # -- Loading entity two_port_RAM
 # -- Loading entity tb_join
-# End time: 10:31:37 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 19:47:55 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 1
 # Compile of hls_verify_spmv_tb.vhd was successful.
-# All compile dependencies have been resolved.vcom -work work -2008 -explicit -stats=none /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/sink_dataless.vhd
-# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# -- Loading package STANDARD
-# -- Loading package TEXTIO
-# -- Loading package std_logic_1164
-# -- Loading package NUMERIC_STD
-# -- Compiling entity sink_dataless
-# -- Compiling architecture arch of sink_dataless
-# vcom -work work -2008 -explicit -stats=none /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/elastic_fifo_inner.vhd
+# All compile dependencies have been resolved.vcom -work work -2008 -explicit -stats=none /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/elastic_fifo_inner.vhd
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -1231,6 +1128,14 @@
 # -- Loading package NUMERIC_STD
 # -- Compiling entity oehb_dataless
 # -- Compiling architecture arch of oehb_dataless
+# vcom -work work -2008 -explicit -stats=none /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/source.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity source
+# -- Compiling architecture arch of source
 # vcom -work work -2008 -explicit -stats=none /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/cond_br.vhd
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
 # -- Loading package STANDARD
@@ -1286,14 +1191,6 @@
 # -- Loading package TEXTIO
 # -- Loading package std_logic_1164
 # -- Compiling package types
-# vcom -work work -2008 -explicit -stats=none /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/elastic_fifo_inner_dataless.vhd
-# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# -- Loading package STANDARD
-# -- Loading package TEXTIO
-# -- Loading package std_logic_1164
-# -- Loading package NUMERIC_STD
-# -- Compiling entity elastic_fifo_inner_dataless
-# -- Compiling architecture arch of elastic_fifo_inner_dataless
 # vcom -work work -2008 -explicit -stats=none /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/sink.vhd
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
 # -- Loading package STANDARD
@@ -1415,16 +1312,6 @@
 # -- Loading entity write_data_signals
 # -- Compiling entity mc_control
 # -- Compiling architecture arch of mc_control
-# vcom -work work -2008 -explicit -stats=none /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/mux_dataless.vhd
-# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# -- Loading package STANDARD
-# -- Loading package TEXTIO
-# -- Loading package std_logic_1164
-# -- Loading package NUMERIC_STD
-# -- Loading package MATH_REAL
-# -- Compiling entity mux_dataless
-# -- Compiling architecture arch of mux_dataless
-# -- Loading entity tehb_dataless
 # vcom -work work -2008 -explicit -stats=none /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/load.vhd
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
 # -- Loading package STANDARD
@@ -1487,15 +1374,6 @@
 # -- Compiling architecture arch of mem_controller_storeless
 # -- Loading entity read_memory_arbiter
 # -- Loading entity mc_control
-# vcom -work work -2008 -explicit -stats=none /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/tfifo_dataless.vhd
-# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# -- Loading package STANDARD
-# -- Loading package TEXTIO
-# -- Loading package std_logic_1164
-# -- Loading package NUMERIC_STD
-# -- Compiling entity tfifo_dataless
-# -- Compiling architecture arch of tfifo_dataless
-# -- Loading entity elastic_fifo_inner_dataless
 # vcom -work work -2008 -explicit -stats=none /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/addi.vhd
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
 # -- Loading package STANDARD
@@ -1549,27 +1427,22 @@
 # -- Loading package types
 # -- Loading entity mem_controller_loadless
 # -- Loading entity mem_controller_storeless
+# -- Loading entity source
+# -- Loading entity handshake_constant_0
+# -- Loading entity handshake_fork
+# -- Loading entity extsi
 # -- Loading entity oehb
 # -- Loading entity tehb
 # -- Loading entity cond_br
 # -- Loading entity sink
-# -- Loading entity handshake_constant_0
-# -- Loading entity handshake_fork
-# -- Loading entity extsi
 # -- Loading entity merge
 # -- Loading package MATH_REAL
-# -- Loading entity mux_dataless
 # -- Loading entity mux
 # -- Loading entity handshake_cmpi_0
-# -- Loading entity oehb_dataless
-# -- Loading entity tehb_dataless
-# -- Loading entity cond_br_dataless
-# -- Loading entity sink_dataless
 # -- Loading entity handshake_constant_1
-# -- Loading entity tfifo
-# -- Loading entity tfifo_dataless
 # -- Loading entity load
 # -- Loading entity addi
+# -- Loading entity tfifo
 # -- Loading entity handshake_cmpi_1
 # -- Loading entity trunci
 # -- Loading entity muli
@@ -1619,9 +1492,9 @@
 # -- Loading entity single_argument
 # -- Loading entity two_port_RAM
 # -- Loading entity tb_join
-# 43 compiles, 0 failed with no errors.
+# 40 compiles, 0 failed with no errors.
 # vsim spmv_wrapper_tb 
-# Start time: 10:31:38 on Jan 09,2025
+# Start time: 19:47:56 on Jan 10,2025
 # Loading std.standard
 # Loading std.textio(body)
 # Loading ieee.std_logic_1164(body)
@@ -1652,6 +1525,10 @@
 # Loading work.read_address_mux(arch)
 # Loading work.read_address_ready(arch)
 # Loading work.read_data_signals(arch)
+# Loading work.source(arch)
+# Loading work.handshake_constant_0(arch)
+# Loading work.handshake_fork(arch)
+# Loading work.extsi(arch)
 # Loading work.oehb(arch)
 # Loading work.oehb_dataless(arch)
 # Loading work.tehb(arch)
@@ -1661,21 +1538,14 @@
 # Loading work.join(arch)
 # Loading work.and_n(arch)
 # Loading work.sink(arch)
-# Loading work.handshake_constant_0(arch)
-# Loading work.handshake_fork(arch)
-# Loading work.extsi(arch)
 # Loading work.merge(arch)
-# Loading work.mux_dataless(arch)
 # Loading work.mux(arch)
 # Loading work.handshake_cmpi_0(arch)
-# Loading work.sink_dataless(arch)
 # Loading work.handshake_constant_1(arch)
-# Loading work.tfifo(arch)
-# Loading work.elastic_fifo_inner(arch)
-# Loading work.tfifo_dataless(arch)
-# Loading work.elastic_fifo_inner_dataless(arch)
 # Loading work.load(arch)
 # Loading work.addi(arch)
+# Loading work.tfifo(arch)
+# Loading work.elastic_fifo_inner(arch)
 # Loading work.handshake_cmpi_1(arch)
 # Loading work.trunci(arch)
 # Loading work.muli(arch)
@@ -1685,129 +1555,97 @@
 # Loading work.single_argument(behav)
 # Loading work.two_port_ram(behav)
 # Loading work.tb_join(arch)
-# ** Warning: Design size of 17729 statements exceeds ModelSim-Intel FPGA Starter Edition recommended capacity.
+# ** Warning: Design size of 16315 statements exceeds ModelSim-Intel FPGA Starter Edition recommended capacity.
 # Expect performance to be adversely affected.
 # ** Warning: NUMERIC_STD."<": metavalue detected, returning FALSE
 #    Time: 0 ps  Iteration: 0  Instance: /spmv_wrapper_tb/duv/spmv_wrapped/cmpi1
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 0  Instance: /spmv_wrapper_tb/duv/spmv_wrapped/mux10
+#    Time: 0 ps  Iteration: 0  Instance: /spmv_wrapper_tb/duv/spmv_wrapped/mux5
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 0  Instance: /spmv_wrapper_tb/duv/spmv_wrapped/mux10
+#    Time: 0 ps  Iteration: 0  Instance: /spmv_wrapper_tb/duv/spmv_wrapped/mux5
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 0  Instance: /spmv_wrapper_tb/duv/spmv_wrapped/mux9
+#    Time: 0 ps  Iteration: 0  Instance: /spmv_wrapper_tb/duv/spmv_wrapped/mux4
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 0  Instance: /spmv_wrapper_tb/duv/spmv_wrapped/mux9
+#    Time: 0 ps  Iteration: 0  Instance: /spmv_wrapper_tb/duv/spmv_wrapped/mux4
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 0  Instance: /spmv_wrapper_tb/duv/spmv_wrapped/mux8
+#    Time: 0 ps  Iteration: 0  Instance: /spmv_wrapper_tb/duv/spmv_wrapped/mux3
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 0  Instance: /spmv_wrapper_tb/duv/spmv_wrapped/mux8
-# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 0  Instance: /spmv_wrapper_tb/duv/spmv_wrapped/mux7
-# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 0  Instance: /spmv_wrapper_tb/duv/spmv_wrapped/mux7
+#    Time: 0 ps  Iteration: 0  Instance: /spmv_wrapper_tb/duv/spmv_wrapped/mux3
 # ** Warning: NUMERIC_STD."<": metavalue detected, returning FALSE
 #    Time: 0 ps  Iteration: 0  Instance: /spmv_wrapper_tb/duv/spmv_wrapped/cmpi0
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 0  Instance: /spmv_wrapper_tb/duv/spmv_wrapped/mux6
+#    Time: 0 ps  Iteration: 0  Instance: /spmv_wrapper_tb/duv/spmv_wrapped/mux2
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 0  Instance: /spmv_wrapper_tb/duv/spmv_wrapped/mux6
+#    Time: 0 ps  Iteration: 0  Instance: /spmv_wrapper_tb/duv/spmv_wrapped/mux2
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 0  Instance: /spmv_wrapper_tb/duv/spmv_wrapped/mux5
+#    Time: 0 ps  Iteration: 0  Instance: /spmv_wrapper_tb/duv/spmv_wrapped/mux1
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 0  Instance: /spmv_wrapper_tb/duv/spmv_wrapped/mux5
-# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 0  Instance: /spmv_wrapper_tb/duv/spmv_wrapped/mux4
-# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 0  Instance: /spmv_wrapper_tb/duv/spmv_wrapped/mux4
+#    Time: 0 ps  Iteration: 0  Instance: /spmv_wrapper_tb/duv/spmv_wrapped/mux1
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
 #    Time: 0 ps  Iteration: 0  Instance: /spmv_wrapper_tb/duv/spmv_wrapped/mux0
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
 #    Time: 0 ps  Iteration: 0  Instance: /spmv_wrapper_tb/duv/spmv_wrapped/mux0
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 1  Instance: /spmv_wrapper_tb/duv/spmv_wrapped/mux6
+#    Time: 0 ps  Iteration: 1  Instance: /spmv_wrapper_tb/duv/spmv_wrapped/mux2
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 1  Instance: /spmv_wrapper_tb/duv/spmv_wrapped/mux6
+#    Time: 0 ps  Iteration: 1  Instance: /spmv_wrapper_tb/duv/spmv_wrapped/mux2
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 1  Instance: /spmv_wrapper_tb/duv/spmv_wrapped/mux10
+#    Time: 0 ps  Iteration: 1  Instance: /spmv_wrapper_tb/duv/spmv_wrapped/mux5
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 1  Instance: /spmv_wrapper_tb/duv/spmv_wrapped/mux10
+#    Time: 0 ps  Iteration: 1  Instance: /spmv_wrapper_tb/duv/spmv_wrapped/mux5
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 1  Instance: /spmv_wrapper_tb/duv/spmv_wrapped/mux9
+#    Time: 0 ps  Iteration: 1  Instance: /spmv_wrapper_tb/duv/spmv_wrapped/mux4
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 1  Instance: /spmv_wrapper_tb/duv/spmv_wrapped/mux9
+#    Time: 0 ps  Iteration: 1  Instance: /spmv_wrapper_tb/duv/spmv_wrapped/mux4
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 1  Instance: /spmv_wrapper_tb/duv/spmv_wrapped/mux0
+#    Time: 0 ps  Iteration: 2  Instance: /spmv_wrapper_tb/duv/spmv_wrapped/mux0
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 1  Instance: /spmv_wrapper_tb/duv/spmv_wrapped/mux0
+#    Time: 0 ps  Iteration: 2  Instance: /spmv_wrapper_tb/duv/spmv_wrapped/mux0
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 2  Instance: /spmv_wrapper_tb/duv/spmv_wrapped/mux2
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 2  Instance: /spmv_wrapper_tb/duv/spmv_wrapped/mux2
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 2  Instance: /spmv_wrapper_tb/duv/spmv_wrapped/mux5
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 2  Instance: /spmv_wrapper_tb/duv/spmv_wrapped/mux5
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
 #    Time: 0 ps  Iteration: 2  Instance: /spmv_wrapper_tb/duv/spmv_wrapped/mux4
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
 #    Time: 0 ps  Iteration: 2  Instance: /spmv_wrapper_tb/duv/spmv_wrapped/mux4
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 2  Instance: /spmv_wrapper_tb/duv/spmv_wrapped/mux6
-# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 2  Instance: /spmv_wrapper_tb/duv/spmv_wrapped/mux6
-# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 2  Instance: /spmv_wrapper_tb/duv/spmv_wrapped/mux10
-# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 2  Instance: /spmv_wrapper_tb/duv/spmv_wrapped/mux10
-# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 2  Instance: /spmv_wrapper_tb/duv/spmv_wrapped/mux9
-# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 2  Instance: /spmv_wrapper_tb/duv/spmv_wrapped/mux9
-# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 3  Instance: /spmv_wrapper_tb/duv/spmv_wrapped/mux6
-# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 3  Instance: /spmv_wrapper_tb/duv/spmv_wrapped/mux6
-# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 3  Instance: /spmv_wrapper_tb/duv/spmv_wrapped/mux5
-# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 3  Instance: /spmv_wrapper_tb/duv/spmv_wrapped/mux5
-# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
 #    Time: 0 ps  Iteration: 3  Instance: /spmv_wrapper_tb/duv/spmv_wrapped/mux4
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
 #    Time: 0 ps  Iteration: 3  Instance: /spmv_wrapper_tb/duv/spmv_wrapped/mux4
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 3  Instance: /spmv_wrapper_tb/duv/spmv_wrapped/mux8
+#    Time: 0 ps  Iteration: 3  Instance: /spmv_wrapper_tb/duv/spmv_wrapped/mux2
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 3  Instance: /spmv_wrapper_tb/duv/spmv_wrapped/mux8
+#    Time: 0 ps  Iteration: 3  Instance: /spmv_wrapper_tb/duv/spmv_wrapped/mux2
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 4  Instance: /spmv_wrapper_tb/duv/spmv_wrapped/mux6
+#    Time: 0 ps  Iteration: 3  Instance: /spmv_wrapper_tb/duv/spmv_wrapped/mux1
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 4  Instance: /spmv_wrapper_tb/duv/spmv_wrapped/mux6
+#    Time: 0 ps  Iteration: 3  Instance: /spmv_wrapper_tb/duv/spmv_wrapped/mux1
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 4  Instance: /spmv_wrapper_tb/duv/spmv_wrapped/mux5
+#    Time: 0 ps  Iteration: 3  Instance: /spmv_wrapper_tb/duv/spmv_wrapped/mux0
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 4  Instance: /spmv_wrapper_tb/duv/spmv_wrapped/mux5
+#    Time: 0 ps  Iteration: 3  Instance: /spmv_wrapper_tb/duv/spmv_wrapped/mux0
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 4  Instance: /spmv_wrapper_tb/duv/spmv_wrapped/mux0
+#    Time: 0 ps  Iteration: 3  Instance: /spmv_wrapper_tb/duv/spmv_wrapped/mux3
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 4  Instance: /spmv_wrapper_tb/duv/spmv_wrapped/mux0
+#    Time: 0 ps  Iteration: 3  Instance: /spmv_wrapper_tb/duv/spmv_wrapped/mux3
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 4  Instance: /spmv_wrapper_tb/duv/spmv_wrapped/mux7
+#    Time: 2 ns  Iteration: 3  Instance: /spmv_wrapper_tb/duv/spmv_wrapped/mux3
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 4  Instance: /spmv_wrapper_tb/duv/spmv_wrapped/mux7
+#    Time: 2 ns  Iteration: 3  Instance: /spmv_wrapper_tb/duv/spmv_wrapped/mux3
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 2 ns  Iteration: 3  Instance: /spmv_wrapper_tb/duv/spmv_wrapped/mux0
+#    Time: 2 ns  Iteration: 4  Instance: /spmv_wrapper_tb/duv/spmv_wrapped/mux4
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 2 ns  Iteration: 3  Instance: /spmv_wrapper_tb/duv/spmv_wrapped/mux0
-# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 2 ns  Iteration: 3  Instance: /spmv_wrapper_tb/duv/spmv_wrapped/mux8
-# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 2 ns  Iteration: 3  Instance: /spmv_wrapper_tb/duv/spmv_wrapped/mux8
-# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 2 ns  Iteration: 3  Instance: /spmv_wrapper_tb/duv/spmv_wrapped/mux7
-# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 2 ns  Iteration: 3  Instance: /spmv_wrapper_tb/duv/spmv_wrapped/mux7
-# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 2 ns  Iteration: 4  Instance: /spmv_wrapper_tb/duv/spmv_wrapped/mux9
-# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 2 ns  Iteration: 4  Instance: /spmv_wrapper_tb/duv/spmv_wrapped/mux9
+#    Time: 2 ns  Iteration: 4  Instance: /spmv_wrapper_tb/duv/spmv_wrapped/mux4
 # ** Note: simulation done!
 #    Time: 138 ns  Iteration: 1  Instance: /spmv_wrapper_tb
 # ** Failure: NORMAL EXIT (note: failure is to force the simulator to stop)
 #    Time: 138 ns  Iteration: 1  Process: /spmv_wrapper_tb/generate_sim_done_proc File: /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/hls_verify_spmv_tb.vhd
 # Break in Process generate_sim_done_proc at /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/hls_verify_spmv_tb.vhd line 630
 # Stopped at /home/giacomo/dynamatic/integration-test/spmv/out/sim/VHDL_SRC/hls_verify_spmv_tb.vhd line 630
-# End time: 10:31:38 on Jan 09,2025, Elapsed time: 0:00:00
-# Errors: 1, Warnings: 106
+# End time: 19:47:56 on Jan 10,2025, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 87

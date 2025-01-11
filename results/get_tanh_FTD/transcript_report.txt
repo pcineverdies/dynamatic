@@ -4,7 +4,7 @@
 # Modifying modelsim.ini
 # Loading project simulation
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 13:00:28 on Jan 09,2025
+# Start time: 17:39:16 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/mc_support.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -14,10 +14,10 @@
 # ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/mc_support.vhd(5): (vcom-1195) Cannot find expanded name "work.types".
 # ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/mc_support.vhd(5): Unknown expanded name.
 # ** Note: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/mc_support.vhd(7): VHDL Compiler exiting
-# End time: 13:00:28 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 17:39:16 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 3, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 13:00:28 on Jan 09,2025
+# Start time: 17:39:16 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/mux_dataless.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -30,10 +30,10 @@
 # ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/mux_dataless.vhd(51): (vcom-1195) Cannot find expanded name "work.tehb_dataless".
 # ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/mux_dataless.vhd(51): Unknown expanded name.
 # ** Note: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/mux_dataless.vhd(62): VHDL Compiler exiting
-# End time: 13:00:28 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 17:39:16 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 3, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 13:00:28 on Jan 09,2025
+# Start time: 17:39:16 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/load.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -48,10 +48,10 @@
 # ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/load.vhd(50): (vcom-1195) Cannot find expanded name "work.tehb".
 # ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/load.vhd(50): Unknown expanded name.
 # ** Note: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/load.vhd(66): VHDL Compiler exiting
-# End time: 13:00:28 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 17:39:16 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 6, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 13:00:28 on Jan 09,2025
+# Start time: 17:39:16 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/cond_br_dataless.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -63,10 +63,10 @@
 # ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/cond_br_dataless.vhd(27): (vcom-1195) Cannot find expanded name "work.join".
 # ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/cond_br_dataless.vhd(27): Unknown expanded name.
 # ** Note: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/cond_br_dataless.vhd(45): VHDL Compiler exiting
-# End time: 13:00:28 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 17:39:16 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 3, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 13:00:28 on Jan 09,2025
+# Start time: 17:39:16 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/store.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -78,10 +78,10 @@
 # ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/store.vhd(35): (vcom-1195) Cannot find expanded name "work.join".
 # ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/store.vhd(35): Unknown expanded name.
 # ** Note: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/store.vhd(56): VHDL Compiler exiting
-# End time: 13:00:28 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 17:39:16 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 3, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 13:00:28 on Jan 09,2025
+# Start time: 17:39:16 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/handshake_constant_5.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -89,11 +89,11 @@
 # -- Loading package NUMERIC_STD
 # -- Compiling entity handshake_constant_5
 # -- Compiling architecture arch of handshake_constant_5
-# End time: 13:00:28 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 17:39:16 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of handshake_constant_5.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 13:00:28 on Jan 09,2025
+# Start time: 17:39:16 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/hls_verify_get_tanh_tb.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -106,10 +106,10 @@
 # ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/hls_verify_get_tanh_tb.vhd(9): (vcom-1195) Cannot find expanded name "work.sim_package".
 # ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/hls_verify_get_tanh_tb.vhd(9): Unknown expanded name.
 # ** Note: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/hls_verify_get_tanh_tb.vhd(13): VHDL Compiler exiting
-# End time: 13:00:28 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 17:39:16 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 3, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 13:00:28 on Jan 09,2025
+# Start time: 17:39:16 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/sink_dataless.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -117,11 +117,11 @@
 # -- Loading package NUMERIC_STD
 # -- Compiling entity sink_dataless
 # -- Compiling architecture arch of sink_dataless
-# End time: 13:00:28 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 17:39:16 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of sink_dataless.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 13:00:28 on Jan 09,2025
+# Start time: 17:39:16 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/two_port_RAM.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -134,10 +134,10 @@
 # ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/two_port_RAM.vhd(8): (vcom-1195) Cannot find expanded name "work.sim_package".
 # ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/two_port_RAM.vhd(8): Unknown expanded name.
 # ** Note: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/two_port_RAM.vhd(11): VHDL Compiler exiting
-# End time: 13:00:28 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 17:39:16 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 3, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 13:00:28 on Jan 09,2025
+# Start time: 17:39:16 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/elastic_fifo_inner.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -145,11 +145,11 @@
 # -- Loading package NUMERIC_STD
 # -- Compiling entity elastic_fifo_inner
 # -- Compiling architecture arch of elastic_fifo_inner
-# End time: 13:00:28 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 17:39:16 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of elastic_fifo_inner.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 13:00:28 on Jan 09,2025
+# Start time: 17:39:16 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/delay_buffer.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -157,11 +157,11 @@
 # -- Loading package NUMERIC_STD
 # -- Compiling entity delay_buffer
 # -- Compiling architecture arch of delay_buffer
-# End time: 13:00:28 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 17:39:16 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of delay_buffer.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 13:00:28 on Jan 09,2025
+# Start time: 17:39:16 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/trunci.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -169,11 +169,11 @@
 # -- Loading package NUMERIC_STD
 # -- Compiling entity trunci
 # -- Compiling architecture arch of trunci
-# End time: 13:00:28 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 17:39:16 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of trunci.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 13:00:28 on Jan 09,2025
+# Start time: 17:39:16 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/handshake_cmpf_0.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -194,10 +194,10 @@
 # ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/handshake_cmpf_0.vhd(59): (vcom-1195) Cannot find expanded name "work.FPComparator_32bit".
 # ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/handshake_cmpf_0.vhd(59): Unknown expanded name.
 # ** Note: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/handshake_cmpf_0.vhd(70): VHDL Compiler exiting
-# End time: 13:00:28 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 17:39:16 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 12, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 13:00:28 on Jan 09,2025
+# Start time: 17:39:16 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/handshake_constant_2.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -205,11 +205,11 @@
 # -- Loading package NUMERIC_STD
 # -- Compiling entity handshake_constant_2
 # -- Compiling architecture arch of handshake_constant_2
-# End time: 13:00:28 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 17:39:16 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of handshake_constant_2.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 13:00:28 on Jan 09,2025
+# Start time: 17:39:16 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -218,223 +218,229 @@
 # -- Compiling entity get_tanh
 # -- Compiling architecture behavioral of get_tanh
 # ** Error: (vcom-11) Could not find work.fork_dataless.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(397): (vcom-1195) Cannot find expanded name "work.fork_dataless".
-# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(397): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(367): (vcom-1195) Cannot find expanded name "work.fork_dataless".
+# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(367): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.mem_controller_storeless.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(415): (vcom-1195) Cannot find expanded name "work.mem_controller_storeless".
-# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(415): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(383): (vcom-1195) Cannot find expanded name "work.mem_controller_storeless".
+# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(383): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.handshake_lsq_lsq1.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(439): (vcom-1195) Cannot find expanded name "work.handshake_lsq_lsq1".
-# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(439): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(407): (vcom-1195) Cannot find expanded name "work.handshake_lsq_lsq1".
+# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(407): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.source.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(441): (vcom-1195) Cannot find expanded name "work.source".
+# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(441): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.handshake_constant_0.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(473): (vcom-1195) Cannot find expanded name "work.handshake_constant_0".
-# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(473): Unknown expanded name.
-# ** Error: (vcom-11) Could not find work.handshake_fork.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(484): (vcom-1195) Cannot find expanded name "work.handshake_fork".
-# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(484): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(449): (vcom-1195) Cannot find expanded name "work.handshake_constant_0".
+# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(449): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.extsi.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(499): (vcom-1195) Cannot find expanded name "work.extsi".
-# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(499): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(460): (vcom-1195) Cannot find expanded name "work.extsi".
+# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(460): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.handshake_constant_0.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(472): (vcom-1195) Cannot find expanded name "work.handshake_constant_0".
+# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(472): Unknown expanded name.
 # -- Loading package MATH_REAL
 # -- Loading entity mux_dataless
 # ** Error: (vcom-11) Could not find work.merge.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(526): (vcom-1195) Cannot find expanded name "work.merge".
-# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(526): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(498): (vcom-1195) Cannot find expanded name "work.merge".
+# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(498): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.tehb.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(541): (vcom-1195) Cannot find expanded name "work.tehb".
-# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(541): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(513): (vcom-1195) Cannot find expanded name "work.tehb".
+# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(513): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.handshake_fork.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(553): (vcom-1195) Cannot find expanded name "work.handshake_fork".
-# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(553): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(525): (vcom-1195) Cannot find expanded name "work.handshake_fork".
+# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(525): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.oehb_dataless.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(571): (vcom-1195) Cannot find expanded name "work.oehb_dataless".
-# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(571): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(540): (vcom-1195) Cannot find expanded name "work.oehb_dataless".
+# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(540): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.tehb_dataless.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(581): (vcom-1195) Cannot find expanded name "work.tehb_dataless".
-# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(581): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(550): (vcom-1195) Cannot find expanded name "work.tehb_dataless".
+# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(550): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.lazy_fork_dataless.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(591): (vcom-1195) Cannot find expanded name "work.lazy_fork_dataless".
-# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(591): Unknown expanded name.
-# ** Error: (vcom-11) Could not find work.oehb_dataless.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(618): (vcom-1195) Cannot find expanded name "work.oehb_dataless".
-# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(618): Unknown expanded name.
-# ** Error: (vcom-11) Could not find work.tehb_dataless.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(628): (vcom-1195) Cannot find expanded name "work.tehb_dataless".
-# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(628): Unknown expanded name.
-# ** Error: (vcom-11) Could not find work.fork_dataless.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(638): (vcom-1195) Cannot find expanded name "work.fork_dataless".
-# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(638): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(560): (vcom-1195) Cannot find expanded name "work.lazy_fork_dataless".
+# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(560): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.merge_dataless.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(656): (vcom-1195) Cannot find expanded name "work.merge_dataless".
-# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(656): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(572): (vcom-1195) Cannot find expanded name "work.merge_dataless".
+# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(572): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.mux.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(668): (vcom-1195) Cannot find expanded name "work.mux".
-# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(668): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(584): (vcom-1195) Cannot find expanded name "work.mux".
+# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(584): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.oehb.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(686): (vcom-1195) Cannot find expanded name "work.oehb".
-# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(686): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(602): (vcom-1195) Cannot find expanded name "work.oehb".
+# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(602): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.tehb.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(698): (vcom-1195) Cannot find expanded name "work.tehb".
-# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(698): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(614): (vcom-1195) Cannot find expanded name "work.tehb".
+# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(614): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.handshake_fork.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(710): (vcom-1195) Cannot find expanded name "work.handshake_fork".
-# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(710): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(626): (vcom-1195) Cannot find expanded name "work.handshake_fork".
+# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(626): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.extsi.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(725): (vcom-1195) Cannot find expanded name "work.extsi".
-# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(725): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(641): (vcom-1195) Cannot find expanded name "work.extsi".
+# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(641): Unknown expanded name.
 # -- Loading entity trunci
+# ** Error: (vcom-11) Could not find work.source.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(665): (vcom-1195) Cannot find expanded name "work.source".
+# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(665): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.handshake_constant_1.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(749): (vcom-1195) Cannot find expanded name "work.handshake_constant_1".
-# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(749): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(673): (vcom-1195) Cannot find expanded name "work.handshake_constant_1".
+# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(673): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.handshake_fork.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(760): (vcom-1195) Cannot find expanded name "work.handshake_fork".
-# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(760): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(684): (vcom-1195) Cannot find expanded name "work.handshake_fork".
+# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(684): Unknown expanded name.
 # -- Loading entity load
 # ** Error: (vcom-11) Could not find work.handshake_fork.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(793): (vcom-1195) Cannot find expanded name "work.handshake_fork".
-# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(793): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(717): (vcom-1195) Cannot find expanded name "work.handshake_fork".
+# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(717): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.tfifo.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(808): (vcom-1195) Cannot find expanded name "work.tfifo".
-# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(808): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(732): (vcom-1195) Cannot find expanded name "work.tfifo".
+# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(732): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.handshake_fork.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(862): (vcom-1195) Cannot find expanded name "work.handshake_fork".
-# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(862): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(786): (vcom-1195) Cannot find expanded name "work.handshake_fork".
+# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(786): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.handshake_cmpf_0.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(877): (vcom-1195) Cannot find expanded name "work.handshake_cmpf_0".
-# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(877): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(801): (vcom-1195) Cannot find expanded name "work.handshake_cmpf_0".
+# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(801): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.handshake_fork.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(892): (vcom-1195) Cannot find expanded name "work.handshake_fork".
-# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(892): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(816): (vcom-1195) Cannot find expanded name "work.handshake_fork".
+# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(816): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.oehb_dataless.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(916): (vcom-1195) Cannot find expanded name "work.oehb_dataless".
-# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(916): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(837): (vcom-1195) Cannot find expanded name "work.oehb_dataless".
+# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(837): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.tehb_dataless.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(926): (vcom-1195) Cannot find expanded name "work.tehb_dataless".
-# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(926): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(847): (vcom-1195) Cannot find expanded name "work.tehb_dataless".
+# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(847): Unknown expanded name.
 # -- Loading entity cond_br_dataless
 # ** Error: (vcom-11) Could not find work.cond_br.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(951): (vcom-1195) Cannot find expanded name "work.cond_br".
-# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(951): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(872): (vcom-1195) Cannot find expanded name "work.cond_br".
+# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(872): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.handshake_fork.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(969): (vcom-1195) Cannot find expanded name "work.handshake_fork".
-# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(969): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(890): (vcom-1195) Cannot find expanded name "work.handshake_fork".
+# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(890): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.sink.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(993): (vcom-1195) Cannot find expanded name "work.sink".
-# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(993): Unknown expanded name.
-# ** Error: (vcom-11) Could not find work.fork_dataless.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1017): (vcom-1195) Cannot find expanded name "work.fork_dataless".
-# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1017): Unknown expanded name.
-# -- Loading entity sink_dataless
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(914): (vcom-1195) Cannot find expanded name "work.sink".
+# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(914): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.source.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(923): (vcom-1195) Cannot find expanded name "work.source".
+# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(923): Unknown expanded name.
 # -- Loading entity handshake_constant_2
+# ** Error: (vcom-11) Could not find work.source.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(942): (vcom-1195) Cannot find expanded name "work.source".
+# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(942): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.handshake_constant_3.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1048): (vcom-1195) Cannot find expanded name "work.handshake_constant_3".
-# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1048): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(950): (vcom-1195) Cannot find expanded name "work.handshake_constant_3".
+# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(950): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.mulf.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1059): (vcom-1195) Cannot find expanded name "work.mulf".
-# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1059): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(961): (vcom-1195) Cannot find expanded name "work.mulf".
+# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(961): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.addf.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1074): (vcom-1195) Cannot find expanded name "work.addf".
-# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1074): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(976): (vcom-1195) Cannot find expanded name "work.addf".
+# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(976): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.mulf.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1089): (vcom-1195) Cannot find expanded name "work.mulf".
-# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1089): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(991): (vcom-1195) Cannot find expanded name "work.mulf".
+# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(991): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.mulf.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1104): (vcom-1195) Cannot find expanded name "work.mulf".
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1006): (vcom-1195) Cannot find expanded name "work.mulf".
+# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1006): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.addf.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1021): (vcom-1195) Cannot find expanded name "work.addf".
+# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1021): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.mulf.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1036): (vcom-1195) Cannot find expanded name "work.mulf".
+# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1036): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.oehb_dataless.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1051): (vcom-1195) Cannot find expanded name "work.oehb_dataless".
+# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1051): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.tehb_dataless.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1061): (vcom-1195) Cannot find expanded name "work.tehb_dataless".
+# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1061): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.oehb_dataless.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1071): (vcom-1195) Cannot find expanded name "work.oehb_dataless".
+# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1071): Unknown expanded name.
+# -- Loading entity sink_dataless
+# ** Error: (vcom-11) Could not find work.oehb_dataless.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1104): (vcom-1195) Cannot find expanded name "work.oehb_dataless".
 # ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1104): Unknown expanded name.
-# ** Error: (vcom-11) Could not find work.addf.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1119): (vcom-1195) Cannot find expanded name "work.addf".
-# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1119): Unknown expanded name.
-# ** Error: (vcom-11) Could not find work.mulf.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1134): (vcom-1195) Cannot find expanded name "work.mulf".
-# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1134): Unknown expanded name.
-# ** Error: (vcom-11) Could not find work.oehb_dataless.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1149): (vcom-1195) Cannot find expanded name "work.oehb_dataless".
-# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1149): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.tehb_dataless.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1159): (vcom-1195) Cannot find expanded name "work.tehb_dataless".
-# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1159): Unknown expanded name.
-# ** Error: (vcom-11) Could not find work.oehb_dataless.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1169): (vcom-1195) Cannot find expanded name "work.oehb_dataless".
-# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1169): Unknown expanded name.
-# ** Error: (vcom-11) Could not find work.oehb_dataless.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1202): (vcom-1195) Cannot find expanded name "work.oehb_dataless".
-# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1202): Unknown expanded name.
-# ** Error: (vcom-11) Could not find work.tehb_dataless.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1212): (vcom-1195) Cannot find expanded name "work.tehb_dataless".
-# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1212): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1114): (vcom-1195) Cannot find expanded name "work.tehb_dataless".
+# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1114): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.lazy_fork_dataless.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1222): (vcom-1195) Cannot find expanded name "work.lazy_fork_dataless".
-# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1222): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1124): (vcom-1195) Cannot find expanded name "work.lazy_fork_dataless".
+# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1124): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.cond_br.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1234): (vcom-1195) Cannot find expanded name "work.cond_br".
-# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1234): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1136): (vcom-1195) Cannot find expanded name "work.cond_br".
+# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1136): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.sink.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1252): (vcom-1195) Cannot find expanded name "work.sink".
-# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1252): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1154): (vcom-1195) Cannot find expanded name "work.sink".
+# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1154): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.cond_br.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1261): (vcom-1195) Cannot find expanded name "work.cond_br".
-# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1261): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1163): (vcom-1195) Cannot find expanded name "work.cond_br".
+# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1163): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.sink.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1279): (vcom-1195) Cannot find expanded name "work.sink".
-# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1279): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1181): (vcom-1195) Cannot find expanded name "work.sink".
+# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1181): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.merge_dataless.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1311): (vcom-1195) Cannot find expanded name "work.merge_dataless".
-# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1311): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1190): (vcom-1195) Cannot find expanded name "work.merge_dataless".
+# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1190): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.mux.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1323): (vcom-1195) Cannot find expanded name "work.mux".
-# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1323): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1202): (vcom-1195) Cannot find expanded name "work.mux".
+# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1202): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.source.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1220): (vcom-1195) Cannot find expanded name "work.source".
+# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1220): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.handshake_constant_4.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1341): (vcom-1195) Cannot find expanded name "work.handshake_constant_4".
-# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1341): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1228): (vcom-1195) Cannot find expanded name "work.handshake_constant_4".
+# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1228): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.extsi.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1352): (vcom-1195) Cannot find expanded name "work.extsi".
-# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1352): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1239): (vcom-1195) Cannot find expanded name "work.extsi".
+# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1239): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.source.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1251): (vcom-1195) Cannot find expanded name "work.source".
+# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1251): Unknown expanded name.
 # -- Loading entity handshake_constant_5
 # ** Error: (vcom-11) Could not find work.extsi.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1375): (vcom-1195) Cannot find expanded name "work.extsi".
-# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1375): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1270): (vcom-1195) Cannot find expanded name "work.extsi".
+# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1270): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.oehb.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1387): (vcom-1195) Cannot find expanded name "work.oehb".
-# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1387): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1282): (vcom-1195) Cannot find expanded name "work.oehb".
+# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1282): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.tehb.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1399): (vcom-1195) Cannot find expanded name "work.tehb".
-# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1399): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1294): (vcom-1195) Cannot find expanded name "work.tehb".
+# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1294): Unknown expanded name.
 # -- Loading entity store
 # ** Error: (vcom-11) Could not find work.addi.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1429): (vcom-1195) Cannot find expanded name "work.addi".
-# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1429): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1324): (vcom-1195) Cannot find expanded name "work.addi".
+# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1324): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.handshake_fork.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1444): (vcom-1195) Cannot find expanded name "work.handshake_fork".
-# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1444): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1339): (vcom-1195) Cannot find expanded name "work.handshake_fork".
+# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1339): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.handshake_cmpi_0.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1471): (vcom-1195) Cannot find expanded name "work.handshake_cmpi_0".
-# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1471): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1366): (vcom-1195) Cannot find expanded name "work.handshake_cmpi_0".
+# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1366): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.handshake_fork.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1486): (vcom-1195) Cannot find expanded name "work.handshake_fork".
-# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1486): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1381): (vcom-1195) Cannot find expanded name "work.handshake_fork".
+# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1381): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.oehb_dataless.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1510): (vcom-1195) Cannot find expanded name "work.oehb_dataless".
-# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1510): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1402): (vcom-1195) Cannot find expanded name "work.oehb_dataless".
+# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1402): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.tehb_dataless.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1520): (vcom-1195) Cannot find expanded name "work.tehb_dataless".
-# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1520): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1412): (vcom-1195) Cannot find expanded name "work.tehb_dataless".
+# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1412): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.tfifo.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1530): (vcom-1195) Cannot find expanded name "work.tfifo".
-# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1530): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1422): (vcom-1195) Cannot find expanded name "work.tfifo".
+# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1422): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.oehb_dataless.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1557): (vcom-1195) Cannot find expanded name "work.oehb_dataless".
-# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1557): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1449): (vcom-1195) Cannot find expanded name "work.oehb_dataless".
+# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1449): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.tehb_dataless.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1567): (vcom-1195) Cannot find expanded name "work.tehb_dataless".
-# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1567): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1459): (vcom-1195) Cannot find expanded name "work.tehb_dataless".
+# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1459): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.fork_dataless.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1577): (vcom-1195) Cannot find expanded name "work.fork_dataless".
-# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1577): Unknown expanded name.
-# ** Note: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1589): VHDL Compiler exiting
-# End time: 13:00:29 on Jan 09,2025, Elapsed time: 0:00:01
-# Errors: 204, Warnings: 0
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1469): (vcom-1195) Cannot find expanded name "work.fork_dataless".
+# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1469): Unknown expanded name.
+# ** Note: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1481): VHDL Compiler exiting
+# End time: 17:39:16 on Jan 10,2025, Elapsed time: 0:00:00
+# Errors: 210, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 13:00:29 on Jan 09,2025
+# Start time: 17:39:16 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/handshake_lsq_lsq1_core.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -457,11 +463,11 @@
 # -- Loading entity handshake_lsq_lsq1_core_ldd
 # -- Loading entity handshake_lsq_lsq1_core_sta
 # -- Loading entity handshake_lsq_lsq1_core_std
-# End time: 13:00:29 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 17:39:17 on Jan 10,2025, Elapsed time: 0:00:01
 # Errors: 0, Warnings: 0
 # Compile of handshake_lsq_lsq1_core.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 13:00:29 on Jan 09,2025
+# Start time: 17:39:17 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/mem_controller_storeless.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -471,10 +477,10 @@
 # ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/mem_controller_storeless.vhd(4): (vcom-1195) Cannot find expanded name "work.types".
 # ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/mem_controller_storeless.vhd(4): Unknown expanded name.
 # ** Note: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/mem_controller_storeless.vhd(6): VHDL Compiler exiting
-# End time: 13:00:29 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 17:39:17 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 3, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 13:00:29 on Jan 09,2025
+# Start time: 17:39:17 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/simpackage.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -486,33 +492,33 @@
 # -- Compiling package sim_package
 # -- Compiling package body sim_package
 # -- Loading package sim_package
-# End time: 13:00:29 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 17:39:17 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of simpackage.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 13:00:29 on Jan 09,2025
+# Start time: 17:39:17 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/tb_join.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
 # -- Loading package std_logic_1164
 # -- Compiling entity tb_join
 # -- Compiling architecture arch of tb_join
-# End time: 13:00:29 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 17:39:17 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of tb_join.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 13:00:29 on Jan 09,2025
+# Start time: 17:39:17 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/eager_fork_register_block.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
 # -- Loading package std_logic_1164
 # -- Compiling entity eager_fork_register_block
 # -- Compiling architecture arch of eager_fork_register_block
-# End time: 13:00:29 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 17:39:17 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of eager_fork_register_block.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 13:00:29 on Jan 09,2025
+# Start time: 17:39:17 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/addi.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -524,10 +530,10 @@
 # ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/addi.vhd(28): (vcom-1195) Cannot find expanded name "work.join".
 # ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/addi.vhd(28): Unknown expanded name.
 # ** Note: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/addi.vhd(41): VHDL Compiler exiting
-# End time: 13:00:29 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 17:39:17 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 3, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 13:00:29 on Jan 09,2025
+# Start time: 17:39:17 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/flopoco_ip_cores.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -722,11 +728,11 @@
 # -- Compiling architecture arch of FPDiv_64bit
 # ** Warning: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/flopoco_ip_cores.vhd(12306): (vcom-1514) Range choice direction (downto) does not determine aggregate index range direction (to).
 # ** Warning: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/flopoco_ip_cores.vhd(12309): (vcom-1514) Range choice direction (downto) does not determine aggregate index range direction (to).
-# End time: 13:00:29 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 17:39:17 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 63
 # Compile of flopoco_ip_cores.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 13:00:29 on Jan 09,2025
+# Start time: 17:39:17 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/addf.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -747,10 +753,10 @@
 # -- Loading entity OutputIEEE_32bit
 # -- Loading entity FloatingPointAdder
 # ** Note: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/addf.vhd(93): VHDL Compiler exiting
-# End time: 13:00:29 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 17:39:17 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 6, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 13:00:29 on Jan 09,2025
+# Start time: 17:39:17 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/oehb.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -762,10 +768,10 @@
 # ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/oehb.vhd(26): (vcom-1195) Cannot find expanded name "work.oehb_dataless".
 # ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/oehb.vhd(26): Unknown expanded name.
 # ** Note: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/oehb.vhd(49): VHDL Compiler exiting
-# End time: 13:00:29 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 17:39:17 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 3, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 13:00:29 on Jan 09,2025
+# Start time: 17:39:17 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/handshake_constant_1.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -773,11 +779,11 @@
 # -- Loading package NUMERIC_STD
 # -- Compiling entity handshake_constant_1
 # -- Compiling architecture arch of handshake_constant_1
-# End time: 13:00:29 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 17:39:17 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of handshake_constant_1.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 13:00:29 on Jan 09,2025
+# Start time: 17:39:17 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/oehb_dataless.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -785,11 +791,23 @@
 # -- Loading package NUMERIC_STD
 # -- Compiling entity oehb_dataless
 # -- Compiling architecture arch of oehb_dataless
-# End time: 13:00:29 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 17:39:17 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of oehb_dataless.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 13:00:29 on Jan 09,2025
+# Start time: 17:39:17 on Jan 10,2025
+# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/source.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity source
+# -- Compiling architecture arch of source
+# End time: 17:39:17 on Jan 10,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Compile of source.vhd was successful.
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 17:39:17 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/handshake_constant_4.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -797,11 +815,11 @@
 # -- Loading package NUMERIC_STD
 # -- Compiling entity handshake_constant_4
 # -- Compiling architecture arch of handshake_constant_4
-# End time: 13:00:29 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 17:39:17 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of handshake_constant_4.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 13:00:29 on Jan 09,2025
+# Start time: 17:39:17 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/cond_br.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -810,11 +828,11 @@
 # -- Compiling entity cond_br
 # -- Compiling architecture arch of cond_br
 # -- Loading entity cond_br_dataless
-# End time: 13:00:29 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 17:39:17 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of cond_br.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 13:00:29 on Jan 09,2025
+# Start time: 17:39:17 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/handshake_lsq_lsq1.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -823,11 +841,11 @@
 # -- Compiling entity handshake_lsq_lsq1
 # -- Compiling architecture arch of handshake_lsq_lsq1
 # -- Loading entity handshake_lsq_lsq1_core
-# End time: 13:00:29 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 17:39:17 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of handshake_lsq_lsq1.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 13:00:29 on Jan 09,2025
+# Start time: 17:39:17 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/mulf.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -846,10 +864,10 @@
 # -- Loading entity OutputIEEE_32bit
 # -- Loading entity FloatingPointMultiplier
 # ** Note: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/mulf.vhd(94): VHDL Compiler exiting
-# End time: 13:00:29 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 17:39:17 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 3, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 13:00:29 on Jan 09,2025
+# Start time: 17:39:17 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/extsi.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -857,11 +875,11 @@
 # -- Loading package NUMERIC_STD
 # -- Compiling entity extsi
 # -- Compiling architecture arch of extsi
-# End time: 13:00:29 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 17:39:17 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of extsi.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 13:00:29 on Jan 09,2025
+# Start time: 17:39:17 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/handshake_cmpi_0.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -873,10 +891,10 @@
 # ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/handshake_cmpi_0.vhd(28): (vcom-1195) Cannot find expanded name "work.join".
 # ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/handshake_cmpi_0.vhd(28): Unknown expanded name.
 # ** Note: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/handshake_cmpi_0.vhd(41): VHDL Compiler exiting
-# End time: 13:00:29 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 17:39:17 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 3, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 13:00:29 on Jan 09,2025
+# Start time: 17:39:17 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/handshake_constant_3.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -884,11 +902,11 @@
 # -- Loading package NUMERIC_STD
 # -- Compiling entity handshake_constant_3
 # -- Compiling architecture arch of handshake_constant_3
-# End time: 13:00:29 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 17:39:17 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of handshake_constant_3.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 13:00:29 on Jan 09,2025
+# Start time: 17:39:17 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/lazy_fork_dataless.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -899,10 +917,10 @@
 # ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/lazy_fork_dataless.vhd(22): (vcom-1195) Cannot find expanded name "work.and_n".
 # ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/lazy_fork_dataless.vhd(22): Unknown expanded name.
 # ** Note: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/lazy_fork_dataless.vhd(42): VHDL Compiler exiting
-# End time: 13:00:29 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 17:39:17 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 3, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 13:00:29 on Jan 09,2025
+# Start time: 17:39:17 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/tehb.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -914,10 +932,10 @@
 # ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/tehb.vhd(28): (vcom-1195) Cannot find expanded name "work.tehb_dataless".
 # ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/tehb.vhd(28): Unknown expanded name.
 # ** Note: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/tehb.vhd(60): VHDL Compiler exiting
-# End time: 13:00:29 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 17:39:17 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 3, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 13:00:29 on Jan 09,2025
+# Start time: 17:39:17 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh_wrapper.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -933,10 +951,10 @@
 # ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh_wrapper.vhd(126): Unknown expanded name.
 # -- Loading entity get_tanh
 # ** Note: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh_wrapper.vhd(176): VHDL Compiler exiting
-# End time: 13:00:29 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 17:39:17 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 6, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 13:00:29 on Jan 09,2025
+# Start time: 17:39:17 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/tfifo.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -945,11 +963,11 @@
 # -- Compiling entity tfifo
 # -- Compiling architecture arch of tfifo
 # -- Loading entity elastic_fifo_inner
-# End time: 13:00:29 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 17:39:17 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of tfifo.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 13:00:29 on Jan 09,2025
+# Start time: 17:39:17 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/logic.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -962,11 +980,11 @@
 # -- Compiling architecture arch of or_n
 # -- Compiling entity nor_n
 # -- Compiling architecture arch of nor_n
-# End time: 13:00:29 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 17:39:17 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of logic.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 13:00:29 on Jan 09,2025
+# Start time: 17:39:17 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/fork_dataless.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -976,21 +994,21 @@
 # -- Compiling architecture arch of fork_dataless
 # -- Loading entity or_n
 # -- Loading entity eager_fork_register_block
-# End time: 13:00:29 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 17:39:17 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of fork_dataless.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 13:00:29 on Jan 09,2025
+# Start time: 17:39:17 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/types.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
 # -- Loading package std_logic_1164
 # -- Compiling package types
-# End time: 13:00:29 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 17:39:17 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of types.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 13:00:29 on Jan 09,2025
+# Start time: 17:39:17 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/sink.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -998,11 +1016,11 @@
 # -- Loading package NUMERIC_STD
 # -- Compiling entity sink
 # -- Compiling architecture arch of sink
-# End time: 13:00:29 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 17:39:17 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of sink.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 13:00:29 on Jan 09,2025
+# Start time: 17:39:17 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/mux.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -1013,11 +1031,11 @@
 # -- Compiling entity mux
 # -- Compiling architecture arch of mux
 # -- Loading entity tehb
-# End time: 13:00:29 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 17:39:17 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of mux.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 13:00:29 on Jan 09,2025
+# Start time: 17:39:17 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/merge.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -1027,11 +1045,11 @@
 # -- Compiling entity merge
 # -- Compiling architecture arch of merge
 # -- Loading entity tehb
-# End time: 13:00:29 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 17:39:17 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of merge.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 13:00:29 on Jan 09,2025
+# Start time: 17:39:17 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/handshake_fork.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -1041,11 +1059,11 @@
 # -- Compiling architecture arch of handshake_fork
 # -- Loading package NUMERIC_STD
 # -- Loading entity fork_dataless
-# End time: 13:00:30 on Jan 09,2025, Elapsed time: 0:00:01
+# End time: 17:39:17 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of handshake_fork.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 13:00:30 on Jan 09,2025
+# Start time: 17:39:17 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/handshake_constant_0.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -1053,11 +1071,11 @@
 # -- Loading package NUMERIC_STD
 # -- Compiling entity handshake_constant_0
 # -- Compiling architecture arch of handshake_constant_0
-# End time: 13:00:30 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 17:39:17 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of handshake_constant_0.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 13:00:30 on Jan 09,2025
+# Start time: 17:39:17 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/mem_to_bram.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -1065,11 +1083,11 @@
 # -- Loading package NUMERIC_STD
 # -- Compiling entity mem_to_bram
 # -- Compiling architecture arch of mem_to_bram
-# End time: 13:00:30 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 17:39:17 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of mem_to_bram.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 13:00:30 on Jan 09,2025
+# Start time: 17:39:17 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/single_argument.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -1082,11 +1100,11 @@
 # -- Compiling entity single_argument
 # -- Compiling architecture behav of single_argument
 # ** Warning: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/single_argument.vhd(40): (vcom-1236) Shared variables must be of a protected type.
-# End time: 13:00:30 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 17:39:17 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 1
 # Compile of single_argument.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 13:00:30 on Jan 09,2025
+# Start time: 17:39:17 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/merge_dataless.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -1098,10 +1116,10 @@
 # ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/merge_dataless.vhd(43): (vcom-1195) Cannot find expanded name "work.tehb_dataless".
 # ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/merge_dataless.vhd(43): Unknown expanded name.
 # ** Note: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/merge_dataless.vhd(52): VHDL Compiler exiting
-# End time: 13:00:30 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 17:39:18 on Jan 10,2025, Elapsed time: 0:00:01
 # Errors: 3, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 13:00:30 on Jan 09,2025
+# Start time: 17:39:18 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/join.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -1109,11 +1127,11 @@
 # -- Compiling entity join
 # -- Compiling architecture arch of join
 # -- Loading entity and_n
-# End time: 13:00:30 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 17:39:18 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of join.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 13:00:30 on Jan 09,2025
+# Start time: 17:39:18 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/tehb_dataless.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -1121,11 +1139,11 @@
 # -- Loading package NUMERIC_STD
 # -- Compiling entity tehb_dataless
 # -- Compiling architecture arch of tehb_dataless
-# End time: 13:00:30 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 17:39:18 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of tehb_dataless.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 13:00:30 on Jan 09,2025
+# Start time: 17:39:18 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/mc_support.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -1162,11 +1180,11 @@
 # -- Loading entity write_data_signals
 # -- Compiling entity mc_control
 # -- Compiling architecture arch of mc_control
-# End time: 13:00:30 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 17:39:18 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of mc_support.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 13:00:30 on Jan 09,2025
+# Start time: 17:39:18 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/mux_dataless.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -1176,11 +1194,11 @@
 # -- Compiling entity mux_dataless
 # -- Compiling architecture arch of mux_dataless
 # -- Loading entity tehb_dataless
-# End time: 13:00:30 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 17:39:18 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of mux_dataless.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 13:00:30 on Jan 09,2025
+# Start time: 17:39:18 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/load.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -1189,11 +1207,11 @@
 # -- Compiling entity load
 # -- Compiling architecture arch of load
 # -- Loading entity tehb
-# End time: 13:00:30 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 17:39:18 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of load.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 13:00:30 on Jan 09,2025
+# Start time: 17:39:18 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/cond_br_dataless.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -1202,11 +1220,11 @@
 # -- Compiling entity cond_br_dataless
 # -- Compiling architecture arch of cond_br_dataless
 # -- Loading entity join
-# End time: 13:00:30 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 17:39:18 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of cond_br_dataless.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 13:00:30 on Jan 09,2025
+# Start time: 17:39:18 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/store.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -1215,11 +1233,11 @@
 # -- Compiling entity store
 # -- Compiling architecture arch of store
 # -- Loading entity join
-# End time: 13:00:30 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 17:39:18 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of store.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 13:00:30 on Jan 09,2025
+# Start time: 17:39:18 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/hls_verify_get_tanh_tb.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -1241,10 +1259,10 @@
 # ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/hls_verify_get_tanh_tb.vhd(151): Unknown expanded name.
 # -- Loading entity tb_join
 # ** Note: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/hls_verify_get_tanh_tb.vhd(324): VHDL Compiler exiting
-# End time: 13:00:30 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 17:39:18 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 6, Warnings: 1
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 13:00:30 on Jan 09,2025
+# Start time: 17:39:18 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/two_port_RAM.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -1257,11 +1275,11 @@
 # -- Compiling entity two_port_RAM
 # -- Compiling architecture behav of two_port_RAM
 # ** Warning: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/two_port_RAM.vhd(47): (vcom-1236) Shared variables must be of a protected type.
-# End time: 13:00:30 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 17:39:18 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 1
 # Compile of two_port_RAM.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 13:00:30 on Jan 09,2025
+# Start time: 17:39:18 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/handshake_cmpf_0.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -1283,11 +1301,11 @@
 # -- Compiling architecture arch of handshake_cmpf_0
 # -- Loading entity cmpf_single_precision
 # -- Loading entity cmpf_double_precision
-# End time: 13:00:30 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 17:39:18 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of handshake_cmpf_0.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 13:00:30 on Jan 09,2025
+# Start time: 17:39:18 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -1297,17 +1315,18 @@
 # -- Compiling architecture behavioral of get_tanh
 # -- Loading entity fork_dataless
 # ** Error: (vcom-11) Could not find work.mem_controller_storeless.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(415): (vcom-1195) Cannot find expanded name "work.mem_controller_storeless".
-# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(415): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(383): (vcom-1195) Cannot find expanded name "work.mem_controller_storeless".
+# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(383): Unknown expanded name.
 # -- Loading entity handshake_lsq_lsq1
+# -- Loading entity source
 # -- Loading entity handshake_constant_0
-# -- Loading package types
-# -- Loading entity handshake_fork
 # -- Loading entity extsi
 # -- Loading package MATH_REAL
 # -- Loading entity mux_dataless
+# -- Loading package types
 # -- Loading entity merge
 # -- Loading entity tehb
+# -- Loading entity handshake_fork
 # -- Loading entity oehb_dataless
 # -- Loading entity tehb_dataless
 # -- Loading entity lazy_fork_dataless
@@ -1322,37 +1341,37 @@
 # -- Loading entity cond_br_dataless
 # -- Loading entity cond_br
 # -- Loading entity sink
-# -- Loading entity sink_dataless
 # -- Loading entity handshake_constant_2
 # -- Loading entity handshake_constant_3
 # ** Error: (vcom-11) Could not find work.mulf.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1059): (vcom-1195) Cannot find expanded name "work.mulf".
-# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1059): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(961): (vcom-1195) Cannot find expanded name "work.mulf".
+# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(961): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.addf.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1074): (vcom-1195) Cannot find expanded name "work.addf".
-# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1074): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(976): (vcom-1195) Cannot find expanded name "work.addf".
+# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(976): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.mulf.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1089): (vcom-1195) Cannot find expanded name "work.mulf".
-# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1089): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(991): (vcom-1195) Cannot find expanded name "work.mulf".
+# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(991): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.mulf.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1104): (vcom-1195) Cannot find expanded name "work.mulf".
-# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1104): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1006): (vcom-1195) Cannot find expanded name "work.mulf".
+# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1006): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.addf.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1119): (vcom-1195) Cannot find expanded name "work.addf".
-# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1119): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1021): (vcom-1195) Cannot find expanded name "work.addf".
+# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1021): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.mulf.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1134): (vcom-1195) Cannot find expanded name "work.mulf".
-# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1134): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1036): (vcom-1195) Cannot find expanded name "work.mulf".
+# ** Error: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1036): Unknown expanded name.
+# -- Loading entity sink_dataless
 # -- Loading entity handshake_constant_4
 # -- Loading entity handshake_constant_5
 # -- Loading entity store
 # -- Loading entity addi
 # -- Loading entity handshake_cmpi_0
-# ** Note: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1589): VHDL Compiler exiting
-# End time: 13:00:30 on Jan 09,2025, Elapsed time: 0:00:00
+# ** Note: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd(1481): VHDL Compiler exiting
+# End time: 17:39:18 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 21, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 13:00:30 on Jan 09,2025
+# Start time: 17:39:18 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/mem_controller_storeless.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -1363,11 +1382,11 @@
 # -- Compiling architecture arch of mem_controller_storeless
 # -- Loading entity read_memory_arbiter
 # -- Loading entity mc_control
-# End time: 13:00:30 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 17:39:18 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of mem_controller_storeless.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 13:00:30 on Jan 09,2025
+# Start time: 17:39:18 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/addi.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -1376,11 +1395,11 @@
 # -- Compiling entity addi
 # -- Compiling architecture arch of addi
 # -- Loading entity join
-# End time: 13:00:30 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 17:39:18 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of addi.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 13:00:30 on Jan 09,2025
+# Start time: 17:39:18 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/addf.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -1405,11 +1424,11 @@
 # -- Compiling architecture arch of addf
 # -- Loading entity addf_single_precision
 # -- Loading entity addf_double_precision
-# End time: 13:00:30 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 17:39:18 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of addf.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 13:00:30 on Jan 09,2025
+# Start time: 17:39:18 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/oehb.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -1418,11 +1437,11 @@
 # -- Compiling entity oehb
 # -- Compiling architecture arch of oehb
 # -- Loading entity oehb_dataless
-# End time: 13:00:30 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 17:39:18 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of oehb.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 13:00:30 on Jan 09,2025
+# Start time: 17:39:18 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/mulf.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -1447,11 +1466,11 @@
 # -- Compiling architecture arch of mulf
 # -- Loading entity mulf_single_precision
 # -- Loading entity mulf_double_precision
-# End time: 13:00:30 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 17:39:18 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of mulf.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 13:00:30 on Jan 09,2025
+# Start time: 17:39:18 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/handshake_cmpi_0.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -1460,11 +1479,11 @@
 # -- Compiling entity handshake_cmpi_0
 # -- Compiling architecture arch of handshake_cmpi_0
 # -- Loading entity join
-# End time: 13:00:30 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 17:39:18 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of handshake_cmpi_0.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 13:00:30 on Jan 09,2025
+# Start time: 17:39:18 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/lazy_fork_dataless.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -1472,11 +1491,11 @@
 # -- Compiling entity lazy_fork_dataless
 # -- Compiling architecture arch of lazy_fork_dataless
 # -- Loading entity and_n
-# End time: 13:00:30 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 17:39:18 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of lazy_fork_dataless.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 13:00:30 on Jan 09,2025
+# Start time: 17:39:18 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/tehb.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -1485,11 +1504,11 @@
 # -- Compiling entity tehb
 # -- Compiling architecture arch of tehb
 # -- Loading entity tehb_dataless
-# End time: 13:00:30 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 17:39:18 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of tehb.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 13:00:30 on Jan 09,2025
+# Start time: 17:39:18 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh_wrapper.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -1499,11 +1518,11 @@
 # -- Compiling architecture behavioral of get_tanh_wrapper
 # -- Loading entity mem_to_bram
 # -- Loading entity get_tanh
-# End time: 13:00:30 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 17:39:18 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of get_tanh_wrapper.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 13:00:30 on Jan 09,2025
+# Start time: 17:39:18 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/merge_dataless.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -1512,11 +1531,11 @@
 # -- Compiling entity merge_dataless
 # -- Compiling architecture arch of merge_dataless
 # -- Loading entity tehb_dataless
-# End time: 13:00:30 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 17:39:18 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of merge_dataless.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 13:00:30 on Jan 09,2025
+# Start time: 17:39:18 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/hls_verify_get_tanh_tb.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -1532,11 +1551,11 @@
 # -- Loading entity get_tanh_wrapper
 # -- Loading entity two_port_RAM
 # -- Loading entity tb_join
-# End time: 13:00:30 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 17:39:18 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 1
 # Compile of hls_verify_get_tanh_tb.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 13:00:30 on Jan 09,2025
+# Start time: 17:39:18 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/get_tanh.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -1548,13 +1567,14 @@
 # -- Loading package types
 # -- Loading entity mem_controller_storeless
 # -- Loading entity handshake_lsq_lsq1
+# -- Loading entity source
 # -- Loading entity handshake_constant_0
-# -- Loading entity handshake_fork
 # -- Loading entity extsi
 # -- Loading package MATH_REAL
 # -- Loading entity mux_dataless
 # -- Loading entity merge
 # -- Loading entity tehb
+# -- Loading entity handshake_fork
 # -- Loading entity oehb_dataless
 # -- Loading entity tehb_dataless
 # -- Loading entity lazy_fork_dataless
@@ -1569,17 +1589,17 @@
 # -- Loading entity cond_br_dataless
 # -- Loading entity cond_br
 # -- Loading entity sink
-# -- Loading entity sink_dataless
 # -- Loading entity handshake_constant_2
 # -- Loading entity handshake_constant_3
 # -- Loading entity mulf
 # -- Loading entity addf
+# -- Loading entity sink_dataless
 # -- Loading entity handshake_constant_4
 # -- Loading entity handshake_constant_5
 # -- Loading entity store
 # -- Loading entity addi
 # -- Loading entity handshake_cmpi_0
-# End time: 13:00:30 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 17:39:18 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of get_tanh.vhd was successful.
 # All compile dependencies have been resolved.vcom -work work -2008 -explicit -stats=none /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/handshake_constant_5.vhd
@@ -1890,6 +1910,14 @@
 # -- Loading package NUMERIC_STD
 # -- Compiling entity oehb_dataless
 # -- Compiling architecture arch of oehb_dataless
+# vcom -work work -2008 -explicit -stats=none /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/source.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity source
+# -- Compiling architecture arch of source
 # vcom -work work -2008 -explicit -stats=none /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/handshake_constant_4.vhd
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
 # -- Loading package STANDARD
@@ -2315,13 +2343,14 @@
 # -- Loading package types
 # -- Loading entity mem_controller_storeless
 # -- Loading entity handshake_lsq_lsq1
+# -- Loading entity source
 # -- Loading entity handshake_constant_0
-# -- Loading entity handshake_fork
 # -- Loading entity extsi
 # -- Loading package MATH_REAL
 # -- Loading entity mux_dataless
 # -- Loading entity merge
 # -- Loading entity tehb
+# -- Loading entity handshake_fork
 # -- Loading entity oehb_dataless
 # -- Loading entity tehb_dataless
 # -- Loading entity lazy_fork_dataless
@@ -2336,19 +2365,19 @@
 # -- Loading entity cond_br_dataless
 # -- Loading entity cond_br
 # -- Loading entity sink
-# -- Loading entity sink_dataless
 # -- Loading entity handshake_constant_2
 # -- Loading entity handshake_constant_3
 # -- Loading entity mulf
 # -- Loading entity addf
+# -- Loading entity sink_dataless
 # -- Loading entity handshake_constant_4
 # -- Loading entity handshake_constant_5
 # -- Loading entity store
 # -- Loading entity addi
 # -- Loading entity handshake_cmpi_0
-# 50 compiles, 0 failed with no errors.
+# 51 compiles, 0 failed with no errors.
 # vsim get_tanh_wrapper_tb 
-# Start time: 13:00:32 on Jan 09,2025
+# Start time: 17:39:20 on Jan 10,2025
 # Loading std.standard
 # Loading std.textio(body)
 # Loading ieee.std_logic_1164(body)
@@ -2380,13 +2409,14 @@
 # Loading work.handshake_lsq_lsq1_core_ldd(arch)
 # Loading work.handshake_lsq_lsq1_core_sta(arch)
 # Loading work.handshake_lsq_lsq1_core_std(arch)
+# Loading work.source(arch)
 # Loading work.handshake_constant_0(arch)
-# Loading work.handshake_fork(arch)
 # Loading work.extsi(arch)
 # Loading work.mux_dataless(arch)
 # Loading work.tehb_dataless(arch)
 # Loading work.merge(arch)
 # Loading work.tehb(arch)
+# Loading work.handshake_fork(arch)
 # Loading work.oehb_dataless(arch)
 # Loading work.lazy_fork_dataless(arch)
 # Loading work.and_n(arch)
@@ -2407,7 +2437,6 @@
 # Loading work.cond_br_dataless(arch)
 # Loading work.cond_br(arch)
 # Loading work.sink(arch)
-# Loading work.sink_dataless(arch)
 # Loading work.handshake_constant_2(arch)
 # Loading work.handshake_constant_3(arch)
 # Loading work.mulf(arch)
@@ -2427,6 +2456,7 @@
 # Loading work.intadder_27_freq450_uid6(arch)
 # Loading work.normalizer_z_28_28_28_freq450_uid8(arch)
 # Loading work.intadder_34_freq450_uid11(arch)
+# Loading work.sink_dataless(arch)
 # Loading work.handshake_constant_4(arch)
 # Loading work.handshake_constant_5(arch)
 # Loading work.store(arch)
@@ -2434,14 +2464,14 @@
 # Loading work.handshake_cmpi_0(arch)
 # Loading work.two_port_ram(behav)
 # Loading work.tb_join(arch)
-# ** Warning: Design size of 39236 statements exceeds ModelSim-Intel FPGA Starter Edition recommended capacity.
+# ** Warning: Design size of 38483 statements exceeds ModelSim-Intel FPGA Starter Edition recommended capacity.
 # Expect performance to be adversely affected.
 # ** Warning: NUMERIC_STD."<": metavalue detected, returning FALSE
 #    Time: 0 ps  Iteration: 0  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/cmpi0
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 0  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux6
+#    Time: 0 ps  Iteration: 0  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux1
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 0  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux6
+#    Time: 0 ps  Iteration: 0  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux1
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
 #    Time: 0 ps  Iteration: 0  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mulf3/gen_flopoco_ip/ip/ip/RoundingAdder
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
@@ -2971,17 +3001,13 @@
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
 #    Time: 0 ps  Iteration: 0  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/cmpf0/gen_flopoco_ip/operator/ieee2nfloat_0
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 0  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux5
-# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 0  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux5
-# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
 #    Time: 0 ps  Iteration: 0  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux0
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
 #    Time: 0 ps  Iteration: 0  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux0
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 0  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux1
+#    Time: 0 ps  Iteration: 0  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux2
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 0  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux1
+#    Time: 0 ps  Iteration: 0  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux2
 # ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
 #    Time: 0 ps  Iteration: 0  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/lsq1/handshake_lsq_lsq1_core
 # ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
@@ -3163,13 +3189,9 @@
 # ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
 #    Time: 0 ps  Iteration: 1  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/lsq1/handshake_lsq_lsq1_core
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 1  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux1
+#    Time: 0 ps  Iteration: 1  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux2
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 1  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux1
-# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 1  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux0
-# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 1  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux0
+#    Time: 0 ps  Iteration: 1  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux2
 # ** Warning: NUMERIC_STD."<": metavalue detected, returning FALSE
 #    Time: 0 ps  Iteration: 2  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/cmpi0
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
@@ -3181,9 +3203,9 @@
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
 #    Time: 0 ps  Iteration: 2  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mulf3/gen_flopoco_ip/ip/ip/SignificandMultiplication/bitheapFinalAdd_bh7
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 2  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux6
+#    Time: 0 ps  Iteration: 2  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux1
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 2  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux6
+#    Time: 0 ps  Iteration: 2  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux1
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
 #    Time: 0 ps  Iteration: 2  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/addf1/gen_flopoco_ip/ip/ip/fracAdder
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
@@ -3228,6 +3250,10 @@
 #    Time: 0 ps  Iteration: 2  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mulf0/gen_flopoco_ip/ip/ip/SignificandMultiplication/bitheapFinalAdd_bh7
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
 #    Time: 0 ps  Iteration: 2  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mulf0/gen_flopoco_ip/ip/ip/SignificandMultiplication/bitheapFinalAdd_bh7
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 2  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux0
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 2  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux0
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
 #    Time: 0 ps  Iteration: 3  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/addf1/gen_flopoco_ip/ip/ip
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
@@ -3263,21 +3289,21 @@
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
 #    Time: 0 ps  Iteration: 3  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/addf0/gen_flopoco_ip/ip/ieee2nfloat_lhs
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 3  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux1
+#    Time: 0 ps  Iteration: 3  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux2
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 3  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux2
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
 #    Time: 0 ps  Iteration: 3  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux1
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 3  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux6
-# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 3  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux6
-# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 3  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux5
-# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 3  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux5
+#    Time: 0 ps  Iteration: 3  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux1
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
 #    Time: 0 ps  Iteration: 3  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux0
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
 #    Time: 0 ps  Iteration: 3  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux0
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 4  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux0
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 4  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux0
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
 #    Time: 0 ps  Iteration: 4  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/addf0/gen_flopoco_ip/ip/ip
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
@@ -3286,10 +3312,6 @@
 #    Time: 0 ps  Iteration: 4  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/addf1/gen_flopoco_ip/ip/ip
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
 #    Time: 0 ps  Iteration: 4  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/addf1/gen_flopoco_ip/ip/ip
-# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 4  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux5
-# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 4  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux5
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
 #    Time: 0 ps  Iteration: 5  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mulf3/gen_flopoco_ip/ip/nfloat2ieee_result
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
@@ -3355,29 +3377,25 @@
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
 #    Time: 0 ps  Iteration: 8  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/addf0/gen_flopoco_ip/ip/ip
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 9  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux6
+#    Time: 0 ps  Iteration: 9  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux1
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 9  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux6
+#    Time: 0 ps  Iteration: 9  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux1
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 14  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux6
+#    Time: 0 ps  Iteration: 14  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux1
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 14  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux6
+#    Time: 0 ps  Iteration: 14  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux1
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 2 ns  Iteration: 3  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux2
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 2 ns  Iteration: 3  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux2
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
 #    Time: 2 ns  Iteration: 3  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux1
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
 #    Time: 2 ns  Iteration: 3  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux1
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 2 ns  Iteration: 3  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux0
+#    Time: 2 ns  Iteration: 4  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux1
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 2 ns  Iteration: 3  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux0
-# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 2 ns  Iteration: 3  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux6
-# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 2 ns  Iteration: 3  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux6
-# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 2 ns  Iteration: 4  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux6
-# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 2 ns  Iteration: 4  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux6
+#    Time: 2 ns  Iteration: 4  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux1
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
 #    Time: 2 ns  Iteration: 8  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/cmpf0/gen_flopoco_ip/operator/operator/ExpFracCmp
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
@@ -3747,9 +3765,9 @@
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
 #    Time: 18 ns  Iteration: 19  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mulf0/gen_flopoco_ip/ip/ip
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 18 ns  Iteration: 25  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux6
+#    Time: 18 ns  Iteration: 25  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux1
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 18 ns  Iteration: 25  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux6
+#    Time: 18 ns  Iteration: 25  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux1
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
 #    Time: 22 ns  Iteration: 2  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mulf0/gen_flopoco_ip/ip/ip
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
@@ -3905,13 +3923,13 @@
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
 #    Time: 30 ns  Iteration: 13  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/cmpf0/gen_flopoco_ip/operator/operator/ExpFracCmp
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 30 ns  Iteration: 14  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux6
+#    Time: 30 ns  Iteration: 14  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux1
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 30 ns  Iteration: 14  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux6
+#    Time: 30 ns  Iteration: 14  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux1
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 30 ns  Iteration: 17  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux6
+#    Time: 30 ns  Iteration: 17  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux1
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 30 ns  Iteration: 17  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux6
+#    Time: 30 ns  Iteration: 17  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux1
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
 #    Time: 34 ns  Iteration: 2  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mulf0/gen_flopoco_ip/ip/ip/SignificandMultiplication/bitheapFinalAdd_bh7
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
@@ -4011,9 +4029,9 @@
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
 #    Time: 170 ns  Iteration: 11  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mulf0/gen_flopoco_ip/ip/ip
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 170 ns  Iteration: 17  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux6
+#    Time: 170 ns  Iteration: 17  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux1
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 170 ns  Iteration: 17  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux6
+#    Time: 170 ns  Iteration: 17  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux1
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
 #    Time: 174 ns  Iteration: 2  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mulf0/gen_flopoco_ip/ip/ip
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
@@ -4161,13 +4179,13 @@
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
 #    Time: 182 ns  Iteration: 13  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/cmpf0/gen_flopoco_ip/operator/operator/ExpFracCmp
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 182 ns  Iteration: 14  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux6
+#    Time: 182 ns  Iteration: 14  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux1
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 182 ns  Iteration: 14  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux6
+#    Time: 182 ns  Iteration: 14  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux1
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 182 ns  Iteration: 17  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux6
+#    Time: 182 ns  Iteration: 17  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux1
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 182 ns  Iteration: 17  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux6
+#    Time: 182 ns  Iteration: 17  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux1
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
 #    Time: 186 ns  Iteration: 2  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mulf0/gen_flopoco_ip/ip/ip/SignificandMultiplication/bitheapFinalAdd_bh7
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
@@ -4277,13 +4295,13 @@
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
 #    Time: 186 ns  Iteration: 18  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mulf0/gen_flopoco_ip/ip/ip
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 186 ns  Iteration: 21  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux6
+#    Time: 186 ns  Iteration: 21  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux1
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 186 ns  Iteration: 21  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux6
+#    Time: 186 ns  Iteration: 21  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux1
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 186 ns  Iteration: 24  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux6
+#    Time: 186 ns  Iteration: 24  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux1
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 186 ns  Iteration: 24  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux6
+#    Time: 186 ns  Iteration: 24  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux1
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
 #    Time: 190 ns  Iteration: 2  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mulf0/gen_flopoco_ip/ip/ip
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
@@ -4433,19 +4451,19 @@
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
 #    Time: 198 ns  Iteration: 2  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mulf3/gen_flopoco_ip/ip/ip/RoundingAdder
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 198 ns  Iteration: 11  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux6
+#    Time: 198 ns  Iteration: 11  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux1
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 198 ns  Iteration: 11  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux6
+#    Time: 198 ns  Iteration: 11  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux1
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
 #    Time: 198 ns  Iteration: 13  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/cmpf0/gen_flopoco_ip/operator/operator/ExpFracCmp
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 198 ns  Iteration: 14  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux6
+#    Time: 198 ns  Iteration: 14  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux1
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 198 ns  Iteration: 14  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux6
+#    Time: 198 ns  Iteration: 14  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux1
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 198 ns  Iteration: 17  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux6
+#    Time: 198 ns  Iteration: 17  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux1
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 198 ns  Iteration: 17  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux6
+#    Time: 198 ns  Iteration: 17  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux1
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
 #    Time: 202 ns  Iteration: 2  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mulf0/gen_flopoco_ip/ip/ip/SignificandMultiplication/bitheapFinalAdd_bh7
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
@@ -4575,9 +4593,9 @@
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
 #    Time: 202 ns  Iteration: 18  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mulf0/gen_flopoco_ip/ip/ip
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 202 ns  Iteration: 21  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux6
+#    Time: 202 ns  Iteration: 21  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux1
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 202 ns  Iteration: 21  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux6
+#    Time: 202 ns  Iteration: 21  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux1
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
 #    Time: 206 ns  Iteration: 2  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mulf0/gen_flopoco_ip/ip/ip
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
@@ -4747,19 +4765,19 @@
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
 #    Time: 214 ns  Iteration: 3  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/addf1/gen_flopoco_ip/ip/ip/LZCAndShifter
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 214 ns  Iteration: 11  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux6
+#    Time: 214 ns  Iteration: 11  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux1
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 214 ns  Iteration: 11  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux6
+#    Time: 214 ns  Iteration: 11  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux1
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
 #    Time: 214 ns  Iteration: 13  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/cmpf0/gen_flopoco_ip/operator/operator/ExpFracCmp
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 214 ns  Iteration: 14  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux6
+#    Time: 214 ns  Iteration: 14  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux1
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 214 ns  Iteration: 14  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux6
+#    Time: 214 ns  Iteration: 14  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux1
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 214 ns  Iteration: 17  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux6
+#    Time: 214 ns  Iteration: 17  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux1
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 214 ns  Iteration: 17  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux6
+#    Time: 214 ns  Iteration: 17  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux1
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
 #    Time: 218 ns  Iteration: 2  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mulf0/gen_flopoco_ip/ip/ip/SignificandMultiplication/bitheapFinalAdd_bh7
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
@@ -4893,9 +4911,9 @@
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
 #    Time: 218 ns  Iteration: 18  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mulf0/gen_flopoco_ip/ip/ip
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 218 ns  Iteration: 21  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux6
+#    Time: 218 ns  Iteration: 21  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux1
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 218 ns  Iteration: 21  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux6
+#    Time: 218 ns  Iteration: 21  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux1
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
 #    Time: 222 ns  Iteration: 2  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mulf0/gen_flopoco_ip/ip/ip
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
@@ -5051,19 +5069,19 @@
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
 #    Time: 230 ns  Iteration: 2  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mulf3/gen_flopoco_ip/ip/ip/RoundingAdder
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 230 ns  Iteration: 11  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux6
+#    Time: 230 ns  Iteration: 11  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux1
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 230 ns  Iteration: 11  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux6
+#    Time: 230 ns  Iteration: 11  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux1
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
 #    Time: 230 ns  Iteration: 13  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/cmpf0/gen_flopoco_ip/operator/operator/ExpFracCmp
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 230 ns  Iteration: 14  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux6
+#    Time: 230 ns  Iteration: 14  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux1
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 230 ns  Iteration: 14  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux6
+#    Time: 230 ns  Iteration: 14  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux1
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 230 ns  Iteration: 17  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux6
+#    Time: 230 ns  Iteration: 17  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux1
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 230 ns  Iteration: 17  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux6
+#    Time: 230 ns  Iteration: 17  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux1
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
 #    Time: 234 ns  Iteration: 2  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mulf0/gen_flopoco_ip/ip/ip/SignificandMultiplication/bitheapFinalAdd_bh7
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
@@ -5193,9 +5211,9 @@
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
 #    Time: 234 ns  Iteration: 18  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mulf3/gen_flopoco_ip/ip/ip
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 234 ns  Iteration: 21  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux6
+#    Time: 234 ns  Iteration: 21  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux1
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 234 ns  Iteration: 21  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux6
+#    Time: 234 ns  Iteration: 21  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux1
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
 #    Time: 238 ns  Iteration: 2  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mulf0/gen_flopoco_ip/ip/ip
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
@@ -5347,13 +5365,13 @@
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
 #    Time: 246 ns  Iteration: 13  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/cmpf0/gen_flopoco_ip/operator/operator/ExpFracCmp
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 246 ns  Iteration: 14  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux6
+#    Time: 246 ns  Iteration: 14  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux1
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 246 ns  Iteration: 14  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux6
+#    Time: 246 ns  Iteration: 14  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux1
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 246 ns  Iteration: 17  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux6
+#    Time: 246 ns  Iteration: 17  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux1
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 246 ns  Iteration: 17  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux6
+#    Time: 246 ns  Iteration: 17  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux1
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
 #    Time: 250 ns  Iteration: 2  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mulf0/gen_flopoco_ip/ip/ip/SignificandMultiplication/bitheapFinalAdd_bh7
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
@@ -5473,9 +5491,9 @@
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
 #    Time: 250 ns  Iteration: 18  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mulf0/gen_flopoco_ip/ip/ip
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 250 ns  Iteration: 21  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux6
+#    Time: 250 ns  Iteration: 21  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux1
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 250 ns  Iteration: 21  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux6
+#    Time: 250 ns  Iteration: 21  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux1
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
 #    Time: 254 ns  Iteration: 2  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mulf0/gen_flopoco_ip/ip/ip
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
@@ -5627,13 +5645,13 @@
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
 #    Time: 262 ns  Iteration: 13  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/cmpf0/gen_flopoco_ip/operator/operator/ExpFracCmp
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 262 ns  Iteration: 14  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux6
+#    Time: 262 ns  Iteration: 14  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux1
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 262 ns  Iteration: 14  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux6
+#    Time: 262 ns  Iteration: 14  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux1
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 262 ns  Iteration: 17  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux6
+#    Time: 262 ns  Iteration: 17  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux1
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 262 ns  Iteration: 17  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux6
+#    Time: 262 ns  Iteration: 17  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux1
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
 #    Time: 266 ns  Iteration: 2  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mulf0/gen_flopoco_ip/ip/ip/SignificandMultiplication/bitheapFinalAdd_bh7
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
@@ -5753,9 +5771,9 @@
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
 #    Time: 266 ns  Iteration: 18  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mulf0/gen_flopoco_ip/ip/ip
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 266 ns  Iteration: 21  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux6
+#    Time: 266 ns  Iteration: 21  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux1
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 266 ns  Iteration: 21  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux6
+#    Time: 266 ns  Iteration: 21  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux1
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
 #    Time: 270 ns  Iteration: 2  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mulf0/gen_flopoco_ip/ip/ip
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
@@ -5907,13 +5925,13 @@
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
 #    Time: 278 ns  Iteration: 13  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/cmpf0/gen_flopoco_ip/operator/operator/ExpFracCmp
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 278 ns  Iteration: 14  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux6
+#    Time: 278 ns  Iteration: 14  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux1
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 278 ns  Iteration: 14  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux6
+#    Time: 278 ns  Iteration: 14  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux1
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 278 ns  Iteration: 17  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux6
+#    Time: 278 ns  Iteration: 17  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux1
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 278 ns  Iteration: 17  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux6
+#    Time: 278 ns  Iteration: 17  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux1
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
 #    Time: 282 ns  Iteration: 2  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mulf0/gen_flopoco_ip/ip/ip/SignificandMultiplication/bitheapFinalAdd_bh7
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
@@ -6033,9 +6051,9 @@
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
 #    Time: 282 ns  Iteration: 18  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mulf0/gen_flopoco_ip/ip/ip
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 282 ns  Iteration: 21  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux6
+#    Time: 282 ns  Iteration: 21  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux1
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 282 ns  Iteration: 21  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux6
+#    Time: 282 ns  Iteration: 21  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux1
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
 #    Time: 286 ns  Iteration: 2  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mulf0/gen_flopoco_ip/ip/ip
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
@@ -6187,13 +6205,13 @@
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
 #    Time: 294 ns  Iteration: 13  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/cmpf0/gen_flopoco_ip/operator/operator/ExpFracCmp
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 294 ns  Iteration: 14  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux6
+#    Time: 294 ns  Iteration: 14  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux1
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 294 ns  Iteration: 14  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux6
+#    Time: 294 ns  Iteration: 14  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux1
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 294 ns  Iteration: 17  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux6
+#    Time: 294 ns  Iteration: 17  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux1
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 294 ns  Iteration: 17  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux6
+#    Time: 294 ns  Iteration: 17  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux1
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
 #    Time: 298 ns  Iteration: 2  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mulf0/gen_flopoco_ip/ip/ip/SignificandMultiplication/bitheapFinalAdd_bh7
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
@@ -6313,9 +6331,9 @@
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
 #    Time: 298 ns  Iteration: 18  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mulf0/gen_flopoco_ip/ip/ip
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 298 ns  Iteration: 21  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux6
+#    Time: 298 ns  Iteration: 21  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux1
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 298 ns  Iteration: 21  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux6
+#    Time: 298 ns  Iteration: 21  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux1
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
 #    Time: 302 ns  Iteration: 2  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mulf0/gen_flopoco_ip/ip/ip
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
@@ -6465,13 +6483,13 @@
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
 #    Time: 310 ns  Iteration: 13  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/cmpf0/gen_flopoco_ip/operator/operator/ExpFracCmp
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 310 ns  Iteration: 14  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux6
+#    Time: 310 ns  Iteration: 14  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux1
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 310 ns  Iteration: 14  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux6
+#    Time: 310 ns  Iteration: 14  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux1
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 310 ns  Iteration: 17  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux6
+#    Time: 310 ns  Iteration: 17  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux1
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 310 ns  Iteration: 17  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux6
+#    Time: 310 ns  Iteration: 17  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux1
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
 #    Time: 314 ns  Iteration: 2  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mulf0/gen_flopoco_ip/ip/ip/SignificandMultiplication/bitheapFinalAdd_bh7
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
@@ -6591,9 +6609,9 @@
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
 #    Time: 314 ns  Iteration: 18  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mulf0/gen_flopoco_ip/ip/ip
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 314 ns  Iteration: 21  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux6
+#    Time: 314 ns  Iteration: 21  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux1
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 314 ns  Iteration: 21  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux6
+#    Time: 314 ns  Iteration: 21  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux1
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
 #    Time: 318 ns  Iteration: 2  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mulf0/gen_flopoco_ip/ip/ip
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
@@ -6743,13 +6761,13 @@
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
 #    Time: 326 ns  Iteration: 13  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/cmpf0/gen_flopoco_ip/operator/operator/ExpFracCmp
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 326 ns  Iteration: 14  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux6
+#    Time: 326 ns  Iteration: 14  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux1
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 326 ns  Iteration: 14  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux6
+#    Time: 326 ns  Iteration: 14  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux1
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 326 ns  Iteration: 17  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux6
+#    Time: 326 ns  Iteration: 17  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux1
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 326 ns  Iteration: 17  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux6
+#    Time: 326 ns  Iteration: 17  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux1
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
 #    Time: 330 ns  Iteration: 2  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mulf0/gen_flopoco_ip/ip/ip/SignificandMultiplication/bitheapFinalAdd_bh7
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
@@ -6869,9 +6887,9 @@
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
 #    Time: 330 ns  Iteration: 18  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mulf0/gen_flopoco_ip/ip/ip
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 330 ns  Iteration: 21  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux6
+#    Time: 330 ns  Iteration: 21  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux1
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 330 ns  Iteration: 21  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux6
+#    Time: 330 ns  Iteration: 21  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux1
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
 #    Time: 334 ns  Iteration: 2  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mulf0/gen_flopoco_ip/ip/ip
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
@@ -7021,13 +7039,13 @@
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
 #    Time: 342 ns  Iteration: 13  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/cmpf0/gen_flopoco_ip/operator/operator/ExpFracCmp
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 342 ns  Iteration: 14  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux6
+#    Time: 342 ns  Iteration: 14  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux1
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 342 ns  Iteration: 14  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux6
+#    Time: 342 ns  Iteration: 14  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux1
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 342 ns  Iteration: 17  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux6
+#    Time: 342 ns  Iteration: 17  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux1
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 342 ns  Iteration: 17  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux6
+#    Time: 342 ns  Iteration: 17  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux1
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
 #    Time: 346 ns  Iteration: 2  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mulf0/gen_flopoco_ip/ip/ip/SignificandMultiplication/bitheapFinalAdd_bh7
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
@@ -7147,9 +7165,9 @@
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
 #    Time: 346 ns  Iteration: 18  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mulf0/gen_flopoco_ip/ip/ip
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 346 ns  Iteration: 21  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux6
+#    Time: 346 ns  Iteration: 21  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux1
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 346 ns  Iteration: 21  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux6
+#    Time: 346 ns  Iteration: 21  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux1
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
 #    Time: 350 ns  Iteration: 2  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mulf0/gen_flopoco_ip/ip/ip
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
@@ -7299,13 +7317,13 @@
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
 #    Time: 358 ns  Iteration: 13  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/cmpf0/gen_flopoco_ip/operator/operator/ExpFracCmp
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 358 ns  Iteration: 14  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux6
+#    Time: 358 ns  Iteration: 14  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux1
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 358 ns  Iteration: 14  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux6
+#    Time: 358 ns  Iteration: 14  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux1
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 358 ns  Iteration: 17  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux6
+#    Time: 358 ns  Iteration: 17  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux1
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 358 ns  Iteration: 17  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux6
+#    Time: 358 ns  Iteration: 17  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux1
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
 #    Time: 362 ns  Iteration: 2  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mulf0/gen_flopoco_ip/ip/ip/SignificandMultiplication/bitheapFinalAdd_bh7
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
@@ -7425,9 +7443,9 @@
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
 #    Time: 362 ns  Iteration: 18  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mulf0/gen_flopoco_ip/ip/ip
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 362 ns  Iteration: 21  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux6
+#    Time: 362 ns  Iteration: 21  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux1
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 362 ns  Iteration: 21  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux6
+#    Time: 362 ns  Iteration: 21  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux1
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
 #    Time: 366 ns  Iteration: 2  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mulf0/gen_flopoco_ip/ip/ip
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
@@ -7577,13 +7595,13 @@
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
 #    Time: 374 ns  Iteration: 13  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/cmpf0/gen_flopoco_ip/operator/operator/ExpFracCmp
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 374 ns  Iteration: 14  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux6
+#    Time: 374 ns  Iteration: 14  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux1
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 374 ns  Iteration: 14  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux6
+#    Time: 374 ns  Iteration: 14  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux1
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 374 ns  Iteration: 17  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux6
+#    Time: 374 ns  Iteration: 17  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux1
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 374 ns  Iteration: 17  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux6
+#    Time: 374 ns  Iteration: 17  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux1
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
 #    Time: 378 ns  Iteration: 2  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mulf0/gen_flopoco_ip/ip/ip/SignificandMultiplication/bitheapFinalAdd_bh7
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
@@ -7703,9 +7721,9 @@
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
 #    Time: 378 ns  Iteration: 18  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mulf0/gen_flopoco_ip/ip/ip
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 378 ns  Iteration: 21  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux6
+#    Time: 378 ns  Iteration: 21  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux1
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 378 ns  Iteration: 21  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux6
+#    Time: 378 ns  Iteration: 21  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux1
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
 #    Time: 382 ns  Iteration: 2  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mulf0/gen_flopoco_ip/ip/ip
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
@@ -7855,13 +7873,13 @@
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
 #    Time: 390 ns  Iteration: 13  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/cmpf0/gen_flopoco_ip/operator/operator/ExpFracCmp
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 390 ns  Iteration: 14  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux6
+#    Time: 390 ns  Iteration: 14  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux1
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 390 ns  Iteration: 14  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux6
+#    Time: 390 ns  Iteration: 14  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux1
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 390 ns  Iteration: 17  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux6
+#    Time: 390 ns  Iteration: 17  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux1
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 390 ns  Iteration: 17  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux6
+#    Time: 390 ns  Iteration: 17  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux1
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
 #    Time: 394 ns  Iteration: 2  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mulf0/gen_flopoco_ip/ip/ip/SignificandMultiplication/bitheapFinalAdd_bh7
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
@@ -7981,9 +7999,9 @@
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
 #    Time: 394 ns  Iteration: 18  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mulf0/gen_flopoco_ip/ip/ip
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 394 ns  Iteration: 21  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux6
+#    Time: 394 ns  Iteration: 21  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux1
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 394 ns  Iteration: 21  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux6
+#    Time: 394 ns  Iteration: 21  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux1
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
 #    Time: 398 ns  Iteration: 2  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mulf0/gen_flopoco_ip/ip/ip
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
@@ -8133,13 +8151,13 @@
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
 #    Time: 406 ns  Iteration: 13  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/cmpf0/gen_flopoco_ip/operator/operator/ExpFracCmp
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 406 ns  Iteration: 14  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux6
+#    Time: 406 ns  Iteration: 14  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux1
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 406 ns  Iteration: 14  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux6
+#    Time: 406 ns  Iteration: 14  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux1
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 406 ns  Iteration: 17  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux6
+#    Time: 406 ns  Iteration: 17  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux1
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 406 ns  Iteration: 17  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux6
+#    Time: 406 ns  Iteration: 17  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mux1
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
 #    Time: 410 ns  Iteration: 2  Instance: /get_tanh_wrapper_tb/duv/get_tanh_wrapped/mulf0/gen_flopoco_ip/ip/ip/SignificandMultiplication/bitheapFinalAdd_bh7
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
@@ -8214,5 +8232,5 @@
 #    Time: 17422 ns  Iteration: 1  Process: /get_tanh_wrapper_tb/generate_sim_done_proc File: /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/hls_verify_get_tanh_tb.vhd
 # Break in Process generate_sim_done_proc at /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/hls_verify_get_tanh_tb.vhd line 233
 # Stopped at /home/giacomo/dynamatic/integration-test/get_tanh/out/sim/VHDL_SRC/hls_verify_get_tanh_tb.vhd line 233
-# End time: 13:00:45 on Jan 09,2025, Elapsed time: 0:00:13
-# Errors: 1, Warnings: 2941
+# End time: 17:39:32 on Jan 10,2025, Elapsed time: 0:00:12
+# Errors: 1, Warnings: 2936

@@ -4,7 +4,7 @@
 # Modifying modelsim.ini
 # Loading project simulation
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 12:20:50 on Jan 09,2025
+# Start time: 17:20:46 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/mc_support.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -14,26 +14,10 @@
 # ** Error (suppressible): /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/mc_support.vhd(5): (vcom-1195) Cannot find expanded name "work.types".
 # ** Error: /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/mc_support.vhd(5): Unknown expanded name.
 # ** Note: /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/mc_support.vhd(7): VHDL Compiler exiting
-# End time: 12:20:50 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 17:20:46 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 3, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 12:20:50 on Jan 09,2025
-# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/mux_dataless.vhd 
-# -- Loading package STANDARD
-# -- Loading package TEXTIO
-# -- Loading package std_logic_1164
-# -- Loading package NUMERIC_STD
-# -- Loading package MATH_REAL
-# -- Compiling entity mux_dataless
-# -- Compiling architecture arch of mux_dataless
-# ** Error: (vcom-11) Could not find work.tehb_dataless.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/mux_dataless.vhd(51): (vcom-1195) Cannot find expanded name "work.tehb_dataless".
-# ** Error: /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/mux_dataless.vhd(51): Unknown expanded name.
-# ** Note: /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/mux_dataless.vhd(62): VHDL Compiler exiting
-# End time: 12:20:50 on Jan 09,2025, Elapsed time: 0:00:00
-# Errors: 3, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 12:20:50 on Jan 09,2025
+# Start time: 17:20:46 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/load.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -48,10 +32,10 @@
 # ** Error (suppressible): /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/load.vhd(50): (vcom-1195) Cannot find expanded name "work.tehb".
 # ** Error: /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/load.vhd(50): Unknown expanded name.
 # ** Note: /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/load.vhd(66): VHDL Compiler exiting
-# End time: 12:20:50 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 17:20:46 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 6, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 12:20:50 on Jan 09,2025
+# Start time: 17:20:46 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/selector.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -62,11 +46,11 @@
 # -- Compiling entity selector
 # -- Compiling architecture arch of selector
 # -- Loading entity antitokens
-# End time: 12:20:50 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 17:20:46 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of selector.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 12:20:50 on Jan 09,2025
+# Start time: 17:20:46 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/cond_br_dataless.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -78,10 +62,10 @@
 # ** Error (suppressible): /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/cond_br_dataless.vhd(27): (vcom-1195) Cannot find expanded name "work.join".
 # ** Error: /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/cond_br_dataless.vhd(27): Unknown expanded name.
 # ** Note: /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/cond_br_dataless.vhd(45): VHDL Compiler exiting
-# End time: 12:20:50 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 17:20:46 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 3, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 12:20:50 on Jan 09,2025
+# Start time: 17:20:46 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search_wrapper.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -96,10 +80,10 @@
 # ** Error (suppressible): /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search_wrapper.vhd(98): (vcom-1195) Cannot find expanded name "work.binary_search".
 # ** Error: /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search_wrapper.vhd(98): Unknown expanded name.
 # ** Note: /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search_wrapper.vhd(124): VHDL Compiler exiting
-# End time: 12:20:50 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 17:20:46 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 6, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 12:20:50 on Jan 09,2025
+# Start time: 17:20:46 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/handshake_constant_5.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -107,23 +91,11 @@
 # -- Loading package NUMERIC_STD
 # -- Compiling entity handshake_constant_5
 # -- Compiling architecture arch of handshake_constant_5
-# End time: 12:20:50 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 17:20:46 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of handshake_constant_5.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 12:20:50 on Jan 09,2025
-# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/sink_dataless.vhd 
-# -- Loading package STANDARD
-# -- Loading package TEXTIO
-# -- Loading package std_logic_1164
-# -- Loading package NUMERIC_STD
-# -- Compiling entity sink_dataless
-# -- Compiling architecture arch of sink_dataless
-# End time: 12:20:51 on Jan 09,2025, Elapsed time: 0:00:01
-# Errors: 0, Warnings: 0
-# Compile of sink_dataless.vhd was successful.
-# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 12:20:51 on Jan 09,2025
+# Start time: 17:20:46 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/two_port_RAM.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -136,10 +108,10 @@
 # ** Error (suppressible): /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/two_port_RAM.vhd(8): (vcom-1195) Cannot find expanded name "work.sim_package".
 # ** Error: /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/two_port_RAM.vhd(8): Unknown expanded name.
 # ** Note: /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/two_port_RAM.vhd(11): VHDL Compiler exiting
-# End time: 12:20:51 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 17:20:46 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 3, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 12:20:51 on Jan 09,2025
+# Start time: 17:20:46 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/trunci.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -147,11 +119,11 @@
 # -- Loading package NUMERIC_STD
 # -- Compiling entity trunci
 # -- Compiling architecture arch of trunci
-# End time: 12:20:51 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 17:20:46 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of trunci.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 12:20:51 on Jan 09,2025
+# Start time: 17:20:46 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/handshake_constant_2.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -159,11 +131,11 @@
 # -- Loading package NUMERIC_STD
 # -- Compiling entity handshake_constant_2
 # -- Compiling architecture arch of handshake_constant_2
-# End time: 12:20:51 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 17:20:46 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of handshake_constant_2.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 12:20:51 on Jan 09,2025
+# Start time: 17:20:46 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/mem_controller_storeless.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -173,10 +145,10 @@
 # ** Error (suppressible): /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/mem_controller_storeless.vhd(4): (vcom-1195) Cannot find expanded name "work.types".
 # ** Error: /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/mem_controller_storeless.vhd(4): Unknown expanded name.
 # ** Note: /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/mem_controller_storeless.vhd(6): VHDL Compiler exiting
-# End time: 12:20:51 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 17:20:46 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 3, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 12:20:51 on Jan 09,2025
+# Start time: 17:20:46 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/simpackage.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -188,22 +160,22 @@
 # -- Compiling package sim_package
 # -- Compiling package body sim_package
 # -- Loading package sim_package
-# End time: 12:20:51 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 17:20:46 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of simpackage.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 12:20:51 on Jan 09,2025
+# Start time: 17:20:46 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/tb_join.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
 # -- Loading package std_logic_1164
 # -- Compiling entity tb_join
 # -- Compiling architecture arch of tb_join
-# End time: 12:20:51 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 17:20:46 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of tb_join.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 12:20:51 on Jan 09,2025
+# Start time: 17:20:46 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/handshake_cmpi_2.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -215,21 +187,21 @@
 # ** Error (suppressible): /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/handshake_cmpi_2.vhd(28): (vcom-1195) Cannot find expanded name "work.join".
 # ** Error: /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/handshake_cmpi_2.vhd(28): Unknown expanded name.
 # ** Note: /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/handshake_cmpi_2.vhd(41): VHDL Compiler exiting
-# End time: 12:20:51 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 17:20:46 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 3, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 12:20:51 on Jan 09,2025
+# Start time: 17:20:46 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/eager_fork_register_block.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
 # -- Loading package std_logic_1164
 # -- Compiling entity eager_fork_register_block
 # -- Compiling architecture arch of eager_fork_register_block
-# End time: 12:20:51 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 17:20:46 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of eager_fork_register_block.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 12:20:51 on Jan 09,2025
+# Start time: 17:20:46 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/addi.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -241,10 +213,10 @@
 # ** Error (suppressible): /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/addi.vhd(28): (vcom-1195) Cannot find expanded name "work.join".
 # ** Error: /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/addi.vhd(28): Unknown expanded name.
 # ** Note: /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/addi.vhd(41): VHDL Compiler exiting
-# End time: 12:20:51 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 17:20:46 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 3, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 12:20:51 on Jan 09,2025
+# Start time: 17:20:46 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/oehb.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -256,10 +228,10 @@
 # ** Error (suppressible): /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/oehb.vhd(26): (vcom-1195) Cannot find expanded name "work.oehb_dataless".
 # ** Error: /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/oehb.vhd(26): Unknown expanded name.
 # ** Note: /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/oehb.vhd(49): VHDL Compiler exiting
-# End time: 12:20:51 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 17:20:46 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 3, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 12:20:51 on Jan 09,2025
+# Start time: 17:20:46 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/handshake_constant_1.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -267,11 +239,11 @@
 # -- Loading package NUMERIC_STD
 # -- Compiling entity handshake_constant_1
 # -- Compiling architecture arch of handshake_constant_1
-# End time: 12:20:51 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 17:20:46 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of handshake_constant_1.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 12:20:51 on Jan 09,2025
+# Start time: 17:20:46 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/oehb_dataless.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -279,11 +251,11 @@
 # -- Loading package NUMERIC_STD
 # -- Compiling entity oehb_dataless
 # -- Compiling architecture arch of oehb_dataless
-# End time: 12:20:51 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 17:20:46 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of oehb_dataless.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 12:20:51 on Jan 09,2025
+# Start time: 17:20:46 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/handshake_cmpi_1.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -295,10 +267,22 @@
 # ** Error (suppressible): /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/handshake_cmpi_1.vhd(28): (vcom-1195) Cannot find expanded name "work.join".
 # ** Error: /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/handshake_cmpi_1.vhd(28): Unknown expanded name.
 # ** Note: /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/handshake_cmpi_1.vhd(41): VHDL Compiler exiting
-# End time: 12:20:51 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 17:20:46 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 3, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 12:20:51 on Jan 09,2025
+# Start time: 17:20:47 on Jan 10,2025
+# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/source.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity source
+# -- Compiling architecture arch of source
+# End time: 17:20:47 on Jan 10,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Compile of source.vhd was successful.
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 17:20:47 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/handshake_constant_4.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -306,11 +290,11 @@
 # -- Loading package NUMERIC_STD
 # -- Compiling entity handshake_constant_4
 # -- Compiling architecture arch of handshake_constant_4
-# End time: 12:20:51 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 17:20:47 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of handshake_constant_4.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 12:20:51 on Jan 09,2025
+# Start time: 17:20:47 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/cond_br.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -319,11 +303,11 @@
 # -- Compiling entity cond_br
 # -- Compiling architecture arch of cond_br
 # -- Loading entity cond_br_dataless
-# End time: 12:20:51 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 17:20:47 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of cond_br.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 12:20:51 on Jan 09,2025
+# Start time: 17:20:47 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/hls_verify_binary_search_tb.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -348,10 +332,10 @@
 # ** Error: /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/hls_verify_binary_search_tb.vhd(150): Unknown expanded name.
 # -- Loading entity tb_join
 # ** Note: /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/hls_verify_binary_search_tb.vhd(323): VHDL Compiler exiting
-# End time: 12:20:51 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 17:20:47 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 9, Warnings: 1
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 12:20:51 on Jan 09,2025
+# Start time: 17:20:47 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/extsi.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -359,11 +343,11 @@
 # -- Loading package NUMERIC_STD
 # -- Compiling entity extsi
 # -- Compiling architecture arch of extsi
-# End time: 12:20:51 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 17:20:47 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of extsi.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 12:20:51 on Jan 09,2025
+# Start time: 17:20:47 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/handshake_cmpi_0.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -375,10 +359,10 @@
 # ** Error (suppressible): /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/handshake_cmpi_0.vhd(28): (vcom-1195) Cannot find expanded name "work.join".
 # ** Error: /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/handshake_cmpi_0.vhd(28): Unknown expanded name.
 # ** Note: /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/handshake_cmpi_0.vhd(41): VHDL Compiler exiting
-# End time: 12:20:51 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 17:20:47 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 3, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 12:20:51 on Jan 09,2025
+# Start time: 17:20:47 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/handshake_constant_3.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -386,11 +370,11 @@
 # -- Loading package NUMERIC_STD
 # -- Compiling entity handshake_constant_3
 # -- Compiling architecture arch of handshake_constant_3
-# End time: 12:20:51 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 17:20:47 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of handshake_constant_3.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 12:20:51 on Jan 09,2025
+# Start time: 17:20:47 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/tehb.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -402,10 +386,10 @@
 # ** Error (suppressible): /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/tehb.vhd(28): (vcom-1195) Cannot find expanded name "work.tehb_dataless".
 # ** Error: /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/tehb.vhd(28): Unknown expanded name.
 # ** Note: /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/tehb.vhd(60): VHDL Compiler exiting
-# End time: 12:20:51 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 17:20:47 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 3, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 12:20:51 on Jan 09,2025
+# Start time: 17:20:47 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/logic.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -418,11 +402,11 @@
 # -- Compiling architecture arch of or_n
 # -- Compiling entity nor_n
 # -- Compiling architecture arch of nor_n
-# End time: 12:20:51 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 17:20:47 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of logic.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 12:20:51 on Jan 09,2025
+# Start time: 17:20:47 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/fork_dataless.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -432,11 +416,11 @@
 # -- Compiling architecture arch of fork_dataless
 # -- Loading entity or_n
 # -- Loading entity eager_fork_register_block
-# End time: 12:20:51 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 17:20:47 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of fork_dataless.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 12:20:51 on Jan 09,2025
+# Start time: 17:20:47 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -446,200 +430,196 @@
 # -- Compiling architecture behavioral of binary_search
 # -- Loading entity fork_dataless
 # ** Error: (vcom-11) Could not find work.handshake_fork.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(694): (vcom-1195) Cannot find expanded name "work.handshake_fork".
-# ** Error: /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(694): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(639): (vcom-1195) Cannot find expanded name "work.handshake_fork".
+# ** Error: /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(639): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.mem_controller_storeless.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(709): (vcom-1195) Cannot find expanded name "work.mem_controller_storeless".
-# ** Error: /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(709): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(654): (vcom-1195) Cannot find expanded name "work.mem_controller_storeless".
+# ** Error: /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(654): Unknown expanded name.
+# -- Loading entity source
 # ** Error: (vcom-11) Could not find work.handshake_constant_0.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(739): (vcom-1195) Cannot find expanded name "work.handshake_constant_0".
-# ** Error: /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(739): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(692): (vcom-1195) Cannot find expanded name "work.handshake_constant_0".
+# ** Error: /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(692): Unknown expanded name.
+# -- Loading entity extsi
 # -- Loading entity handshake_constant_1
 # -- Loading entity handshake_constant_2
-# ** Error: (vcom-11) Could not find work.handshake_fork.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(772): (vcom-1195) Cannot find expanded name "work.handshake_fork".
-# ** Error: /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(772): Unknown expanded name.
-# -- Loading entity extsi
+# ** Error: (vcom-11) Could not find work.handshake_constant_0.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(753): (vcom-1195) Cannot find expanded name "work.handshake_constant_0".
+# ** Error: /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(753): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.merge.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(799): (vcom-1195) Cannot find expanded name "work.merge".
-# ** Error: /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(799): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(764): (vcom-1195) Cannot find expanded name "work.merge".
+# ** Error: /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(764): Unknown expanded name.
 # -- Loading entity tehb
 # ** Error: (vcom-11) Could not find work.handshake_fork.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(826): (vcom-1195) Cannot find expanded name "work.handshake_fork".
-# ** Error: /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(826): Unknown expanded name.
-# -- Loading package MATH_REAL
-# -- Loading entity mux_dataless
-# -- Loading entity oehb_dataless
-# ** Error: (vcom-11) Could not find work.tehb_dataless.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(875): (vcom-1195) Cannot find expanded name "work.tehb_dataless".
-# ** Error: /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(875): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(791): (vcom-1195) Cannot find expanded name "work.handshake_fork".
+# ** Error: /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(791): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.mux.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(901): (vcom-1195) Cannot find expanded name "work.mux".
-# ** Error: /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(901): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(812): (vcom-1195) Cannot find expanded name "work.mux".
+# ** Error: /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(812): Unknown expanded name.
 # -- Loading entity oehb
 # ** Error: (vcom-11) Could not find work.handshake_fork.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(943): (vcom-1195) Cannot find expanded name "work.handshake_fork".
-# ** Error: /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(943): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(854): (vcom-1195) Cannot find expanded name "work.handshake_fork".
+# ** Error: /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(854): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.mux.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(958): (vcom-1195) Cannot find expanded name "work.mux".
-# ** Error: /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(958): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(869): (vcom-1195) Cannot find expanded name "work.mux".
+# ** Error: /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(869): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.handshake_fork.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(1000): (vcom-1195) Cannot find expanded name "work.handshake_fork".
-# ** Error: /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(1000): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(911): (vcom-1195) Cannot find expanded name "work.handshake_fork".
+# ** Error: /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(911): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.mux.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(1027): (vcom-1195) Cannot find expanded name "work.mux".
-# ** Error: /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(1027): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(938): (vcom-1195) Cannot find expanded name "work.mux".
+# ** Error: /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(938): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.mux.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(1045): (vcom-1195) Cannot find expanded name "work.mux".
-# ** Error: /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(1045): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(956): (vcom-1195) Cannot find expanded name "work.mux".
+# ** Error: /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(956): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.handshake_fork.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(1087): (vcom-1195) Cannot find expanded name "work.handshake_fork".
-# ** Error: /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(1087): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(998): (vcom-1195) Cannot find expanded name "work.handshake_fork".
+# ** Error: /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(998): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.handshake_constant_0.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(1033): (vcom-1195) Cannot find expanded name "work.handshake_constant_0".
+# ** Error: /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(1033): Unknown expanded name.
 # -- Loading entity cond_br
 # ** Error: (vcom-11) Could not find work.sink.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(1185): (vcom-1195) Cannot find expanded name "work.sink".
-# ** Error: /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(1185): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(1104): (vcom-1195) Cannot find expanded name "work.sink".
+# ** Error: /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(1104): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.handshake_fork.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(1194): (vcom-1195) Cannot find expanded name "work.handshake_fork".
-# ** Error: /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(1194): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(1113): (vcom-1195) Cannot find expanded name "work.handshake_fork".
+# ** Error: /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(1113): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.sink.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(1227): (vcom-1195) Cannot find expanded name "work.sink".
-# ** Error: /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(1227): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(1146): (vcom-1195) Cannot find expanded name "work.sink".
+# ** Error: /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(1146): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.handshake_fork.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(1236): (vcom-1195) Cannot find expanded name "work.handshake_fork".
-# ** Error: /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(1236): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(1155): (vcom-1195) Cannot find expanded name "work.handshake_fork".
+# ** Error: /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(1155): Unknown expanded name.
 # -- Loading entity trunci
 # -- Loading entity load
 # ** Error: (vcom-11) Could not find work.handshake_fork.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(1293): (vcom-1195) Cannot find expanded name "work.handshake_fork".
-# ** Error: /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(1293): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(1212): (vcom-1195) Cannot find expanded name "work.handshake_fork".
+# ** Error: /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(1212): Unknown expanded name.
 # -- Loading entity handshake_cmpi_0
 # -- Loading entity selector
 # -- Loading entity handshake_cmpi_1
 # ** Error: (vcom-11) Could not find work.handshake_fork.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(1398): (vcom-1195) Cannot find expanded name "work.handshake_fork".
-# ** Error: /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(1398): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(1317): (vcom-1195) Cannot find expanded name "work.handshake_fork".
+# ** Error: /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(1317): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.sink.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(1431): (vcom-1195) Cannot find expanded name "work.sink".
-# ** Error: /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(1431): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(1350): (vcom-1195) Cannot find expanded name "work.sink".
+# ** Error: /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(1350): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.sink.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(1458): (vcom-1195) Cannot find expanded name "work.sink".
-# ** Error: /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(1458): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(1377): (vcom-1195) Cannot find expanded name "work.sink".
+# ** Error: /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(1377): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.sink.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(1509): (vcom-1195) Cannot find expanded name "work.sink".
-# ** Error: /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(1509): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(1428): (vcom-1195) Cannot find expanded name "work.sink".
+# ** Error: /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(1428): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.sink.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(1536): (vcom-1195) Cannot find expanded name "work.sink".
-# ** Error: /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(1536): Unknown expanded name.
-# -- Loading entity cond_br_dataless
-# -- Loading entity sink_dataless
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(1455): (vcom-1195) Cannot find expanded name "work.sink".
+# ** Error: /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(1455): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.mux.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(1568): (vcom-1195) Cannot find expanded name "work.mux".
-# ** Error: /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(1568): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(1464): (vcom-1195) Cannot find expanded name "work.mux".
+# ** Error: /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(1464): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.mux.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(1586): (vcom-1195) Cannot find expanded name "work.mux".
-# ** Error: /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(1586): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(1482): (vcom-1195) Cannot find expanded name "work.mux".
+# ** Error: /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(1482): Unknown expanded name.
 # -- Loading entity handshake_constant_3
 # -- Loading entity handshake_constant_4
 # -- Loading entity addi
 # ** Error: (vcom-11) Could not find work.handshake_fork.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(1665): (vcom-1195) Cannot find expanded name "work.handshake_fork".
-# ** Error: /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(1665): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(1577): (vcom-1195) Cannot find expanded name "work.handshake_fork".
+# ** Error: /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(1577): Unknown expanded name.
 # -- Loading entity handshake_cmpi_2
 # ** Error: (vcom-11) Could not find work.handshake_fork.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(1707): (vcom-1195) Cannot find expanded name "work.handshake_fork".
-# ** Error: /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(1707): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(1619): (vcom-1195) Cannot find expanded name "work.handshake_fork".
+# ** Error: /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(1619): Unknown expanded name.
 # -- Loading entity handshake_constant_5
 # ** Error: (vcom-11) Could not find work.handshake_fork.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(1768): (vcom-1195) Cannot find expanded name "work.handshake_fork".
-# ** Error: /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(1768): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(1693): (vcom-1195) Cannot find expanded name "work.handshake_fork".
+# ** Error: /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(1693): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.handshake_constant_0.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(1783): (vcom-1195) Cannot find expanded name "work.handshake_constant_0".
-# ** Error: /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(1783): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(1742): (vcom-1195) Cannot find expanded name "work.handshake_constant_0".
+# ** Error: /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(1742): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.merge.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(1820): (vcom-1195) Cannot find expanded name "work.merge".
-# ** Error: /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(1820): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(1753): (vcom-1195) Cannot find expanded name "work.merge".
+# ** Error: /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(1753): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.handshake_fork.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(1847): (vcom-1195) Cannot find expanded name "work.handshake_fork".
-# ** Error: /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(1847): Unknown expanded name.
-# ** Error: (vcom-11) Could not find work.tehb_dataless.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(1896): (vcom-1195) Cannot find expanded name "work.tehb_dataless".
-# ** Error: /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(1896): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(1780): (vcom-1195) Cannot find expanded name "work.handshake_fork".
+# ** Error: /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(1780): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.mux.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(1922): (vcom-1195) Cannot find expanded name "work.mux".
-# ** Error: /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(1922): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(1801): (vcom-1195) Cannot find expanded name "work.mux".
+# ** Error: /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(1801): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.handshake_fork.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(1964): (vcom-1195) Cannot find expanded name "work.handshake_fork".
-# ** Error: /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(1964): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(1843): (vcom-1195) Cannot find expanded name "work.handshake_fork".
+# ** Error: /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(1843): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.mux.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(1979): (vcom-1195) Cannot find expanded name "work.mux".
-# ** Error: /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(1979): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(1858): (vcom-1195) Cannot find expanded name "work.mux".
+# ** Error: /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(1858): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.handshake_fork.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(2021): (vcom-1195) Cannot find expanded name "work.handshake_fork".
-# ** Error: /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(2021): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(1900): (vcom-1195) Cannot find expanded name "work.handshake_fork".
+# ** Error: /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(1900): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.mux.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(2048): (vcom-1195) Cannot find expanded name "work.mux".
-# ** Error: /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(2048): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(1927): (vcom-1195) Cannot find expanded name "work.mux".
+# ** Error: /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(1927): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.mux.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(2066): (vcom-1195) Cannot find expanded name "work.mux".
-# ** Error: /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(2066): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(1945): (vcom-1195) Cannot find expanded name "work.mux".
+# ** Error: /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(1945): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.handshake_fork.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(2108): (vcom-1195) Cannot find expanded name "work.handshake_fork".
-# ** Error: /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(2108): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(1987): (vcom-1195) Cannot find expanded name "work.handshake_fork".
+# ** Error: /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(1987): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.handshake_constant_0.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(2022): (vcom-1195) Cannot find expanded name "work.handshake_constant_0".
+# ** Error: /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(2022): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.sink.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(2206): (vcom-1195) Cannot find expanded name "work.sink".
-# ** Error: /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(2206): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(2093): (vcom-1195) Cannot find expanded name "work.sink".
+# ** Error: /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(2093): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.handshake_fork.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(2215): (vcom-1195) Cannot find expanded name "work.handshake_fork".
-# ** Error: /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(2215): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(2102): (vcom-1195) Cannot find expanded name "work.handshake_fork".
+# ** Error: /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(2102): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.sink.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(2248): (vcom-1195) Cannot find expanded name "work.sink".
-# ** Error: /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(2248): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(2135): (vcom-1195) Cannot find expanded name "work.sink".
+# ** Error: /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(2135): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.handshake_fork.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(2257): (vcom-1195) Cannot find expanded name "work.handshake_fork".
-# ** Error: /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(2257): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(2144): (vcom-1195) Cannot find expanded name "work.handshake_fork".
+# ** Error: /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(2144): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.handshake_fork.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(2314): (vcom-1195) Cannot find expanded name "work.handshake_fork".
-# ** Error: /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(2314): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(2201): (vcom-1195) Cannot find expanded name "work.handshake_fork".
+# ** Error: /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(2201): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.sink.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(2395): (vcom-1195) Cannot find expanded name "work.sink".
-# ** Error: /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(2395): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(2282): (vcom-1195) Cannot find expanded name "work.sink".
+# ** Error: /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(2282): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.sink.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(2422): (vcom-1195) Cannot find expanded name "work.sink".
-# ** Error: /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(2422): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(2309): (vcom-1195) Cannot find expanded name "work.sink".
+# ** Error: /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(2309): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.sink.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(2515): (vcom-1195) Cannot find expanded name "work.sink".
-# ** Error: /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(2515): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(2402): (vcom-1195) Cannot find expanded name "work.sink".
+# ** Error: /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(2402): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.sink.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(2542): (vcom-1195) Cannot find expanded name "work.sink".
-# ** Error: /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(2542): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(2429): (vcom-1195) Cannot find expanded name "work.sink".
+# ** Error: /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(2429): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.mux.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(2574): (vcom-1195) Cannot find expanded name "work.mux".
-# ** Error: /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(2574): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(2438): (vcom-1195) Cannot find expanded name "work.mux".
+# ** Error: /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(2438): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.mux.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(2592): (vcom-1195) Cannot find expanded name "work.mux".
-# ** Error: /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(2592): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(2456): (vcom-1195) Cannot find expanded name "work.mux".
+# ** Error: /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(2456): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.handshake_fork.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(2671): (vcom-1195) Cannot find expanded name "work.handshake_fork".
-# ** Error: /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(2671): Unknown expanded name.
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(2551): (vcom-1195) Cannot find expanded name "work.handshake_fork".
+# ** Error: /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(2551): Unknown expanded name.
 # ** Error: (vcom-11) Could not find work.handshake_fork.
-# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(2713): (vcom-1195) Cannot find expanded name "work.handshake_fork".
-# ** Error: /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(2713): Unknown expanded name.
-# ** Note: /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(2758): VHDL Compiler exiting
-# End time: 12:20:51 on Jan 09,2025, Elapsed time: 0:00:00
+# ** Error (suppressible): /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(2593): (vcom-1195) Cannot find expanded name "work.handshake_fork".
+# ** Error: /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(2593): Unknown expanded name.
+# ** Note: /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd(2635): VHDL Compiler exiting
+# End time: 17:20:47 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 159, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 12:20:51 on Jan 09,2025
+# Start time: 17:20:47 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/types.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
 # -- Loading package std_logic_1164
 # -- Compiling package types
-# End time: 12:20:51 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 17:20:47 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of types.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 12:20:51 on Jan 09,2025
+# Start time: 17:20:47 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/sink.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -647,11 +627,11 @@
 # -- Loading package NUMERIC_STD
 # -- Compiling entity sink
 # -- Compiling architecture arch of sink
-# End time: 12:20:51 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 17:20:47 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of sink.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 12:20:51 on Jan 09,2025
+# Start time: 17:20:47 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/mux.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -662,11 +642,11 @@
 # -- Compiling entity mux
 # -- Compiling architecture arch of mux
 # -- Loading entity tehb
-# End time: 12:20:51 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 17:20:47 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of mux.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 12:20:51 on Jan 09,2025
+# Start time: 17:20:47 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/merge.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -676,11 +656,11 @@
 # -- Compiling entity merge
 # -- Compiling architecture arch of merge
 # -- Loading entity tehb
-# End time: 12:20:51 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 17:20:47 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of merge.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 12:20:51 on Jan 09,2025
+# Start time: 17:20:47 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/handshake_fork.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -690,11 +670,11 @@
 # -- Compiling architecture arch of handshake_fork
 # -- Loading package NUMERIC_STD
 # -- Loading entity fork_dataless
-# End time: 12:20:51 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 17:20:47 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of handshake_fork.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 12:20:51 on Jan 09,2025
+# Start time: 17:20:47 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/handshake_constant_0.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -702,11 +682,11 @@
 # -- Loading package NUMERIC_STD
 # -- Compiling entity handshake_constant_0
 # -- Compiling architecture arch of handshake_constant_0
-# End time: 12:20:51 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 17:20:47 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of handshake_constant_0.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 12:20:51 on Jan 09,2025
+# Start time: 17:20:47 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/mem_to_bram.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -714,11 +694,11 @@
 # -- Loading package NUMERIC_STD
 # -- Compiling entity mem_to_bram
 # -- Compiling architecture arch of mem_to_bram
-# End time: 12:20:51 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 17:20:47 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of mem_to_bram.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 12:20:51 on Jan 09,2025
+# Start time: 17:20:47 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/single_argument.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -731,11 +711,11 @@
 # -- Compiling entity single_argument
 # -- Compiling architecture behav of single_argument
 # ** Warning: /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/single_argument.vhd(40): (vcom-1236) Shared variables must be of a protected type.
-# End time: 12:20:51 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 17:20:47 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 1
 # Compile of single_argument.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 12:20:51 on Jan 09,2025
+# Start time: 17:20:47 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/join.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -743,11 +723,11 @@
 # -- Compiling entity join
 # -- Compiling architecture arch of join
 # -- Loading entity and_n
-# End time: 12:20:51 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 17:20:47 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of join.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 12:20:51 on Jan 09,2025
+# Start time: 17:20:47 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/tehb_dataless.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -755,11 +735,11 @@
 # -- Loading package NUMERIC_STD
 # -- Compiling entity tehb_dataless
 # -- Compiling architecture arch of tehb_dataless
-# End time: 12:20:51 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 17:20:47 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of tehb_dataless.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 12:20:51 on Jan 09,2025
+# Start time: 17:20:47 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/mc_support.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -796,25 +776,11 @@
 # -- Loading entity write_data_signals
 # -- Compiling entity mc_control
 # -- Compiling architecture arch of mc_control
-# End time: 12:20:51 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 17:20:47 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of mc_support.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 12:20:51 on Jan 09,2025
-# vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/mux_dataless.vhd 
-# -- Loading package STANDARD
-# -- Loading package TEXTIO
-# -- Loading package std_logic_1164
-# -- Loading package NUMERIC_STD
-# -- Loading package MATH_REAL
-# -- Compiling entity mux_dataless
-# -- Compiling architecture arch of mux_dataless
-# -- Loading entity tehb_dataless
-# End time: 12:20:51 on Jan 09,2025, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Compile of mux_dataless.vhd was successful.
-# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 12:20:51 on Jan 09,2025
+# Start time: 17:20:47 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/load.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -823,11 +789,11 @@
 # -- Compiling entity load
 # -- Compiling architecture arch of load
 # -- Loading entity tehb
-# End time: 12:20:51 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 17:20:47 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of load.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 12:20:51 on Jan 09,2025
+# Start time: 17:20:47 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/cond_br_dataless.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -836,11 +802,11 @@
 # -- Compiling entity cond_br_dataless
 # -- Compiling architecture arch of cond_br_dataless
 # -- Loading entity join
-# End time: 12:20:51 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 17:20:47 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of cond_br_dataless.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 12:20:51 on Jan 09,2025
+# Start time: 17:20:47 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search_wrapper.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -850,11 +816,11 @@
 # -- Compiling architecture behavioral of binary_search_wrapper
 # -- Loading entity mem_to_bram
 # -- Loading entity binary_search
-# End time: 12:20:51 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 17:20:47 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of binary_search_wrapper.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 12:20:51 on Jan 09,2025
+# Start time: 17:20:47 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/two_port_RAM.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -867,11 +833,11 @@
 # -- Compiling entity two_port_RAM
 # -- Compiling architecture behav of two_port_RAM
 # ** Warning: /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/two_port_RAM.vhd(47): (vcom-1236) Shared variables must be of a protected type.
-# End time: 12:20:51 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 17:20:47 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 1
 # Compile of two_port_RAM.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 12:20:51 on Jan 09,2025
+# Start time: 17:20:47 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/mem_controller_storeless.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -882,11 +848,11 @@
 # -- Compiling architecture arch of mem_controller_storeless
 # -- Loading entity read_memory_arbiter
 # -- Loading entity mc_control
-# End time: 12:20:51 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 17:20:47 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of mem_controller_storeless.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 12:20:51 on Jan 09,2025
+# Start time: 17:20:47 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/handshake_cmpi_2.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -895,11 +861,11 @@
 # -- Compiling entity handshake_cmpi_2
 # -- Compiling architecture arch of handshake_cmpi_2
 # -- Loading entity join
-# End time: 12:20:52 on Jan 09,2025, Elapsed time: 0:00:01
+# End time: 17:20:47 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of handshake_cmpi_2.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 12:20:52 on Jan 09,2025
+# Start time: 17:20:47 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/addi.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -908,11 +874,11 @@
 # -- Compiling entity addi
 # -- Compiling architecture arch of addi
 # -- Loading entity join
-# End time: 12:20:52 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 17:20:47 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of addi.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 12:20:52 on Jan 09,2025
+# Start time: 17:20:47 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/oehb.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -921,11 +887,11 @@
 # -- Compiling entity oehb
 # -- Compiling architecture arch of oehb
 # -- Loading entity oehb_dataless
-# End time: 12:20:52 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 17:20:47 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of oehb.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 12:20:52 on Jan 09,2025
+# Start time: 17:20:47 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/handshake_cmpi_1.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -934,11 +900,11 @@
 # -- Compiling entity handshake_cmpi_1
 # -- Compiling architecture arch of handshake_cmpi_1
 # -- Loading entity join
-# End time: 12:20:52 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 17:20:47 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of handshake_cmpi_1.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 12:20:52 on Jan 09,2025
+# Start time: 17:20:47 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/hls_verify_binary_search_tb.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -955,11 +921,11 @@
 # -- Loading entity single_argument
 # -- Loading entity two_port_RAM
 # -- Loading entity tb_join
-# End time: 12:20:52 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 17:20:47 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 1
 # Compile of hls_verify_binary_search_tb.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 12:20:52 on Jan 09,2025
+# Start time: 17:20:47 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/handshake_cmpi_0.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -968,11 +934,11 @@
 # -- Compiling entity handshake_cmpi_0
 # -- Compiling architecture arch of handshake_cmpi_0
 # -- Loading entity join
-# End time: 12:20:52 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 17:20:47 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of handshake_cmpi_0.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 12:20:52 on Jan 09,2025
+# Start time: 17:20:47 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/tehb.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -981,11 +947,11 @@
 # -- Compiling entity tehb
 # -- Compiling architecture arch of tehb
 # -- Loading entity tehb_dataless
-# End time: 12:20:52 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 17:20:47 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of tehb.vhd was successful.
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 12:20:52 on Jan 09,2025
+# Start time: 17:20:47 on Jan 10,2025
 # vcom -work work -2008 -explicit /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/binary_search.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -997,16 +963,14 @@
 # -- Loading package types
 # -- Loading entity handshake_fork
 # -- Loading entity mem_controller_storeless
+# -- Loading entity source
 # -- Loading entity handshake_constant_0
+# -- Loading entity extsi
 # -- Loading entity handshake_constant_1
 # -- Loading entity handshake_constant_2
-# -- Loading entity extsi
 # -- Loading entity merge
 # -- Loading entity tehb
 # -- Loading package MATH_REAL
-# -- Loading entity mux_dataless
-# -- Loading entity oehb_dataless
-# -- Loading entity tehb_dataless
 # -- Loading entity mux
 # -- Loading entity oehb
 # -- Loading entity cond_br
@@ -1016,14 +980,12 @@
 # -- Loading entity handshake_cmpi_0
 # -- Loading entity selector
 # -- Loading entity handshake_cmpi_1
-# -- Loading entity cond_br_dataless
-# -- Loading entity sink_dataless
 # -- Loading entity handshake_constant_3
 # -- Loading entity handshake_constant_4
 # -- Loading entity addi
 # -- Loading entity handshake_cmpi_2
 # -- Loading entity handshake_constant_5
-# End time: 12:20:52 on Jan 09,2025, Elapsed time: 0:00:00
+# End time: 17:20:47 on Jan 10,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Compile of binary_search.vhd was successful.
 # All compile dependencies have been resolved.vcom -work work -2008 -explicit -stats=none /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/selector.vhd
@@ -1045,14 +1007,6 @@
 # -- Loading package NUMERIC_STD
 # -- Compiling entity handshake_constant_5
 # -- Compiling architecture arch of handshake_constant_5
-# vcom -work work -2008 -explicit -stats=none /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/sink_dataless.vhd
-# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# -- Loading package STANDARD
-# -- Loading package TEXTIO
-# -- Loading package std_logic_1164
-# -- Loading package NUMERIC_STD
-# -- Compiling entity sink_dataless
-# -- Compiling architecture arch of sink_dataless
 # vcom -work work -2008 -explicit -stats=none /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/trunci.vhd
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
 # -- Loading package STANDARD
@@ -1111,6 +1065,14 @@
 # -- Loading package NUMERIC_STD
 # -- Compiling entity oehb_dataless
 # -- Compiling architecture arch of oehb_dataless
+# vcom -work work -2008 -explicit -stats=none /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/source.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity source
+# -- Compiling architecture arch of source
 # vcom -work work -2008 -explicit -stats=none /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/handshake_constant_4.vhd
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
 # -- Loading package STANDARD
@@ -1294,16 +1256,6 @@
 # -- Loading entity write_data_signals
 # -- Compiling entity mc_control
 # -- Compiling architecture arch of mc_control
-# vcom -work work -2008 -explicit -stats=none /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/mux_dataless.vhd
-# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# -- Loading package STANDARD
-# -- Loading package TEXTIO
-# -- Loading package std_logic_1164
-# -- Loading package NUMERIC_STD
-# -- Loading package MATH_REAL
-# -- Compiling entity mux_dataless
-# -- Compiling architecture arch of mux_dataless
-# -- Loading entity tehb_dataless
 # vcom -work work -2008 -explicit -stats=none /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/load.vhd
 # Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
 # -- Loading package STANDARD
@@ -1439,16 +1391,14 @@
 # -- Loading package types
 # -- Loading entity handshake_fork
 # -- Loading entity mem_controller_storeless
+# -- Loading entity source
 # -- Loading entity handshake_constant_0
+# -- Loading entity extsi
 # -- Loading entity handshake_constant_1
 # -- Loading entity handshake_constant_2
-# -- Loading entity extsi
 # -- Loading entity merge
 # -- Loading entity tehb
 # -- Loading package MATH_REAL
-# -- Loading entity mux_dataless
-# -- Loading entity oehb_dataless
-# -- Loading entity tehb_dataless
 # -- Loading entity mux
 # -- Loading entity oehb
 # -- Loading entity cond_br
@@ -1458,16 +1408,14 @@
 # -- Loading entity handshake_cmpi_0
 # -- Loading entity selector
 # -- Loading entity handshake_cmpi_1
-# -- Loading entity cond_br_dataless
-# -- Loading entity sink_dataless
 # -- Loading entity handshake_constant_3
 # -- Loading entity handshake_constant_4
 # -- Loading entity addi
 # -- Loading entity handshake_cmpi_2
 # -- Loading entity handshake_constant_5
-# 41 compiles, 0 failed with no errors.
+# 40 compiles, 0 failed with no errors.
 # vsim binary_search_wrapper_tb 
-# Start time: 12:20:53 on Jan 09,2025
+# Start time: 17:20:48 on Jan 10,2025
 # Loading std.standard
 # Loading std.textio(body)
 # Loading ieee.std_logic_1164(body)
@@ -1493,17 +1441,17 @@
 # Loading work.read_address_ready(arch)
 # Loading work.read_data_signals(arch)
 # Loading work.mc_control(arch)
+# Loading work.source(arch)
 # Loading work.handshake_constant_0(arch)
+# Loading work.extsi(arch)
 # Loading work.handshake_constant_1(arch)
 # Loading work.handshake_constant_2(arch)
-# Loading work.extsi(arch)
 # Loading work.merge(arch)
 # Loading work.tehb(arch)
 # Loading work.tehb_dataless(arch)
-# Loading work.mux_dataless(arch)
-# Loading work.oehb_dataless(arch)
 # Loading work.mux(arch)
 # Loading work.oehb(arch)
+# Loading work.oehb_dataless(arch)
 # Loading work.cond_br(arch)
 # Loading work.cond_br_dataless(arch)
 # Loading work.join(arch)
@@ -1515,7 +1463,6 @@
 # Loading work.selector(arch)
 # Loading work.antitokens(arch)
 # Loading work.handshake_cmpi_1(arch)
-# Loading work.sink_dataless(arch)
 # Loading work.handshake_constant_3(arch)
 # Loading work.handshake_constant_4(arch)
 # Loading work.addi(arch)
@@ -1524,213 +1471,189 @@
 # Loading work.single_argument(behav)
 # Loading work.two_port_ram(behav)
 # Loading work.tb_join(arch)
-# ** Warning: Design size of 18449 statements exceeds ModelSim-Intel FPGA Starter Edition recommended capacity.
+# ** Warning: Design size of 17425 statements exceeds ModelSim-Intel FPGA Starter Edition recommended capacity.
 # Expect performance to be adversely affected.
 # ** Warning: NUMERIC_STD."<": metavalue detected, returning FALSE
 #    Time: 0 ps  Iteration: 0  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/cmpi6
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 0  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux19
+#    Time: 0 ps  Iteration: 0  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux13
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 0  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux19
+#    Time: 0 ps  Iteration: 0  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux13
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 0  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux18
+#    Time: 0 ps  Iteration: 0  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux12
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 0  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux18
+#    Time: 0 ps  Iteration: 0  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux12
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 0  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux17
+#    Time: 0 ps  Iteration: 0  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux11
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 0  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux17
+#    Time: 0 ps  Iteration: 0  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux11
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 0  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux16
+#    Time: 0 ps  Iteration: 0  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux10
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 0  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux16
+#    Time: 0 ps  Iteration: 0  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux10
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
 #    Time: 0 ps  Iteration: 0  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux1
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
 #    Time: 0 ps  Iteration: 0  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux1
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 0  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux13
+#    Time: 0 ps  Iteration: 0  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux8
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 0  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux13
-# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 0  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux11
-# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 0  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux11
+#    Time: 0 ps  Iteration: 0  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux8
 # ** Warning: NUMERIC_STD."<": metavalue detected, returning FALSE
 #    Time: 0 ps  Iteration: 0  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/cmpi5
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 0  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux10
-# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 0  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux10
-# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 0  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux9
-# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 0  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux9
-# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 0  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux8
-# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 0  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux8
-# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
 #    Time: 0 ps  Iteration: 0  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux7
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
 #    Time: 0 ps  Iteration: 0  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux7
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 0  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux0
+#    Time: 0 ps  Iteration: 0  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux6
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 0  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux0
+#    Time: 0 ps  Iteration: 0  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux6
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 0  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux5
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 0  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux5
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
 #    Time: 0 ps  Iteration: 0  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux4
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
 #    Time: 0 ps  Iteration: 0  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux4
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 0  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux2
+#    Time: 0 ps  Iteration: 0  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux0
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 0  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux0
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
 #    Time: 0 ps  Iteration: 0  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux2
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 1  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux18
+#    Time: 0 ps  Iteration: 0  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux2
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 1  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux18
+#    Time: 0 ps  Iteration: 1  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux12
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 1  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux12
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
 #    Time: 0 ps  Iteration: 1  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux1
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
 #    Time: 0 ps  Iteration: 1  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux1
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 1  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux9
+#    Time: 0 ps  Iteration: 1  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux6
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 1  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux9
+#    Time: 0 ps  Iteration: 1  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux6
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 1  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux7
+#    Time: 0 ps  Iteration: 1  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux4
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 1  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux7
-# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 1  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux0
+#    Time: 0 ps  Iteration: 1  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux4
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
 #    Time: 0 ps  Iteration: 1  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux0
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 1  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux2
-# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 1  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux2
-# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 1  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux11
-# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 1  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux11
+#    Time: 0 ps  Iteration: 1  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux0
 # ** Warning: NUMERIC_STD."<": metavalue detected, returning FALSE
 #    Time: 0 ps  Iteration: 2  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/cmpi6
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 2  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux18
+#    Time: 0 ps  Iteration: 2  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux12
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 2  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux18
+#    Time: 0 ps  Iteration: 2  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux12
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 2  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux16
+#    Time: 0 ps  Iteration: 2  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux1
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 2  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux16
+#    Time: 0 ps  Iteration: 2  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux1
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 2  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux17
+#    Time: 0 ps  Iteration: 2  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux10
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 2  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux17
+#    Time: 0 ps  Iteration: 2  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux10
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 2  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux11
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 2  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux11
 # ** Warning: NUMERIC_STD."<": metavalue detected, returning FALSE
 #    Time: 0 ps  Iteration: 2  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/cmpi5
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 2  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux9
+#    Time: 0 ps  Iteration: 2  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux6
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 2  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux9
+#    Time: 0 ps  Iteration: 2  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux6
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 2  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux4
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 2  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux4
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
 #    Time: 0 ps  Iteration: 2  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux0
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
 #    Time: 0 ps  Iteration: 2  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux0
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 2  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux7
+#    Time: 0 ps  Iteration: 2  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux5
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 2  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux7
-# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 2  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux1
-# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 2  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux1
-# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 3  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux10
-# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 3  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux10
+#    Time: 0 ps  Iteration: 2  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux5
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
 #    Time: 0 ps  Iteration: 3  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux7
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
 #    Time: 0 ps  Iteration: 3  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux7
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 3  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux9
+#    Time: 0 ps  Iteration: 3  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux4
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 3  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux9
+#    Time: 0 ps  Iteration: 3  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux4
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 3  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux8
+#    Time: 0 ps  Iteration: 3  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux6
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 3  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux8
+#    Time: 0 ps  Iteration: 3  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux6
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 3  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux5
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 3  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux5
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
 #    Time: 0 ps  Iteration: 3  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux0
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
 #    Time: 0 ps  Iteration: 3  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux0
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 3  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux2
+#    Time: 0 ps  Iteration: 3  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux13
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 3  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux2
+#    Time: 0 ps  Iteration: 3  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux13
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 3  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux19
+#    Time: 0 ps  Iteration: 3  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux12
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 3  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux19
-# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 3  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux18
-# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 3  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux18
-# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 3  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux17
-# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 3  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux17
-# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 3  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux16
-# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 3  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux16
-# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 3  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux1
-# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 3  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux1
+#    Time: 0 ps  Iteration: 3  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux12
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
 #    Time: 0 ps  Iteration: 3  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux11
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
 #    Time: 0 ps  Iteration: 3  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux11
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 3  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux13
+#    Time: 0 ps  Iteration: 3  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux10
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 3  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux13
+#    Time: 0 ps  Iteration: 3  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux10
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 3  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux4
+#    Time: 0 ps  Iteration: 3  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux1
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 3  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux4
+#    Time: 0 ps  Iteration: 3  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux1
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 4  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux17
+#    Time: 0 ps  Iteration: 3  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux8
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 4  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux17
+#    Time: 0 ps  Iteration: 3  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux8
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 4  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux8
+#    Time: 0 ps  Iteration: 3  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux2
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 4  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux8
+#    Time: 0 ps  Iteration: 3  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux2
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 5  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux19
+#    Time: 0 ps  Iteration: 4  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux11
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 5  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux19
+#    Time: 0 ps  Iteration: 4  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux11
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 5  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux10
+#    Time: 0 ps  Iteration: 4  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux5
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 0 ps  Iteration: 5  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux10
+#    Time: 0 ps  Iteration: 4  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux5
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 2 ns  Iteration: 3  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux2
+#    Time: 0 ps  Iteration: 5  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux13
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 2 ns  Iteration: 3  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux2
+#    Time: 0 ps  Iteration: 5  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux13
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 2 ns  Iteration: 3  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux11
+#    Time: 0 ps  Iteration: 5  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux7
 # ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
-#    Time: 2 ns  Iteration: 3  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux11
+#    Time: 0 ps  Iteration: 5  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux7
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 2 ns  Iteration: 3  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux10
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 2 ns  Iteration: 3  Instance: /binary_search_wrapper_tb/duv/binary_search_wrapped/mux10
 # ** Note: simulation done!
 #    Time: 650 ns  Iteration: 1  Instance: /binary_search_wrapper_tb
 # ** Failure: NORMAL EXIT (note: failure is to force the simulator to stop)
 #    Time: 650 ns  Iteration: 1  Process: /binary_search_wrapper_tb/generate_sim_done_proc File: /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/hls_verify_binary_search_tb.vhd
 # Break in Process generate_sim_done_proc at /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/hls_verify_binary_search_tb.vhd line 232
 # Stopped at /home/giacomo/dynamatic/integration-test/binary_search/out/sim/VHDL_SRC/hls_verify_binary_search_tb.vhd line 232
-# End time: 12:20:53 on Jan 09,2025, Elapsed time: 0:00:00
-# Errors: 1, Warnings: 146
+# End time: 17:20:49 on Jan 10,2025, Elapsed time: 0:00:01
+# Errors: 1, Warnings: 133

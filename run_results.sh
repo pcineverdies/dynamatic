@@ -1,4 +1,4 @@
-run_buffer_placement() {
+run_buffer_placement_legacy() {
     if [ -z "$1" ]; then
         echo "Usage: run_buffer_placement <input_string>"
         return 1
@@ -15,6 +15,16 @@ run_buffer_placement() {
     cp -r "integration-test/$input_string/out/synth/utilization_post_pr.rpt" "results/${input_string}_LEGACY/utilization.rpt"
     cp -r "integration-test/$input_string/out/synth/timing_post_pr.rpt" "results/${input_string}_LEGACY/timing.rpt"
     
+}
+
+run_buffer_placement_ftd() {
+    if [ -z "$1" ]; then
+        echo "Usage: run_buffer_placement <input_string>"
+        return 1
+    fi
+
+    local input_string="$1"
+    
     python3 buffer_placement_heur.py ~/dynamatic/ "$input_string" yes
 
     rm -rf "results/${input_string}_FTD"
@@ -25,4 +35,4 @@ run_buffer_placement() {
     cp -r "integration-test/$input_string/out/synth/timing_post_pr.rpt" "results/${input_string}_FTD/timing.rpt"
 }
 
-run_buffer_placement "kernel_3mm"
+run_buffer_placement_legacy "bicg"
