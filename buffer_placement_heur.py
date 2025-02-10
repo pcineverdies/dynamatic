@@ -164,7 +164,7 @@ def main():
         / "handshake_export_export.mlir"
     )
     initial_latency = simulate_design(dynamatic_path, kernel_name)
-    print("Initial latency:", initial_latency)
+    print("Initial latency:", initial_latency // 4)
     for buffer_name in tbuffers:
         shell(["cp", "-f", handshake_export, handshake_export_bak])
 
@@ -173,7 +173,7 @@ def main():
         remove_buffer(dynamatic_path, kernel_name, buffer_name)
         generate_hw(dynamatic_path, kernel_name)
         current_latency = simulate_design(dynamatic_path, kernel_name)
-        print("Current latency:", current_latency)
+        print("Current latency:", current_latency // 4)
         if current_latency > initial_latency:
             print(
                 buffer_name,
@@ -199,7 +199,7 @@ def main():
 
     generate_hw(dynamatic_path, kernel_name)
     current_latency = simulate_design(dynamatic_path, kernel_name)
-    print("Final latency:", current_latency)
+    print("Final latency:", current_latency // 4)
     synthesize(dynamatic_path, kernel_name)
 
 

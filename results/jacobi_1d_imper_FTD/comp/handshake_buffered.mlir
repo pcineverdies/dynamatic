@@ -11,7 +11,7 @@ module {
     %7 = extsi %6 {handshake.bb = 0 : ui32, handshake.name = "extsi12"} : <i1> to <i2>
     %8 = buffer %0#8 {handshake.bb = 1 : ui32, handshake.name = "buffer8", hw.parameters = {NUM_SLOTS = 5 : ui32, TIMING = #handshake<timing {R: 1}>}} : <>
     %9 = buffer %16#1 {handshake.bb = 1 : ui32, handshake.name = "buffer13", hw.parameters = {NUM_SLOTS = 5 : ui32, TIMING = #handshake<timing {R: 1}>}} : <i1>
-    %10 = mux %9 [%8, %trueResult_26] {ftd.phi, handshake.bb = 1 : ui32, handshake.name = "mux4"} : <i1>, <>
+    %10 = mux %9 [%8, %trueResult_26] {ftd.phi, handshake.bb = 1 : ui32, handshake.name = "mux3"} : <i1>, <>
     %11 = buffer %0#7 {handshake.bb = 1 : ui32, handshake.name = "buffer7", hw.parameters = {NUM_SLOTS = 5 : ui32, TIMING = #handshake<timing {R: 1}>}} : <>
     %12 = constant %11 {ftd.imerge, handshake.bb = 1 : ui32, handshake.name = "constant19", value = false} : <>, <i1>
     %13 = buffer %170#2 {handshake.bb = 1 : ui32, handshake.name = "buffer81", hw.parameters = {NUM_SLOTS = 5 : ui32, TIMING = #handshake<timing {R: 1}>}} : <i1>

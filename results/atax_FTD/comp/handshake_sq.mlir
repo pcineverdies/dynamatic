@@ -6,7 +6,7 @@ module {
     %outputs_0:2, %memEnd_1 = mem_controller[%arg0 : memref<100xf32>] %arg4 (%addressResult_8, %addressResult_22) %arg8 {connectedBlocks = [2 : i32, 3 : i32], handshake.name = "mem_controller3"} :    (!handshake.channel<i32>, !handshake.channel<i32>) -> (!handshake.channel<f32>, !handshake.channel<f32>)
     %2 = source {handshake.bb = 0 : ui32, handshake.name = "source0"} : <>
     %3 = constant %2 {handshake.bb = 0 : ui32, handshake.name = "constant3", value = 0 : i32} : <>, <i32>
-    %4 = mux %7 [%arg8, %trueResult_28] {ftd.phi, handshake.bb = 1 : ui32, handshake.name = "mux9"} : <i1>, <>
+    %4 = mux %7 [%arg8, %trueResult_28] {ftd.phi, handshake.bb = 1 : ui32, handshake.name = "mux2"} : <i1>, <>
     %5 = constant %arg8 {ftd.imerge, handshake.bb = 1 : ui32, handshake.name = "constant18", value = false} : <>, <i1>
     %6 = mux %7 [%arg8, %trueResult_26] {ftd.phi, handshake.bb = 1 : ui32, handshake.name = "mux10"} : <i1>, <>
     %7 = merge %5, %60 {ftd.imerge, handshake.bb = 1 : ui32, handshake.name = "merge2"} : <i1>

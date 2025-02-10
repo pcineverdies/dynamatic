@@ -7,7 +7,7 @@ module {
     %5 = source {handshake.bb = 0 : ui32, handshake.name = "source0"} : <>
     %6 = constant %5 {handshake.bb = 0 : ui32, handshake.name = "constant0", value = false} : <>, <i1>
     %7 = extsi %6 {handshake.bb = 0 : ui32, handshake.name = "extsi12"} : <i1> to <i2>
-    %10 = mux %16#1 [%0#8, %trueResult_26] {ftd.phi, handshake.bb = 1 : ui32, handshake.name = "mux4"} : <i1>, <>
+    %10 = mux %16#1 [%0#8, %trueResult_26] {ftd.phi, handshake.bb = 1 : ui32, handshake.name = "mux3"} : <i1>, <>
     %12 = constant %0#7 {ftd.imerge, handshake.bb = 1 : ui32, handshake.name = "constant19", value = false} : <>, <i1>
     %14 = merge %12, %170#2 {ftd.imerge, handshake.bb = 1 : ui32, handshake.name = "merge3"} : <i1>
     %15 = buffer %14 {handshake.bb = 1 : ui32, handshake.name = "buffer11", hw.parameters = {NUM_SLOTS = 1 : ui32, TIMING = #handshake<timing {R: 1}>}} : <i1>

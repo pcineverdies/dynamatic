@@ -5,7 +5,7 @@ module {
     %1:6 = lsq[MC] (%13#1, %addressResult, %addressResult_8, %addressResult_10, %36#1, %addressResult_24, %dataResult_25, %outputs#1)  {groupSizes = [3 : i32, 1 : i32], handshake.name = "lsq3"} : (!handshake.control<>, !handshake.channel<i32>, !handshake.channel<i32>, !handshake.channel<i32>, !handshake.control<>, !handshake.channel<i32>, !handshake.channel<i32>, !handshake.channel<i32>) -> (!handshake.channel<i32>, !handshake.channel<i32>, !handshake.channel<i32>, !handshake.channel<i32>, !handshake.channel<i32>, !handshake.channel<i32>)
     %2 = source {handshake.bb = 0 : ui32, handshake.name = "source0"} : <>
     %3 = constant %2 {handshake.bb = 0 : ui32, handshake.name = "constant3", value = 0 : i32} : <>, <i32>
-    %4 = mux %6 [%arg4, %trueResult_26] {ftd.phi, handshake.bb = 1 : ui32, handshake.name = "mux4"} : <i1>, <>
+    %4 = mux %6 [%arg4, %trueResult_26] {ftd.phi, handshake.bb = 1 : ui32, handshake.name = "mux3"} : <i1>, <>
     %5 = constant %arg4 {ftd.imerge, handshake.bb = 1 : ui32, handshake.name = "constant19", value = false} : <>, <i1>
     %6 = merge %5, %51 {ftd.imerge, handshake.bb = 1 : ui32, handshake.name = "merge3"} : <i1>
     %7 = mux %6 [%3, %trueResult_28] {ftd.phi, handshake.bb = 1 : ui32, handshake.name = "mux0"} : <i1>, <i32>
